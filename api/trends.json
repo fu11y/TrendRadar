@@ -1,22 +1,70 @@
 {
-  "generated_at": "2025-11-28T21:36:03.456333+08:00",
-  "total_titles_processed": 1804,
+  "generated_at": "2025-11-28T22:27:28.440935+08:00",
+  "total_titles_processed": 1873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 153,
+      "match_count": 154,
       "titles": [
+        {
+          "title": "香港大埔火灾已致128人遇难",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时26分 ~ 22时27分]"
+        },
+        {
+          "title": "香港大埔火灾已致128人遇难",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时26分 ~ 22时27分]"
+        },
         {
           "title": "香港火灾已致128人遇难",
           "url": "https://www.toutiao.com/trending/7577669120204787238/",
           "source": "今日头条",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时26分 ~ 22时27分]"
+        },
+        {
+          "title": "香港火灾已致128人遇难",
+          "url": "https://www.douyin.com/hot/2319905",
+          "source": "抖音",
+          "ranks": [
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时26分 ~ 21时36分]"
+          "appearance_count": 10,
+          "time_info": "[15时26分 ~ 22时27分]"
+        },
+        {
+          "title": "香港大埔火灾已致75人遇难，另有76人受伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32057442",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时26分 ~ 22时27分]"
         },
         {
           "title": "香港大埔火灾已致75人遇难",
@@ -30,17 +78,6 @@
           "time_info": "[00时33分 ~ 07时24分]"
         },
         {
-          "title": "香港大埔火灾已致128人遇难",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时26分 ~ 21时36分]"
-        },
-        {
           "title": "香港火灾已有75人遇难",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E6%9C%8975%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -50,29 +87,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 07时24分]"
-        },
-        {
-          "title": "香港大埔火灾已致128人遇难",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时26分 ~ 21时36分]"
-        },
-        {
-          "title": "香港火灾已致128人遇难",
-          "url": "https://www.douyin.com/hot/2319905",
-          "source": "抖音",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时26分 ~ 21时36分]"
         },
         {
           "title": "深圳14岁男生杀害女同学案一审宣判：无期徒刑",
@@ -86,21 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时18分 ~ 21时36分]"
-        },
-        {
-          "title": "香港大埔火灾已致75人遇难，另有76人受伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32057442",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时26分 ~ 21时36分]"
+          "appearance_count": 14,
+          "time_info": "[11时18分 ~ 22时27分]"
         },
         {
           "title": "香港火灾居民情绪崩溃：十分钟烟就这么大，根本无法逃生",
@@ -158,6 +159,17 @@
           "time_info": "[09时58分 ~ 15时27分]"
         },
         {
+          "title": "香港火灾已致128人遇难",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 22时27分]"
+        },
+        {
           "title": "香港大埔火灾已致75人遇难",
           "url": "https://news.ifeng.com/c/8odEvdZNKNj",
           "source": "凤凰网",
@@ -169,6 +181,17 @@
           "time_info": "[00时33分 ~ 06时25分]"
         },
         {
+          "title": "香港火灾已造成128人遇难",
+          "url": "https://news.ifeng.com/c/8oeNlQMrf68",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 22时27分]"
+        },
+        {
           "title": "香港火灾已致75人遇难",
           "url": "https://www.douyin.com/hot/2318974",
           "source": "抖音",
@@ -178,28 +201,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 06时25分]"
-        },
-        {
-          "title": "香港火灾已致128人遇难",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 21时36分]"
-        },
-        {
-          "title": "香港火灾已造成128人遇难",
-          "url": "https://news.ifeng.com/c/8oeNlQMrf68",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 21时36分]"
         },
         {
           "title": "香港火灾已致94人遇难",
@@ -228,8 +229,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时58分 ~ 21时36分]"
+          "appearance_count": 16,
+          "time_info": "[09时58分 ~ 22时27分]"
         },
         {
           "title": "大埔火灾已致40人遇难，香港警方以涉嫌误杀罪拘捕3人",
@@ -241,6 +242,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 05时23分]"
+        },
+        {
+          "title": "邓炳强：有人散布假消息，想要搞乱香港社会",
+          "url": "https://news.ifeng.com/c/8oeSglKSQ9l",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 22时27分]"
         },
         {
           "title": "香港火灾已致94人遇难",
@@ -325,6 +338,23 @@
           "time_info": "[11时18分 ~ 15时27分]"
         },
         {
+          "title": "香港火灾已完成灭火及救援工作",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E5%AE%8C%E6%88%90%E7%81%AD%E7%81%AB%E5%8F%8A%E6%95%91%E6%8F%B4%E5%B7%A5%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            4,
+            5,
+            15,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 22时27分]"
+        },
+        {
           "title": "香港殉职消防员原计划下月举行婚礼",
           "url": "https://www.toutiao.com/trending/7577622994651106825/",
           "source": "今日头条",
@@ -334,23 +364,12 @@
             17,
             30,
             21,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时28分 ~ 21时36分]"
-        },
-        {
-          "title": "邓炳强：有人散布假消息，想要搞乱香港社会",
-          "url": "https://news.ifeng.com/c/8oeSglKSQ9l",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 21时36分]"
+          "appearance_count": 12,
+          "time_info": "[13时28分 ~ 22时27分]"
         },
         {
           "title": "香港大埔火灾已完成灭火程序",
@@ -425,27 +444,12 @@
             19,
             13,
             21,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时28分 ~ 21时36分]"
-        },
-        {
-          "title": "香港火灾已完成灭火及救援工作",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E5%AE%8C%E6%88%90%E7%81%AD%E7%81%AB%E5%8F%8A%E6%95%91%E6%8F%B4%E5%B7%A5%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            4,
-            5,
-            15,
+            14,
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 21时36分]"
+          "appearance_count": 12,
+          "time_info": "[13时28分 ~ 22时27分]"
         },
         {
           "title": "香港起火大楼内发现生还者",
@@ -623,6 +627,21 @@
           "time_info": "[00时33分 ~ 11时18分]"
         },
         {
+          "title": "香港特区政府通报火灾救援最新进展：目前已造成128人遇难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32062868",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 22时27分]"
+        },
+        {
           "title": "香港特区政府向每户灾民派发1万港元",
           "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%90%91%E6%AF%8F%E6%88%B7%E7%81%BE%E6%B0%91%E6%B4%BE%E5%8F%911%E4%B8%87%E6%B8%AF%E5%85%83",
           "source": "百度热搜",
@@ -725,6 +744,21 @@
           "time_info": "[09时58分 ~ 12时07分]"
         },
         {
+          "title": "香港警方谈火灾经过",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E8%B0%88%E7%81%AB%E7%81%BE%E7%BB%8F%E8%BF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            6,
+            7,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 22时27分]"
+        },
+        {
           "title": "香港火灾：夫妻出门喝早茶，回去时家被烧光(图)",
           "url": "https://news.ifeng.com/c/8oe1RBW8viT",
           "source": "凤凰网",
@@ -734,6 +768,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时40分 ~ 16时36分]"
+        },
+        {
+          "title": "香港火灾调查时间预计需三至四周",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E6%97%B6%E9%97%B4%E9%A2%84%E8%AE%A1%E9%9C%80%E4%B8%89%E8%87%B3%E5%9B%9B%E5%91%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 22时27分]"
         },
         {
           "title": "香港火灾仍有约200人情况未明",
@@ -756,6 +804,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时58分 ~ 15时27分]"
+        },
+        {
+          "title": "香港大埔火灾灭火和搜索工作已完成，目前获救者情况如何？现场救援难度有多大？",
+          "url": "https://www.zhihu.com/question/1977387556279706656",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 22时27分]"
         },
         {
           "title": "香港商讨推进使用金属脚手架",
@@ -794,39 +853,46 @@
           "source": "今日头条",
           "ranks": [
             7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 21时36分]"
-        },
-        {
-          "title": "香港警方谈火灾经过",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E8%B0%88%E7%81%AB%E7%81%BE%E7%BB%8F%E8%BF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            6,
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 21时36分]"
-        },
-        {
-          "title": "香港特区政府通报火灾救援最新进展：目前已造成128人遇难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32062868",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
+            4,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时28分 ~ 21时36分]"
+          "time_info": "[18时29分 ~ 22时27分]"
+        },
+        {
+          "title": "香港：向火灾遇难者家属发放20万港元",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%EF%BC%9A%E5%90%91%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E6%94%BE20%E4%B8%87%E6%B8%AF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 22时27分]"
+        },
+        {
+          "title": "香港廉政公署先后拘捕8人",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2%E5%85%88%E5%90%8E%E6%8B%98%E6%8D%958%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时27分]"
+        },
+        {
+          "title": "香港男子火灾现场痛哭找父母：我不想再见到尸体了",
+          "url": "https://v.ifeng.com/c/8oeIZustb4v",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时27分]"
         },
         {
           "title": "专家分析香港大埔火灾：多重因素叠加导致失控，装修改造易有起火隐患",
@@ -881,29 +947,18 @@
           "time_info": "[16时36分 ~ 21时36分]"
         },
         {
-          "title": "香港火灾调查时间预计需三至四周",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E6%97%B6%E9%97%B4%E9%A2%84%E8%AE%A1%E9%9C%80%E4%B8%89%E8%87%B3%E5%9B%9B%E5%91%A8",
-          "source": "bilibili 热搜",
+          "title": "香港殉职消防员原定下个月举行婚礼",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%AE%89%E8%81%8C%E6%B6%88%E9%98%B2%E5%91%98%E5%8E%9F%E5%AE%9A%E4%B8%8B%E4%B8%AA%E6%9C%88%E4%B8%BE%E8%A1%8C%E5%A9%9A%E7%A4%BC",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            10,
-            12,
-            11
+            29,
+            23,
+            17,
+            13
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时36分 ~ 21时36分]"
-        },
-        {
-          "title": "香港大埔火灾灭火和搜索工作已完成，目前获救者情况如何？现场救援难度有多大？",
-          "url": "https://www.zhihu.com/question/1977387556279706656",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 21时36分]"
+          "time_info": "[17时28分 ~ 22时27分]"
         },
         {
           "title": "香港大埔火灾救援中的爱心接力",
@@ -943,38 +998,28 @@
           "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "香港：向火灾遇难者家属发放20万港元",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%EF%BC%9A%E5%90%91%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E6%94%BE20%E4%B8%87%E6%B8%AF%E5%85%83",
-          "source": "百度热搜",
+          "title": "香港将下半旗志哀",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%B0%86%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
             5,
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时36分]"
+          "time_info": "[20时54分 ~ 22时27分]"
         },
         {
-          "title": "香港廉政公署先后拘捕8人",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2%E5%85%88%E5%90%8E%E6%8B%98%E6%8D%958%E4%BA%BA",
-          "source": "bilibili 热搜",
+          "title": "香港廉政公署就大埔火灾拘捕8人",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2%E5%B0%B1%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%8B%98%E6%8D%958%E4%BA%BA",
+          "source": "百度热搜",
           "ranks": [
+            10,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
-        },
-        {
-          "title": "香港男子火灾现场痛哭找父母：我不想再见到尸体了",
-          "url": "https://v.ifeng.com/c/8oeIZustb4v",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 22时27分]"
         },
         {
           "title": "香港火灾已致83人遇难",
@@ -999,6 +1044,36 @@
           "time_info": "07时24分"
         },
         {
+          "title": "香港大火获救居民回忆被救过程",
+          "url": "https://www.toutiao.com/trending/7577245940038323755/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            7,
+            15,
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 22时27分]"
+        },
+        {
+          "title": "香港警方谈火灾经过",
+          "url": "https://www.toutiao.com/trending/7577696835716877875/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10,
+            12,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 22时27分]"
+        },
+        {
           "title": "香港大火已完成灭火程序",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%81%AB%E5%B7%B2%E5%AE%8C%E6%88%90%E7%81%AD%E7%81%AB%E7%A8%8B%E5%BA%8F%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -1013,18 +1088,20 @@
           "time_info": "[09时58分 ~ 13时28分]"
         },
         {
-          "title": "香港殉职消防员原定下个月举行婚礼",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%AE%89%E8%81%8C%E6%B6%88%E9%98%B2%E5%91%98%E5%8E%9F%E5%AE%9A%E4%B8%8B%E4%B8%AA%E6%9C%88%E4%B8%BE%E8%A1%8C%E5%A9%9A%E7%A4%BC",
-          "source": "百度热搜",
+          "title": "香港火灾仍有约200人情况未明",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E4%BB%8D%E6%9C%89%E7%BA%A6200%E4%BA%BA%E6%83%85%E5%86%B5%E6%9C%AA%E6%98%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            29,
+            11,
+            14,
             23,
+            22,
             17,
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时28分 ~ 21时36分]"
+          "time_info": "[16时36分 ~ 22时27分]"
         },
         {
           "title": "香港消防处：已完成灭火程序",
@@ -1040,6 +1117,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时24分 ~ 13时28分]"
+        },
+        {
+          "title": "香港将向遇难者家属发20万港元",
+          "url": "https://www.douyin.com/hot/2320479",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 22时27分]"
         },
         {
           "title": "香港将向灾民派发每户 1 万港元应急补助金，投入 3 亿港元成立援助基金，能从哪些方面帮助到受灾民众？",
@@ -1064,6 +1152,30 @@
           "time_info": "14时40分"
         },
         {
+          "title": "香港廉政公署先后拘捕8人",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2%E5%85%88%E5%90%8E%E6%8B%98%E6%8D%958%E4%BA%BA%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 22时27分]"
+        },
+        {
+          "title": "香港特区政府开通火灾捐款通道",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%BC%80%E9%80%9A%E7%81%AB%E7%81%BE%E6%8D%90%E6%AC%BE%E9%80%9A%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 22时27分]"
+        },
+        {
           "title": "香港大埔火灾约200人情况未明",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E7%BA%A6200%E4%BA%BA%E6%83%85%E5%86%B5%E6%9C%AA%E6%98%8E%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -1075,30 +1187,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时36分 ~ 19时23分]"
-        },
-        {
-          "title": "香港将下半旗志哀",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%B0%86%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 21时36分]"
-        },
-        {
-          "title": "香港廉政公署先后拘捕8人",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2%E5%85%88%E5%90%8E%E6%8B%98%E6%8D%958%E4%BA%BA%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 21时36分]"
         },
         {
           "title": "香港特区政府消防处负责人28日表示，已于上午10时18分完成大埔宏福苑火灾灭火及救援工作。（新华社）",
@@ -1151,46 +1239,6 @@
           "time_info": "[02时36分 ~ 05时23分]"
         },
         {
-          "title": "香港廉政公署就大埔火灾拘捕8人",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2%E5%B0%B1%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%8B%98%E6%8D%958%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 21时36分]"
-        },
-        {
-          "title": "香港大火获救居民回忆被救过程",
-          "url": "https://www.toutiao.com/trending/7577245940038323755/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            7,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 21时36分]"
-        },
-        {
-          "title": "香港警方谈火灾经过",
-          "url": "https://www.toutiao.com/trending/7577696835716877875/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            10,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 21时36分]"
-        },
-        {
           "title": "香港大埔火灾已致65人遇难",
           "url": "https://www.cls.cn/detail/2213162",
           "source": "财联社热门",
@@ -1201,32 +1249,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时24分 ~ 12时07分]"
-        },
-        {
-          "title": "香港火灾仍有约200人情况未明",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E4%BB%8D%E6%9C%89%E7%BA%A6200%E4%BA%BA%E6%83%85%E5%86%B5%E6%9C%AA%E6%98%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            14,
-            23,
-            22,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 20时54分]"
-        },
-        {
-          "title": "香港将向遇难者家属发20万港元",
-          "url": "https://www.douyin.com/hot/2320479",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 21时36分]"
         },
         {
           "title": "香港大埔火灾调查预计需要三至四周",
@@ -1254,15 +1276,16 @@
           "time_info": "[18时29分 ~ 21时36分]"
         },
         {
-          "title": "香港特区政府开通火灾捐款通道",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%BC%80%E9%80%9A%E7%81%AB%E7%81%BE%E6%8D%90%E6%AC%BE%E9%80%9A%E9%81%93",
-          "source": "百度热搜",
+          "title": "香港将下半旗志哀",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%B0%86%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时36分]"
+          "time_info": "[20时54分 ~ 22时27分]"
         },
         {
           "title": "纳芯微申请香港IPO。 寻求首次公开发行1910万股股票。 股票发行价指导区间顶端为每股116港元。 预计股票将从12月8日开始交易。",
@@ -1275,6 +1298,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
+          "title": "香港廉政公署28日就大埔火灾拘捕8人",
+          "url": "https://wallstreetcn.com/livenews/3012242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时27分]"
         },
         {
           "title": "香港：禁止进口源自日本10（都）县的水产、海盐和海藻食品",
@@ -1299,18 +1335,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时28分 ~ 18时29分]"
-        },
-        {
-          "title": "香港廉政公署28日就大埔火灾拘捕8人",
-          "url": "https://wallstreetcn.com/livenews/3012242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时36分]"
         },
         {
           "title": "港澳办协调广东支援香港救灾",
@@ -1374,6 +1398,18 @@
           "time_info": "[13时28分 ~ 15时27分]"
         },
         {
+          "title": "香港连续三天下半旗志哀",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%A4%A9%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 22时27分]"
+        },
+        {
           "title": "中央港澳办协调广东支援香港救灾",
           "url": "https://www.toutiao.com/trending/7577628627769314842/",
           "source": "今日头条",
@@ -1399,15 +1435,28 @@
           "time_info": "[13时28分 ~ 15时27分]"
         },
         {
-          "title": "香港将下半旗志哀",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%B0%86%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80",
+          "title": "香港将对大埔宏福苑火灾每名遇难者家属发放20万港元慰问金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32063583",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 22时27分]"
+        },
+        {
+          "title": "如何三分钟让广东人红温",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E4%B8%89%E5%88%86%E9%92%9F%E8%AE%A9%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%BA%A2%E6%B8%A9",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时54分 ~ 21时36分]"
+          "time_info": "[21时35分 ~ 22时27分]"
         },
         {
           "title": "香港连续三天下半旗志哀",
@@ -1420,6 +1469,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时54分 ~ 21时36分]"
+        },
+        {
+          "title": "香港廉政公署就火灾事故又拘捕8人",
+          "url": "https://www.toutiao.com/trending/7577749668101148186/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时27分]"
         },
         {
           "title": "香港消防员将搜索所有房屋",
@@ -1435,17 +1496,6 @@
           "time_info": "[09时58分 ~ 11时18分]"
         },
         {
-          "title": "香港连续三天下半旗志哀",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%A4%A9%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 21时36分]"
-        },
-        {
           "title": "香港大埔火灾已致83人遇难",
           "url": "https://wallstreetcn.com/livenews/3011624",
           "source": "华尔街见闻-快讯",
@@ -1457,18 +1507,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时27分]"
-        },
-        {
-          "title": "香港将对大埔宏福苑火灾每名遇难者家属发放20万港元慰问金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32063583",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 21时36分]"
         },
         {
           "title": "香港火灾消防员逐户破门搜索",
@@ -1563,17 +1601,6 @@
           "time_info": "[00时33分 ~ 01时22分]"
         },
         {
-          "title": "如何三分钟让广东人红温",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E4%B8%89%E5%88%86%E9%92%9F%E8%AE%A9%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%BA%A2%E6%B8%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
-        },
-        {
           "title": "深圳男生刺死同班女生一审获无期",
           "url": "https://www.douyin.com/hot/2320009",
           "source": "抖音",
@@ -1608,17 +1635,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 14时40分]"
-        },
-        {
-          "title": "香港廉政公署就火灾事故又拘捕8人",
-          "url": "https://www.toutiao.com/trending/7577749668101148186/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "香港大埔火灾调查预计需三至四周",
@@ -1835,6 +1851,17 @@
           "time_info": "19时23分"
         },
         {
+          "title": "香港各界快速集结 助受灾居民渡难关",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%90%84%E7%95%8C%E5%BF%AB%E9%80%9F%E9%9B%86%E7%BB%93+%E5%8A%A9%E5%8F%97%E7%81%BE%E5%B1%85%E6%B0%91%E6%B8%A1%E9%9A%BE%E5%85%B3",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "香港高等法院扩大对许家印前妻丁玉梅的资产禁制令范围：冻结四地约15亿元资产",
           "url": "https://wallstreetcn.com/livenews/3011862",
           "source": "华尔街见闻-快讯",
@@ -1929,8 +1956,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时24分 ~ 21时36分]"
+          "appearance_count": 17,
+          "time_info": "[07时24分 ~ 22时27分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -1955,11 +1982,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时40分 ~ 21时36分]"
+          "appearance_count": 11,
+          "time_info": "[14时40分 ~ 22时27分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
