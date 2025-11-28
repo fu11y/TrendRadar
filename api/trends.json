@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T12:07:36.375542+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2025-11-28T13:28:27.560136+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 62,
+      "match_count": 76,
       "titles": [
         {
           "title": "香港大埔火灾已致75人遇难",
@@ -107,22 +107,15 @@
           "time_info": "[00时33分 ~ 05时23分]"
         },
         {
-          "title": "香港大埔火灾火势受控",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E7%81%AB%E5%8A%BF%E5%8F%97%E6%8E%A7",
-          "source": "bilibili 热搜",
+          "title": "香港火灾已致94人遇难",
+          "url": "https://www.douyin.com/hot/2319905",
+          "source": "抖音",
           "ranks": [
-            24,
-            23,
-            22,
-            3,
-            2,
-            14,
-            25,
-            18
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 13时28分]"
         },
         {
           "title": "香港火灾救援最新消息",
@@ -136,8 +129,27 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 12时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时28分]"
+        },
+        {
+          "title": "香港大埔火灾火势受控",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E7%81%AB%E5%8A%BF%E5%8F%97%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            23,
+            22,
+            3,
+            2,
+            14,
+            25,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时28分]"
         },
         {
           "title": "AI还原香港大埔火灾",
@@ -149,8 +161,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 12时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时28分]"
         },
         {
           "title": "香港向每户灾民发1万港元补助",
@@ -178,19 +190,52 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 12时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时28分]"
         },
         {
           "title": "香港火灾已致94人遇难",
-          "url": "https://www.douyin.com/hot/2319905",
-          "source": "抖音",
+          "url": "https://www.toutiao.com/trending/7577541287474187786/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时24分 ~ 12时07分]"
+          "time_info": "[09时58分 ~ 13时28分]"
+        },
+        {
+          "title": "香港火灾已造成94人遇难",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E9%80%A0%E6%88%9094%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时28分]"
+        },
+        {
+          "title": "香港火灾已致94人遇难",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B494%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时28分]"
+        },
+        {
+          "title": "香港大火已致94人遇难",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%81%AB%E5%B7%B2%E8%87%B494%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时28分]"
         },
         {
           "title": "香港起火大楼内发现生还者",
@@ -220,8 +265,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 12时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时28分]"
         },
         {
           "title": "航拍香港火灾现场",
@@ -250,6 +295,19 @@
           "time_info": "[00时33分 ~ 07时24分]"
         },
         {
+          "title": "香港拟向内地寻求无人机等物资支援",
+          "url": "https://www.toutiao.com/trending/7577545185312362030/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时28分]"
+        },
+        {
           "title": "贵州榕江群众为香港火灾受灾者募捐",
           "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E6%A6%95%E6%B1%9F%E7%BE%A4%E4%BC%97%E4%B8%BA%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%8F%97%E7%81%BE%E8%80%85%E5%8B%9F%E6%8D%90",
           "source": "百度热搜",
@@ -275,6 +333,17 @@
           "time_info": "[00时33分 ~ 07时24分]"
         },
         {
+          "title": "两问香港大埔火灾：施工为何采用竹棚架？高楼为何难施救？",
+          "url": "https://news.ifeng.com/c/8odxI5WiWzW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时28分]"
+        },
+        {
           "title": "李家超：香港大埔火灾已受控",
           "url": "https://www.toutiao.com/trending/7577346018946158130/",
           "source": "今日头条",
@@ -288,50 +357,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 07时24分]"
-        },
-        {
-          "title": "香港火灾已致94人遇难",
-          "url": "https://www.toutiao.com/trending/7577541287474187786/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时07分]"
-        },
-        {
-          "title": "香港火灾已造成94人遇难",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E9%80%A0%E6%88%9094%E4%BA%BA%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时07分]"
-        },
-        {
-          "title": "香港火灾已致94人遇难",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B494%E4%BA%BA%E9%81%87%E9%9A%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时07分]"
-        },
-        {
-          "title": "香港大火已致94人遇难",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%81%AB%E5%B7%B2%E8%87%B494%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时07分]"
         },
         {
           "title": "香港大埔火势已全部受控",
@@ -421,34 +446,11 @@
           "time_info": "[00时33分 ~ 07时24分]"
         },
         {
-          "title": "香港拟向内地寻求无人机等物资支援",
-          "url": "https://www.toutiao.com/trending/7577545185312362030/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时07分]"
-        },
-        {
           "title": "凤凰直击香港大埔火灾现场：整体火势已大致熄灭",
           "url": "https://news.ifeng.com/c/8odpI6QIUKa",
           "source": "凤凰网",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时07分]"
-        },
-        {
-          "title": "两问香港大埔火灾：施工为何采用竹棚架？高楼为何难施救？",
-          "url": "https://news.ifeng.com/c/8odxI5WiWzW",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -484,6 +486,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 06时25分]"
+        },
+        {
+          "title": "香港政务司司长：应尽快推进金属棚架取代竹棚架",
+          "url": "https://news.ifeng.com/c/8od8f9issS0",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 13时28分]"
+        },
+        {
+          "title": "香港大埔火灾已完成灭火程序",
+          "url": "https://www.douyin.com/hot/2319978",
+          "source": "抖音",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时28分]"
         },
         {
           "title": "香港火灾已有94人遇难",
@@ -523,27 +549,17 @@
           "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "香港政务司司长：应尽快推进金属棚架取代竹棚架",
-          "url": "https://news.ifeng.com/c/8od8f9issS0",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时07分]"
-        },
-        {
-          "title": "香港大埔火灾已完成灭火程序",
-          "url": "https://www.douyin.com/hot/2319978",
-          "source": "抖音",
+          "title": "深圳14岁男生杀害女同学案一审宣判：无期徒刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32061728",
+          "source": "澎湃新闻",
           "ranks": [
             9,
-            2
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 13时28分]"
         },
         {
           "title": "香港火灾已致83人遇难",
@@ -574,11 +590,49 @@
           "ranks": [
             5,
             30,
+            28,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时28分]"
+        },
+        {
+          "title": "香港消防处：已完成灭火程序",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%B6%88%E9%98%B2%E5%A4%84%EF%BC%9A%E5%B7%B2%E5%AE%8C%E6%88%90%E7%81%AD%E7%81%AB%E7%A8%8B%E5%BA%8F",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            14,
+            20,
+            24,
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 13时28分]"
+        },
+        {
+          "title": "中央港澳办协调广东省为香港救灾工作提供协助和支援",
+          "url": "https://news.ifeng.com/c/8oeCelitBT7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "香港火灾亲历者：窗户被发泡胶粘住，半小时后报警器才响(图)",
+          "url": "https://news.ifeng.com/c/8oeF2zwSkvM",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "香港大埔火灾：已大致完成灭火 将搜索着火大厦所有单位",
@@ -621,18 +675,15 @@
           "time_info": "[07时24分 ~ 12时07分]"
         },
         {
-          "title": "香港消防处：已完成灭火程序",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%B6%88%E9%98%B2%E5%A4%84%EF%BC%9A%E5%B7%B2%E5%AE%8C%E6%88%90%E7%81%AD%E7%81%AB%E7%A8%8B%E5%BA%8F",
-          "source": "百度热搜",
+          "title": "香港大火已完成灭火程序，消防员将搜索所有房屋，目前获救者情况如何？现场救援难度有多大？",
+          "url": "https://www.zhihu.com/question/1977387556279706656",
+          "source": "知乎",
           "ranks": [
-            25,
-            14,
-            20,
-            24
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时24分 ~ 12时07分]"
+          "time_info": "[09时58分 ~ 13时28分]"
         },
         {
           "title": "纳芯微申请香港IPO。 寻求首次公开发行1910万股股票。 股票发行价指导区间顶端为每股116港元。 预计股票将从12月8日开始交易。",
@@ -645,29 +696,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时24分]"
-        },
-        {
-          "title": "深圳14岁男生杀害女同学案一审宣判：无期徒刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32061728",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时07分]"
-        },
-        {
-          "title": "香港大火已完成灭火程序，消防员将搜索所有房屋，目前获救者情况如何？现场救援难度有多大？",
-          "url": "https://www.zhihu.com/question/1977387556279706656",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时07分]"
         },
         {
           "title": "香港消防员将搜索所有房屋",
@@ -743,15 +771,59 @@
           "time_info": "[04时27分 ~ 05时23分]"
         },
         {
+          "title": "香港大埔火灾救援信息汇总",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%95%91%E6%8F%B4%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "港澳办协调广东支援香港救灾",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E6%BE%B3%E5%8A%9E%E5%8D%8F%E8%B0%83%E5%B9%BF%E4%B8%9C%E6%94%AF%E6%8F%B4%E9%A6%99%E6%B8%AF%E6%95%91%E7%81%BE",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "香港殉职消防员原计划下月举行婚礼",
+          "url": "https://www.toutiao.com/trending/7577622994651106825/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "广东发行10年期一般债地方债，规模11.8900亿元，发行利率1.9800%，边际倍数17.97倍，倍数预期1.97； 广东发行30年期普通专项地方债，规模10.0000亿元，发行利率2.4200%，边际倍数1.50倍，倍数预期2.42； 广东发行10年期一般债地方债，规模12.0000亿元，发行利率1.9800%，边际倍数40.00倍，倍数预期1.97。",
           "url": "https://wallstreetcn.com/livenews/3011842",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "港澳办协调广东支援香港救灾",
+          "url": "https://www.douyin.com/hot/2320145",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "广东发行30年期其他专项地方债，规模100.0000亿元，发行利率2.4200%，边际倍数114.11倍，倍数预期2.41； 广东发行20年期普通专项地方债，规模83.7700亿元，发行利率2.4200%，边际倍数7.50倍，倍数预期2.41。",
@@ -760,9 +832,64 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "中央港澳办协调广东省为香港救灾工作提供协助和支援",
+          "url": "https://wallstreetcn.com/livenews/3011876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "深圳：到2028年底，全屋智能产业发展取得显著成效",
+          "url": "https://wallstreetcn.com/livenews/3011875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "香港将向灾民派发每户 1 万港元应急补助金，投入 3 亿港元成立援助基金，能从哪些方面帮助到受灾民众？",
+          "url": "https://www.zhihu.com/question/1977449674282595157",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "香港高等法院扩大对许家印前妻丁玉梅的资产禁制令范围：冻结四地约15亿元资产",
+          "url": "https://wallstreetcn.com/livenews/3011862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "香港消防处：香港将于今日下午1时向媒体通报大埔火灾情况。",
+          "url": "https://wallstreetcn.com/livenews/3011860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "香港大埔火灾已致94人遇难",
@@ -785,12 +912,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "广东调集装备物资支援香港救灾",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E8%B0%83%E9%9B%86%E8%A3%85%E5%A4%87%E7%89%A9%E8%B5%84%E6%94%AF%E6%8F%B4%E9%A6%99%E6%B8%AF%E6%95%91%E7%81%BE%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "中央港澳办协调广东支援香港救灾",
+          "url": "https://www.toutiao.com/trending/7577628627769314842/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "香港火灾消防员逐户破门搜索",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E6%B6%88%E9%98%B2%E5%91%98%E9%80%90%E6%88%B7%E7%A0%B4%E9%97%A8%E6%90%9C%E7%B4%A2",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek开源新模型",
@@ -814,8 +974,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 13时28分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -826,19 +986,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 13时28分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E5%90%AF%E6%97%A0%E9%99%90%E8%BF%9B%E5%8C%96%E6%96%B0%E6%97%B6%E4%BB%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时28分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -846,6 +1007,70 @@
           "source": "微博",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "DeepSeek新模型有多猛",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%A4%9A%E7%8C%9B%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
+          "url": "https://www.cls.cn/detail/2213059",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时59分]"
+        },
+        {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时23分]"
+        },
+        {
+          "title": "据英国金融时报：多家银行正商谈再向甲骨文(ORCL.N)和数据中心建设商VANTAGE提供380亿美元贷款，以资助其为OpenAI建设更多数据中心。",
+          "url": "https://flash.jin10.com/detail/20251128130252675800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "维珍澳大利亚航空：宣布成为首家与OpenAI合作的澳大利亚航空公司。",
+          "url": "https://flash.jin10.com/detail/20251128095923576800",
+          "source": "金十数据",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -892,48 +1117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
-          "url": "https://www.cls.cn/detail/2213059",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 09时59分]"
-        },
-        {
-          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
-          "url": "https://wallstreetcn.com/articles/3760202",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时23分]"
-        },
-        {
-          "title": "维珍澳大利亚航空：宣布成为首家与OpenAI合作的澳大利亚航空公司。",
-          "url": "https://flash.jin10.com/detail/20251128095923576800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         }
       ]
     },
