@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-29T07:25:10.623549+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2025-11-29T09:58:58.730308+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 35,
+      "match_count": 43,
       "titles": [
-        {
-          "title": "香港大埔火灾已致128人遇难",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
-        },
         {
           "title": "深圳14岁男生杀害女同学案一审宣判：无期徒刑",
           "url": "https://m.thepaper.cn/newsDetail_forward_32061728",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时58分]"
         },
         {
           "title": "香港火灾已致128人遇难",
@@ -41,6 +30,18 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
+          "title": "香港大埔火灾已致128人遇难",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时58分]"
+        },
+        {
           "title": "凤凰独家：香港惊天大火实录",
           "url": "https://news.ifeng.com/c/8oesyBHJwNg",
           "source": "凤凰网",
@@ -48,20 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
-        },
-        {
-          "title": "香港特区政府通报火灾救援最新进展：目前已造成128人遇难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32062868",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时58分]"
         },
         {
           "title": "邓炳强：有人散布假消息，想要搞乱香港社会",
@@ -75,15 +64,17 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
-          "title": "香港廉政公署就大埔火灾拘捕8人",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2%E5%B0%B1%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%8B%98%E6%8D%958%E4%BA%BA",
-          "source": "百度热搜",
+          "title": "香港特区政府通报火灾救援最新进展：目前已造成128人遇难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32062868",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            2,
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时58分]"
         },
         {
           "title": "香港火灾已致128人遇难",
@@ -105,8 +96,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时58分]"
+        },
+        {
+          "title": "香港廉政公署就大埔火灾拘捕8人",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2%E5%B0%B1%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%8B%98%E6%8D%958%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时58分]"
         },
         {
           "title": "香港廉政公署先后拘捕8人",
@@ -116,11 +119,12 @@
             4,
             5,
             8,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时58分]"
         },
         {
           "title": "香港将下半旗志哀",
@@ -149,8 +153,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时58分]"
         },
         {
           "title": "香港特区政府开通火灾捐款通道",
@@ -160,8 +164,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时58分]"
         },
         {
           "title": "香港将下半旗志哀",
@@ -244,11 +248,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%A4%A9%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时58分]"
         },
         {
           "title": "香港高等法院扩大对许家印前妻丁玉梅的资产禁制令范围：冻结四地约15亿元资产",
@@ -256,11 +261,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时58分]"
         },
         {
           "title": "香港大火获救居民回忆被救过程",
@@ -270,11 +276,12 @@
             19,
             16,
             17,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时58分]"
         },
         {
           "title": "香港将对大埔宏福苑火灾每名遇难者家属发放20万港元慰问金",
@@ -285,8 +292,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时58分]"
         },
         {
           "title": "香港各界快速集结 助受灾居民渡难关",
@@ -347,22 +354,35 @@
             29,
             18,
             22,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 09时58分]"
         },
         {
           "title": "香港特区政府：明起至12月1日，全港降半旗哀悼大埔火灾罹难者",
           "url": "https://m.thepaper.cn/newsDetail_forward_32063745",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时25分]"
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 09时58分]"
+        },
+        {
+          "title": "香港特区政府举行悼念活动",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E4%B8%BE%E8%A1%8C%E6%82%BC%E5%BF%B5%E6%B4%BB%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "香港警方谈火灾经过",
@@ -394,17 +414,51 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
+          "title": "李家超等哀悼香港火灾罹难者",
+          "url": "https://www.toutiao.com/trending/7577939774166797870/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "香港廉政公署就宏福苑大维修工程贪污调查先后拘捕8人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32063816",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "香港火灾，最让人感动的一幕",
+          "url": "https://news.ifeng.com/c/8ofRlUFX5PA",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "萨姆纳加盟广东宏远",
           "url": "https://www.douyin.com/hot/2320758",
           "source": "抖音",
           "ranks": [
             26,
             17,
-            23
+            23,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 07时25分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 09时58分]"
         },
         {
           "title": "香港火灾已完成灭火及救援工作",
@@ -416,6 +470,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 07时25分]"
+        },
+        {
+          "title": "香港特区政府为大埔火灾遇难者举行悼念活动",
+          "url": "https://wallstreetcn.com/livenews/3012406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "香港举行悼念活动",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%BE%E8%A1%8C%E6%82%BC%E5%BF%B5%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "香港下半旗志哀",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "Zhejiang Zentel Memory Technology Co., Ltd.（浙江力积存储科技股份有限公司）申请香港IPO。",
@@ -449,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "库克宣布苹果向香港捐款",
+          "url": "https://www.douyin.com/hot/2320403",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
@@ -468,6 +566,40 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2214531",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
+          "url": "https://wallstreetcn.com/articles/3760323",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     }
