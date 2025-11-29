@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T15:25:05.681927+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2025-11-29T16:33:44.062893+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "深圳14岁男生杀害女同学案一审宣判：无期徒刑",
@@ -42,6 +42,18 @@
           "time_info": "[00时33分 ~ 09时58分]"
         },
         {
+          "title": "香港廉政公署就宏福苑大维修工程贪污调查先后拘捕8人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32063816",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 16时33分]"
+        },
+        {
           "title": "凤凰独家：香港惊天大火实录",
           "url": "https://news.ifeng.com/c/8oesyBHJwNg",
           "source": "凤凰网",
@@ -62,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时24分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[07时24分 ~ 16时33分]"
         },
         {
           "title": "邓炳强：有人散布假消息，想要搞乱香港社会",
@@ -77,18 +89,6 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
-          "title": "香港廉政公署就宏福苑大维修工程贪污调查先后拘捕8人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32063816",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 15时25分]"
-        },
-        {
           "title": "香港特区政府举行悼念活动",
           "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E4%B8%BE%E8%A1%8C%E6%82%BC%E5%BF%B5%E6%B4%BB%E5%8A%A8",
           "source": "bilibili 热搜",
@@ -96,11 +96,12 @@
             1,
             2,
             3,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 15时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 16时33分]"
         },
         {
           "title": "香港大埔火灾已致128人遇难",
@@ -193,8 +194,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 15时25分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时33分]"
         },
         {
           "title": "香港特区政府开通火灾捐款通道",
@@ -221,11 +222,12 @@
             16,
             22,
             26,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 15时25分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时33分]"
         },
         {
           "title": "香港将下半旗志哀",
@@ -286,8 +288,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 15时25分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时33分]"
         },
         {
           "title": "香港：将对大埔宏福苑火灾每名遇难者的家属发放20万港元慰问金",
@@ -329,11 +331,12 @@
             14,
             12,
             13,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时36分 ~ 15时25分]"
+          "appearance_count": 14,
+          "time_info": "[02时36分 ~ 16时33分]"
         },
         {
           "title": "香港火灾已完成灭火及救援工作",
@@ -370,6 +373,21 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
+          "title": "香港将对大埔宏福苑火灾每名遇难者家属发放20万港元慰问金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32063583",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时33分]"
+        },
+        {
           "title": "香港连续三天下半旗志哀",
           "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%A4%A9%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80",
           "source": "百度热搜",
@@ -379,8 +397,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 15时25分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时33分]"
         },
         {
           "title": "香港高等法院扩大对许家印前妻丁玉梅的资产禁制令范围：冻结四地约15亿元资产",
@@ -396,20 +414,6 @@
           "time_info": "[00时33分 ~ 11时19分]"
         },
         {
-          "title": "香港将对大埔宏福苑火灾每名遇难者家属发放20万港元慰问金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32063583",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 15时25分]"
-        },
-        {
           "title": "香港警方谈火灾经过",
           "url": "https://www.toutiao.com/trending/7577696835716877875/",
           "source": "今日头条",
@@ -421,8 +425,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 15时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 16时33分]"
         },
         {
           "title": "香港各界快速集结 助受灾居民渡难关",
@@ -469,11 +473,12 @@
           "ranks": [
             20,
             16,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时18分 ~ 16时33分]"
         },
         {
           "title": "香港宏福苑住户：同学已去世，父母生死未卜，不想再见到遗体",
@@ -484,8 +489,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 16时33分]"
         },
         {
           "title": "到点即停！广东一中学推“作业熔断”",
@@ -494,11 +499,25 @@
           "ranks": [
             19,
             4,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 15时25分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 16时33分]"
+        },
+        {
+          "title": "视频丨香港特区政府为大埔火灾遇难者举行悼念活动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32065971",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 16时33分]"
         },
         {
           "title": "香港房委会：为宏福苑受影响业主提供特别按揭贷款安排",
@@ -509,23 +528,44 @@
             6,
             11,
             14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 15时25分]"
-        },
-        {
-          "title": "视频丨香港特区政府为大埔火灾遇难者举行悼念活动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32065971",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11
+            22,
+            25
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时31分 ~ 15时25分]"
+          "time_info": "[11时19分 ~ 16时33分]"
+        },
+        {
+          "title": "央行支持商业银行建立跨境人民币捐赠绿色通道，确保捐赠香港资金零延迟到账",
+          "url": "https://wallstreetcn.com/livenews/3012418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            14,
+            17,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 16时33分]"
+        },
+        {
+          "title": "太平香港所承保宏福苑相关保险此前已投再保险",
+          "url": "https://wallstreetcn.com/livenews/3012417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            15,
+            18,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 16时33分]"
         },
         {
           "title": "香港警方谈火灾经过",
@@ -557,34 +597,26 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
-          "title": "央行支持商业银行建立跨境人民币捐赠绿色通道，确保捐赠香港资金零延迟到账",
-          "url": "https://wallstreetcn.com/livenews/3012418",
-          "source": "华尔街见闻-快讯",
+          "title": "中央政府驻香港联络办下半旗志哀",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E9%A9%BB%E9%A6%99%E6%B8%AF%E8%81%94%E7%BB%9C%E5%8A%9E%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            9,
-            14,
-            17,
-            25
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 16时33分]"
         },
         {
-          "title": "太平香港所承保宏福苑相关保险此前已投再保险",
-          "url": "https://wallstreetcn.com/livenews/3012417",
-          "source": "华尔街见闻-快讯",
+          "title": "香港市民自发献花悼念火灾遇难者(图)",
+          "url": "https://news.ifeng.com/c/8ofvHtswhoX",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            10,
-            15,
-            18,
-            26
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 15时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "香港特区政府为大埔火灾遇难者举行悼念活动",
@@ -602,17 +634,6 @@
           "time_info": "[09时58分 ~ 14时37分]"
         },
         {
-          "title": "中央政府驻香港联络办下半旗志哀",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E9%A9%BB%E9%A6%99%E6%B8%AF%E8%81%94%E7%BB%9C%E5%8A%9E%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 15时25分]"
-        },
-        {
           "title": "香港举行悼念活动",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%BE%E8%A1%8C%E6%82%BC%E5%BF%B5%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -624,6 +645,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时58分 ~ 12时31分]"
+        },
+        {
+          "title": "李在明哀悼香港火灾遇难者",
+          "url": "https://www.douyin.com/hot/2321130",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时24分 ~ 16时33分]"
         },
         {
           "title": "香港火灾已致128人遇难",
@@ -647,17 +680,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时58分 ~ 11时19分]"
-        },
-        {
-          "title": "李在明哀悼香港火灾遇难者",
-          "url": "https://www.douyin.com/hot/2321130",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
           "title": "香港火灾已完成灭火及救援工作",
@@ -754,8 +776,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 15时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 16时33分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -766,8 +788,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 16时33分]"
         }
       ]
     },
@@ -784,8 +806,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 16时33分]"
         },
         {
           "title": "金价",
