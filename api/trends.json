@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T20:51:06.824336+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2025-11-29T21:32:14.484227+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "深圳14岁男生杀害女同学案一审宣判：无期徒刑",
@@ -139,8 +139,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时58分 ~ 20时51分]"
+          "appearance_count": 18,
+          "time_info": "[09时58分 ~ 21时32分]"
         },
         {
           "title": "香港特区政府通报火灾救援最新进展：目前已造成128人遇难",
@@ -169,6 +169,32 @@
           "time_info": "[00时33分 ~ 09时58分]"
         },
         {
+          "title": "视频丨香港特区政府为大埔火灾遇难者举行悼念活动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32065971",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时31分 ~ 21时32分]"
+        },
+        {
+          "title": "香港针对火灾成立跨部门调查专组，主要调查两方面",
+          "url": "https://news.ifeng.com/c/8og2tiEBZRG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 21时32分]"
+        },
+        {
           "title": "香港将下半旗志哀",
           "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%B0%86%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80",
           "source": "bilibili 热搜",
@@ -181,20 +207,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时25分]"
-        },
-        {
-          "title": "视频丨香港特区政府为大埔火灾遇难者举行悼念活动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32065971",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时31分 ~ 20时51分]"
         },
         {
           "title": "香港廉政公署先后拘捕8人",
@@ -243,11 +255,12 @@
             24,
             28,
             12,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时33分 ~ 20时51分]"
+          "appearance_count": 28,
+          "time_info": "[00时33分 ~ 21时32分]"
         },
         {
           "title": "香港将下半旗志哀",
@@ -272,11 +285,25 @@
             16,
             14,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时18分 ~ 20时51分]"
+          "appearance_count": 17,
+          "time_info": "[11时18分 ~ 21时32分]"
+        },
+        {
+          "title": "香港此前失踪名单中144人确认安全",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%AD%A4%E5%89%8D%E5%A4%B1%E8%B8%AA%E5%90%8D%E5%8D%95%E4%B8%AD144%E4%BA%BA%E7%A1%AE%E8%AE%A4%E5%AE%89%E5%85%A8",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 21时32分]"
         },
         {
           "title": "香港将向火灾遇难者家属发20万港元",
@@ -308,6 +335,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时25分]"
+        },
+        {
+          "title": "香港火灾仍有150人失联",
+          "url": "https://news.ifeng.com/c/8ogDIttvYPy",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 21时32分]"
         },
         {
           "title": "香港大火获救居民回忆被救过程",
@@ -489,18 +528,6 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
-          "title": "香港此前失踪名单中144人确认安全",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%AD%A4%E5%89%8D%E5%A4%B1%E8%B8%AA%E5%90%8D%E5%8D%95%E4%B8%AD144%E4%BA%BA%E7%A1%AE%E8%AE%A4%E5%AE%89%E5%85%A8",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时51分]"
-        },
-        {
           "title": "李家超等哀悼香港火灾罹难者",
           "url": "https://www.toutiao.com/trending/7577939774166797870/",
           "source": "今日头条",
@@ -527,15 +554,17 @@
           "time_info": "[13时26分 ~ 17时26分]"
         },
         {
-          "title": "香港针对火灾成立跨部门调查专组，主要调查两方面",
-          "url": "https://news.ifeng.com/c/8og2tiEBZRG",
-          "source": "凤凰网",
+          "title": "香港大埔火灾仍有150人失联",
+          "url": "https://www.toutiao.com/trending/7578074134941273663/",
+          "source": "今日头条",
           "ranks": [
+            5,
+            2,
             4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时51分]"
+          "time_info": "[19时21分 ~ 21时32分]"
         },
         {
           "title": "李在明哀悼香港火灾遇难者",
@@ -567,28 +596,56 @@
           "time_info": "[12时31分 ~ 17时26分]"
         },
         {
-          "title": "香港火灾仍有150人失联",
-          "url": "https://news.ifeng.com/c/8ogDIttvYPy",
-          "source": "凤凰网",
+          "title": "香港火灾失踪名单144人确认安全",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%A4%B1%E8%B8%AA%E5%90%8D%E5%8D%95144%E4%BA%BA%E7%A1%AE%E8%AE%A4%E5%AE%89%E5%85%A8",
+          "source": "bilibili 热搜",
           "ranks": [
-            1,
-            2
+            3,
+            6,
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 20时51分]"
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 21时32分]"
+        },
+        {
+          "title": "香港2栋起火大厦完成搜索 未发现遗体",
+          "url": "https://www.toutiao.com/trending/7577245940038454827/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            2,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 21时32分]"
         },
         {
           "title": "香港大埔火灾仍有150人失联",
-          "url": "https://www.toutiao.com/trending/7578074134941273663/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E4%BB%8D%E6%9C%89150%E4%BA%BA%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            2
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 20时51分]"
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 21时32分]"
+        },
+        {
+          "title": "香港火灾失踪名单144人确认安全",
+          "url": "https://www.douyin.com/hot/2321422",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 21时32分]"
         },
         {
           "title": "香港大埔火灾失踪人员名单中144人确认安全",
@@ -629,32 +686,6 @@
           "time_info": "[11时19分 ~ 16时33分]"
         },
         {
-          "title": "香港火灾失踪名单144人确认安全",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%A4%B1%E8%B8%AA%E5%90%8D%E5%8D%95144%E4%BA%BA%E7%A1%AE%E8%AE%A4%E5%AE%89%E5%85%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时51分]"
-        },
-        {
-          "title": "香港2栋起火大厦完成搜索 未发现遗体",
-          "url": "https://www.toutiao.com/trending/7577245940038454827/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时51分]"
-        },
-        {
           "title": "央行支持商业银行建立跨境人民币捐赠绿色通道，确保捐赠香港资金零延迟到账",
           "url": "https://wallstreetcn.com/livenews/3012418",
           "source": "华尔街见闻-快讯",
@@ -671,6 +702,31 @@
           "time_info": "[11时19分 ~ 16时33分]"
         },
         {
+          "title": "香港两栋起火大厦搜查未发现遗体",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E4%B8%A4%E6%A0%8B%E8%B5%B7%E7%81%AB%E5%A4%A7%E5%8E%A6%E6%90%9C%E6%9F%A5%E6%9C%AA%E5%8F%91%E7%8E%B0%E9%81%97%E4%BD%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时32分]"
+        },
+        {
+          "title": "两部门：紧急协调援助应急装备物资，全力支持香港大埔火灾应对处置后续工作",
+          "url": "https://wallstreetcn.com/livenews/3012478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时32分]"
+        },
+        {
           "title": "香港市民自发献花悼念火灾遇难者(图)",
           "url": "https://news.ifeng.com/c/8ofvHtswhoX",
           "source": "凤凰网",
@@ -680,6 +736,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时33分 ~ 17时26分]"
+        },
+        {
+          "title": "香港廉政公署就大埔火灾再拘捕3人",
+          "url": "https://wallstreetcn.com/livenews/3012483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "太平香港所承保宏福苑相关保险此前已投再保险",
@@ -727,61 +794,32 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
-          "title": "两部门：紧急协调援助应急装备物资，全力支持香港大埔火灾应对处置后续工作",
-          "url": "https://wallstreetcn.com/livenews/3012478",
+          "title": "香港大埔火灾已致128人遇难83人受伤 仍有150人失联",
+          "url": "https://wallstreetcn.com/livenews/3012465",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "香港大埔火灾仍有150人失联",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E4%BB%8D%E6%9C%89150%E4%BA%BA%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
-          "ranks": [
-            7
+            3,
+            6,
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 21时32分]"
         },
         {
-          "title": "中华慈善总会：已募集近7000万元救灾款物帮扶香港火灾受灾同胞",
-          "url": "https://wallstreetcn.com/livenews/3012477",
+          "title": "香港：此前失踪名单中144人确认安全",
+          "url": "https://wallstreetcn.com/livenews/3012464",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "香港两栋起火大厦搜查未发现遗体",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E4%B8%A4%E6%A0%8B%E8%B5%B7%E7%81%AB%E5%A4%A7%E5%8E%A6%E6%90%9C%E6%9F%A5%E6%9C%AA%E5%8F%91%E7%8E%B0%E9%81%97%E4%BD%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7
+            4,
+            7,
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 19时21分]"
-        },
-        {
-          "title": "香港火灾失踪名单144人确认安全",
-          "url": "https://www.douyin.com/hot/2321422",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 21时32分]"
         },
         {
           "title": "香港特区政府为大埔火灾遇难者举行悼念活动",
@@ -799,30 +837,30 @@
           "time_info": "[09时58分 ~ 14时37分]"
         },
         {
-          "title": "香港大埔火灾已致128人遇难83人受伤 仍有150人失联",
-          "url": "https://wallstreetcn.com/livenews/3012465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时51分]"
-        },
-        {
-          "title": "香港：此前失踪名单中144人确认安全",
-          "url": "https://wallstreetcn.com/livenews/3012464",
+          "title": "中华慈善总会：已募集近7000万元救灾款物帮扶香港火灾受灾同胞",
+          "url": "https://wallstreetcn.com/livenews/3012477",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7,
-            17
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时51分]"
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时32分]"
+        },
+        {
+          "title": "香港特区政府29日下午召开记者会宣布，警方已完成大埔宏福苑火灾中两栋大厦的搜索，并没有发现任何遗体。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3012461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 21时32分]"
         },
         {
           "title": "香港举行悼念活动",
@@ -838,30 +876,41 @@
           "time_info": "[09时58分 ~ 12时31分]"
         },
         {
-          "title": "香港特区政府29日下午召开记者会宣布，警方已完成大埔宏福苑火灾中两栋大厦的搜索，并没有发现任何遗体。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3012461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时51分]"
-        },
-        {
           "title": "香港特区政府29日下午召开记者会宣布，已开展“一户一社工”工作，已接触1300户、3200人。目前捐助基金和政府拨款已达11亿港元。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3012460",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
             11,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 21时32分]"
+        },
+        {
+          "title": "香港特区政府：此前失踪名单中144人确认安全",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067431",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 21时32分]"
+        },
+        {
+          "title": "广东消防支援香港多台套救援装备",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B6%88%E9%98%B2%E6%94%AF%E6%8F%B4%E9%A6%99%E6%B8%AF%E5%A4%9A%E5%8F%B0%E5%A5%97%E6%95%91%E6%8F%B4%E8%A3%85%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 21时32分]"
         },
         {
           "title": "香港市民自发参加悼念",
@@ -898,15 +947,16 @@
           "time_info": "[09时58分 ~ 11时19分]"
         },
         {
-          "title": "香港特区政府：此前失踪名单中144人确认安全",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067431",
-          "source": "澎湃新闻",
+          "title": "国家消防救援局指导广东消防支援香港多台套救援装备",
+          "url": "https://wallstreetcn.com/livenews/3012473",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
+          "time_info": "[20时51分 ~ 21时32分]"
         },
         {
           "title": "香港火灾已完成灭火及救援工作",
@@ -931,17 +981,6 @@
           "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "广东消防支援香港多台套救援装备",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B6%88%E9%98%B2%E6%94%AF%E6%8F%B4%E9%A6%99%E6%B8%AF%E5%A4%9A%E5%8F%B0%E5%A5%97%E6%95%91%E6%8F%B4%E8%A3%85%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
-        },
-        {
           "title": "香港宏福苑住户讲述：同学已去世，父母生死未卜，我不想再见到遗体",
           "url": "https://news.ifeng.com/c/8oemxTmStN3",
           "source": "凤凰网",
@@ -951,17 +990,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
-        },
-        {
-          "title": "国家消防救援局指导广东消防支援香港多台套救援装备",
-          "url": "https://wallstreetcn.com/livenews/3012473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
         },
         {
           "title": "香港大埔火灾仍有150人失联",
@@ -1046,8 +1074,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时26分 ~ 20时51分]"
+          "appearance_count": 14,
+          "time_info": "[13时26分 ~ 21时32分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -1062,8 +1090,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时58分 ~ 20时51分]"
+          "appearance_count": 18,
+          "time_info": "[09时58分 ~ 21时32分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
@@ -1071,11 +1099,42 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 20时51分]"
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 21时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
+          "url": "https://wallstreetcn.com/articles/3760294",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时25分]"
+        },
+        {
+          "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
+          "url": "https://wallstreetcn.com/articles/3760369",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         }
       ]
     },
@@ -1095,8 +1154,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时26分 ~ 20时51分]"
+          "appearance_count": 14,
+          "time_info": "[13时26分 ~ 21时32分]"
         },
         {
           "title": "金价",
@@ -1108,25 +1167,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
-          "url": "https://wallstreetcn.com/articles/3760294",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
         }
       ]
     },
