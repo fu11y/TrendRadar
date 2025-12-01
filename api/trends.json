@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-01T11:02:58.772536+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2025-12-01T12:41:10.318025+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "香港火灾已致146人遇难",
+          "url": "https://www.douyin.com/hot/2322295",
+          "source": "抖音",
+          "ranks": [
+            7,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 12时41分]"
+        },
         {
           "title": "香港火灾已致146人遇难",
           "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4146%E4%BA%BA%E9%81%87%E9%9A%BE",
@@ -14,18 +27,6 @@
           "ranks": [
             5,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时02分]"
-        },
-        {
-          "title": "香港火灾已致146人遇难",
-          "url": "https://www.douyin.com/hot/2322295",
-          "source": "抖音",
-          "ranks": [
-            7,
-            24
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -40,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 12时41分]"
         },
         {
           "title": "香港大浦火灾追踪：100个失踪个案界定为“无法追查”",
@@ -51,19 +52,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 12时41分]"
         },
         {
           "title": "香港大埔火灾仍有 100 人失联，后续搜救重点是什么？火场中等待救援有哪些注意事项？",
           "url": "https://www.zhihu.com/question/1978159779177329218",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 12时41分]"
         },
         {
           "title": "香港社区现高楼与高龄之困：宏福苑近4成居民超65岁(图)",
@@ -73,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 12时41分]"
         },
         {
           "title": "广东男篮四外援就位",
@@ -131,6 +133,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 08时56分]"
+        },
+        {
+          "title": "11月深圳楼市成交稳步回升 新房成交环比增长8.1%",
+          "url": "https://wallstreetcn.com/livenews/3012776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "深圳地铁集团法定代表人变更，黄力平接替辛杰",
+          "url": "https://wallstreetcn.com/livenews/3012775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
@@ -144,11 +168,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 12时41分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -193,8 +218,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 12时41分]"
         }
       ]
     },
@@ -209,7 +234,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
