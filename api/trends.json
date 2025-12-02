@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T17:16:34.327420+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2025-12-02T18:12:38.573545+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "香港特区将成立独立委员会调查火灾",
@@ -19,8 +19,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时46分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时46分 ~ 18时12分]"
         },
         {
           "title": "香港将成立独立委员会调查火灾",
@@ -58,17 +58,6 @@
           "time_info": "[10时30分 ~ 13时11分]"
         },
         {
-          "title": "香港大埔宏福苑火灾已造成156人遇难",
-          "url": "https://wallstreetcn.com/livenews/3013614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
           "title": "香港特首李家超承诺对大埔火灾进行调查。",
           "url": "https://wallstreetcn.com/livenews/3013390",
           "source": "华尔街见闻-快讯",
@@ -100,6 +89,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时45分 ~ 10时31分]"
+        },
+        {
+          "title": "香港大埔宏福苑火灾已造成156人遇难",
+          "url": "https://wallstreetcn.com/livenews/3013614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时12分]"
         },
         {
           "title": "国际模特大赛太太组广东冠军被造谣恶搞，本人回应",
@@ -138,6 +139,18 @@
           "time_info": "[11时46分 ~ 13时11分]"
         },
         {
+          "title": "中央港澳办协调应急管理部等中央有关部门继续为香港救灾工作提供协助和支援",
+          "url": "https://wallstreetcn.com/livenews/3013597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时12分]"
+        },
+        {
           "title": "香港特区将成立独立委员会调查火灾",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E5%B0%86%E6%88%90%E7%AB%8B%E7%8B%AC%E7%AB%8B%E5%A7%94%E5%91%98%E4%BC%9A%E8%B0%83%E6%9F%A5%E7%81%AB%E7%81%BE%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -147,6 +160,83 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "香港大火已致156人遇难",
+          "url": "https://www.toutiao.com/trending/7579184224192974387/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "香港大埔火灾已致156人遇难",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4156%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "香港火灾已致156人遇难",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4156%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "香港火灾已造成156人遇难",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E9%80%A0%E6%88%90156%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "香港火灾已致156人遇难",
+          "url": "https://www.douyin.com/hot/2324262",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "香港警方就大埔火灾拘捕15人",
+          "url": "https://wallstreetcn.com/livenews/3013627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "福建：升级扩容“福淡”“厦金”海底光缆 推进“福州—深圳短路径光缆”项目建设",
+          "url": "https://www.cls.cn/detail/2216779",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "HashKey香港IPO通过港交所聆讯",
@@ -160,24 +250,13 @@
           "time_info": "08时46分"
         },
         {
-          "title": "中央港澳办协调应急管理部等中央有关部门继续为香港救灾工作提供协助和支援",
-          "url": "https://wallstreetcn.com/livenews/3013597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
           "title": "中国香港警方将于当地时间下午5点就大埔火灾事件召开记者会。",
           "url": "https://wallstreetcn.com/livenews/3013590",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -230,8 +309,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时45分 ~ 17时16分]"
+          "appearance_count": 15,
+          "time_info": "[08时45分 ~ 18时12分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
@@ -246,8 +325,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时45分 ~ 17时16分]"
+          "appearance_count": 15,
+          "time_info": "[08时45分 ~ 18时12分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -260,8 +339,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时45分 ~ 17时16分]"
+          "appearance_count": 15,
+          "time_info": "[08时45分 ~ 18时12分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -274,8 +353,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时45分 ~ 17时16分]"
+          "appearance_count": 15,
+          "time_info": "[08时45分 ~ 18时12分]"
         },
         {
           "title": "2025 年 12 月 1 日，DeepSeek 正式发布 V3.2 和 V3.2-Speciale，如何评价该模型？",
@@ -342,11 +421,12 @@
             15,
             16,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时11分 ~ 17时16分]"
+          "appearance_count": 8,
+          "time_info": "[13时11分 ~ 18时12分]"
         },
         {
           "title": "百人初创公司Runway发布AI视频模型 生成质量超谷歌OpenAI竞品",
@@ -385,8 +465,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时30分 ~ 17时16分]"
+          "appearance_count": 13,
+          "time_info": "[10时30分 ~ 18时12分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -415,7 +495,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2025年12月02日（周二）上海金早盘价为955.63元/克，较国际金价(959.69元/克)，低4.06元/克",
@@ -439,6 +519,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
+          "title": "金价随美债收益率走强而回落 市场聚焦美国经济数据",
+          "url": "https://flash.jin10.com/detail/20251202173757800800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     }
