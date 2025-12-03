@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T14:16:39.831736+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2025-12-03T15:13:23.062346+08:00",
+  "total_titles_processed": 829,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[08时44分 ~ 15时13分]"
         },
         {
           "title": "香港火灾已致156人遇难",
@@ -27,8 +27,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[08时44分 ~ 15时13分]"
         },
         {
           "title": "香港青山发生谋杀及纵火案",
@@ -36,11 +36,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 15时13分]"
         },
         {
           "title": "香港发生一起谋杀纵火案",
@@ -114,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[08时44分 ~ 15时13分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -123,11 +124,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 14时16分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 15时13分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -204,8 +206,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 15时13分]"
         }
       ]
     }
