@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:12:02.207184+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2025-12-03T14:16:39.831736+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时44分 ~ 13时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 14时16分]"
         },
         {
           "title": "香港火灾已致156人遇难",
@@ -27,8 +27,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时44分 ~ 13时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 14时16分]"
+        },
+        {
+          "title": "香港青山发生谋杀及纵火案",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B1%B1%E5%8F%91%E7%94%9F%E8%B0%8B%E6%9D%80%E5%8F%8A%E7%BA%B5%E7%81%AB%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 14时16分]"
         },
         {
           "title": "香港发生一起谋杀纵火案",
@@ -64,17 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时44分 ~ 08时45分]"
-        },
-        {
-          "title": "香港青山发生谋杀及纵火案",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B1%B1%E5%8F%91%E7%94%9F%E8%B0%8B%E6%9D%80%E5%8F%8A%E7%BA%B5%E7%81%AB%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 13时12分]"
         },
         {
           "title": "深圳研发投入10年累计增幅超两倍",
@@ -113,8 +114,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时44分 ~ 13时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 14时16分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -125,8 +126,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 13时12分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 14时16分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
