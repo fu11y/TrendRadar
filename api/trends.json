@@ -1,12 +1,57 @@
 {
-  "generated_at": "2025-12-04T08:45:59.984483+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-04T10:31:10.642690+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "香港火灾已致159人遇难",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4159%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 10时31分]"
+        },
+        {
+          "title": "香港火灾已致159人遇难",
+          "url": "https://www.douyin.com/hot/2325250",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 10时31分]"
+        },
+        {
+          "title": "澎湃回声｜广东惠州市惠阳区通报企业违规生产销售“情趣娃娃”：暂停生产，接受调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32095044",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "香港宏福苑住宅未偿还贷款约5.4亿港元",
+          "url": "https://www.toutiao.com/trending/7578797342800379958/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
         {
           "title": "澎湃回声｜广东惠阳通报企业违规生产销售“情趣娃娃”：暂停生产，接受调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32095044",
@@ -19,26 +64,15 @@
           "time_info": "08时45分"
         },
         {
-          "title": "香港火灾已致159人遇难",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4159%E4%BA%BA%E9%81%87%E9%9A%BE",
-          "source": "bilibili 热搜",
+          "title": "香港金管局公布中国财政部将在港发行70亿元人民币国债详情",
+          "url": "https://wallstreetcn.com/livenews/3014788",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时45分"
-        },
-        {
-          "title": "香港火灾已致159人遇难",
-          "url": "https://www.douyin.com/hot/2325250",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "time_info": "10时31分"
         },
         {
           "title": "麦当劳以3800万港元出售香港慈云山一家门店",
@@ -46,6 +80,34 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月04日（周四）上海金早盘价为952.5元/克，较国际金价(955.12元/克)，低2.62元/克",
+          "url": "https://flash.jin10.com/detail/20251204101723963800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "高盛资产配置主管Christian Mueller-Glissmann：在过去两年金价强劲上涨的背景下，回过头看，最优的黄金配置比例应远高于大多数投资者实际持有的水平。",
+          "url": "https://flash.jin10.com/detail/20251204082809199800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -62,11 +124,12 @@
           "url": "https://www.zhihu.com/question/1979307622185341611",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 10时31分]"
         }
       ]
     },
@@ -79,28 +142,29 @@
           "url": "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%20Gemini&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 10时31分]"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "高盛资产配置主管Christian Mueller-Glissmann：在过去两年金价强劲上涨的背景下，回过头看，最优的黄金配置比例应远高于大多数投资者实际持有的水平。",
-          "url": "https://flash.jin10.com/detail/20251204082809199800",
+          "title": "OpenAI拟与SpaceX竞争 曾探讨与火箭公司进行交易",
+          "url": "https://flash.jin10.com/detail/20251204093928191800",
           "source": "金十数据",
           "ranks": [
-            10
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时45分"
+          "time_info": "10时31分"
         }
       ]
     }
