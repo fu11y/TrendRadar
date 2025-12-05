@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T11:45:56.373996+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2025-12-05T12:23:19.460216+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 11时45分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 12时23分]"
         },
         {
           "title": "乒联混团世界杯中国香港队获观众加油",
@@ -64,11 +64,12 @@
           "ranks": [
             6,
             4,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 11时45分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 12时23分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
