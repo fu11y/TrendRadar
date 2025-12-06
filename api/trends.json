@@ -1,12 +1,36 @@
 {
-  "generated_at": "2025-12-06T17:10:23.966118+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2025-12-06T18:10:28.423897+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "大湾区大学正式成立",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%A4%A7%E5%AD%A6%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时12分 ~ 18时10分]"
+        },
+        {
+          "title": "一个学生配三名老师 大湾区大学来了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E5%AD%A6%E7%94%9F%E9%85%8D%E4%B8%89%E5%90%8D%E8%80%81%E5%B8%88+%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%A4%A7%E5%AD%A6%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
         {
           "title": "大湾区大学正式成立",
           "url": "https://flash.jin10.com/detail/20251206122959833800",
@@ -34,18 +58,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时10分 ~ 16时13分]"
-        },
-        {
-          "title": "大湾区大学正式成立",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%A4%A7%E5%AD%A6%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时12分 ~ 17时10分]"
         },
         {
           "title": "大湾区大学正式成立",
@@ -91,7 +103,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时10分"
         }
@@ -99,7 +111,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -110,8 +122,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时37分 ~ 17时10分]"
+          "appearance_count": 10,
+          "time_info": "[11时37分 ~ 18时10分]"
+        },
+        {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -180,11 +203,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时37分 ~ 17时10分]"
+          "appearance_count": 10,
+          "time_info": "[11时37分 ~ 18时10分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
