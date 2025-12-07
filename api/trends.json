@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T15:10:41.548556+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2025-12-07T16:13:06.968250+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "香港特区第八届立法会选举正式开始投票",
@@ -39,11 +39,12 @@
             9,
             8,
             7,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时51分 ~ 15时10分]"
+          "appearance_count": 11,
+          "time_info": "[10时51分 ~ 16时13分]"
         },
         {
           "title": "香港特区第八届立法会选举正式开始投票",
@@ -52,11 +53,12 @@
           "ranks": [
             14,
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时51分 ~ 15时10分]"
+          "appearance_count": 11,
+          "time_info": "[10时51分 ~ 16时13分]"
         },
         {
           "title": "香港特区第八届立法会选举今日举行",
@@ -69,11 +71,23 @@
             14,
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时51分 ~ 15时10分]"
+          "appearance_count": 8,
+          "time_info": "[08时51分 ~ 16时13分]"
+        },
+        {
+          "title": "广东省考",
+          "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%80%83&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 16时13分]"
         },
         {
           "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
@@ -83,11 +97,12 @@
             1,
             11,
             16,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 15时10分]"
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 16时13分]"
         },
         {
           "title": "李家超投票后发表讲话，提及香港火灾",
@@ -153,6 +168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时51分 ~ 10时51分]"
+        },
+        {
+          "title": "2025深圳马拉松",
+          "url": "https://www.douyin.com/hot/2329047",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 16时13分]"
         },
         {
           "title": "深圳辟谣：网传“318号函”系伪造",
@@ -237,8 +263,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[14时14分 ~ 16时13分]"
         }
       ]
     }
