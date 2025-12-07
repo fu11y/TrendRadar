@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T16:13:06.968250+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2025-12-07T17:10:13.934251+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "香港特区第八届立法会选举正式开始投票",
@@ -57,8 +57,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时51分 ~ 16时13分]"
+          "appearance_count": 13,
+          "time_info": "[10时51分 ~ 17时10分]"
         },
         {
           "title": "香港特区第八届立法会选举今日举行",
@@ -72,11 +72,23 @@
             22,
             23,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时51分 ~ 16时13分]"
+          "appearance_count": 9,
+          "time_info": "[08时51分 ~ 17时10分]"
+        },
+        {
+          "title": "“最快女护士”深圳马拉松再登领奖台",
+          "url": "https://www.toutiao.com/trending/7580682003062816778/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 17时10分]"
         },
         {
           "title": "广东省考",
@@ -158,6 +170,18 @@
           "time_info": "[08时51分 ~ 12时25分]"
         },
         {
+          "title": "2025深圳马拉松",
+          "url": "https://www.douyin.com/hot/2329047",
+          "source": "抖音",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时12分 ~ 17时10分]"
+        },
+        {
           "title": "香港特区第八届立法会选举正式开始投票",
           "url": "https://flash.jin10.com/detail/20251207080442160800",
           "source": "金十数据",
@@ -168,17 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时51分 ~ 10时51分]"
-        },
-        {
-          "title": "2025深圳马拉松",
-          "url": "https://www.douyin.com/hot/2329047",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 16时13分]"
         },
         {
           "title": "深圳辟谣：网传“318号函”系伪造",
@@ -263,8 +276,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 16时13分]"
+          "appearance_count": 6,
+          "time_info": "[14时14分 ~ 17时10分]"
         }
       ]
     }
