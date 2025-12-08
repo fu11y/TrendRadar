@@ -1,287 +1,33 @@
 {
-  "generated_at": "2025-12-07T18:09:52.966977+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2025-12-08T08:46:20.530974+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 17,
+      "match_count": 2,
       "titles": [
         {
-          "title": "香港特区第八届立法会选举正式开始投票",
-          "url": "https://news.ifeng.com/c/8osiV07pxfA",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时51分 ~ 15时10分]"
-        },
-        {
-          "title": "香港特区第八届立法会选举今日举行",
-          "url": "https://wallstreetcn.com/livenews/3016331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            12,
-            14,
-            22,
-            23,
-            24,
-            25,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时51分 ~ 18时09分]"
-        },
-        {
-          "title": "香港立法会选举8日清晨公布初步结果",
-          "url": "https://news.ifeng.com/c/8osljLEbDTh",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时51分 ~ 15时10分]"
-        },
-        {
-          "title": "大湾区大学正式成立，学生大一入学后先不分专业，其理工科定位和发展方向有哪些独特性？",
-          "url": "https://www.zhihu.com/question/1980627183098688291",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            7,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时51分 ~ 16时13分]"
-        },
-        {
-          "title": "香港特区第八届立法会选举正式开始投票",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124076",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11,
-            12,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时51分 ~ 18时09分]"
-        },
-        {
-          "title": "“最快女护士”深圳马拉松再登领奖台",
-          "url": "https://www.toutiao.com/trending/7580682003062816778/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时09分 ~ 18时09分]"
-        },
-        {
-          "title": "广东省考",
-          "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%80%83&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 16时13分]"
-        },
-        {
-          "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
-          "url": "https://flash.jin10.com/detail/20251207115626169800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11,
-            16,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 16时13分]"
-        },
-        {
-          "title": "李家超投票后发表讲话，提及香港火灾",
-          "url": "https://news.ifeng.com/c/8osvJX54XFB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 15时10分]"
-        },
-        {
-          "title": "深圳机场国际及地区客运航线数量恢复至历史峰值水平",
-          "url": "https://wallstreetcn.com/livenews/3016319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时51分 ~ 12时25分]"
-        },
-        {
-          "title": "2025大湾区科学论坛人才招聘会在广州南沙举办",
-          "url": "https://wallstreetcn.com/livenews/3016318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时51分 ~ 12时25分]"
-        },
-        {
-          "title": "深圳紧急辟谣：网传“318号函”系伪造，已报警",
-          "url": "https://wallstreetcn.com/livenews/3016311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时51分 ~ 12时25分]"
-        },
-        {
-          "title": "2025深圳马拉松",
-          "url": "https://www.douyin.com/hot/2329047",
+          "title": "90人当选香港新一届立法会议员",
+          "url": "https://www.douyin.com/hot/2329978",
           "source": "抖音",
           "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时12分 ~ 17时10分]"
-        },
-        {
-          "title": "香港特区第八届立法会选举正式开始投票",
-          "url": "https://flash.jin10.com/detail/20251207080442160800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 10时51分]"
-        },
-        {
-          "title": "深圳辟谣：网传“318号函”系伪造",
-          "url": "https://www.toutiao.com/trending/7580705096763441171/",
-          "source": "今日头条",
-          "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时46分"
         },
         {
-          "title": "深圳：网传“318号函”系伪造",
-          "url": "https://www.douyin.com/hot/2328741",
-          "source": "抖音",
+          "title": "90人当选香港新一届立法会议员",
+          "url": "https://www.baidu.com/s?wd=90%E4%BA%BA%E5%BD%93%E9%80%89%E9%A6%99%E6%B8%AF%E6%96%B0%E4%B8%80%E5%B1%8A%E7%AB%8B%E6%B3%95%E4%BC%9A%E8%AE%AE%E5%91%98",
+          "source": "百度热搜",
           "ranks": [
-            12
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "深圳机场国际及地区客运航线数量恢复至历史峰值水平",
-          "url": "https://flash.jin10.com/detail/20251206213713871800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态",
-          "url": "https://wallstreetcn.com/articles/3760844",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时51分 ~ 15时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时14分 ~ 18时09分]"
+          "time_info": "08时46分"
         }
       ]
     }
