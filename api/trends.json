@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T13:14:03.604591+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2025-12-08T14:18:07.504322+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,26 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 14时18分]"
+        },
+        {
+          "title": "为什么大陆演员很难演出香港黑帮片中的那种骨子里的江湖气？",
+          "url": "https://www.zhihu.com/question/480849535",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 14时18分]"
         },
         {
           "title": "90人当选香港新一届立法会议员",
@@ -31,29 +46,17 @@
           "time_info": "[08时46分 ~ 13时14分]"
         },
         {
-          "title": "为什么大陆演员很难演出香港黑帮片中的那种骨子里的江湖气？",
-          "url": "https://www.zhihu.com/question/480849535",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 13时14分]"
-        },
-        {
           "title": "香港特区第八届立法会选举结果出炉，90人当选新一届立法会议员",
           "url": "https://m.thepaper.cn/newsDetail_forward_32127728",
           "source": "澎湃新闻",
           "ranks": [
             17,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[11时49分 ~ 14时18分]"
         },
         {
           "title": "江旻憓霍启刚当选香港立法会议员",
@@ -64,8 +67,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[11时49分 ~ 14时18分]"
         },
         {
           "title": "香港麦当劳居然这么好吃",
@@ -112,11 +115,12 @@
           "url": "https://www.cls.cn/detail/2222331",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 14时18分]"
         },
         {
           "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
