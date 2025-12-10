@@ -1,372 +1,83 @@
 {
-  "generated_at": "2025-12-09T18:13:09.993420+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2025-12-10T08:46:54.774456+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 13,
+      "match_count": 5,
       "titles": [
         {
-          "title": "WTT香港总决赛女单签表",
-          "url": "https://www.toutiao.com/trending/7581397003205967922/",
+          "title": "广东汕头一住宅火灾致8死4伤",
+          "url": "https://www.toutiao.com/trending/7581994021980130825/",
           "source": "今日头条",
           "ranks": [
-            24,
-            25,
-            26,
-            23
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时45分 ~ 16时15分]"
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
-          "title": "李现澳门街头摄影被路人警告",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%B0%E6%BE%B3%E9%97%A8%E8%A1%97%E5%A4%B4%E6%91%84%E5%BD%B1%E8%A2%AB%E8%B7%AF%E4%BA%BA%E8%AD%A6%E5%91%8A",
+          "title": "广东汕头一住宅起火致8死4伤",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E4%B8%80%E4%BD%8F%E5%AE%85%E8%B5%B7%E7%81%AB%E8%87%B48%E6%AD%BB4%E4%BC%A4",
           "source": "百度热搜",
           "ranks": [
-            15,
-            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "广东一住宅发生火灾致8死4伤",
+          "url": "https://www.douyin.com/hot/2331924",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "香港将为殉职消防员何伟豪举行最高荣誉丧礼，消防处发文感谢市民支持",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137759",
+          "source": "澎湃新闻",
+          "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时30分 ~ 14时17分]"
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
-          "title": "深圳一山姆麻薯盒出现活老鼠",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%B1%B1%E5%A7%86%E9%BA%BB%E8%96%AF%E7%9B%92%E5%87%BA%E7%8E%B0%E6%B4%BB%E8%80%81%E9%BC%A0%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            2,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时11分 ~ 16时15分]"
-        },
-        {
-          "title": "李现澳门街头摄影被路人警告",
-          "url": "https://www.toutiao.com/trending/7580627875704127529/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14,
-            20,
-            25,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时16分 ~ 18时13分]"
-        },
-        {
-          "title": "香港恒生指数跌1%，恒生科技指数跌1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3017395",
+          "title": "报道：京东以35亿港元收购香港中国建设银行大厦的权益",
+          "url": "https://wallstreetcn.com/livenews/3017950",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 14时17分]"
-        },
-        {
-          "title": "中国证监会国际合作司发布关于关于卧安机器人（深圳）股份有限公司境外发行上市及境内未上市股份“全流通”备案通知书。",
-          "url": "https://wallstreetcn.com/livenews/3017310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 11时45分]"
-        },
-        {
-          "title": "香港恒生指数收盘下跌1.29%，恒生科技指数跌1.9%。药明生物涨1.88%。华虹半导体和中芯国际分别跌5.4%和4.1%。",
-          "url": "https://wallstreetcn.com/livenews/3017507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 17时14分]"
-        },
-        {
-          "title": "香港16岁少女涉嫌制毒被捕",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%B6%89%E5%AB%8C%E5%88%B6%E6%AF%92%E8%A2%AB%E6%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时16分 ~ 15时14分]"
-        },
-        {
-          "title": "香港大火致160人遇难 仍有6人失联",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%81%AB%E8%87%B4160%E4%BA%BA%E9%81%87%E9%9A%BE+%E4%BB%8D%E6%9C%896%E4%BA%BA%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
-          "title": "香港特区政府介绍大埔宏福苑火灾搜索工作最新情况",
-          "url": "https://wallstreetcn.com/livenews/3017566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "香港恒生指数开盘涨0.06%，报25780.97点；恒生科技指数跌0.11%。中芯国际、华虹半导体、快手等跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3017258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "京东工业香港IPO定价为每股14.10港元。",
-          "url": "https://wallstreetcn.com/livenews/3017444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "当地应急回应深圳城中村高楼起火",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E5%BA%94%E6%80%A5%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E5%9F%8E%E4%B8%AD%E6%9D%91%E9%AB%98%E6%A5%BC%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "time_info": "08时46分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
-          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
-          "url": "https://www.cls.cn/detail/2223368",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时45分 ~ 15时14分]"
-        },
-        {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时45分 ~ 15时14分]"
-        },
-        {
-          "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
-          "url": "https://www.cls.cn/detail/2223271",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 13时12分]"
-        },
-        {
-          "title": "欧盟将调查谷歌是否违反竞争法",
-          "url": "https://wallstreetcn.com/livenews/3017511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 17时14分]"
-        },
-        {
-          "title": "谷歌与XREAL联合发布Project Aura",
-          "url": "https://wallstreetcn.com/livenews/3017367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时12分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
-          "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
-          "url": "https://flash.jin10.com/detail/20251209161413716800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
-          "url": "https://flash.jin10.com/detail/20251209161206794800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
-          "url": "https://flash.jin10.com/detail/20251209161139815800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
-          "url": "https://www.zhihu.com/question/1981658527434053567",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16,
-            12,
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时16分 ~ 18时13分]"
-        },
-        {
-          "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
-          "url": "https://tech.ifeng.com/c/8ovZfiG4ies",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
-          "url": "https://wallstreetcn.com/livenews/3017432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 15时14分]"
-        },
-        {
-          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
-          "url": "https://flash.jin10.com/detail/20251209140918642800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "土耳其银行业人士：土耳其央行上周的净储备预计已增加55亿美元，达到近780亿美元。土耳其央行上周购买了逾30亿美元资产，其中因金价变动带来的增值超过10亿美元。",
-          "url": "https://flash.jin10.com/detail/20251209144133610800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "金价波动不大，市场关注鲍威尔讲话揭示后续路径",
-          "url": "https://flash.jin10.com/detail/20251209170958206800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "08时46分"
         }
       ]
     }
