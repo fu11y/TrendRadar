@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T08:46:54.774456+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-10T10:46:14.330644+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -45,11 +45,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32137759",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
+          "appearance_count": 3,
+          "time_info": "[08时46分 ~ 10时46分]"
         },
         {
           "title": "报道：京东以35亿港元收购香港中国建设银行大厦的权益",
@@ -73,11 +74,12 @@
           "url": "https://wallstreetcn.com/articles/3760995",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
+          "appearance_count": 3,
+          "time_info": "[08时46分 ~ 10时46分]"
         }
       ]
     }
