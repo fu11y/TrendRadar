@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T13:13:40.203999+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2025-12-10T14:22:38.137770+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时46分 ~ 13时13分]"
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 14时22分]"
         },
         {
           "title": "广东汕头火灾遇难人数升至12人",
@@ -29,8 +29,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 13时13分]"
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 14时22分]"
+        },
+        {
+          "title": "广东汕头火灾遇难人数升至12人",
+          "url": "https://www.douyin.com/hot/2332159",
+          "source": "抖音",
+          "ranks": [
+            10,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 14时22分]"
+        },
+        {
+          "title": "广东汕头火灾事故遇难人数升至12人",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B312%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时22分]"
         },
         {
           "title": "广东汕头一住宅火灾致8死4伤",
@@ -44,6 +69,19 @@
           "time_info": "08时46分"
         },
         {
+          "title": "广东汕头火灾事故遇难人数升至12人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B312%E4%BA%BA%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 14时22分]"
+        },
+        {
           "title": "广东汕头一住宅起火致8死4伤",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E4%B8%80%E4%BD%8F%E5%AE%85%E8%B5%B7%E7%81%AB%E8%87%B48%E6%AD%BB4%E4%BC%A4",
           "source": "百度热搜",
@@ -55,29 +93,6 @@
           "time_info": "08时46分"
         },
         {
-          "title": "广东汕头火灾事故遇难人数升至12人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B312%E4%BA%BA%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 13时13分]"
-        },
-        {
-          "title": "广东汕头火灾事故遇难人数升至12人",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B312%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
           "title": "广东一住宅发生火灾致8死4伤",
           "url": "https://www.douyin.com/hot/2331924",
           "source": "抖音",
@@ -87,18 +102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
-        },
-        {
-          "title": "广东汕头火灾遇难人数升至12人",
-          "url": "https://www.douyin.com/hot/2332159",
-          "source": "抖音",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 13时13分]"
         },
         {
           "title": "财政部在香港成功发行2025年第六期70亿元人民币国债",
@@ -198,8 +201,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时46分 ~ 13时13分]"
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 14时22分]"
         }
       ]
     },
