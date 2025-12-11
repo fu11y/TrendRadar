@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T15:16:58.377125+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2025-12-11T16:16:25.437161+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "广东成立事故调查组，彻查汕头火灾事故原因",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时47分 ~ 15时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时47分 ~ 16时16分]"
         },
         {
           "title": "NiKo更新香港Vlog",
@@ -32,8 +32,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时47分 ~ 15时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时47分 ~ 16时16分]"
         },
         {
           "title": "深圳一宅地溢价率65%！年末多地土拍高溢价成交",
@@ -47,6 +47,21 @@
           "time_info": "08时47分"
         },
         {
+          "title": "深圳街头炒粉藏着最戳心的温暖",
+          "url": "https://www.douyin.com/hot/2332910",
+          "source": "抖音",
+          "ranks": [
+            20,
+            17,
+            13,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 16时16分]"
+        },
+        {
           "title": "WTT香港总决赛赛程",
           "url": "https://www.douyin.com/hot/2333097",
           "source": "抖音",
@@ -57,6 +72,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时52分 ~ 13时14分]"
+        },
+        {
+          "title": "香港恒生指数收盘下跌0.04%。恒生科技指数收盘下跌0.83%。华虹半导体跌4.8%，阿里健康跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3019078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "广东致12死火灾：10岁女孩冒火逃生",
@@ -79,21 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
-        },
-        {
-          "title": "深圳街头炒粉藏着最戳心的温暖",
-          "url": "https://www.douyin.com/hot/2332910",
-          "source": "抖音",
-          "ranks": [
-            20,
-            17,
-            13,
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时52分 ~ 15时16分]"
         },
         {
           "title": "汇丰维持香港最优惠贷款利率在5%不变。 中银香港称其港元最优惠利率及活期储蓄存款利率维持不变。 渣打香港宣布港元最优惠利率维持不变于年息5.25%。",
@@ -138,11 +149,12 @@
           "ranks": [
             27,
             13,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 15时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 16时16分]"
         },
         {
           "title": "为什么广东好像很少见公共浴室？",
@@ -185,11 +197,45 @@
           "url": "https://www.zhihu.com/question/1982416281912174098",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 16时16分]"
+        },
+        {
+          "title": "深圳发行5年期棚改专项地方债，规模0.9100亿元，发行利率1.7300%，边际倍数1.57倍，倍数预期1.72； 深圳发行15年期其他专项地方债，规模2.3280亿元，发行利率2.3400%，边际倍数2.20倍，倍数预期2.34； 深圳发行15年期其他专项地方债，规模3.9584亿元，发行利率2.3400%，边际倍数2.55倍，倍数预期2.35； 深圳发行20年期其他专项地方债，规模7.8650亿元，发行利率2.4300%，边际倍数1.14倍，倍数预期2.44； 深圳发行20年期其他专项地方债，规模3.6300亿元，发行利率2.4300%，边际倍数1.35倍，倍数预期2.44； 深圳发行20年期其他专项地方债，规模10.6750亿元，发行利率2.4300%，边际倍数1.38倍，倍数预期2.44； 深圳发行30年期其他专项地方债，规模3.4016亿元，发行利率2.4400%，边际倍数125.00倍，倍数预期2.45； 深圳发行30年期其他专项地方债，规模2.7350亿元，发行利率2.4300%，边际倍数1.28倍，倍数预期2.44； 深圳发行10年期其他专项地方债，规模11.8069亿元，发行利率2.0500%，边际倍数1.33倍，倍数预期2.04。",
+          "url": "https://wallstreetcn.com/livenews/3019072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时16分"
+          "time_info": "16时16分"
+        },
+        {
+          "title": "深圳发行10年期其他专项地方债，规模34.8000亿元，发行利率2.0500%，边际倍数1.39倍，倍数预期2.04； 深圳发行10年期其他专项地方债，规模11.7350亿元，发行利率2.0500%，边际倍数1.10倍，倍数预期2.04； 深圳发行10年期一般债地方债，规模11.0000亿元，发行利率2.0500%，边际倍数8.83倍，倍数预期2.03； 深圳发行10年期普通专项地方债，规模7.0000亿元，发行利率2.0500%，边际倍数1.26倍，倍数预期2.04。",
+          "url": "https://wallstreetcn.com/livenews/3019065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "石药创新计划通过香港上市筹资5亿美元。（IFR国际金融评论）",
+          "url": "https://wallstreetcn.com/livenews/3019061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "人工智能独角兽企业稀宇和智谱据悉计划很快进行香港IPO。（彭博）",
@@ -251,7 +297,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -262,7 +308,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         }
