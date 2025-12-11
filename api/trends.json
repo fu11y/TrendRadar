@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-11T10:47:26.268729+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2025-12-11T11:52:32.364230+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "广东成立事故调查组，彻查汕头火灾事故原因",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32146570",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 11时52分]"
+        },
         {
           "title": "深圳一宅地溢价率65%！年末多地土拍高溢价成交",
           "url": "https://wallstreetcn.com/livenews/3018766",
@@ -41,28 +54,17 @@
           "time_info": "08时47分"
         },
         {
-          "title": "广东成立事故调查组，彻查汕头火灾事故原因",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32146570",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 10时47分]"
-        },
-        {
           "title": "NiKo更新香港Vlog",
           "url": "https://search.bilibili.com/all?keyword=NiKo%E6%9B%B4%E6%96%B0%E9%A6%99%E6%B8%AFVlog",
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 10时47分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 11时52分]"
         },
         {
           "title": "为什么广东好像很少见公共浴室？",
@@ -73,8 +75,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 10时47分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 11时52分]"
+        },
+        {
+          "title": "深圳街头炒粉藏着最戳心的温暖",
+          "url": "https://www.douyin.com/hot/2332910",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "WTT香港总决赛赛程",
+          "url": "https://www.douyin.com/hot/2333097",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "网红澳门CoCo姐多平台被封禁",
@@ -83,7 +107,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         }
@@ -94,24 +118,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 11时52分]"
+        },
+        {
           "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
           "url": "https://flash.jin10.com/detail/20251211101756207800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         }
