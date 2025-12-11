@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T13:14:22.529297+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2025-12-11T14:17:30.666568+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时47分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时47分 ~ 14时17分]"
         },
         {
           "title": "深圳一宅地溢价率65%！年末多地土拍高溢价成交",
@@ -30,6 +30,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
+        },
+        {
+          "title": "NiKo更新香港Vlog",
+          "url": "https://search.bilibili.com/all?keyword=NiKo%E6%9B%B4%E6%96%B0%E9%A6%99%E6%B8%AFVlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            7,
+            15,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时47分 ~ 14时17分]"
         },
         {
           "title": "WTT香港总决赛赛程",
@@ -55,17 +70,6 @@
           "time_info": "08时47分"
         },
         {
-          "title": "市场消息：人工智能公司MiniMax和智谱据悉计划很快进行香港IPO。",
-          "url": "https://flash.jin10.com/detail/20251211123613216800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
           "title": "WTT 香港总决赛，王曼昱 4-2 张本美和晋级八强，如何评价本场比赛两人的发挥？",
           "url": "https://www.zhihu.com/question/1982179936195323399",
           "source": "知乎",
@@ -75,20 +79,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
-        },
-        {
-          "title": "NiKo更新香港Vlog",
-          "url": "https://search.bilibili.com/all?keyword=NiKo%E6%9B%B4%E6%96%B0%E9%A6%99%E6%B8%AFVlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            7,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时47分 ~ 13时14分]"
         },
         {
           "title": "汇丰维持香港最优惠贷款利率在5%不变。 中银香港称其港元最优惠利率及活期储蓄存款利率维持不变。 渣打香港宣布港元最优惠利率维持不变于年息5.25%。",
@@ -115,6 +105,32 @@
           "time_info": "[12时26分 ~ 13时14分]"
         },
         {
+          "title": "市场消息：人工智能公司MiniMax和智谱据悉计划很快进行香港IPO。",
+          "url": "https://flash.jin10.com/detail/20251211123613216800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时17分]"
+        },
+        {
+          "title": "深圳街头炒粉藏着最戳心的温暖",
+          "url": "https://www.douyin.com/hot/2332910",
+          "source": "抖音",
+          "ranks": [
+            20,
+            17,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 14时17分]"
+        },
+        {
           "title": "为什么广东好像很少见公共浴室？",
           "url": "https://www.zhihu.com/question/1980185410287199112",
           "source": "知乎",
@@ -127,17 +143,16 @@
           "time_info": "[08时47分 ~ 11时52分]"
         },
         {
-          "title": "深圳街头炒粉藏着最戳心的温暖",
-          "url": "https://www.douyin.com/hot/2332910",
-          "source": "抖音",
+          "title": "汇丰香港：自12月12日起下调美元储蓄存款户口利率12.4个基点至0.001%。",
+          "url": "https://flash.jin10.com/detail/20251211123327102800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            17,
-            13
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时14分]"
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时17分]"
         },
         {
           "title": "香港汇丰银行宣布将港元最优惠利率维持在5%。",
@@ -152,15 +167,16 @@
           "time_info": "[12时26分 ~ 13时14分]"
         },
         {
-          "title": "汇丰香港：自12月12日起下调美元储蓄存款户口利率12.4个基点至0.001%。",
-          "url": "https://flash.jin10.com/detail/20251211123327102800",
-          "source": "金十数据",
+          "title": "刘强东砸35亿港元在香港买楼",
+          "url": "https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E7%A0%B835%E4%BA%BF%E6%B8%AF%E5%85%83%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%B9%B0%E6%A5%BC",
+          "source": "百度热搜",
           "ranks": [
-            6
+            27,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时17分]"
         },
         {
           "title": "人工智能独角兽企业稀宇和智谱据悉计划很快进行香港IPO。（彭博）",
@@ -169,18 +185,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "刘强东砸35亿港元在香港买楼",
-          "url": "https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E7%A0%B835%E4%BA%BF%E6%B8%AF%E5%85%83%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%B9%B0%E6%A5%BC",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
