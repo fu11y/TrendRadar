@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T08:47:23.016326+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-11T10:47:26.268729+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "深圳一宅地溢价率65%！年末多地土拍高溢价成交",
@@ -45,33 +45,75 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32146570",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时47分"
-        },
-        {
-          "title": "为什么广东好像很少见公共浴室？",
-          "url": "https://www.zhihu.com/question/1980185410287199112",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时47分"
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 10时47分]"
         },
         {
           "title": "NiKo更新香港Vlog",
           "url": "https://search.bilibili.com/all?keyword=NiKo%E6%9B%B4%E6%96%B0%E9%A6%99%E6%B8%AFVlog",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 10时47分]"
+        },
+        {
+          "title": "为什么广东好像很少见公共浴室？",
+          "url": "https://www.zhihu.com/question/1980185410287199112",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 10时47分]"
+        },
+        {
+          "title": "网红澳门CoCo姐多平台被封禁",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%BE%B3%E9%97%A8CoCo%E5%A7%90%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%A2%AB%E5%B0%81%E7%A6%81%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时47分"
+          "time_info": "10时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
+          "url": "https://flash.jin10.com/detail/20251211101756207800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         }
       ]
     },
