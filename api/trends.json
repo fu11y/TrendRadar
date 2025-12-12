@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-12T16:15:53.342110+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2025-12-12T17:15:36.164627+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "香港监管受不了了，联名警示IPO保荐人，直指上市文件质量堪忧",
+          "url": "https://www.cls.cn/detail/2227346",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时46分 ~ 17时15分]"
+        },
         {
           "title": "针对美国会年度报告，香港、澳门特区政府同日发声",
           "url": "https://news.ifeng.com/c/8p1995QT56u",
@@ -20,20 +34,6 @@
           "time_info": "[10时46分 ~ 15时15分]"
         },
         {
-          "title": "香港监管受不了了，联名警示IPO保荐人，直指上市文件质量堪忧",
-          "url": "https://www.cls.cn/detail/2227346",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时46分 ~ 16时15分]"
-        },
-        {
           "title": "李现在澳门扫街摄影，被路人警告「把我删了，不然报警」，拍到路人算侵权吗？在澳门街头摄影都有哪些红线？",
           "url": "https://www.zhihu.com/question/1981761416898770243",
           "source": "知乎",
@@ -45,19 +45,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时46分 ~ 16时15分]"
+          "appearance_count": 10,
+          "time_info": "[10时46分 ~ 17时15分]"
         },
         {
           "title": "香港恒生指数收盘上涨1.75%。恒生科技指数收盘涨1.87%。商汤涨4.7%，同城旅行、阿里健康、网易涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3019760",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 17时15分]"
         },
         {
           "title": "WTT 香港年终决赛，女单 1/8 决赛孙颖莎 4-0 王艺迪，如何评价本场比赛？",
@@ -91,9 +92,31 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 17时15分]"
+        },
+        {
+          "title": "香港将于9个月内完成火灾成因报告",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%B0%86%E4%BA%8E9%E4%B8%AA%E6%9C%88%E5%86%85%E5%AE%8C%E6%88%90%E7%81%AB%E7%81%BE%E6%88%90%E5%9B%A0%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时15分"
+          "time_info": "17时15分"
+        },
+        {
+          "title": "银河通用据悉可能在香港IPO中寻求至多40亿美元的估值，选定中信、华泰、瑞银负责安排香港IPO事宜。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3019768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "张本智和晋级WTT香港总决赛男单8强",
@@ -113,7 +136,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -135,7 +158,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         }
@@ -166,8 +189,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时24分 ~ 16时15分]"
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 17时15分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -250,11 +273,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时46分 ~ 16时15分]"
+          "appearance_count": 10,
+          "time_info": "[10时46分 ~ 17时15分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
@@ -302,7 +326,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         }
