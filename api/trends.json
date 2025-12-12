@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T14:17:22.617618+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2025-12-12T15:15:02.322377+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 14时17分]"
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 15时15分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时52分 ~ 14时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时52分 ~ 15时15分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -41,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 14时17分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 15时15分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -115,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 14时17分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 15时15分]"
         },
         {
           "title": "李现在澳门扫街摄影，被路人警告「把我删了，不然报警」，拍到路人算侵权吗？在澳门街头摄影都有哪些红线？",
@@ -126,11 +126,12 @@
             20,
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 14时17分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 15时15分]"
         },
         {
           "title": "香港监管受不了了，联名警示IPO保荐人，直指上市文件质量堪忧",
@@ -142,8 +143,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 14时17分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 15时15分]"
         },
         {
           "title": "WTT 香港年终决赛，女单 1/8 决赛孙颖莎 4-0 王艺迪，如何评价本场比赛？",
@@ -151,11 +152,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 15时15分]"
         },
         {
           "title": "珠海市市长吴泽桐：超7600家澳资企业在横琴投资兴业",
@@ -206,8 +208,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 14时17分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 15时15分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
