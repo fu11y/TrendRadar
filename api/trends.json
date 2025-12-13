@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T17:10:21.223564+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2025-12-13T18:10:11.244894+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "source": "抖音",
           "ranks": [
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 17时10分]"
+          "appearance_count": 5,
+          "time_info": "[15时02分 ~ 18时10分]"
         },
         {
           "title": "香港将于9个月内完成火灾成因报告",
@@ -123,8 +124,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时44分 ~ 17时10分]"
+          "appearance_count": 13,
+          "time_info": "[08时44分 ~ 18时10分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
