@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T16:13:29.920732+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2025-12-13T17:10:21.223564+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,18 @@
           "time_info": "[11时43分 ~ 16时13分]"
         },
         {
+          "title": "WTT香港总决赛今日赛程",
+          "url": "https://www.douyin.com/hot/2334982",
+          "source": "抖音",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 17时10分]"
+        },
+        {
           "title": "香港将于9个月内完成火灾成因报告",
           "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%B0%86%E4%BA%8E9%E4%B8%AA%E6%9C%88%E5%86%85%E5%AE%8C%E6%88%90%E7%81%AB%E7%81%BE%E6%88%90%E5%9B%A0%E6%8A%A5%E5%91%8A",
           "source": "bilibili 热搜",
@@ -47,18 +59,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时44分 ~ 10时27分]"
-        },
-        {
-          "title": "WTT香港总决赛今日赛程",
-          "url": "https://www.douyin.com/hot/2334982",
-          "source": "抖音",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时13分]"
         },
         {
           "title": "WTT 香港总决赛，混双第三轮孙颖莎 / 王楚钦 3-2 黄镇廷 / 杜凯琹，如何评价本场比赛？",
@@ -123,8 +123,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时44分 ~ 16时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时44分 ~ 17时10分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
