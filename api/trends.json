@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T13:10:58.428446+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2025-12-13T14:15:05.097476+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时10分]"
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 14时15分]"
         },
         {
           "title": "深圳将建全国首个机器人友好示范城区",
@@ -27,11 +27,12 @@
           "ranks": [
             4,
             9,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时10分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时15分]"
         },
         {
           "title": "香港将于9个月内完成火灾成因报告",
@@ -103,11 +104,12 @@
             9,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时10分]"
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 14时15分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
