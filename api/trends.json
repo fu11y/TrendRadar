@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-13T11:43:04.780692+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2025-12-13T12:16:32.096775+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 7,
       "titles": [
-        {
-          "title": "深圳将建全国首个机器人友好示范城区",
-          "url": "https://wallstreetcn.com/livenews/3020190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
         {
           "title": "香港特区政府要求独立委员会9个月内完成大埔火灾成因报告",
           "url": "https://m.thepaper.cn/newsDetail_forward_32162597",
@@ -27,8 +16,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时44分 ~ 11时43分]"
+          "appearance_count": 5,
+          "time_info": "[08时44分 ~ 12时16分]"
+        },
+        {
+          "title": "深圳将建全国首个机器人友好示范城区",
+          "url": "https://wallstreetcn.com/livenews/3020190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时16分]"
         },
         {
           "title": "香港将于9个月内完成火灾成因报告",
@@ -99,11 +100,12 @@
           "ranks": [
             9,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时44分 ~ 11时43分]"
+          "appearance_count": 5,
+          "time_info": "[08时44分 ~ 12时16分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -113,8 +115,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时44分 ~ 11时43分]"
+          "appearance_count": 5,
+          "time_info": "[08时44分 ~ 12时16分]"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
@@ -141,8 +143,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 12时16分]"
         },
         {
           "title": "谷歌推出AI语音同声传译功能 不知道对方是哪国人也能用",
