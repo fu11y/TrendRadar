@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T15:02:52.303272+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2025-12-13T16:13:29.920732+08:00",
+  "total_titles_processed": 667,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时44分 ~ 15时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 16时13分]"
         },
         {
           "title": "深圳将建全国首个机器人友好示范城区",
@@ -29,11 +29,12 @@
             9,
             20,
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时43分 ~ 15时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时43分 ~ 16时13分]"
         },
         {
           "title": "香港将于9个月内完成火灾成因报告",
@@ -52,11 +53,12 @@
           "url": "https://www.douyin.com/hot/2334982",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 16时13分]"
         },
         {
           "title": "WTT 香港总决赛，混双第三轮孙颖莎 / 王楚钦 3-2 黄镇廷 / 杜凯琹，如何评价本场比赛？",
@@ -117,11 +119,12 @@
             5,
             6,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时44分 ~ 15时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 16时13分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
