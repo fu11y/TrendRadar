@@ -1,181 +1,39 @@
 {
-  "generated_at": "2025-12-13T18:10:11.244894+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2025-12-14T08:52:02.279900+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "香港特区政府要求独立委员会9个月内完成大埔火灾成因报告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32162597",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时44分 ~ 16时13分]"
-        },
-        {
-          "title": "深圳将建全国首个机器人友好示范城区",
-          "url": "https://wallstreetcn.com/livenews/3020190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            20,
-            24,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 16时13分]"
-        },
-        {
-          "title": "WTT香港总决赛今日赛程",
-          "url": "https://www.douyin.com/hot/2334982",
-          "source": "抖音",
-          "ranks": [
-            12,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时02分 ~ 18时10分]"
-        },
-        {
-          "title": "香港将于9个月内完成火灾成因报告",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%B0%86%E4%BA%8E9%E4%B8%AA%E6%9C%88%E5%86%85%E5%AE%8C%E6%88%90%E7%81%AB%E7%81%BE%E6%88%90%E5%9B%A0%E6%8A%A5%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 10时27分]"
-        },
-        {
-          "title": "WTT 香港总决赛，混双第三轮孙颖莎 / 王楚钦 3-2 黄镇廷 / 杜凯琹，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1982890305129840706",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
-          "title": "李现澳门“扫街”被警告",
-          "url": "https://www.toutiao.com/trending/7581821704478801956/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
-          "title": "孙颖莎晋级WTT香港总决赛女单4强",
-          "url": "https://www.toutiao.com/trending/7582628765353181225/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "WTT香港总决赛国乒女单包揽四强",
-          "url": "https://www.toutiao.com/trending/7582872892871065626/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时44分 ~ 18时10分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时44分 ~ 12时16分]"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
-          "url": "https://flash.jin10.com/detail/20251213033638415800",
+          "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
+          "url": "https://flash.jin10.com/detail/20251213225118795800",
           "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
           "ranks": [
             8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 12时16分]"
-        },
-        {
-          "title": "谷歌推出AI语音同声传译功能 不知道对方是哪国人也能用",
-          "url": "https://www.cls.cn/detail/2228546",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "08时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“香港专业服务出海平台”启动",
+          "url": "https://wallstreetcn.com/livenews/3020254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         }
       ]
     }
