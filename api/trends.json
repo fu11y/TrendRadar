@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T16:17:27.187856+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2025-12-15T17:21:07.502625+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "收取茶位费需提前告知！广东三行业“诚信价格”行为指引公开征求意见",
@@ -27,7 +27,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时18分 ~ 15时16分]"
+        },
+        {
+          "title": "深圳政协原主席戴北方被查",
+          "url": "https://www.toutiao.com/trending/7583991466234675227/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "中央政府驻港联络办发言人：坚决支持香港特区依法对黎智英勾结外部势力危害国家安全犯罪予以惩治",
@@ -128,8 +139,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时49分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[08时49分 ~ 17时21分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）上海金午盘价为978.02元/克，较国际金价(983.71元/克)，低5.69元/克",
@@ -149,7 +160,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
