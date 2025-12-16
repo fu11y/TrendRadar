@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T16:17:11.694144+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2025-12-16T17:17:02.510465+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "广东省深圳市政协原主席戴北方被查，曾任深圳市委副书记",
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时52分 ~ 16时17分]"
+          "appearance_count": 11,
+          "time_info": "[11时52分 ~ 17时17分]"
         },
         {
           "title": "中国驻英国使馆发表声明：强烈谴责英方干预香港司法",
@@ -41,6 +42,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时47分 ~ 12时26分]"
+        },
+        {
+          "title": "梁振英直斥《苹果日报》是香港之耻，黎智英遗害一整代香港青年",
+          "url": "https://news.ifeng.com/c/8p8HEeRLRqB",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 17时17分]"
         },
         {
           "title": "深圳：要深挖内需潜力 在建设强大国内市场中提振和扩大消费",
@@ -55,17 +67,6 @@
           "time_info": "[12时26分 ~ 13时15分]"
         },
         {
-          "title": "梁振英直斥《苹果日报》是香港之耻，黎智英遗害一整代香港青年",
-          "url": "https://news.ifeng.com/c/8p8HEeRLRqB",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时17分]"
-        },
-        {
           "title": "香港证监会将“香港稳定币交易所”列入可疑虚拟资产交易平台名单",
           "url": "https://wallstreetcn.com/livenews/3021491",
           "source": "华尔街见闻-快讯",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "中国香港11月三个月失业率 3.8%，预期3.8%，前值3.80%。",
+          "url": "https://flash.jin10.com/detail/20251216163009678800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "香港恒生指数跌幅扩大至2%。恒生科技指数跌超2.5%。",
@@ -94,7 +106,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -184,6 +196,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“俄版谷歌”，正帮中国商人大赚",
+          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 16时17分]"
+        },
+        {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -197,23 +237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“俄版谷歌”，正帮中国商人大赚",
-          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 16时17分]"
         }
       ]
     },
