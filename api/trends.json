@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T13:14:24.081402+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2025-12-18T14:17:11.993875+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "香港宣布取消维港跨年烟花汇演",
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时43分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时43分 ~ 14时17分]"
         },
         {
           "title": "深圳：“十四五”前四年GDP增速居一线城市首位",
@@ -33,6 +33,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "香港公布首份中医药发展蓝图",
+          "url": "https://wallstreetcn.com/livenews/3022879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "王楚钦和孙颖莎锁定2026澳门单打世界杯参赛资格",
           "url": "https://m.thepaper.cn/newsDetail_forward_32196072",
           "source": "澎湃新闻",
@@ -41,8 +52,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时43分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 14时17分]"
         },
         {
           "title": "香港取消维港跨年烟花汇演",
@@ -60,11 +71,12 @@
           "url": "https://wallstreetcn.com/livenews/3022839",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时17分]"
         },
         {
           "title": "中国央行：将通过香港金融管理局债务工具中央结算系统招标发行第十期中央银行票据，发行量为人民币400亿元。",
@@ -92,7 +104,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -103,8 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 14时17分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
@@ -117,6 +129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时49分 ~ 12时24分]"
+        },
+        {
+          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
+          "url": "https://www.zhihu.com/question/1984788546771517931",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "白银成全球第四大资产 市值超越谷歌",
@@ -133,7 +156,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI已商讨以约7500亿美元估值融资数百亿美元，筹资最高1000亿美元。（The Information）",
@@ -145,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "据悉OpenAI拟融资高达1000亿美元，公司估值约为7500亿美元",
