@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T11:49:49.385839+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2025-12-18T12:24:30.138564+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时43分 ~ 11时49分]"
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 12时24分]"
         },
         {
           "title": "深圳：“十四五”前四年GDP增速居一线城市首位",
@@ -46,11 +47,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32196072",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 12时24分]"
         },
         {
           "title": "中国央行：将通过香港金融管理局债务工具中央结算系统招标发行第十期中央银行票据，发行量为人民币400亿元。",
@@ -89,19 +91,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 11时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 12时24分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
           "url": "https://www.cls.cn/detail/2232789",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时24分]"
         },
         {
           "title": "白银成全球第四大资产 市值超越谷歌",
@@ -110,7 +113,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         }
@@ -155,7 +158,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         }
