@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T17:15:59.932871+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2025-12-19T18:12:07.126163+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             19,
             18,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[14时16分 ~ 18时12分]"
         },
         {
           "title": "深圳突破一批“卡脖子”技术",
@@ -88,7 +89,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
