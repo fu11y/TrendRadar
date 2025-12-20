@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T16:13:24.857916+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2025-12-20T17:10:22.087725+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "4055万元！深圳发放全市首张房票 城市更新迈向多元化安置",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时44分 ~ 16时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时44分 ~ 17时10分]"
         },
         {
           "title": "徐杰助攻登广东队史第二",
@@ -91,11 +92,24 @@
           "source": "今日头条",
           "ranks": [
             24,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时09分 ~ 16时13分]"
+          "appearance_count": 4,
+          "time_info": "[15时09分 ~ 17时10分]"
+        },
+        {
+          "title": "逾60家海内外企业机构签约进驻河套香港园区",
+          "url": "https://flash.jin10.com/detail/20251220150044103800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 17时10分]"
         },
         {
           "title": "澳门回归26周年",
@@ -107,17 +121,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "逾60家海内外企业机构签约进驻河套香港园区",
-          "url": "https://flash.jin10.com/detail/20251220150044103800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
         },
         {
           "title": "澳门回归26周年",
@@ -140,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "香港火灾遇难者增至161人，一具遗体中检测出夫妇二人的DNA",
+          "url": "https://news.ifeng.com/c/8pEfXfFWcLX",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时10分"
         },
         {
           "title": "谢霆锋叹“太卷了”：连深圳都开滑雪场",
@@ -176,11 +190,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时44分 ~ 16时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时44分 ~ 17时10分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -224,11 +239,12 @@
             15,
             18,
             19,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 16时13分]"
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 17时10分]"
         }
       ]
     }
