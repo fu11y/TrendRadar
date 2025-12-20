@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-20T10:27:48.790740+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2025-12-20T11:43:00.240706+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "徐杰助攻登广东队史第二",
+          "url": "https://www.douyin.com/hot/2341770",
+          "source": "抖音",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 11时43分]"
+        },
         {
           "title": "CBA广东力克广州",
           "url": "https://www.douyin.com/hot/2341459",
@@ -27,19 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 10时27分]"
-        },
-        {
-          "title": "徐杰助攻登广东队史第二",
-          "url": "https://www.douyin.com/hot/2341770",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 10时27分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 11时43分]"
         },
         {
           "title": "澳门回归26周年 重温解放军进驻瞬间",
@@ -47,11 +48,12 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 10时27分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 11时43分]"
         },
         {
           "title": "香港殉职消防员何伟豪安葬浩园，女友含泪告别",
@@ -62,8 +64,19 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 11时43分]"
+        },
+        {
+          "title": "澳门回归26周年",
+          "url": "https://www.douyin.com/hot/2341428",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时44分 ~ 10时27分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
           "title": "澳门回归26周年",
@@ -72,7 +85,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -83,7 +96,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -113,8 +126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 10时27分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 11时43分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -125,8 +138,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 10时27分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 11时43分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -134,11 +147,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 11时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
+          "url": "https://flash.jin10.com/detail/20251220105539232800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
         }
       ]
     }
