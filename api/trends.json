@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T12:28:55.015542+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2025-12-21T13:12:49.856813+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 12时28分]"
+          "appearance_count": 6,
+          "time_info": "[08时51分 ~ 13时12分]"
+        },
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时51分 ~ 13时12分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -31,19 +44,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时51分 ~ 11时56分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 12时28分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -67,11 +67,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32220866",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 12时28分]"
+          "appearance_count": 6,
+          "time_info": "[08时51分 ~ 13时12分]"
         },
         {
           "title": "广东人的冬至习俗：“解冻”陈奕迅",
@@ -80,22 +81,52 @@
           "ranks": [
             5,
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 13时12分]"
         },
         {
           "title": "广东新会就“陈皮产地造假”再通报：对6家企业作出处理",
           "url": "https://m.thepaper.cn/newsDetail_forward_32221061",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 13时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价又涨了",
+          "url": "https://www.toutiao.com/trending/7585066190079459391/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时28分]"
+        },
+        {
+          "title": "金价又涨了",
+          "url": "https://www.douyin.com/hot/2342947",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     },
@@ -110,28 +141,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价又涨了",
-          "url": "https://www.toutiao.com/trending/7585066190079459391/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 13时12分]"
         }
       ]
     }
