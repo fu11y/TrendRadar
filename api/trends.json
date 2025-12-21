@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T17:10:51.380664+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2025-12-21T18:10:52.122564+08:00",
+  "total_titles_processed": 744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "广东江门新会再通报陈皮产地造假：将对6家涉事企业作出处理",
@@ -15,11 +15,12 @@
             18,
             17,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时51分 ~ 17时10分]"
+          "appearance_count": 12,
+          "time_info": "[08时51分 ~ 18时10分]"
         },
         {
           "title": "广东新会就“陈皮产地造假”再通报：对6家企业作出处理",
@@ -29,11 +30,12 @@
             12,
             10,
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时53分 ~ 17时10分]"
+          "appearance_count": 10,
+          "time_info": "[10时53分 ~ 18时10分]"
         },
         {
           "title": "陈茂波：香港不断完善交通基建网络提升整体竞争力",
@@ -43,11 +45,12 @@
             2,
             4,
             9,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 17时10分]"
+          "appearance_count": 5,
+          "time_info": "[14时15分 ~ 18时10分]"
         },
         {
           "title": "陈茂波：香港不断完善交通基建网络提升整体竞争力",
@@ -56,11 +59,12 @@
           "ranks": [
             1,
             4,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时11分 ~ 17时10分]"
+          "appearance_count": 4,
+          "time_info": "[15时11分 ~ 18时10分]"
         },
         {
           "title": "广东人的冬至习俗：“解冻”陈奕迅",
@@ -79,26 +83,16 @@
         },
         {
           "title": "广东把冬至过成夏至",
-          "url": "https://www.toutiao.com/trending/7585458879379770899/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        },
-        {
-          "title": "广东把冬至过成夏至",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%8A%8A%E5%86%AC%E8%87%B3%E8%BF%87%E6%88%90%E5%A4%8F%E8%87%B3",
           "source": "百度热搜",
           "ranks": [
             30,
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时13分 ~ 17时10分]"
+          "appearance_count": 3,
+          "time_info": "[16时13分 ~ 18时10分]"
         },
         {
           "title": "泽璟制药：已向香港联交所递交H股发行上市申请",
@@ -106,11 +100,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时13分 ~ 18时10分]"
+        },
+        {
+          "title": "广东把冬至过成夏至",
+          "url": "https://www.toutiao.com/trending/7585458879379770899/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时13分 ~ 17时10分]"
+          "time_info": "[17时10分 ~ 18时10分]"
         },
         {
           "title": "粤港澳大湾区水科技创新中心揭牌成立",
@@ -137,6 +144,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时13分 ~ 17时10分]"
+        },
+        {
+          "title": "生个娃只花了9块？广东宝妈晒账单",
+          "url": "https://www.baidu.com/s?wd=%E7%94%9F%E4%B8%AA%E5%A8%83%E5%8F%AA%E8%8A%B1%E4%BA%869%E5%9D%97%EF%BC%9F%E5%B9%BF%E4%B8%9C%E5%AE%9D%E5%A6%88%E6%99%92%E8%B4%A6%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         }
       ]
     },
@@ -216,8 +234,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时53分 ~ 17时10分]"
+          "appearance_count": 10,
+          "time_info": "[10时53分 ~ 18时10分]"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
@@ -240,6 +258,20 @@
       "titles": [
         {
           "title": "金价又涨了",
+          "url": "https://www.douyin.com/hot/2342947",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时12分 ~ 18时10分]"
+        },
+        {
+          "title": "金价又涨了",
           "url": "https://www.toutiao.com/trending/7585066190079459391/",
           "source": "今日头条",
           "ranks": [
@@ -248,19 +280,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 12时28分]"
-        },
-        {
-          "title": "金价又涨了",
-          "url": "https://www.douyin.com/hot/2342947",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时12分 ~ 17时10分]"
         }
       ]
     }
