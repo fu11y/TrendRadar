@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T10:53:26.202990+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2025-12-21T11:56:28.407455+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 10时53分]"
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 11时56分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
           "url": "https://wallstreetcn.com/articles/3761763",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 10时53分]"
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 11时56分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -36,11 +38,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 10时53分]"
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 11时56分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -64,11 +67,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E5%86%AC%E8%87%B3%E4%B9%A0%E4%BF%97%EF%BC%9A%E2%80%9C%E8%A7%A3%E5%86%BB%E2%80%9D%E9%99%88%E5%A5%95%E8%BF%85",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 11时56分]"
         },
         {
           "title": "广东江门新会再通报陈皮产地造假：将对6家涉事企业作出处理",
@@ -78,8 +82,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 10时53分]"
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 11时56分]"
         },
         {
           "title": "广东新会就“陈皮产地造假”再通报：对6家企业作出处理",
@@ -88,9 +92,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 11时56分]"
         }
       ]
     },
@@ -103,11 +107,29 @@
           "url": "https://wallstreetcn.com/articles/3761778",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 11时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价又涨了",
+          "url": "https://www.toutiao.com/trending/7585066190079459391/",
+          "source": "今日头条",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "11时56分"
         }
       ]
     }
