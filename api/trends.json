@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T08:52:00.138151+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2025-12-21T10:53:26.202990+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 08时52分]"
+          "appearance_count": 3,
+          "time_info": "[08时51分 ~ 10时53分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -26,19 +27,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 08时52分]"
+          "appearance_count": 3,
+          "time_info": "[08时51分 ~ 10时53分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
           "url": "https://wallstreetcn.com/articles/3761776",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 08时52分]"
+          "appearance_count": 3,
+          "time_info": "[08时51分 ~ 10时53分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -55,8 +57,19 @@
     },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "广东人的冬至习俗：“解冻”陈奕迅",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E5%86%AC%E8%87%B3%E4%B9%A0%E4%BF%97%EF%BC%9A%E2%80%9C%E8%A7%A3%E5%86%BB%E2%80%9D%E9%99%88%E5%A5%95%E8%BF%85",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
         {
           "title": "广东江门新会再通报陈皮产地造假：将对6家涉事企业作出处理",
           "url": "https://m.thepaper.cn/newsDetail_forward_32220866",
@@ -65,8 +78,36 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 08时52分]"
+          "appearance_count": 3,
+          "time_info": "[08时51分 ~ 10时53分]"
+        },
+        {
+          "title": "广东新会就“陈皮产地造假”再通报：对6家企业作出处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32221061",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     }
