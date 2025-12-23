@@ -1,182 +1,83 @@
 {
-  "generated_at": "2025-12-22T18:12:37.996306+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2025-12-23T08:46:58.671582+08:00",
+  "total_titles_processed": 284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "香港金管局、商经局及知识产权署推出知识产权融资沙盒",
-          "url": "https://wallstreetcn.com/livenews/3024854",
+          "title": "报道：芯片制造商壁仞科技的香港IPO面向散户发售部分获47倍超额认购",
+          "url": "https://wallstreetcn.com/livenews/3025187",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            10
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时12分]"
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
-          "title": "广东一家长怀抱幼儿马路边执勤",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AE%B6%E9%95%BF%E6%80%80%E6%8A%B1%E5%B9%BC%E5%84%BF%E9%A9%AC%E8%B7%AF%E8%BE%B9%E6%89%A7%E5%8B%A4",
+          "title": "香港10亿日元劫案已拘捕15人",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF10%E4%BA%BF%E6%97%A5%E5%85%83%E5%8A%AB%E6%A1%88%E5%B7%B2%E6%8B%98%E6%8D%9515%E4%BA%BA",
           "source": "百度热搜",
           "ranks": [
-            29,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 18时12分]"
-        },
-        {
-          "title": "瑞派宠物医院申请香港IPO。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3024801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 17时17分]"
-        },
-        {
-          "title": "中国央行在香港发行400亿元人民币6个月期央票，中标利率1.67%。",
-          "url": "https://wallstreetcn.com/livenews/3024699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时19分]"
-        },
-        {
-          "title": "广州至湛江高铁正式开通运营，粤西纳入大湾区90分钟生活圈",
-          "url": "https://wallstreetcn.com/livenews/3024646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时39分]"
-        },
-        {
-          "title": "中国央行在香港发行400亿元人民币6个月期央行票据 息率1.67%",
-          "url": "https://wallstreetcn.com/livenews/3024736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时16分"
+          "time_info": "08时46分"
         },
         {
-          "title": "广东把冬至过成夏至",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%8A%8A%E5%86%AC%E8%87%B3%E8%BF%87%E6%88%90%E5%A4%8F%E8%87%B3",
+          "title": "“粤车南下”入境香港市区正式实施",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%B2%A4%E8%BD%A6%E5%8D%97%E4%B8%8B%E2%80%9D%E5%85%A5%E5%A2%83%E9%A6%99%E6%B8%AF%E5%B8%82%E5%8C%BA%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD",
           "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月22日（周一）上海金午盘价为993.82元/克，较国际金价(998.15元/克)低4.33元/克",
-          "url": "https://flash.jin10.com/detail/20251222150851524800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "金十图示：2025年12月22日（周一）上海金早盘价为984.6元/克，较国际金价(991.93元/克)低7.33元/克",
-          "url": "https://flash.jin10.com/detail/20251222110152377800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "金价再创新高，哪些长线逻辑值得关注？",
-          "url": "https://flash.jin10.com/detail/20251222102334389800",
-          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "08时46分"
+        },
+        {
+          "title": "广东陆丰核电项目2号机组主体工程启动建设",
+          "url": "https://wallstreetcn.com/livenews/3025173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "“粤车南下”驶入香港市区",
+          "url": "https://www.toutiao.com/trending/7585860021984968713/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
-          "url": "https://wallstreetcn.com/articles/3761798",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时51分 ~ 18时12分]"
-        },
-        {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时54分 ~ 15时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
-          "url": "https://www.zhihu.com/question/1985011347914774514",
-          "source": "知乎",
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时46分"
         }
       ]
     }
