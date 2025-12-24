@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T13:16:15.325041+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2025-12-24T14:17:47.072511+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             29,
             27,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 14时17分]"
         },
         {
           "title": "媒体人：广东5连胜徐杰功劳占8成",
