@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-25T17:13:39.728495+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2025-12-25T18:12:20.939069+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "广东：鼓励银行、保险机构研究覆盖低空经济研发等全生命周期的针对性金融产品",
-          "url": "https://wallstreetcn.com/livenews/3026673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
         {
           "title": "专家分析：深圳上海或将跟进放宽住房限购新政",
           "url": "https://wallstreetcn.com/livenews/3026527",
@@ -43,6 +32,18 @@
           "time_info": "[16时15分 ~ 17时13分]"
         },
         {
+          "title": "广东：鼓励银行、保险机构研究覆盖低空经济研发等全生命周期的针对性金融产品",
+          "url": "https://wallstreetcn.com/livenews/3026673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 18时12分]"
+        },
+        {
           "title": "广东省委常委、组织部部长冯忠华履新广州市委书记",
           "url": "https://m.thepaper.cn/newsDetail_forward_32244084",
           "source": "澎湃新闻",
@@ -53,6 +54,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时46分 ~ 11时55分]"
+        },
+        {
+          "title": "深圳大鹏佳兆业金沙湾大酒店二次拍卖被撤回，原起拍价5.53亿元",
+          "url": "https://wallstreetcn.com/livenews/3026667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 18时12分]"
         },
         {
           "title": "深圳新房单价破纪录 最高38万/㎡",
@@ -67,15 +80,15 @@
           "time_info": "[16时15分 ~ 17时13分]"
         },
         {
-          "title": "深圳大鹏佳兆业金沙湾大酒店二次拍卖被撤回，原起拍价5.53亿元",
-          "url": "https://wallstreetcn.com/livenews/3026667",
+          "title": "深圳首张城中村房票落地",
+          "url": "https://wallstreetcn.com/livenews/3026686",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "18时12分"
         },
         {
           "title": "广东：引入符合条件的境外私募股权基金参与QFLP试点，建立审批绿色通道",
