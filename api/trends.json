@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T15:14:25.420355+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2025-12-26T16:15:27.137223+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时47分 ~ 15时14分]"
+          "appearance_count": 11,
+          "time_info": "[10时47分 ~ 16时15分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
@@ -38,7 +39,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -51,8 +52,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时16分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时16分 ~ 16时15分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
@@ -108,6 +109,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "云游小编闹乌龙,深圳秒变夜之城",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348418&amp;topic_name=%E4%BA%91%E6%B8%B8%E5%B0%8F%E7%BC%96%E9%97%B9%E4%B9%8C%E9%BE%99%2C%E6%B7%B1%E5%9C%B3%E7%A7%92%E5%8F%98%E5%A4%9C%E4%B9%8B%E5%9F%8E",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时13分 ~ 16时15分]"
+        },
+        {
           "title": "广东江门一汽车坠河 一家五口遇难",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%9F%E9%97%A8%E4%B8%80%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B2%B3+%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E9%81%87%E9%9A%BE",
           "source": "百度热搜",
@@ -132,18 +146,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时26分 ~ 14时17分]"
-        },
-        {
-          "title": "云游小编闹乌龙,深圳秒变夜之城",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348418&amp;topic_name=%E4%BA%91%E6%B8%B8%E5%B0%8F%E7%BC%96%E9%97%B9%E4%B9%8C%E9%BE%99%2C%E6%B7%B1%E5%9C%B3%E7%A7%92%E5%8F%98%E5%A4%9C%E4%B9%8B%E5%9F%8E",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 15时14分]"
         }
       ]
     },
@@ -160,8 +162,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时46分 ~ 15时14分]"
+          "appearance_count": 13,
+          "time_info": "[08时46分 ~ 16时15分]"
         }
       ]
     }
