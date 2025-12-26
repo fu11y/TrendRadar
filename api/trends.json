@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T13:13:51.373422+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2025-12-26T14:17:03.833531+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时47分 ~ 13时13分]"
+          "appearance_count": 8,
+          "time_info": "[10时47分 ~ 14时17分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时53分 ~ 13时13分]"
+        },
+        {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -102,11 +113,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 14时17分]"
         },
         {
           "title": "云游小编闹乌龙,深圳秒变夜之城",
@@ -115,9 +127,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 14时17分]"
         }
       ]
     },
@@ -134,8 +146,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时46分 ~ 13时13分]"
+          "appearance_count": 10,
+          "time_info": "[08时46分 ~ 14时17分]"
         }
       ]
     }
