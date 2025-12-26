@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T16:15:27.137223+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2025-12-26T17:13:15.379450+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时47分 ~ 16时15分]"
+          "appearance_count": 12,
+          "time_info": "[10时47分 ~ 17时13分]"
+        },
+        {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时16分 ~ 17时13分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
@@ -42,18 +55,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
-        },
-        {
-          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
-          "url": "https://www.cls.cn/detail/2240558",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 16时15分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
@@ -106,7 +107,7 @@
     },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "云游小编闹乌龙,深圳秒变夜之城",
@@ -115,11 +116,12 @@
           "ranks": [
             7,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 16时15分]"
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 17时13分]"
         },
         {
           "title": "广东江门一汽车坠河 一家五口遇难",
@@ -146,6 +148,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时26分 ~ 14时17分]"
+        },
+        {
+          "title": "绿联科技：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3027191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         }
       ]
     },
@@ -162,8 +175,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时46分 ~ 16时15分]"
+          "appearance_count": 14,
+          "time_info": "[08时46分 ~ 17时13分]"
         }
       ]
     }
