@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-26T12:26:15.264829+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2025-12-26T13:13:51.373422+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 6,
       "titles": [
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时47分 ~ 13时13分]"
+        },
         {
           "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
           "url": "https://flash.jin10.com/detail/20251226101958346800",
@@ -19,16 +31,17 @@
           "time_info": "10时47分"
         },
         {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
+          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3026999",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            15,
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时47分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 13时13分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -42,27 +55,16 @@
           "time_info": "[08时46分 ~ 08时47分]"
         },
         {
-          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3026999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 12时26分]"
-        },
-        {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
           "url": "https://flash.jin10.com/detail/20251226112935984800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时13分]"
         },
         {
           "title": "中金：建议淡化黄金价格点位预测 更关注资产趋势改变时点",
@@ -79,19 +81,8 @@
     },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "深技大半导体微纳加工中心落成，打造大湾区化合物半导体光电产业支撑平台",
-          "url": "https://wallstreetcn.com/livenews/3027037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
         {
           "title": "广东江门一汽车坠河 一家五口遇难",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%9F%E9%97%A8%E4%B8%80%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B2%B3+%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E9%81%87%E9%9A%BE",
@@ -104,6 +95,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时47分 ~ 12时26分]"
+        },
+        {
+          "title": "深技大半导体微纳加工中心落成，打造大湾区化合物半导体光电产业支撑平台",
+          "url": "https://wallstreetcn.com/livenews/3027037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时13分]"
+        },
+        {
+          "title": "云游小编闹乌龙,深圳秒变夜之城",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348418&amp;topic_name=%E4%BA%91%E6%B8%B8%E5%B0%8F%E7%BC%96%E9%97%B9%E4%B9%8C%E9%BE%99%2C%E6%B7%B1%E5%9C%B3%E7%A7%92%E5%8F%98%E5%A4%9C%E4%B9%8B%E5%9F%8E",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     },
@@ -120,8 +134,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 12时26分]"
+          "appearance_count": 8,
+          "time_info": "[08时46分 ~ 13时13分]"
         }
       ]
     }
