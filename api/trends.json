@@ -1,160 +1,33 @@
 {
-  "generated_at": "2025-12-25T18:12:20.939069+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2025-12-26T08:47:02.781185+08:00",
+  "total_titles_processed": 284,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 9,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "专家分析：深圳上海或将跟进放宽住房限购新政",
-          "url": "https://wallstreetcn.com/livenews/3026527",
-          "source": "华尔街见闻-快讯",
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
           "ranks": [
-            1,
-            16
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时15分]"
+          "time_info": "[08时46分 ~ 08时47分]"
         },
         {
-          "title": "珠海机场年旅客吞吐量首破1300万人次 创30年通航新纪录",
-          "url": "https://wallstreetcn.com/livenews/3026645",
-          "source": "华尔街见闻-快讯",
+          "title": "中金：建议淡化黄金价格点位预测 更关注资产趋势改变时点",
+          "url": "https://flash.jin10.com/detail/20251226074230487800",
+          "source": "金十数据",
           "ranks": [
-            4,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 17时13分]"
-        },
-        {
-          "title": "广东：鼓励银行、保险机构研究覆盖低空经济研发等全生命周期的针对性金融产品",
-          "url": "https://wallstreetcn.com/livenews/3026673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时12分]"
-        },
-        {
-          "title": "广东省委常委、组织部部长冯忠华履新广州市委书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32244084",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时46分 ~ 11时55分]"
-        },
-        {
-          "title": "深圳大鹏佳兆业金沙湾大酒店二次拍卖被撤回，原起拍价5.53亿元",
-          "url": "https://wallstreetcn.com/livenews/3026667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时12分]"
-        },
-        {
-          "title": "深圳新房单价破纪录 最高38万/㎡",
-          "url": "https://wallstreetcn.com/livenews/3026631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 17时13分]"
-        },
-        {
-          "title": "深圳首张城中村房票落地",
-          "url": "https://wallstreetcn.com/livenews/3026686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "广东：引入符合条件的境外私募股权基金参与QFLP试点，建立审批绿色通道",
-          "url": "https://wallstreetcn.com/livenews/3026423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "广东：推动证券类投资基金支持扩张期、成熟期阶段的科技型企业提升估值与降低融资成本",
-          "url": "https://wallstreetcn.com/livenews/3026422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2239423",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 14时16分]"
-        },
-        {
-          "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
-          "url": "https://flash.jin10.com/detail/20251225150449280800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "金价狂飙 千元内几乎买不到金饰",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E5%8D%83%E5%85%83%E5%86%85%E5%87%A0%E4%B9%8E%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%87%91%E9%A5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时49分 ~ 13时15分]"
+          "time_info": "08时47分"
         }
       ]
     },
@@ -163,15 +36,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
-          "url": "https://wallstreetcn.com/livenews/3026375",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
+          "url": "https://wallstreetcn.com/articles/3762068",
+          "source": "华尔街见闻",
           "ranks": [
-            22
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 08时47分]"
         }
       ]
     }
