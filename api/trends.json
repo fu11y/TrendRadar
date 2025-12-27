@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T14:15:47.631654+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2025-12-27T15:10:42.661105+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 14时15分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 15时10分]"
         },
         {
           "title": "广东江门一在建桥施工栈桥发生车辆坠河一家五口遇难，镇政府：正善后",
@@ -41,11 +41,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 15时10分]"
         },
         {
           "title": "CBA广东击败山东",
