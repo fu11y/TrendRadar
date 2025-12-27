@@ -1,25 +1,14 @@
 {
-  "generated_at": "2025-12-27T11:50:20.864774+08:00",
-  "total_titles_processed": 449,
-  "failed_sources": [],
+  "generated_at": "2025-12-27T12:24:23.719238+08:00",
+  "total_titles_processed": 476,
+  "failed_sources": [
+    "tieba"
+  ],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 3,
       "titles": [
-        {
-          "title": "云游小编闹乌龙,深圳秒变夜之城",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348418&amp;topic_name=%E4%BA%91%E6%B8%B8%E5%B0%8F%E7%BC%96%E9%97%B9%E4%B9%8C%E9%BE%99%2C%E6%B7%B1%E5%9C%B3%E7%A7%92%E5%8F%98%E5%A4%9C%E4%B9%8B%E5%9F%8E",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时50分]"
-        },
         {
           "title": "广东江门一在建桥施工栈桥发生车辆坠河一家五口遇难，镇政府：正善后",
           "url": "https://m.thepaper.cn/newsDetail_forward_32256919",
@@ -30,8 +19,22 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时50分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 12时24分]"
+        },
+        {
+          "title": "云游小编闹乌龙,深圳秒变夜之城",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348418&amp;topic_name=%E4%BA%91%E6%B8%B8%E5%B0%8F%E7%BC%96%E9%97%B9%E4%B9%8C%E9%BE%99%2C%E6%B7%B1%E5%9C%B3%E7%A7%92%E5%8F%98%E5%A4%9C%E4%B9%8B%E5%9F%8E",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时45分 ~ 12时23分]"
         },
         {
           "title": "CBA广东击败山东",
@@ -39,11 +42,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 11时50分]"
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 12时24分]"
         }
       ]
     }
