@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T10:45:08.357912+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2025-12-27T11:50:20.864774+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 11时50分]"
         },
         {
           "title": "广东江门一在建桥施工栈桥发生车辆坠河一家五口遇难，镇政府：正善后",
@@ -25,22 +26,24 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 11时50分]"
         },
         {
           "title": "CBA广东击败山东",
           "url": "https://www.douyin.com/hot/2348471",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 11时50分]"
         }
       ]
     }
