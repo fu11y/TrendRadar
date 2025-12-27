@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T17:11:03.313758+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-12-27T18:10:14.612363+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,28 @@
             13,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时45分 ~ 17时11分]"
+          "appearance_count": 13,
+          "time_info": "[08时45分 ~ 18时10分]"
+        },
+        {
+          "title": "今年访问澳门旅客已达3941.1万人次 创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3027530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            8,
+            11,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 18时10分]"
         },
         {
           "title": "广东江门一在建桥施工栈桥发生车辆坠河一家五口遇难，镇政府：正善后",
@@ -34,21 +51,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时45分 ~ 13时12分]"
-        },
-        {
-          "title": "今年访问澳门旅客已达3941.1万人次 创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3027530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            8,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 17时11分]"
         },
         {
           "title": "CBA广东击败山东",
