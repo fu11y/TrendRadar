@@ -1,8 +1,47 @@
 {
-  "generated_at": "2025-12-28T11:01:22.938803+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2025-12-28T12:08:21.649870+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "香港财政司司长陈茂波：继续从三方面助力人民币国际化的稳慎推进",
+          "url": "https://wallstreetcn.com/livenews/3027595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "香港财政司司长陈茂波：明年香港经济可望保持良好势头",
+          "url": "https://wallstreetcn.com/livenews/3027594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "深圳一汽车连轧多条实线变道下高速",
+          "url": "https://www.toutiao.com/trending/7588588916274675758/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
     {
       "keyword_group": "金价",
       "match_count": 1,
@@ -12,11 +51,12 @@
           "url": "https://flash.jin10.com/detail/20251228100400527800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时08分]"
         }
       ]
     }
