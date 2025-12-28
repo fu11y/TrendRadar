@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-28T08:54:25.210078+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2025-12-28T11:01:22.938803+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
+          "url": "https://flash.jin10.com/detail/20251228100400527800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
