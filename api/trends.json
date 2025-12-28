@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-28T14:16:17.363786+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2025-12-28T15:12:23.750400+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "香港入境处回应2名港人在乌战死传言",
           "url": "https://www.toutiao.com/trending/7588753347952348710/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 14时16分]"
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 15时12分]"
         },
         {
           "title": "香港财政司司长陈茂波：继续从三方面助力人民币国际化的稳慎推进",
@@ -25,11 +26,12 @@
           "ranks": [
             3,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 15时12分]"
         },
         {
           "title": "香港财政司司长陈茂波：明年香港经济可望保持良好势头",
@@ -38,11 +40,12 @@
           "ranks": [
             4,
             10,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 15时12分]"
         },
         {
           "title": "深圳一汽车连轧多条实线变道下高速",
@@ -63,28 +66,41 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 14时16分]"
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 15时12分]"
         },
         {
           "title": "官方回应2名香港人在乌战死",
           "url": "https://www.douyin.com/hot/2349819",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 15时12分]"
+        },
+        {
+          "title": "乒超女团决赛深圳大学夺冠",
+          "url": "https://www.toutiao.com/trending/7588172809172615187/",
+          "source": "今日头条",
+          "ranks": [
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时16分"
+          "time_info": "15时12分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
@@ -98,6 +114,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时01分 ~ 13时15分]"
+        },
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     }
