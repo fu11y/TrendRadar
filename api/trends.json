@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-12-29T08:53:15.821471+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2025-12-29T11:01:32.144938+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "广东一理发店单次剪发6688元",
+          "url": "https://www.toutiao.com/trending/7588396305215537194/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "深圳大学夺乒超联赛女团冠军",
+          "url": "https://www.douyin.com/hot/2350042",
+          "source": "抖音",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 11时01分]"
+        },
         {
           "title": "深圳一豪宅楼盘2小时销售超100亿元",
           "url": "https://www.toutiao.com/trending/7588691348291764230/",
@@ -17,17 +40,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时52分 ~ 08时53分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "深圳大学夺乒超联赛女团冠军",
-          "url": "https://www.douyin.com/hot/2350042",
-          "source": "抖音",
+          "title": "据华尔街日报：包括谷歌和威瑞森通信等公司收到了关于其工作场所多元化项目的文件调取请求。",
+          "url": "https://flash.jin10.com/detail/20251229100547115800",
+          "source": "金十数据",
           "ranks": [
-            16
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
         }
       ]
     },
@@ -43,8 +72,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 11时01分]"
         }
       ]
     },
@@ -57,11 +86,12 @@
           "url": "https://wallstreetcn.com/articles/3762200",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 11时01分]"
         }
       ]
     }
