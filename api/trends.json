@@ -1,234 +1,72 @@
 {
-  "generated_at": "2025-12-29T18:12:43.691955+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2025-12-30T08:47:19.315535+08:00",
+  "total_titles_processed": 284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 9,
+      "match_count": 4,
       "titles": [
         {
           "title": "广东廉江祖孙三人遭邻居杀害案二审维持死刑判决",
           "url": "https://m.thepaper.cn/newsDetail_forward_32272704",
           "source": "澎湃新闻",
           "ranks": [
-            13,
-            12
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时19分 ~ 18时12分]"
+          "appearance_count": 1,
+          "time_info": "08时47分"
         },
         {
-          "title": "广东一理发店单次剪发6688元",
-          "url": "https://www.toutiao.com/trending/7588396305215537194/",
-          "source": "今日头条",
+          "title": "为什么深圳博物馆因展出「打工妹洗漱三件套」等日常物件，能一夜爆红、全网玩梗、年轻人抢着打卡？",
+          "url": "https://www.zhihu.com/question/1988613978612527403",
+          "source": "知乎",
           "ranks": [
-            4,
-            10,
-            28
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 13时21分]"
+          "appearance_count": 1,
+          "time_info": "08时47分"
         },
         {
-          "title": "你认可广东男篮小将陈家政的表现吗",
-          "url": "https://www.toutiao.com/trending/7588898212430577690/",
-          "source": "今日头条",
+          "title": "广东湛江市民在郊外纸箱内发现女婴，已送往福利院",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272429",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 16时17分]"
+          "appearance_count": 1,
+          "time_info": "08时47分"
         },
         {
-          "title": "深圳大学夺乒超联赛女团冠军",
-          "url": "https://www.douyin.com/hot/2350042",
-          "source": "抖音",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 11时01分]"
-        },
-        {
-          "title": "深圳一豪宅楼盘2小时销售超100亿元",
-          "url": "https://www.toutiao.com/trending/7588691348291764230/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
-        },
-        {
-          "title": "香港11月贸易逆差485亿港元。 香港11月出口同比增长18.8%，预估增长17.8%。 香港11月进口同比增长18.1%，预估增长14.3%。",
-          "url": "https://wallstreetcn.com/livenews/3028024",
+          "title": "手术机器人制造商精锋医疗寻求通过香港IPO融资12亿港元",
+          "url": "https://wallstreetcn.com/livenews/3028367",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时12分]"
-        },
-        {
-          "title": "知情人士：与越南电动汽车制造商VinFast(VFS.O)相关联的越南绿色智能出行股份公司GSM计划在香港进行首次公开募股（IPO），若能成行，该公司将成为首家在香港上市的越南企业。",
-          "url": "https://flash.jin10.com/detail/20251229133643107800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "金十图示：2018年9月至2025年11月中国香港对内地黄金净出口量一览",
-          "url": "https://flash.jin10.com/detail/20251229174219267800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "香港金管局：人民币业务资金安排第二阶段总额度增至1000亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3027882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "08时47分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "机构：金价在投资者锁定利润的背景下回落",
-          "url": "https://flash.jin10.com/detail/20251229170742878800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "金十图示：2025年12月29日（周一）上海金午盘价为1001.63元/克，较国际金价(1004.09元/克)，低2.46元/克",
-          "url": "https://flash.jin10.com/detail/20251229150239734800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 12时10分]"
-        },
-        {
-          "title": "瑞银：2026年前三个季度黄金目标价为每盎司5,000美元（此前预计为每盎司4500美元）。 预计到2026年底，黄金价格将小幅下跌至每盎司4,800美元。",
-          "url": "https://wallstreetcn.com/livenews/3028031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时12分]"
-        },
-        {
-          "title": "金十图示：2025年12月29日（周一）上海金早盘价为1010.41元/克，较国际金价(1016.45元/克)，低6.04元/克",
-          "url": "https://flash.jin10.com/detail/20251229105826518800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "瑞银集团：我们仍持多头立场，并将我们对2026年3月、6月和9月的黄金价格目标上调至每盎司5000美元（此前为每盎司4500美元）。预计到2026年底，黄金价格将小幅下跌至每盎司4800美元。",
-          "url": "https://flash.jin10.com/detail/20251229164025888800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "巴菲特谢幕、OpenAI搅动万亿市值、谷歌强势崛起......2025全球十大商业事件盘点",
-          "url": "https://wallstreetcn.com/articles/3762142",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 14时19分]"
-        },
-        {
-          "title": "据华尔街日报：包括谷歌和威瑞森通信等公司收到了关于其工作场所多元化项目的文件调取请求。",
-          "url": "https://flash.jin10.com/detail/20251229100547115800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "ChatGPT帮他杀死83岁母亲？",
-          "url": "https://news.ifeng.com/c/8pTGEplZnSO",
-          "source": "凤凰网",
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 13时21分]"
+          "appearance_count": 1,
+          "time_info": "08时47分"
         }
       ]
     }
