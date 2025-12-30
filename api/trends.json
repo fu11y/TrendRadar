@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-30T12:31:28.603262+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2025-12-30T13:15:55.099345+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 4,
       "titles": [
+        {
+          "title": "广东湛江市民在郊外纸箱内发现女婴，已送往福利院",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272429",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时47分 ~ 13时15分]"
+        },
         {
           "title": "广东廉江祖孙三人遭邻居杀害案二审维持死刑判决",
           "url": "https://m.thepaper.cn/newsDetail_forward_32272704",
@@ -15,19 +29,6 @@
             6,
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时47分 ~ 12时31分]"
-        },
-        {
-          "title": "广东湛江市民在郊外纸箱内发现女婴，已送往福利院",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272429",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -78,11 +79,12 @@
           "url": "https://www.zhihu.com/question/1989248950952288367",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时15分]"
         }
       ]
     },
@@ -99,8 +101,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时47分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[08时47分 ~ 13时15分]"
         }
       ]
     }
