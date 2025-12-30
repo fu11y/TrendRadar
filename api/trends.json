@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T10:50:15.948466+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2025-12-30T11:56:36.456756+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,25 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 10时50分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 11时56分]"
+        },
+        {
+          "title": "广东湛江市民在郊外纸箱内发现女婴，已送往福利院",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272429",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 11时56分]"
         },
         {
           "title": "为什么深圳博物馆因展出「打工妹洗漱三件套」等日常物件，能一夜爆红、全网玩梗、年轻人抢着打卡？",
@@ -26,18 +40,6 @@
           "ranks": [
             7,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 10时50分]"
-        },
-        {
-          "title": "广东湛江市民在郊外纸箱内发现女婴，已送往福利院",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272429",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -69,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 10时50分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 11时56分]"
         }
       ]
     },
@@ -85,7 +87,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
