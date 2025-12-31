@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:15:40.550421+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2025-12-31T17:15:39.988394+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             14,
             8,
             21,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时48分 ~ 16时15分]"
+          "appearance_count": 10,
+          "time_info": "[08时48分 ~ 17时15分]"
         },
         {
           "title": "MiniMax的香港IPO据悉获超额认购。（彭博）",
@@ -121,7 +122,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         }
