@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T15:15:09.182087+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-01-01T16:15:30.801944+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             9,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 15时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 16时15分]"
         },
         {
           "title": "广东省委书记黄坤明会见中核集团董事长申彦锋总经理张涛",
@@ -133,8 +134,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时54分 ~ 15时15分]"
+          "appearance_count": 10,
+          "time_info": "[08时54分 ~ 16时15分]"
         }
       ]
     }
