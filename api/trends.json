@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T11:02:30.308754+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-01-01T12:40:10.931824+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "广东省委书记黄坤明会见中核集团董事长申彦锋总经理张涛",
@@ -20,6 +20,17 @@
           "time_info": "[08时54分 ~ 11时02分]"
         },
         {
+          "title": "2025年12月31日深圳城市轨道交通总客运量首次突破1300万大关",
+          "url": "https://wallstreetcn.com/livenews/3029556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "银行通过香港贴现窗口借入资金规模创7月份以来最高",
           "url": "https://wallstreetcn.com/livenews/3029504",
           "source": "华尔街见闻-快讯",
@@ -29,6 +40,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "2025年12月31日深圳城市轨道交通总客运量首次突破1300万大关",
+          "url": "https://flash.jin10.com/detail/20260101112039691800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "机构：2025年深圳一二手住宅共成交94096套 同比降9%",
+          "url": "https://wallstreetcn.com/livenews/3029550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "2026年粤港澳大湾区首列中欧班列发出",
+          "url": "https://flash.jin10.com/detail/20260101105026279800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     },
@@ -42,11 +86,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 12时40分]"
         }
       ]
     }
