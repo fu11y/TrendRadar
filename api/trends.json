@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T16:14:13.601228+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-01-03T17:10:50.874497+08:00",
+  "total_titles_processed": 717,
   "failed_sources": [],
   "trends": [
     {
@@ -100,11 +100,12 @@
             11,
             13,
             18,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时45分 ~ 16时14分]"
+          "appearance_count": 9,
+          "time_info": "[08时45分 ~ 17时10分]"
         },
         {
           "title": "香港著名演员袁祥仁逝世，电影《功夫》中推销《如来神掌》成为经典",
@@ -146,8 +147,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时44分 ~ 16时14分]"
+          "appearance_count": 14,
+          "time_info": "[08时44分 ~ 17时10分]"
         }
       ]
     }
