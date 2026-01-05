@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T12:48:36.161526+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-01-05T13:28:07.769027+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 12时48分]"
+          "appearance_count": 7,
+          "time_info": "[08时53分 ~ 13时28分]"
         },
         {
           "title": "35岁歌手涉毒在香港被捕",
@@ -27,11 +27,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 12时48分]"
+          "appearance_count": 7,
+          "time_info": "[08时53分 ~ 13时28分]"
         },
         {
           "title": "为什么《寻秦记》在香港成为票冠，却在内地表现平平？",
