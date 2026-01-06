@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T17:17:14.456630+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-01-06T18:12:35.828041+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时48分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[08时48分 ~ 18时12分]"
         },
         {
           "title": "浙江超远神仙球绝杀广东",
@@ -101,6 +101,20 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
+          "url": "https://www.cls.cn/detail/2248953",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 18时12分]"
+        },
+        {
           "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
           "url": "https://flash.jin10.com/detail/20260106150838647800",
           "source": "金十数据",
@@ -110,19 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        },
-        {
-          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
-          "url": "https://www.cls.cn/detail/2248953",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 17时17分]"
         },
         {
           "title": "分析师：降息预期与避险需求推升金价 本周关注关键非农数据",
@@ -210,11 +211,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时51分 ~ 17时17分]"
+          "appearance_count": 11,
+          "time_info": "[10时51分 ~ 18时12分]"
         },
         {
           "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
