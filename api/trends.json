@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T12:32:25.974426+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-01-06T13:16:44.701180+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时48分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[08时48分 ~ 13时16分]"
         },
         {
           "title": "浙江超远神仙球绝杀广东",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时48分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[08时48分 ~ 13时16分]"
         },
         {
           "title": "广东台记者怒批广州拆迁乱象",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时16分]"
         },
         {
           "title": "中国香港12月标普全球制造业PMI 51.9，前值52.9。",
@@ -59,11 +59,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时16分]"
         },
         {
           "title": "广东：推动保险公司在粤设立私募证券投资基金，开展保险资金长期投资改革试点",
@@ -71,11 +72,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时16分]"
         },
         {
           "title": "广东：积极推进“灾害救助+金融保险”试点工作",
@@ -133,8 +135,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 13时16分]"
         },
         {
           "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
