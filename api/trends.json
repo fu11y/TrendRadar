@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T15:18:04.554186+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-01-06T16:16:35.568425+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时48分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[08时48分 ~ 16时16分]"
         },
         {
           "title": "浙江超远神仙球绝杀广东",
@@ -107,7 +107,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -116,11 +116,12 @@
           "url": "https://www.cls.cn/detail/2248953",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 16时16分]"
         },
         {
           "title": "分析师：降息预期与避险需求推升金价 本周关注关键非农数据",
@@ -207,11 +208,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时51分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[10时51分 ~ 16时16分]"
         },
         {
           "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
