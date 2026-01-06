@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T11:57:34.642742+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-01-06T12:32:25.974426+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 12时32分]"
+        },
+        {
+          "title": "浙江超远神仙球绝杀广东",
+          "url": "https://www.douyin.com/hot/2358448",
+          "source": "抖音",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 12时32分]"
+        },
+        {
+          "title": "广东台记者怒批广州拆迁乱象",
+          "url": "https://www.toutiao.com/trending/7591064724113211419/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 12时32分]"
         },
         {
           "title": "中国香港12月标普全球制造业PMI 51.9，前值52.9。",
@@ -31,60 +54,40 @@
           "time_info": "08时48分"
         },
         {
-          "title": "浙江超远神仙球绝杀广东",
-          "url": "https://www.douyin.com/hot/2358448",
-          "source": "抖音",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 11时57分]"
-        },
-        {
-          "title": "广东台记者怒批广州拆迁乱象",
-          "url": "https://www.toutiao.com/trending/7591064724113211419/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
           "title": "法国生物科技公司TheraVectys考虑在香港IPO",
           "url": "https://wallstreetcn.com/livenews/3031342",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 12时32分]"
         },
         {
           "title": "广东：推动保险公司在粤设立私募证券投资基金，开展保险资金长期投资改革试点",
           "url": "https://wallstreetcn.com/livenews/3031336",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 12时32分]"
         },
         {
           "title": "广东：积极推进“灾害救助+金融保险”试点工作",
           "url": "https://wallstreetcn.com/livenews/3031319",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 12时32分]"
         }
       ]
     },
@@ -97,11 +100,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 11时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 12时32分]"
         },
         {
           "title": "大白话解读DeepSeek论文",
@@ -129,8 +133,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 11时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 12时32分]"
         },
         {
           "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
@@ -167,7 +171,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         }
