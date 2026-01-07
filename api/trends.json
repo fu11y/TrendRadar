@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T13:17:12.753727+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-01-07T14:17:49.248213+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时52分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时52分 ~ 14时17分]"
         },
         {
           "title": "报道：昆仑芯据悉计划通过香港IPO融资至多20亿美元",
