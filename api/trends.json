@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-01-07T14:17:49.248213+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-01-07T15:16:58.737948+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月07日（周三）上海金午盘价为997.08元/克，较国际金价(998.39元/克)，低1.31元/克",
+          "url": "https://flash.jin10.com/detail/20260107150245540800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
+          "url": "https://flash.jin10.com/detail/20260107111347667800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 12时34分]"
+        },
+        {
+          "title": "金十图示：2026年01月07日（周三）上海金早盘价为1003.92元/克，较国际金价(1004.33元/克)，低0.41元/克",
+          "url": "https://flash.jin10.com/detail/20260107101853429800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        }
+      ]
+    },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 3,
@@ -44,35 +84,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 13时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
-          "url": "https://flash.jin10.com/detail/20260107111347667800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时34分]"
-        },
-        {
-          "title": "金十图示：2026年01月07日（周三）上海金早盘价为1003.92元/克，较国际金价(1004.33元/克)，低0.41元/克",
-          "url": "https://flash.jin10.com/detail/20260107101853429800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
         }
       ]
     },
