@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-09T17:17:38.304189+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-01-09T18:12:42.615832+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "汇丰：即使金价明显下跌，对金饰的需求也不会出现显著增长",
+          "url": "https://flash.jin10.com/detail/20260109173937857800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
         {
           "title": "大华银行：地缘政治风险强化避险需求 上调全年金价目标",
           "url": "https://flash.jin10.com/detail/20260109140547677800",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "分析师：非农数据公布前夕，金价在观望中呈现区间震荡",
+          "url": "https://flash.jin10.com/detail/20260109173213145800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "金十图示：2026年01月09日（周五）上海金午盘价为1003.71元/克，较国际金价(1004.15元/克)，低0.44元/克",
@@ -47,7 +69,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -122,7 +144,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         }
