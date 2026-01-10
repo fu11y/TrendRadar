@@ -1,191 +1,50 @@
 {
-  "generated_at": "2026-01-09T18:12:42.615832+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-01-10T08:47:31.983104+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "金价",
-      "match_count": 7,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
       "titles": [
         {
-          "title": "汇丰：即使金价明显下跌，对金饰的需求也不会出现显著增长",
-          "url": "https://flash.jin10.com/detail/20260109173937857800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "大华银行：地缘政治风险强化避险需求 上调全年金价目标",
-          "url": "https://flash.jin10.com/detail/20260109140547677800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "分析师：非农数据公布前夕，金价在观望中呈现区间震荡",
-          "url": "https://flash.jin10.com/detail/20260109173213145800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "金十图示：2026年01月09日（周五）上海金午盘价为1003.71元/克，较国际金价(1004.15元/克)，低0.44元/克",
-          "url": "https://flash.jin10.com/detail/20260109150307334800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "金十图示：2026年01月09日（周五）上海金早盘价为1003.49元/克，较国际金价(1003.21元/克)，高0.28元/克",
-          "url": "https://flash.jin10.com/detail/20260109101722694800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "金价随降息预期波动走高 市场高度聚焦美联储新掌门人选",
-          "url": "https://flash.jin10.com/detail/20260109164632594800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "国家统计局：环比来看，受国际金价上行影响，12月国内金饰品价格上涨5.6%。 天气条件相对较好，鲜菜价格上涨0.8%，涨幅低于季节性水平3.3个百分点。 生猪产能较为充足，猪肉价格下降1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3033678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "香港交易所称推出六只新的股票期权类别，涵盖紫金黄金国际、老铺黄金、地平线机器人等",
-          "url": "https://wallstreetcn.com/livenews/3033761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 14时17分]"
-        },
-        {
-          "title": "深圳楼市去年成交9.4万套住宅 二手住宅成交占比首次突破60%",
-          "url": "https://wallstreetcn.com/livenews/3033754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时16分]"
-        },
-        {
-          "title": "MiniMax香港上市首日持续走高，目前涨超70%。",
-          "url": "https://wallstreetcn.com/livenews/3033697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "MiniMax香港上市首日高开高走，目前涨53%。",
-          "url": "https://wallstreetcn.com/livenews/3033687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "香港金管局：延长副总裁阮国恒的任期两年",
-          "url": "https://wallstreetcn.com/livenews/3033937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "英伟达聘请谷歌资深员工Alison Wagonfeld担任首任首席营销官。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3033635",
-          "source": "华尔街见闻-快讯",
+          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
+          "url": "https://www.zhihu.com/question/1923049081044960601",
+          "source": "知乎",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "08时47分"
         },
         {
-          "title": "据华尔街日报：英伟达(NVDA.O)聘请谷歌资深人士Alison Wagonfeld担任其首位首席营销官。",
-          "url": "https://flash.jin10.com/detail/20260109082131770800",
-          "source": "金十数据",
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
-        },
+          "time_info": "08时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
-          "url": "https://www.cls.cn/detail/2252328",
-          "source": "财联社热门",
+          "title": "去年金价狂飙美元贬值 美元信用裂痕扩大产加速去美元化",
+          "url": "https://flash.jin10.com/detail/20260110082505272800",
+          "source": "金十数据",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "08时47分"
         }
       ]
     }
