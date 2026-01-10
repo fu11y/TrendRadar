@@ -1,33 +1,74 @@
 {
-  "generated_at": "2026-01-10T08:47:31.983104+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2026-01-10T10:46:14.233023+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
           "url": "https://www.zhihu.com/question/1923049081044960601",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时47分"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 10时46分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
           "url": "https://wallstreetcn.com/articles/3762982",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 10时46分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "DeepSeekV4新模型或于春节前后发布",
+          "url": "https://www.baidu.com/s?wd=DeepSeekV4%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%88%96%E4%BA%8E%E6%98%A5%E8%8A%82%E5%89%8D%E5%90%8E%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
+          "url": "https://flash.jin10.com/detail/20260110094533475800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时47分"
+          "time_info": "10时46分"
         }
       ]
     },
@@ -40,11 +81,12 @@
           "url": "https://flash.jin10.com/detail/20260110082505272800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时47分"
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 10时46分]"
         }
       ]
     }
