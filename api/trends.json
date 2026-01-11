@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T14:16:10.695812+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-01-11T15:13:13.769728+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时54分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 15时13分]"
         },
         {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时16分]"
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 15时13分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -81,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时54分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 15时13分]"
         },
         {
           "title": "深圳“安居创业帮扶计划”上线",
