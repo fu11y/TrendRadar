@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T11:57:33.567606+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-01-13T12:33:12.924662+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[08时44分 ~ 12时33分]"
+        },
+        {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时44分 ~ 12时33分]"
         },
         {
           "title": "iPhone官宣接入Gemini",
@@ -31,18 +43,6 @@
           "time_info": "[10时50分 ~ 11时57分]"
         },
         {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 11时57分]"
-        },
-        {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2255551",
           "source": "财联社热门",
@@ -50,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 12时33分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -67,6 +67,45 @@
       ]
     },
     {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "深圳辟谣电动车停车收费",
+          "url": "https://www.douyin.com/hot/2365592",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时44分 ~ 12时33分]"
+        },
+        {
+          "title": "深圳辟谣“电动车停车收费”",
+          "url": "https://www.toutiao.com/trending/7593197517996605482/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 12时33分]"
+        },
+        {
+          "title": "广东卫视严正声明",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -75,11 +114,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 12时33分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -90,36 +130,25 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 12时33分]"
         }
       ]
     },
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 2,
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
       "titles": [
         {
-          "title": "深圳辟谣电动车停车收费",
-          "url": "https://www.douyin.com/hot/2365592",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 11时57分]"
-        },
-        {
-          "title": "深圳辟谣“电动车停车收费”",
-          "url": "https://www.toutiao.com/trending/7593197517996605482/",
+          "title": "OpenAI收购医疗保健初创公司Torch",
+          "url": "https://www.toutiao.com/trending/7594644941129940998/",
           "source": "今日头条",
           "ranks": [
-            11
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时50分 ~ 11时57分]"
+          "time_info": "[12时32分 ~ 12时33分]"
         }
       ]
     },
@@ -134,7 +163,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         }
