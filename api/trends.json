@@ -1,199 +1,23 @@
 {
-  "generated_at": "2026-01-12T18:15:21.770785+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-01-13T08:44:23.418355+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "三孩奖3万,广东农村重金催生",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348955&amp;topic_name=%E4%B8%89%E5%AD%A9%E5%A5%963%E4%B8%87%2C%E5%B9%BF%E4%B8%9C%E5%86%9C%E6%9D%91%E9%87%8D%E9%87%91%E5%82%AC%E7%94%9F",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            14,
-            19,
-            20,
-            21,
-            24,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时52分 ~ 18时15分]"
-        },
-        {
-          "title": "广东的冷要把老外逼疯了",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9A%84%E5%86%B7%E8%A6%81%E6%8A%8A%E8%80%81%E5%A4%96%E9%80%BC%E7%96%AF%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            7,
-            12,
-            18,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时52分 ~ 15时19分]"
-        },
-        {
-          "title": "辽粤大战广东三外援集体发威",
-          "url": "https://www.douyin.com/hot/2364780",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19,
-            21,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 18时15分]"
-        },
-        {
-          "title": "小鹏汽车与工商银行广东省分行达成战略合作，获100亿元授信额度",
-          "url": "https://wallstreetcn.com/livenews/3035019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 15时19分]"
-        },
-        {
-          "title": "深圳航空通报一航班滑出时发生故障",
-          "url": "https://www.toutiao.com/trending/7594305028869963812/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时21分]"
-        },
-        {
-          "title": "CBA北京首钢不敌深圳遭遇两连败",
-          "url": "https://www.douyin.com/hot/2364737",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 11时01分]"
-        },
-        {
-          "title": "CBA辽宁本钢78:108广东东阳光",
-          "url": "https://www.douyin.com/hot/2364499",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 11时01分]"
-        },
-        {
-          "title": "深圳辟谣成首个电动车停车收费城市",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E8%BE%9F%E8%B0%A3%E6%88%90%E9%A6%96%E4%B8%AA%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%81%9C%E8%BD%A6%E6%94%B6%E8%B4%B9%E5%9F%8E%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "深圳加快布局全域海洋立体智慧观测网",
-          "url": "https://wallstreetcn.com/livenews/3034970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
-          "url": "https://www.cls.cn/detail/2254455",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时10分 ~ 18时15分]"
-        },
-        {
-          "title": "国内金饰价格跟随国际金价走高 最高报1429元/克",
-          "url": "https://flash.jin10.com/detail/20260112113127730800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）上海金早盘价为1021.18元/克，较国际金价（1026.61元/克）低5.43元/克",
-          "url": "https://flash.jin10.com/detail/20260112110122883800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）上海金午盘价为1023.27元/克，较国际金价（1026.16元/克）低2.89元/克",
-          "url": "https://flash.jin10.com/detail/20260112150725808800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "地缘政治风险升温提振避险需求 金价上涨",
-          "url": "https://flash.jin10.com/detail/20260112080527536800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        }
-      ]
-    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
           "url": "https://wallstreetcn.com/articles/3763059",
@@ -202,48 +26,36 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 18时15分]"
+          "appearance_count": 1,
+          "time_info": "08时44分"
         },
         {
-          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
-          "url": "https://flash.jin10.com/detail/20260112123727337800",
-          "source": "金十数据",
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时20分]"
-        },
-        {
-          "title": "美股盘前，明星科技股普跌，英伟达(NVDA.O)跌1.2%、谷歌C(GOOG.O)跌0.95%、甲骨文(ORCL.N)跌1.7%、英特尔(INTC.O)跌2%。",
-          "url": "https://flash.jin10.com/detail/20260112170114771800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "08时44分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 1,
       "titles": [
         {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "深圳辟谣电动车停车收费",
+          "url": "https://www.douyin.com/hot/2365592",
+          "source": "抖音",
           "ranks": [
-            21
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时52分"
+          "time_info": "08时44分"
         }
       ]
     }
