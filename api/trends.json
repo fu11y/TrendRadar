@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T12:07:04.443350+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-01-14T13:16:15.216582+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1994357448232961258",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 13时16分]"
         },
         {
           "title": "合法组织成假院士假参事活动平台，广东省传统文化促进会被撤销登记",
@@ -28,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时50分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[08时50分 ~ 13时16分]"
         },
         {
           "title": "广东明确救护转运爬楼费每层10元",
@@ -78,11 +79,12 @@
           "ranks": [
             12,
             5,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时50分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[08时50分 ~ 13时16分]"
         }
       ]
     },
@@ -97,7 +99,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -127,8 +129,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时50分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[08时50分 ~ 13时16分]"
         }
       ]
     }
