@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-01-14T16:16:10.990978+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-01-14T17:19:31.894246+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "深圳一街道网格员深夜入户查消防，遭拒后仍入内，谁给了网格员强制入户的权利？",
+          "url": "https://www.zhihu.com/question/1994357448232961258",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时06分 ~ 17时19分]"
+        },
+        {
+          "title": "合法组织成假院士假参事活动平台，广东省传统文化促进会被撤销登记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32375106",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时50分 ~ 17时19分]"
+        },
+        {
+          "title": "广东明确救护转运爬楼费每层10元",
+          "url": "https://www.toutiao.com/trending/7593898369958019118/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "为什么广东人对吃的要求很高，却对穿的很随意呢？",
+          "url": "https://www.zhihu.com/question/1885403313492710078",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "你看好深圳男篮的团队凝聚力吗",
+          "url": "https://www.toutiao.com/trending/7594836834367193094/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "鼎龙股份：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3036833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        }
+      ]
+    },
     {
       "keyword_group": "金价",
       "match_count": 4,
@@ -13,11 +89,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 16时16分]"
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 17时19分]"
         },
         {
           "title": "澳新银行预计2026年下半年黄金价格将高于5000美元/盎司。",
@@ -51,60 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "深圳一街道网格员深夜入户查消防，遭拒后仍入内，谁给了网格员强制入户的权利？",
-          "url": "https://www.zhihu.com/question/1994357448232961258",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时06分 ~ 16时16分]"
-        },
-        {
-          "title": "合法组织成假院士假参事活动平台，广东省传统文化促进会被撤销登记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32375106",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时50分 ~ 16时16分]"
-        },
-        {
-          "title": "广东明确救护转运爬楼费每层10元",
-          "url": "https://www.toutiao.com/trending/7593898369958019118/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
-        },
-        {
-          "title": "你看好深圳男篮的团队凝聚力吗",
-          "url": "https://www.toutiao.com/trending/7594836834367193094/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
         }
       ]
     },
@@ -148,7 +171,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         }
@@ -172,6 +195,18 @@
           "time_info": "[08时50分 ~ 16时16分]"
         },
         {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 17时19分]"
+        },
+        {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
           "url": "https://www.zhihu.com/question/1994310970621859099",
           "source": "知乎",
@@ -181,17 +216,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时17分 ~ 14时18分]"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
         }
       ]
     }
