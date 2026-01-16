@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T13:17:11.218768+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-01-16T14:18:20.438859+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             15,
             17,
             25,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时49分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时49分 ~ 14时18分]"
         },
         {
           "title": "男子带刀劫持人质被警方两枪击毙，香港通报详情",
@@ -30,8 +31,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时53分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 14时18分]"
         },
         {
           "title": "报道：香港财政司司长表示没有降低股票印花税的计划",
@@ -156,11 +157,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 14时18分]"
         }
       ]
     },
