@@ -1,121 +1,51 @@
 {
-  "generated_at": "2026-01-16T18:12:37.145970+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2026-01-17T08:46:40.517057+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 13,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "男子带刀劫持人质被警方两枪击毙，香港通报详情",
-          "url": "https://news.ifeng.com/c/8pxHjEeVUEM",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时53分 ~ 18时12分]"
-        },
-        {
-          "title": "香港一商场警察开枪击毙持刀嫌犯",
-          "url": "https://www.toutiao.com/trending/7595564004845076490/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15,
-            17,
-            25,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时49分 ~ 14时18分]"
-        },
-        {
-          "title": "报道：香港财政司司长表示没有降低股票印花税的计划",
-          "url": "https://wallstreetcn.com/livenews/3038456",
+          "title": "字节跳动发布SeedFold，蛋白质结构预测相关多任务超越谷歌AlphaFold 3，揭示大模型缩放新秘诀",
+          "url": "https://wallstreetcn.com/livenews/3039053",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时17分]"
-        },
-        {
-          "title": "香港通报男子持刀劫持人质被击毙",
-          "url": "https://www.douyin.com/hot/2369381",
-          "source": "抖音",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 18时12分]"
-        },
-        {
-          "title": "全国每 12 个高校毕业生就有一个来广东，为什么大学生喜欢往广东跑？",
-          "url": "https://www.zhihu.com/question/1995419314665316695",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 17时16分]"
-        },
-        {
-          "title": "香港财政司司长陈茂波：不会下调股票印花税，本财年印花税增加主要来自股票。（香港电台网）",
-          "url": "https://wallstreetcn.com/livenews/3038435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 12时34分]"
-        },
-        {
-          "title": "花样年境外债重组进入表决阶段，香港法院颁令召开债权人会议",
-          "url": "https://wallstreetcn.com/livenews/3038645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时12分]"
-        },
-        {
-          "title": "广东男篮主帅回应狂输40分",
-          "url": "https://www.toutiao.com/trending/7594765057712537606/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
-          "title": "联特科技：授权公司管理层启动公司境外发行股份（H股）并在香港联合交易所有限公司上市相关筹备工作。",
-          "url": "https://wallstreetcn.com/livenews/3038601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "08时46分"
         },
+        {
+          "title": "谷歌提交通知，就司法部搜索裁决提起上诉。",
+          "url": "https://flash.jin10.com/detail/20260117050916317800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
+          "url": "https://wallstreetcn.com/livenews/3039041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 3,
+      "titles": [
         {
           "title": "深圳一餐厅张贴的“八项铁规和六项纪律”被指严苛，店长回应",
           "url": "https://news.ifeng.com/c/8pxoKpmcBDA",
@@ -123,172 +53,48 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "08时46分"
         },
         {
-          "title": "深圳有望推行12年义务教育不实",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9C%89%E6%9C%9B%E6%8E%A8%E8%A1%8C12%E5%B9%B4%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
+          "title": "CBA常规赛同曦115-86大胜深圳",
+          "url": "https://www.toutiao.com/trending/7595032555327291446/",
+          "source": "今日头条",
           "ranks": [
-            11
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "08时46分"
         },
         {
-          "title": "深圳辟谣“推行12年义务教育”",
-          "url": "https://www.douyin.com/hot/2368843",
+          "title": "香港通报男子持刀劫持人质被击毙",
+          "url": "https://www.douyin.com/hot/2369381",
           "source": "抖音",
           "ranks": [
-            11
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "广东清远：“十四五”期间新增A股上市企业数居粤东西北前列",
-          "url": "https://wallstreetcn.com/livenews/3038620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌母公司 Alphabet 的市值正式突破 4 万亿美元，其在这波 AI 浪潮中做对了什么？",
-          "url": "https://www.zhihu.com/question/1994345893202191645",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "联手谷歌后苹果AI有哪些看点",
-          "url": "https://search.bilibili.com/all?keyword=%E8%81%94%E6%89%8B%E8%B0%B7%E6%AD%8C%E5%90%8E%E8%8B%B9%E6%9E%9CAI%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价飙升后银行保管箱出现「一箱难求」，部分银行租箱排队已排到一年后，投资者该如何安全存放黄金资产？",
-          "url": "https://www.zhihu.com/question/1995155168442996449",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
-          "title": "分析师：伊朗局势放缓及降息预期减弱令黄金价格有所回落",
-          "url": "https://flash.jin10.com/detail/20260116144201337800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）上海金早盘价为1031.13元/克，较国际金价（1030.62元/克）高0.51元/克",
-          "url": "https://flash.jin10.com/detail/20260116101751108800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "08时46分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "清华姚班陈立杰加入OpenAI",
           "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
           "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时53分 ~ 18时12分]"
-        },
-        {
-          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
-          "url": "https://www.zhihu.com/question/1995072589756901062",
-          "source": "知乎",
-          "ranks": [
-            1,
-            4,
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时49分 ~ 13时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
-          "url": "https://www.zhihu.com/question/1995072623625855863",
-          "source": "知乎",
-          "ranks": [
-            2
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "08时46分"
         }
       ]
     }
