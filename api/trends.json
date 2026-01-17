@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T12:23:21.890328+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-01-17T13:12:09.188594+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 13时12分]"
         },
         {
           "title": "深圳一餐厅张贴的“八项铁规和六项纪律”被指严苛，店长回应",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时46分 ~ 11时50分]"
+        },
+        {
+          "title": "广东佛山一中学103人感染诺如病毒",
+          "url": "https://www.toutiao.com/trending/7596136038565678598/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时12分]"
         },
         {
           "title": "全国每9个新生儿1个在广东出世",
@@ -53,18 +65,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时46分 ~ 10时45分]"
-        },
-        {
-          "title": "广东佛山一中学103人感染诺如病毒",
-          "url": "https://www.toutiao.com/trending/7596136038565678598/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时23分]"
         },
         {
           "title": "CBA常规赛同曦115-86大胜深圳",
@@ -124,7 +124,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -133,11 +133,23 @@
           "ranks": [
             6,
             11,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 13时12分]"
+        },
+        {
+          "title": "ChatGPT将加入广告",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 13时12分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
