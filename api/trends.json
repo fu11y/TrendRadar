@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T14:16:01.713447+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-01-17T15:11:31.912502+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "广东佛山一中学103人感染诺如病毒",
@@ -13,22 +13,35 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 15时11分]"
+        },
+        {
+          "title": "香港注册公司总数155.7万家创新高",
+          "url": "https://wallstreetcn.com/livenews/3039095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "香港将举办农历新年烟花汇演",
           "url": "https://wallstreetcn.com/livenews/3039088",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 15时11分]"
         },
         {
           "title": "深圳一餐厅张贴的“八项铁规和六项纪律”被指严苛，店长回应",
@@ -91,6 +104,62 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "ChatGPT将加入广告",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时11分 ~ 15时11分]"
+        },
+        {
+          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
+          "url": "https://wallstreetcn.com/livenews/3039069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            13,
+            18,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 15时11分]"
+        },
+        {
+          "title": "清华姚班陈立杰加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -134,45 +203,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
-          "url": "https://wallstreetcn.com/livenews/3039069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            13,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 14时16分]"
-        },
-        {
-          "title": "ChatGPT将加入广告",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
-          "source": "bilibili 热搜",
+          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
+          "url": "https://flash.jin10.com/detail/20260117140618013800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时11分 ~ 14时16分]"
-        },
-        {
-          "title": "清华姚班陈立杰加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时46分"
+          "time_info": "15时11分"
         }
       ]
     }
