@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T16:14:27.353302+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-01-18T17:11:54.495144+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时15分 ~ 17时11分]"
         },
         {
           "title": "解读ChatGPT加入广告背后",
@@ -31,6 +31,18 @@
           "time_info": "[08时53分 ~ 08时54分]"
         },
         {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 17时11分]"
+        },
+        {
           "title": "翁家翌谈OpenAI模型跃迁",
           "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
           "source": "bilibili 热搜",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时53分 ~ 11时01分]"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 16时14分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -80,8 +80,19 @@
     },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "霍启刚郭晶晶周润发等参加香港马拉松",
+          "url": "https://www.toutiao.com/trending/7595579243889049626/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时11分]"
+        },
         {
           "title": "广东妹招赘婿,8.8w买断优质男",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349286&amp;topic_name=%E5%B9%BF%E4%B8%9C%E5%A6%B9%E6%8B%9B%E8%B5%98%E5%A9%BF%2C8.8w%E4%B9%B0%E6%96%AD%E4%BC%98%E8%B4%A8%E7%94%B7",
@@ -94,15 +105,15 @@
           "time_info": "[08时53分 ~ 08时54分]"
         },
         {
-          "title": "霍启刚郭晶晶周润发等参加香港马拉松",
-          "url": "https://www.toutiao.com/trending/7595579243889049626/",
-          "source": "今日头条",
+          "title": "梁小龙出殡仪式将在深圳举行",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E5%B0%8F%E9%BE%99%E5%87%BA%E6%AE%A1%E4%BB%AA%E5%BC%8F%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C",
+          "source": "百度热搜",
           "ranks": [
-            1
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "17时11分"
         },
         {
           "title": "王鹤棣澳门演唱会",
