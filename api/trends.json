@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T14:16:21.863456+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-01-18T15:12:35.538874+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时53分 ~ 08时54分]"
+        },
+        {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时15分 ~ 15时12分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -38,19 +50,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 14时16分]"
-        },
-        {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时12分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
