@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-19T17:24:01.425382+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-01-19T18:17:10.090746+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 13,
       "titles": [
+        {
+          "title": "深圳沉睡20多年垃圾山正在消失",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B2%89%E7%9D%A120%E5%A4%9A%E5%B9%B4%E5%9E%83%E5%9C%BE%E5%B1%B1%E6%AD%A3%E5%9C%A8%E6%B6%88%E5%A4%B1",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 18时17分]"
+        },
         {
           "title": "深圳沉睡二十多年的垃圾山正在消失",
           "url": "https://www.toutiao.com/trending/7596726189302136838/",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时22分 ~ 16时19分]"
-        },
-        {
-          "title": "深圳沉睡20多年垃圾山正在消失",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B2%89%E7%9D%A120%E5%A4%9A%E5%B9%B4%E5%9E%83%E5%9C%BE%E5%B1%B1%E6%AD%A3%E5%9C%A8%E6%B6%88%E5%A4%B1",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "2025年广东外贸进出口9.49万亿元 同比增长4.4%",
@@ -104,6 +104,18 @@
           "time_info": "[12时13分 ~ 13时24分]"
         },
         {
+          "title": "据大湾区之声，香港旅发局今日（19日）公布，2025年共录得4990万人次旅客访港，按年增12%。",
+          "url": "https://wallstreetcn.com/livenews/3039641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时17分]"
+        },
+        {
           "title": "深圳沉睡二十多年的垃圾山正在消失",
           "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B2%89%E7%9D%A1%E4%BA%8C%E5%8D%81%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%9E%83%E5%9C%BE%E5%B1%B1%E6%AD%A3%E5%9C%A8%E6%B6%88%E5%A4%B1",
           "source": "百度热搜",
@@ -137,24 +149,13 @@
           "time_info": "08时53分"
         },
         {
-          "title": "据大湾区之声，香港旅发局今日（19日）公布，2025年共录得4990万人次旅客访港，按年增12%。",
-          "url": "https://wallstreetcn.com/livenews/3039641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
           "title": "香港2025年接待游客4990万人次，同比增长12%。",
           "url": "https://wallstreetcn.com/livenews/3039635",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         }
