@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-01-20T08:48:34.844804+08:00",
-  "total_titles_processed": 284,
+  "generated_at": "2026-01-20T10:55:03.361734+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
+          "url": "https://www.cls.cn/detail/2262848",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
+          "url": "https://flash.jin10.com/detail/20260120080414505800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        }
+      ]
+    },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 3,
@@ -12,11 +51,12 @@
           "url": "https://wallstreetcn.com/articles/3763586",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时48分"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 10时55分]"
         },
         {
           "title": "深圳沉睡20多年垃圾山正在消失",
@@ -43,23 +83,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
-          "url": "https://flash.jin10.com/detail/20260120080414505800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -71,8 +94,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时48分"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 10时55分]"
         }
       ]
     }
