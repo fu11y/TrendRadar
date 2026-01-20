@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T12:02:39.711977+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-01-20T13:20:46.060430+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 13时20分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -25,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 13时20分]"
         },
         {
           "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
@@ -54,11 +56,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时48分 ~ 12时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时48分 ~ 13时20分]"
         },
         {
           "title": "深圳沉睡20多年垃圾山正在消失",
@@ -96,8 +99,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时48分 ~ 12时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时48分 ~ 13时20分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）上海金早盘价为1045.19元/克，较国际金价(1043.73元/克)，高1.46元/克",
@@ -106,7 +109,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
