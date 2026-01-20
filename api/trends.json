@@ -1,183 +1,44 @@
 {
-  "generated_at": "2026-01-19T18:17:10.090746+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2026-01-20T08:48:34.844804+08:00",
+  "total_titles_processed": 284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "“只买不卖”！“香港巴菲特”将四分之一的财富投入黄金",
+          "url": "https://wallstreetcn.com/articles/3763586",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
         {
           "title": "深圳沉睡20多年垃圾山正在消失",
           "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B2%89%E7%9D%A120%E5%A4%9A%E5%B9%B4%E5%9E%83%E5%9C%BE%E5%B1%B1%E6%AD%A3%E5%9C%A8%E6%B6%88%E5%A4%B1",
           "source": "百度热搜",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 18时17分]"
-        },
-        {
-          "title": "深圳沉睡二十多年的垃圾山正在消失",
-          "url": "https://www.toutiao.com/trending/7596726189302136838/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 16时19分]"
-        },
-        {
-          "title": "2025年广东外贸进出口9.49万亿元 同比增长4.4%",
-          "url": "https://wallstreetcn.com/livenews/3039602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时19分]"
-        },
-        {
-          "title": "“香港四小龙”只剩两人了",
-          "url": "https://www.toutiao.com/trending/7596640082262786054/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 12时13分]"
-        },
-        {
-          "title": "报道：牧原食品开始评估投资者对其香港上市的兴趣",
-          "url": "https://wallstreetcn.com/livenews/3039561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 15时21分]"
-        },
-        {
-          "title": "香港价值投资大亨谢清海将四分之一的财富投入黄金 且“只买不卖”",
-          "url": "https://wallstreetcn.com/livenews/3039597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时19分]"
-        },
-        {
-          "title": "深圳水贝市场出现投资铜条",
-          "url": "https://wallstreetcn.com/livenews/3039553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 15时21分]"
-        },
-        {
-          "title": "深圳水贝金饰克价达到1200元",
-          "url": "https://wallstreetcn.com/livenews/3039501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 13时24分]"
-        },
-        {
-          "title": "据大湾区之声，香港旅发局今日（19日）公布，2025年共录得4990万人次旅客访港，按年增12%。",
-          "url": "https://wallstreetcn.com/livenews/3039641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时17分]"
-        },
-        {
-          "title": "深圳沉睡二十多年的垃圾山正在消失",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B2%89%E7%9D%A1%E4%BA%8C%E5%8D%81%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%9E%83%E5%9C%BE%E5%B1%B1%E6%AD%A3%E5%9C%A8%E6%B6%88%E5%A4%B1",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
-        },
-        {
-          "title": "深圳封存20年垃圾山开挖",
-          "url": "https://www.toutiao.com/trending/7596726189302136838/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
-          "title": "香港功夫影星梁小龙离世，曾在周星驰电影《功夫》饰演「火云邪神」，你对他有哪些记忆？",
-          "url": "https://www.zhihu.com/question/1996255996931175627",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "香港2025年接待游客4990万人次，同比增长12%。",
-          "url": "https://wallstreetcn.com/livenews/3039635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "time_info": "08时48分"
+        },
         {
-          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
-          "url": "https://wallstreetcn.com/articles/3763534",
-          "source": "华尔街见闻",
+          "title": "零食零售商鸣鸣很忙拟在香港IPO融资高达33.4亿港元",
+          "url": "https://wallstreetcn.com/livenews/3039954",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            5,
-            3,
-            4
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时53分 ~ 16时19分]"
+          "appearance_count": 1,
+          "time_info": "08时48分"
         }
       ]
     },
@@ -186,15 +47,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
+          "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
+          "url": "https://flash.jin10.com/detail/20260120080414505800",
+          "source": "金十数据",
           "ranks": [
-            2
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 11时01分]"
+          "appearance_count": 1,
+          "time_info": "08时48分"
         }
       ]
     },
@@ -203,15 +64,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "黄金ETF成金价上涨重要增量资金",
-          "url": "https://www.toutiao.com/trending/7596929191883329034/",
-          "source": "今日头条",
+          "title": "财晓得丨金价涨成这样，到什么位置了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367730",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "08时48分"
         }
       ]
     }
