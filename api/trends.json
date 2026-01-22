@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T17:23:04.494718+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-01-22T18:16:17.883986+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -126,6 +126,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "男子趁金价高涨出手500克金条",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 18时16分]"
+        },
+        {
           "title": "黄金价格会崩吗",
           "url": "https://www.toutiao.com/trending/7597976651418308122/",
           "source": "今日头条",
@@ -138,18 +150,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时07分 ~ 15时18分]"
-        },
-        {
-          "title": "男子趁金价高涨出手500克金条",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 17时23分]"
         },
         {
           "title": "男子趁金价高涨出手500克金条",
