@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T13:19:32.753919+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-01-23T14:18:13.107406+08:00",
+  "total_titles_processed": 717,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,24 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 14时18分]"
+        },
+        {
+          "title": "地方债扩容、直接融资提速 2025年广东社融增量2.78万亿元",
+          "url": "https://wallstreetcn.com/livenews/3042572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时18分]"
         },
         {
           "title": "CBA深圳105:95山西",
@@ -41,17 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时49分 ~ 08时50分]"
-        },
-        {
-          "title": "地方债扩容、直接融资提速 2025年广东社融增量2.78万亿元",
-          "url": "https://wallstreetcn.com/livenews/3042572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
         }
       ]
     },
