@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T15:17:12.811532+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-01-23T16:16:06.656115+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时01分 ~ 15时17分]"
+          "appearance_count": 10,
+          "time_info": "[12时01分 ~ 16时16分]"
         },
         {
           "title": "地方债扩容、直接融资提速 2025年广东社融增量2.78万亿元",
@@ -63,7 +63,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
@@ -71,8 +71,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "分析师：黄金牛市由“非投机性”资金驱动，金价可能进一步大幅上行",
+          "url": "https://flash.jin10.com/detail/20260123155346150800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
         {
           "title": "国际金价银价同创历史新高",
           "url": "https://www.toutiao.com/trending/7597224144673194010/",
