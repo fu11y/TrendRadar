@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-23T12:01:53.936149+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-01-23T12:42:09.088282+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 3,
       "titles": [
+        {
+          "title": "深圳高中生开启全城猎人游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3%E9%AB%98%E4%B8%AD%E7%94%9F%E5%BC%80%E5%90%AF%E5%85%A8%E5%9F%8E%E7%8C%8E%E4%BA%BA%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 12时42分]"
+        },
         {
           "title": "CBA深圳105:95山西",
           "url": "https://www.douyin.com/hot/2376404",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时49分 ~ 08时50分]"
-        },
-        {
-          "title": "深圳高中生开启全城猎人游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3%E9%AB%98%E4%B8%AD%E7%94%9F%E5%BC%80%E5%90%AF%E5%85%A8%E5%9F%8E%E7%8C%8E%E4%BA%BA%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
         }
       ]
     },
