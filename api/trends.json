@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T13:13:39.952774+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-01-24T14:16:20.919036+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时47分 ~ 13时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时47分 ~ 14时16分]"
         },
         {
           "title": "深圳有望推行12年义务教育？假的",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 13时13分]"
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 14时16分]"
         },
         {
           "title": "粤澳往来更便捷，港珠澳大桥珠海公路口岸合作查验快捷通道将扩围",
@@ -39,11 +39,12 @@
           "ranks": [
             1,
             7,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时13分]"
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 14时16分]"
         },
         {
           "title": "你觉得广东冷吗？",
@@ -52,7 +53,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         }
