@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T12:27:03.171980+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-01-24T13:13:39.952774+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "深圳高中生开启全城猎人游戏",
@@ -18,8 +18,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时47分 ~ 12时27分]"
+          "appearance_count": 7,
+          "time_info": "[08时47分 ~ 13时13分]"
         },
         {
           "title": "深圳有望推行12年义务教育？假的",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 12时27分]"
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 13时13分]"
         },
         {
           "title": "粤澳往来更便捷，港珠澳大桥珠海公路口岸合作查验快捷通道将扩围",
@@ -38,11 +38,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时13分]"
+        },
+        {
+          "title": "你觉得广东冷吗？",
+          "url": "https://www.zhihu.com/question/635569699",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     },
