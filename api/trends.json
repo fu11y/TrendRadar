@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T12:43:56.319904+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-01-25T13:21:01.311458+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 13时21分]"
         },
         {
           "title": "TWS澳门演唱会",
@@ -46,8 +46,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时06分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时06分 ~ 13时21分]"
         }
       ]
     }
