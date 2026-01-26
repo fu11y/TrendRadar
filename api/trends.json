@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T16:17:49.468001+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-01-26T17:23:37.541471+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -171,7 +171,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -190,7 +190,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
@@ -212,11 +212,27 @@
           "source": "知乎",
           "ranks": [
             6,
-            13
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 17时23分]"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9,
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时07分 ~ 16时17分]"
+          "time_info": "[12时46分 ~ 17时23分]"
         },
         {
           "title": "金十图示：2026年01月26日（周一）上海金午盘价为1142.06元/克，较国际金价(1138.03元/克)，高4.03元/克",
@@ -228,20 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 16时17分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -266,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "避险需求与金价飙升推动瑞郎大幅走强",
+          "url": "https://flash.jin10.com/detail/20260126165531796800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         }
       ]
     },
@@ -279,11 +292,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 16时17分]"
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 17时23分]"
         }
       ]
     }
