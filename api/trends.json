@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T13:25:45.699423+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-01-26T14:21:31.698696+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3043685",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时21分]"
         },
         {
           "title": "京东官宣：七鲜小厨已覆盖北京、上海、广州、深圳等5城",
@@ -153,11 +154,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时21分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -165,33 +167,36 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 14时21分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
           "url": "https://www.zhihu.com/question/1999025860699710314",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时07分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 14时21分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时21分]"
         },
         {
           "title": "分析师：金价或继续受益于美元走弱",
@@ -203,6 +208,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     }
