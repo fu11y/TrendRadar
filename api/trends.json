@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T17:21:57.221302+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-01-27T18:16:10.008769+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "广东GDP出炉,37连冠稳坐榜1",
@@ -16,11 +16,24 @@
             15,
             18,
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时52分 ~ 17时21分]"
+          "appearance_count": 12,
+          "time_info": "[08时52分 ~ 18时16分]"
+        },
+        {
+          "title": "LCK杀到香港,LPL饭碗难保",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349757&amp;topic_name=LCK%E6%9D%80%E5%88%B0%E9%A6%99%E6%B8%AF%2CLPL%E9%A5%AD%E7%A2%97%E9%9A%BE%E4%BF%9D",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 18时16分]"
         },
         {
           "title": "香港4名公务员表现欠佳被着令退休",
@@ -52,6 +65,48 @@
           "time_info": "[11时00分 ~ 15时19分]"
         },
         {
+          "title": "香港4名公务员表现欠佳被着令退休",
+          "url": "https://www.toutiao.com/trending/7599609222804701222/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            20,
+            21,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 18时16分]"
+        },
+        {
+          "title": "香港内地事务局长曾国卫被免职",
+          "url": "https://www.douyin.com/hot/2380710",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 18时16分]"
+        },
+        {
+          "title": "2025年广东GDP增长3.9%",
+          "url": "https://www.douyin.com/hot/2380634",
+          "source": "抖音",
+          "ranks": [
+            6,
+            20,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 18时16分]"
+        },
+        {
           "title": "建议广东建设中国预制菜第一省",
           "url": "https://www.toutiao.com/trending/7599641381761941545/",
           "source": "今日头条",
@@ -62,17 +117,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时52分 ~ 11时02分]"
-        },
-        {
-          "title": "LCK杀到香港,LPL饭碗难保",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349757&amp;topic_name=LCK%E6%9D%80%E5%88%B0%E9%A6%99%E6%B8%AF%2CLPL%E9%A5%AD%E7%A2%97%E9%9A%BE%E4%BF%9D",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "高盛CEO：专注于为帮助经济做出贡献。 预计今年并购活动强劲、资本市场强劲。 今年将是香港IPO非常好的一年。 将看到美国和欧洲出现更多的IPO活动。 确保香港IPO的高标准至关重要。",
@@ -86,43 +130,16 @@
           "time_info": "11时02分"
         },
         {
-          "title": "香港4名公务员表现欠佳被着令退休",
-          "url": "https://www.toutiao.com/trending/7599609222804701222/",
+          "title": "香港内地事务局长曾国卫被免职",
+          "url": "https://www.toutiao.com/trending/7599539079382827051/",
           "source": "今日头条",
           "ranks": [
-            17,
-            20,
-            21,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 17时21分]"
-        },
-        {
-          "title": "2025年广东GDP增长3.9%",
-          "url": "https://www.douyin.com/hot/2380634",
-          "source": "抖音",
-          "ranks": [
-            6,
-            20,
-            4
+            29,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时21分]"
-        },
-        {
-          "title": "香港内地事务局长曾国卫被免职",
-          "url": "https://www.douyin.com/hot/2380710",
-          "source": "抖音",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时21分]"
+          "time_info": "[17时21分 ~ 18时16分]"
         },
         {
           "title": "广东江门回应山上发现数米长蟒蛇",
@@ -169,6 +186,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "帝尔激光：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3044656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "LCK杯总决赛落地香港",
           "url": "https://search.bilibili.com/all?keyword=LCK%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B%E8%90%BD%E5%9C%B0%E9%A6%99%E6%B8%AF",
           "source": "bilibili 热搜",
@@ -178,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "金盘科技：筹划发行H股并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3044647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "深圳市沃尔核材股份有限公司向香港交易所提交聆讯后文件。",
@@ -235,24 +274,13 @@
           "time_info": "15时19分"
         },
         {
-          "title": "香港内地事务局长曾国卫被免职",
-          "url": "https://www.toutiao.com/trending/7599539079382827051/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
           "title": "报道：东鹏饮料在香港的股票发行获得数倍认购",
           "url": "https://wallstreetcn.com/livenews/3044592",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
@@ -260,7 +288,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -292,9 +320,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "随着金价持续上涨，美国金矿股盘前走高，纽曼矿业(NEM.N)涨1.1%，Sibanye-Stillwater(SBSW.N)涨1.6%，巴里克黄金(GOLD.N)涨1.7%。SPDR黄金份额ETF涨0.7%。",
+          "url": "https://flash.jin10.com/detail/20260127174707942800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "金十图示：2026年01月27日（周二）上海金早盘价为1138.22元/克，较国际金价(1132.46元/克)，高5.76元/克",
@@ -325,7 +364,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -354,6 +393,90 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
+          "url": "https://www.cls.cn/detail/2270429",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 12时07分]"
+        },
+        {
+          "title": "欧盟依据数字市场法案对谷歌的在线搜索和数据共享展开调查。",
+          "url": "https://wallstreetcn.com/livenews/3044662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "谷歌法律顾问：然而，我们担心，那些往往由竞争对手投诉驱动而非以消费者利益为导向的进一步规则，将损害用户隐私、安全和创新。",
+          "url": "https://flash.jin10.com/detail/20260127175049223800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "谷歌法律顾问：Android从设计上就是开放的，我们已经在根据《数字市场法》向竞争对手发放搜索数据获取许可。",
+          "url": "https://flash.jin10.com/detail/20260127175037291800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "欧盟：第二项程序涉及谷歌在《数字市场法案》（DMA）项下的义务，即在公平条件下，向第三方在线搜索引擎提供对Google搜索所持有的匿名化排名及相关数据的访问权限。",
+          "url": "https://flash.jin10.com/detail/20260127175012447800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "欧盟：首项程序涉及谷歌在《数字市场法案》（DMA）项下的义务，即向第三方开发者提供对谷歌 Android 系统所控制的硬件和软件功能的免费且有效的互操作性。",
+          "url": "https://flash.jin10.com/detail/20260127174940980800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "欧盟根据《数字市场法》对谷歌启动规范程序",
+          "url": "https://flash.jin10.com/detail/20260127174618886800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -362,11 +485,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 18时16分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -375,9 +499,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 18时16分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
@@ -431,24 +555,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
-          "url": "https://www.cls.cn/detail/2270429",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 12时07分]"
         }
       ]
     }
