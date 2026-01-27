@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T11:02:01.307873+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-01-27T12:07:46.178291+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,17 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "建议广东建设中国预制菜第一省",
-          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B9%BF%E4%B8%9C%E5%BB%BA%E8%AE%BE%E4%B8%AD%E5%9B%BD%E9%A2%84%E5%88%B6%E8%8F%9C%E7%AC%AC%E4%B8%80%E7%9C%81",
+          "title": "香港4名公务员表现欠佳被着令退休",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF4%E5%90%8D%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%A8%E7%8E%B0%E6%AC%A0%E4%BD%B3%E8%A2%AB%E7%9D%80%E4%BB%A4%E9%80%80%E4%BC%91",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 12时07分]"
         },
         {
           "title": "建议广东建设中国预制菜第一省",
@@ -31,16 +33,16 @@
           "time_info": "[08时52分 ~ 11时02分]"
         },
         {
-          "title": "香港4名公务员表现欠佳被着令退休",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF4%E5%90%8D%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%A8%E7%8E%B0%E6%AC%A0%E4%BD%B3%E8%A2%AB%E7%9D%80%E4%BB%A4%E9%80%80%E4%BC%91",
+          "title": "建议广东建设中国预制菜第一省",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B9%BF%E4%B8%9C%E5%BB%BA%E8%AE%BE%E4%B8%AD%E5%9B%BD%E9%A2%84%E5%88%B6%E8%8F%9C%E7%AC%AC%E4%B8%80%E7%9C%81",
           "source": "百度热搜",
           "ranks": [
             4,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 12时07分]"
         },
         {
           "title": "高盛CEO：专注于为帮助经济做出贡献。 预计今年并购活动强劲、资本市场强劲。 今年将是香港IPO非常好的一年。 将看到美国和欧洲出现更多的IPO活动。 确保香港IPO的高标准至关重要。",
@@ -49,7 +51,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -59,11 +61,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 12时07分]"
         },
         {
           "title": "深圳南山成全国首个万亿GDP地市辖区",
@@ -83,7 +86,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -94,7 +97,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -105,7 +108,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
@@ -131,11 +134,12 @@
           "url": "https://www.toutiao.com/trending/7599218772373995556/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 12时07分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）上海金早盘价为1138.22元/克，较国际金价(1132.46元/克)，高5.76元/克",
@@ -144,7 +148,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -170,11 +174,12 @@
           "url": "https://www.cls.cn/detail/2270429",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 12时07分]"
         }
       ]
     }
