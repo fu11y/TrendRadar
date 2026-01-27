@@ -1,337 +1,72 @@
 {
-  "generated_at": "2026-01-26T18:16:34.998904+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-01-27T08:53:03.495956+08:00",
+  "total_titles_processed": 284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 18,
+      "match_count": 3,
       "titles": [
         {
-          "title": "【中国人民银行副行长邹澜：上海黄金交易所在港设立交割库并上市相关合约】中国人民银行副行长邹澜在第19届亚洲金融论坛上表示，在股票市场方面，沪深港通机制不断扩容。内地投资者通过港股通持有香港股票市值逾6万亿港元，全球投资者则通过沪深股通持有内地股票市值超2.5万亿元人民币。与此同时，黄金市场亦取得突破。上海黄金交易所在港设立交割库并上市相关合约，丰富了离岸人民币资产配置工具。伴随人民币跨境使用扩大，其作为全球第二大贸易融资货币、第三大支付货币的地位进一步巩固，在IMF特别提款权（SDR）货币篮子中权重位列第三。（上证报）",
-          "url": "https://wallstreetcn.com/livenews/3043814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "中国人民银行副行长邹澜：中国人民银行支持香港金管局将人民币业务资金安排规模由1000亿元增加至2000亿元",
-          "url": "https://wallstreetcn.com/livenews/3043812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "广东2026年将加快发展平台经济、楼宇经济新型专门经济形态",
-          "url": "https://wallstreetcn.com/livenews/3043685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时21分]"
-        },
-        {
-          "title": "京东官宣：七鲜小厨已覆盖北京、上海、广州、深圳等5城",
-          "url": "https://wallstreetcn.com/livenews/3043654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时25分]"
-        },
-        {
-          "title": "广东经济总量连续37年全国第一",
-          "url": "https://www.toutiao.com/trending/7598413033723133988/",
+          "title": "建议广东建设中国预制菜第一省",
+          "url": "https://www.toutiao.com/trending/7599641381761941545/",
           "source": "今日头条",
           "ranks": [
-            25,
-            30
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时46分]"
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
-          "title": "香港财库局与上金所签重磅协议：目标三年储金超2000吨、拟将黄金纳入优惠税制",
-          "url": "https://wallstreetcn.com/articles/3764128",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "广东：着力稳定房地产市场",
-          "url": "https://wallstreetcn.com/livenews/3043600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
-          "title": "港媒：香港金管局认为最优惠利率进一步下调空间有限",
-          "url": "https://flash.jin10.com/detail/20260126082405993800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "香港财经事务及库务局局长许正宇表示，将与内地就IPO事宜保持对话；将设立黄金合约清算所。",
-          "url": "https://wallstreetcn.com/livenews/3043494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "报道：香港金管局认为最优惠利率进一步下调空间有限",
-          "url": "https://wallstreetcn.com/livenews/3043490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "香港金融管理局人民币业务资金安排总额度倍增至2,000亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3043592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
-          "title": "“一人公司”的风吹到了深圳",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E2%80%9D%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E6%B7%B1%E5%9C%B3",
+          "title": "香港4名公务员表现欠佳被着令退休",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF4%E5%90%8D%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%A8%E7%8E%B0%E6%AC%A0%E4%BD%B3%E8%A2%AB%E7%9D%80%E4%BB%A4%E9%80%80%E4%BC%91",
           "source": "百度热搜",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "香港财库局局长许正宇：推动香港机场管理局（机管局）及金融机构在港拓展黄金仓储容量，以三年超越2000吨为目标，使香港成为全球信赖的黄金储存地。",
-          "url": "https://wallstreetcn.com/livenews/3043591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时07分"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
-          "title": "香港财库局与上海黄金交易所签订合作协议，推动香港黄金市场高质量发展。",
-          "url": "https://wallstreetcn.com/livenews/3043587",
-          "source": "华尔街见闻-快讯",
+          "title": "广东GDP出炉,37连冠稳坐榜1",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349719&amp;topic_name=%E5%B9%BF%E4%B8%9CGDP%E5%87%BA%E7%82%89%2C37%E8%BF%9E%E5%86%A0%E7%A8%B3%E5%9D%90%E6%A6%9C1",
+          "source": "贴吧",
           "ranks": [
-            18
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
-          "title": "广东：支持深交所深化创业板改革",
-          "url": "https://wallstreetcn.com/livenews/3043579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
-          "title": "文件：先导智能评估投资者对其香港上市的认购兴趣",
-          "url": "https://wallstreetcn.com/livenews/3043479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "深圳水贝金饰克价达到1300元",
-          "url": "https://wallstreetcn.com/livenews/3043773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "梁小龙追悼会在深圳举行",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E5%B0%8F%E9%BE%99%E8%BF%BD%E6%82%BC%E4%BC%9A%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
-          "url": "https://www.zhihu.com/question/1999025860699710314",
-          "source": "知乎",
-          "ranks": [
-            6,
-            13,
-            16,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 18时16分]"
-        },
-        {
-          "title": "杨德龙：国际金价下一目标价1万美元",
-          "url": "https://www.toutiao.com/trending/7599480136756366899/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            3,
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 15时20分]"
-        },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            10,
-            9,
-            7,
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时46分 ~ 18时16分]"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
-          "title": "金十图示：2026年01月26日（周一）上海金午盘价为1142.06元/克，较国际金价(1138.03元/克)，高4.03元/克",
-          "url": "https://flash.jin10.com/detail/20260126151422471800",
+          "title": "关税担忧推动金价上涨",
+          "url": "https://flash.jin10.com/detail/20260127075745776800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "国际金价突破5000美元关口",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时54分 ~ 14时21分]"
-        },
-        {
-          "title": "全球领先独立飞机租赁公司AerCap CEO：黄金价格反映了主要货币的贬值。目前“完全看不到”对美元计价投资兴趣减弱的任何迹象。",
-          "url": "https://flash.jin10.com/detail/20260126173425177800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "分析师：金价或继续受益于美元走弱",
-          "url": "https://flash.jin10.com/detail/20260126114640038800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "避险需求与金价飙升推动瑞郎大幅走强",
-          "url": "https://flash.jin10.com/detail/20260126165531796800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
-          "url": "https://www.zhihu.com/question/1993355026530317494",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 17时23分]"
+          "time_info": "08时53分"
         }
       ]
     }
