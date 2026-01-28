@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T13:20:02.652240+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-01-28T14:19:41.423116+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,25 @@
           "ranks": [
             28,
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[10时57分 ~ 14时19分]"
+        },
+        {
+          "title": "LCK杀到香港,LPL饭碗难保",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349757&amp;topic_name=LCK%E6%9D%80%E5%88%B0%E9%A6%99%E6%B8%AF%2CLPL%E9%A5%AD%E7%A2%97%E9%9A%BE%E4%BF%9D",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 14时19分]"
         },
         {
           "title": "香港2025年住宅价格录得四年来首次年度增长",
@@ -32,29 +46,17 @@
           "time_info": "12时08分"
         },
         {
-          "title": "LCK杀到香港,LPL饭碗难保",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349757&amp;topic_name=LCK%E6%9D%80%E5%88%B0%E9%A6%99%E6%B8%AF%2CLPL%E9%A5%AD%E7%A2%97%E9%9A%BE%E4%BF%9D",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 13时20分]"
-        },
-        {
           "title": "香港 4 名公务员表现欠佳被着令退休，如何看待这种处理方式的合理性？能起到警示作用吗？",
           "url": "https://www.zhihu.com/question/1999422225762182190",
           "source": "知乎",
           "ranks": [
             17,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 14时19分]"
         },
         {
           "title": "飞机起飞前广东男子往保温杯装雪",
@@ -140,7 +142,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -150,8 +152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 14时19分]"
         },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -162,8 +164,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 14时19分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -175,8 +177,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 14时19分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -186,8 +199,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 14时19分]"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
@@ -235,11 +248,12 @@
           "ranks": [
             9,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 14时19分]"
         },
         {
           "title": "软银正商谈向OpenAI追加投资高达300亿美元。（华尔街日报）",
@@ -289,19 +303,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 14时19分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 14时19分]"
         }
       ]
     },
@@ -319,8 +334,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 14时19分]"
         },
         {
           "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
