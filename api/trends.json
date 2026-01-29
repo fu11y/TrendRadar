@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-01-29T11:23:29.408076+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-01-29T13:01:44.106935+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "深圳小学期末考被评堪比公务员行测",
           "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B0%8F%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%A2%AB%E8%AF%84%E5%A0%AA%E6%AF%94%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%8C%E6%B5%8B",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 13时01分]"
+        },
+        {
+          "title": "深圳南山区 GDP 破万亿，为全国首个，对中国城市发展有何启示？",
+          "url": "https://www.zhihu.com/question/1999595928424846260",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 13时01分]"
         },
         {
           "title": "水贝黄金预定价平台“杰我睿”兑付困难，深圳罗湖成立工作专班",
@@ -59,18 +72,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "深圳南山区 GDP 破万亿，为全国首个，对中国城市发展有何启示？",
-          "url": "https://www.zhihu.com/question/1999595928424846260",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -81,9 +83,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "汇丰维持香港优惠利率在5.00%不变。",
+          "url": "https://wallstreetcn.com/livenews/3046083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "香港金管局：美国利率的未来趋势仍然充满不确定性。继续密切关注市场走势。",
@@ -92,9 +105,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "汇丰银行：公司维持香港最优惠贷款利率于5.00%不变；港元储蓄存款利率亦保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260129120638322800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "广州：推动粤港澳大湾区申办世界杯对提升区域国际影响力意义重大，将配合国家体育总局工作部署",
@@ -103,7 +127,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
@@ -121,8 +145,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时23分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 13时01分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -134,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 13时01分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -148,26 +183,16 @@
           "time_info": "[08时57分 ~ 11时23分]"
         },
         {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时23分]"
-        },
-        {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
           "url": "https://www.cls.cn/detail/2273531",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 13时01分]"
         },
         {
           "title": "渣打：金价任何回调都是买入机会",
@@ -204,7 +229,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
@@ -219,11 +244,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 13时01分]"
         }
       ]
     },
@@ -238,7 +264,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
