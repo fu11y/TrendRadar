@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-30T13:03:34.965932+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-01-30T14:33:46.505828+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
           "url": "https://www.cls.cn/detail/2275001",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 14时33分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -27,8 +28,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 13时03分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 14时33分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -39,8 +40,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 13时03分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 14时33分]"
         },
         {
           "title": "女子10年前买408克金条 金价已翻5倍",
@@ -53,6 +54,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 11时24分]"
+        },
+        {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -80,18 +92,19 @@
     },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "深圳多区小学期末卷被称堪比公务员行测，这是在锻炼学生思维还是在增加负担？是否有必要这么难？",
           "url": "https://www.zhihu.com/question/2000169994043028080",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 13时03分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 14时33分]"
         },
         {
           "title": "深圳：2025年地区生产总值38731.80亿元 同比增长5.5%",
@@ -100,7 +113,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -111,7 +124,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -127,6 +140,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "深圳中院一执行法官被两企业举报，法院：系正常履职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32463582",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "香港恒生科技指数下跌2%至5,723.89点。",
           "url": "https://wallstreetcn.com/livenews/3046926",
           "source": "华尔街见闻-快讯",
@@ -136,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "直播：实地探访深圳水贝",
+          "url": "https://www.toutiao.com/trending/7601024394781101578/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
