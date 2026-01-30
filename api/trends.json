@@ -1,299 +1,26 @@
 {
-  "generated_at": "2026-01-29T18:25:15.926466+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-01-30T08:57:49.750641+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "深圳小学期末考被评堪比公务员行测",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B0%8F%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%A2%AB%E8%AF%84%E5%A0%AA%E6%AF%94%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%8C%E6%B5%8B",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            17,
-            10,
-            8,
-            7,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时23分 ~ 18时25分]"
-        },
-        {
-          "title": "深圳南山区 GDP 破万亿，为全国首个，对中国城市发展有何启示？",
-          "url": "https://www.zhihu.com/question/1999595928424846260",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            6,
-            9,
-            8,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时23分 ~ 18时25分]"
-        },
-        {
-          "title": "香港就场外衍生工具结算规则下的标准计算期间进行咨询",
-          "url": "https://wallstreetcn.com/livenews/3046336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时25分]"
-        },
-        {
-          "title": "2025年深圳特殊监管区域外贸进出口货值破万亿",
-          "url": "https://wallstreetcn.com/livenews/3046217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 16时25分]"
-        },
-        {
-          "title": "水贝黄金预定价平台“杰我睿”兑付困难，深圳罗湖成立工作专班",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32480151",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时23分]"
-        },
-        {
-          "title": "香港提速构建国际黄金交易市场",
-          "url": "https://www.toutiao.com/trending/7600430045529640511/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "深圳：鼓励智能家居企业加快适配国产操作系统和芯片",
-          "url": "https://www.cls.cn/detail/2272944",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "广东发行10年期其他专项地方债，规模151.6000亿元，发行利率1.9200%，边际倍数2.18倍，倍数预期1.89； 广东发行15年期其他专项地方债，规模125.8000亿元，发行利率2.2900%，边际倍数14.21倍，倍数预期2.29； 广东发行20年期其他专项地方债，规模157.8000亿元，发行利率2.4300%，边际倍数1.05倍，倍数预期2.39； 广东发行20年期其他专项地方债，规模155.2000亿元，发行利率2.4300%，边际倍数1.19倍，倍数预期2.39； 广东发行30年期其他专项地方债，规模188.4000亿元，发行利率2.4500%，边际倍数33.32倍，倍数预期2.43； 广东发行30年期其他专项地方债，规模193.7000亿元，发行利率2.4500%，边际倍数66.66倍，倍数预期2.43； 广东发行20年期普通专项地方债，规模41.9592亿元，发行利率2.4300%，边际倍数2.34倍，倍数预期2.39； 广东发行20年期普通专项地方债，规模40.4998亿元，发行利率2.4300%，边际倍数2.06倍，倍数预期2.39。",
-          "url": "https://wallstreetcn.com/livenews/3046248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "香港金管局： 美国未来息率走向仍存在不确定性，对香港的利率环境亦会有所影响。",
-          "url": "https://flash.jin10.com/detail/20260129103200538800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "深圳华强：预计2025年净利润同比增长100%-130%",
-          "url": "https://wallstreetcn.com/livenews/3046357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "香港金管局将基准利率维持在4.0%不变，隔夜美联储按兵不动。",
-          "url": "https://flash.jin10.com/detail/20260129102401993800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "“深圳制造”畅销国内市场",
-          "url": "https://wallstreetcn.com/livenews/3046110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "汇丰维持香港优惠利率在5.00%不变。",
-          "url": "https://wallstreetcn.com/livenews/3046083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "香港金管局：美国利率的未来趋势仍然充满不确定性。继续密切关注市场走势。",
-          "url": "https://wallstreetcn.com/livenews/3046024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "汇丰银行：公司维持香港最优惠贷款利率于5.00%不变；港元储蓄存款利率亦保持稳定。",
-          "url": "https://flash.jin10.com/detail/20260129120638322800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "广州：推动粤港澳大湾区申办世界杯对提升区域国际影响力意义重大，将配合国家体育总局工作部署",
-          "url": "https://wallstreetcn.com/livenews/3046021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
-          "url": "https://www.cls.cn/detail/2273420",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 14时32分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时23分 ~ 18时25分]"
-        },
         {
           "title": "黄金价格为何一路猛涨",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            21,
-            22,
-            24,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时57分 ~ 18时25分]"
-        },
-        {
-          "title": "高盛：上调今明两年金价预测",
-          "url": "https://www.toutiao.com/trending/7600254146813558827/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
-        },
-        {
-          "title": "金价屡创历史新高意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%B1%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
         {
-          "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
-          "url": "https://flash.jin10.com/detail/20260129151543362800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "金价波动如何影响实体金店",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时23分]"
-        },
-        {
-          "title": "渣打：金价任何回调都是买入机会",
-          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "title": "女子10年前买408克金条 金价已翻5倍",
+          "url": "https://www.toutiao.com/trending/7600762834013618222/",
           "source": "今日头条",
           "ranks": [
             22
@@ -303,19 +30,19 @@
           "time_info": "08时57分"
         },
         {
-          "title": "金十图示：2026年01月29日（周四）上海金午盘价为1248.22元/克，较国际金价(1238.82元/克)，高9.4元/克",
-          "url": "https://flash.jin10.com/detail/20260129154110171800",
-          "source": "金十数据",
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "08时57分"
         },
         {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.toutiao.com/trending/7600648257781566982/",
           "source": "今日头条",
           "ranks": [
             25
@@ -327,80 +54,75 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
         {
-          "title": "人类基因密码被谷歌AI破解",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
-          "source": "bilibili 热搜",
+          "title": "软银集团股价上涨4.2%，因市场寄望OpenAI上市。",
+          "url": "https://flash.jin10.com/detail/20260130080955089800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            5,
-            7,
-            15,
-            6
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时23分 ~ 16时25分]"
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
+        {
+          "title": "OpenAI计划四季度上市 已聘请新高管",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%AE%A1%E5%88%92%E5%9B%9B%E5%AD%A3%E5%BA%A6%E4%B8%8A%E5%B8%82+%E5%B7%B2%E8%81%98%E8%AF%B7%E6%96%B0%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "深圳多区小学期末卷被称堪比公务员行测，这是在锻炼学生思维还是在增加负担？是否有必要这么难？",
+          "url": "https://www.zhihu.com/question/2000169994043028080",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "仙乐健康：向香港联交所递交H股发行上市申请",
+          "url": "https://wallstreetcn.com/livenews/3046807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
           "title": "谷歌DeepMind登Nature封面",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            27,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3046051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260129134256119800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek开源OCR 2模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "08时57分"
         }
       ]
     }
