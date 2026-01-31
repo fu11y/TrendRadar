@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T16:15:35.434147+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-01-31T17:17:47.555869+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时55分 ~ 16时15分]"
+          "appearance_count": 9,
+          "time_info": "[08时55分 ~ 17时17分]"
         },
         {
           "title": "金价下跌 多品牌设1-5%退货手续费",
@@ -70,11 +70,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时15分]"
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时17分]"
         },
         {
           "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
@@ -115,11 +116,12 @@
             25,
             24,
             26,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 16时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 17时17分]"
         },
         {
           "title": "李现在香港1天暴走18公里",
