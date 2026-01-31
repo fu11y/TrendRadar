@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-31T08:55:40.074739+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2026-01-31T11:13:50.521667+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
-          "url": "https://wallstreetcn.com/livenews/3047622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
           "url": "https://www.cls.cn/detail/2276350",
@@ -26,8 +15,93 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 11时13分]"
+        },
+        {
+          "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
+          "url": "https://wallstreetcn.com/livenews/3047622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 11时13分]"
+        },
+        {
+          "title": "金价下跌多品牌设1-5%退货手续费",
+          "url": "https://www.toutiao.com/trending/7601325264030895667/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "11时13分"
+        },
+        {
+          "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32505461",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
+          "url": "https://flash.jin10.com/detail/20260131084457932800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "金价下跌 多品牌设1-5%退货手续费",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+%E5%A4%9A%E5%93%81%E7%89%8C%E8%AE%BE1-5%25%E9%80%80%E8%B4%A7%E6%89%8B%E7%BB%AD%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "博闻丨深圳水贝黄金预定价平台“杰我睿”兑付困难，全职宝妈称被套百万元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32490260",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 11时13分]"
+        },
+        {
+          "title": "实地探访深圳水贝",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         }
       ]
     },
@@ -57,28 +131,12 @@
           "url": "https://wallstreetcn.com/livenews/3047621",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "博闻丨深圳水贝黄金预定价平台“杰我睿”兑付困难，全职宝妈称被套百万元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32490260",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 11时13分]"
         }
       ]
     }
