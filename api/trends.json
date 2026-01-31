@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T15:20:43.447408+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-01-31T16:15:35.434147+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,24 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 16时15分]"
+        },
+        {
+          "title": "金价下跌 多品牌设1-5%退货手续费",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+%E5%A4%9A%E5%93%81%E7%89%8C%E8%AE%BE1-5%25%E9%80%80%E8%B4%A7%E6%89%8B%E7%BB%AD%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            17,
+            16,
+            13,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[08时55分 ~ 15时20分]"
+          "time_info": "[11时13分 ~ 16时15分]"
         },
         {
           "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
@@ -36,32 +52,6 @@
           "time_info": "[08时55分 ~ 15时20分]"
         },
         {
-          "title": "金价下跌 多品牌设1-5%退货手续费",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+%E5%A4%9A%E5%93%81%E7%89%8C%E8%AE%BE1-5%25%E9%80%80%E8%B4%A7%E6%89%8B%E7%BB%AD%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            17,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 15时20分]"
-        },
-        {
-          "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
-          "url": "https://flash.jin10.com/detail/20260131144922707800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
           "title": "金价下跌多品牌设1-5%退货手续费",
           "url": "https://www.toutiao.com/trending/7601325264030895667/",
           "source": "今日头条",
@@ -73,6 +63,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时13分 ~ 14时23分]"
+        },
+        {
+          "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
+          "url": "https://flash.jin10.com/detail/20260131144922707800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时15分]"
         },
         {
           "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
@@ -112,11 +114,12 @@
             8,
             25,
             24,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 15时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 16时15分]"
         },
         {
           "title": "李现在香港1天暴走18公里",
@@ -125,11 +128,12 @@
           "ranks": [
             25,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 16时15分]"
         },
         {
           "title": "当四川人遇上广东火锅",
