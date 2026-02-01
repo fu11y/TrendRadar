@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-01T16:19:04.289859+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-02-01T17:19:58.348628+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 7,
       "titles": [
+        {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 17时19分]"
+        },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
           "url": "https://www.cls.cn/detail/2276350",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时07分 ~ 15时30分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 16时19分]"
         },
         {
           "title": "金价暴跌 有柜姐发帖退单一律扣500",
@@ -101,11 +101,12 @@
           "ranks": [
             3,
             6,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 16时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 17时19分]"
         },
         {
           "title": "陈茂波：海外企业和投资者对投资香港的信心加强",
@@ -114,11 +115,12 @@
           "ranks": [
             4,
             7,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 16时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 17时19分]"
         },
         {
           "title": "香港金店迎排队潮：排7小时还没进去",
