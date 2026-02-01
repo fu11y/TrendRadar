@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T12:18:56.275758+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-02-01T13:53:34.456685+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时18分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 13时53分]"
         },
         {
           "title": "金价巨震 有人昨天赚5万今天倒亏4万",
@@ -43,26 +43,28 @@
           "time_info": "[09时07分 ~ 09时08分]"
         },
         {
-          "title": "金价大跌 男子斥资20多万买入200克",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
           "title": "男子看金价下跌花20多万买200克",
           "url": "https://www.toutiao.com/trending/7600970812455845951/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 13时53分]"
+        },
+        {
+          "title": "金价大跌 男子斥资20多万买入200克",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 13时53分]"
         },
         {
           "title": "金价暴跌 有柜姐发帖退单一律扣500",
@@ -71,9 +73,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 13时53分]"
         },
         {
           "title": "金价暴跌有柜姐放话退单扣500元",
@@ -82,16 +84,38 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 13时53分]"
         }
       ]
     },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "澳门1月幸运博彩毛收入226.3亿澳门元，同比增长24%，预估为18.5%。",
+          "url": "https://wallstreetcn.com/livenews/3047760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "陈茂波：海外企业和投资者对投资香港的信心加强",
+          "url": "https://wallstreetcn.com/livenews/3047759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
         {
           "title": "实地探访深圳水贝",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D",
@@ -119,11 +143,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%87%91%E5%BA%97%E8%BF%8E%E6%8E%92%E9%98%9F%E6%BD%AE%EF%BC%9A%E6%8E%927%E5%B0%8F%E6%97%B6%E8%BF%98%E6%B2%A1%E8%BF%9B%E5%8E%BB",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 13时53分]"
         }
       ]
     },
