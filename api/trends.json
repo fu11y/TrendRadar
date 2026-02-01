@@ -1,233 +1,72 @@
 {
-  "generated_at": "2026-01-31T18:12:48.651645+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-02-01T09:08:05.866124+08:00",
+  "total_titles_processed": 278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
           "url": "https://www.cls.cn/detail/2276350",
           "source": "财联社热门",
           "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时55分 ~ 18时12分]"
-        },
-        {
-          "title": "金价下跌 多品牌设1-5%退货手续费",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+%E5%A4%9A%E5%93%81%E7%89%8C%E8%AE%BE1-5%25%E9%80%80%E8%B4%A7%E6%89%8B%E7%BB%AD%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            17,
-            16,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 16时15分]"
-        },
-        {
-          "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
-          "url": "https://wallstreetcn.com/livenews/3047622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            17,
-            20,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 15时20分]"
-        },
-        {
-          "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
-          "url": "https://flash.jin10.com/detail/20260131144922707800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 18时12分]"
-        },
-        {
-          "title": "金价下跌多品牌设1-5%退货手续费",
-          "url": "https://www.toutiao.com/trending/7601325264030895667/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时23分]"
-        },
-        {
-          "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32505461",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时56分]"
-        },
-        {
-          "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
-          "url": "https://flash.jin10.com/detail/20260131084457932800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时56分]"
+          "time_info": "[09时07分 ~ 09时08分]"
         },
         {
           "title": "金价银价为何创纪录暴跌",
           "url": "https://www.douyin.com/hot/2385262",
           "source": "抖音",
           "ranks": [
-            24
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "金价巨震 有人昨天赚5万今天倒亏4万",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%B7%A8%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%98%A8%E5%A4%A9%E8%B5%9A5%E4%B8%87%E4%BB%8A%E5%A4%A9%E5%80%92%E4%BA%8F4%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         }
       ]
     },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
           "title": "实地探访深圳水贝",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D",
           "source": "bilibili 热搜",
           "ranks": [
-            8,
-            25,
-            24,
-            26,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时13分 ~ 18时12分]"
-        },
-        {
-          "title": "李现在香港1天暴走18公里",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%B0%E5%9C%A8%E9%A6%99%E6%B8%AF1%E5%A4%A9%E6%9A%B4%E8%B5%B018%E5%85%AC%E9%87%8C",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 16时15分]"
-        },
-        {
-          "title": "深圳罗湖区：水贝黄金平台杰我睿公司已启动兑付",
-          "url": "https://wallstreetcn.com/livenews/3047665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "当四川人遇上广东火锅",
-          "url": "https://www.douyin.com/hot/2384911",
-          "source": "抖音",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 13时32分]"
-        },
-        {
-          "title": "博闻丨深圳水贝黄金预定价平台“杰我睿”兑付困难，全职宝妈称被套百万元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32490260",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时13分]"
+          "time_info": "[09时07分 ~ 09时08分]"
         },
         {
-          "title": "深圳通报：杰我睿公司已启动兑付",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E9%80%9A%E6%8A%A5%EF%BC%9A%E6%9D%B0%E6%88%91%E7%9D%BF%E5%85%AC%E5%8F%B8%E5%B7%B2%E5%90%AF%E5%8A%A8%E5%85%91%E4%BB%98",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3047621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            18,
-            21,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 15时20分]"
-        },
-        {
-          "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
-          "url": "https://www.zhihu.com/question/2000516785095537569",
+          "title": "如何评价 LCK CUP 总决赛将在中国香港举办？",
+          "url": "https://www.zhihu.com/question/1999497969880303188",
           "source": "知乎",
           "ranks": [
-            5,
-            9
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 14时23分]"
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         }
       ]
     },
@@ -236,15 +75,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
-          "url": "https://flash.jin10.com/detail/20260131025828448800",
-          "source": "金十数据",
+          "title": "UP体验谷歌最新世界模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            16
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         }
       ]
     }
