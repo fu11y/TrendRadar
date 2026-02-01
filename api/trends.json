@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T15:30:32.781743+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-02-01T16:19:04.289859+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 15时30分]"
+          "appearance_count": 7,
+          "time_info": "[12时18分 ~ 16时19分]"
         },
         {
           "title": "金价暴跌 有柜姐发帖退单一律扣500",
@@ -100,11 +100,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时30分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时19分]"
         },
         {
           "title": "陈茂波：海外企业和投资者对投资香港的信心加强",
@@ -112,11 +113,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时30分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时19分]"
         },
         {
           "title": "香港金店迎排队潮：排7小时还没进去",
