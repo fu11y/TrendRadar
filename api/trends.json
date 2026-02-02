@@ -1,201 +1,105 @@
 {
-  "generated_at": "2026-02-01T18:14:16.611311+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-02-02T09:01:32.265872+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
           "ranks": [
-            24,
-            21
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时18分 ~ 18时14分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
-          "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
-          "url": "https://www.cls.cn/detail/2276350",
+          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
+          "url": "https://www.cls.cn/detail/2276967",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 15时30分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
-          "title": "金价暴跌 有柜姐发帖退单一律扣500",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E6%9F%9C%E5%A7%90%E5%8F%91%E5%B8%96%E9%80%80%E5%8D%95%E4%B8%80%E5%BE%8B%E6%89%A3500",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 15时30分]"
-        },
-        {
-          "title": "金价巨震 有人昨天赚5万今天倒亏4万",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%B7%A8%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%98%A8%E5%A4%A9%E8%B5%9A5%E4%B8%87%E4%BB%8A%E5%A4%A9%E5%80%92%E4%BA%8F4%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时18分]"
-        },
-        {
-          "title": "金价大跌 男子斥资20多万买入200克",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时35分]"
-        },
-        {
-          "title": "金价暴跌有柜姐放话退单扣500元",
-          "url": "https://www.toutiao.com/trending/7601368996558127146/",
+          "title": "金价震荡 多家银行发布风险提示",
+          "url": "https://www.toutiao.com/trending/7601831569082859583/",
           "source": "今日头条",
           "ranks": [
-            27
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时35分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
+          "title": "金价有没有天花板",
+          "url": "https://www.toutiao.com/trending/7602036177641672238/",
+          "source": "今日头条",
           "ranks": [
-            11
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "中金：金价5500是重要分水岭 沃什只是催化剂",
+          "url": "https://flash.jin10.com/detail/20260202080328734800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "澳门1月幸运博彩毛收入226.3亿澳门元，同比增长24%，预估为18.5%。",
-          "url": "https://wallstreetcn.com/livenews/3047760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            15,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 18时14分]"
-        },
-        {
-          "title": "陈茂波：海外企业和投资者对投资香港的信心加强",
-          "url": "https://wallstreetcn.com/livenews/3047759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            16,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 18时14分]"
-        },
-        {
-          "title": "香港金店迎排队潮：排7小时还没进去",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%87%91%E5%BA%97%E8%BF%8E%E6%8E%92%E9%98%9F%E6%BD%AE%EF%BC%9A%E6%8E%927%E5%B0%8F%E6%97%B6%E8%BF%98%E6%B2%A1%E8%BF%9B%E5%8E%BB",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 15时30分]"
-        },
-        {
-          "title": "实地探访深圳水贝",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
-        },
-        {
-          "title": "如何评价 LCK CUP 总决赛将在中国香港举办？",
-          "url": "https://www.zhihu.com/question/1999497969880303188",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
         {
-          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
-          "url": "https://flash.jin10.com/detail/20260201175015575800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
+          "title": "中原地产：香港十大屋苑周末成交量创22个月新高",
+          "url": "https://wallstreetcn.com/livenews/3047880",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "黄霄雲巡演深圳收官站全程直拍",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%9C%84%E9%9B%B2%E5%B7%A1%E6%BC%94%E6%B7%B1%E5%9C%B3%E6%94%B6%E5%AE%98%E7%AB%99%E5%85%A8%E7%A8%8B%E7%9B%B4%E6%8B%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "许仕仁离世 曾卷入香港世纪贪污案",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E4%BB%95%E4%BB%81%E7%A6%BB%E4%B8%96+%E6%9B%BE%E5%8D%B7%E5%85%A5%E9%A6%99%E6%B8%AF%E4%B8%96%E7%BA%AA%E8%B4%AA%E6%B1%A1%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
@@ -204,15 +108,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "UP体验谷歌最新世界模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
+          "url": "https://wallstreetcn.com/articles/3764656",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     }
