@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T14:36:13.257121+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-02-03T15:35:03.754497+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "香港生活成本有多高",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E6%9C%89%E5%A4%9A%E9%AB%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时35分]"
+        },
+        {
           "title": "广东 10 岁小学生 28 元自制望远镜能看清月球陨石坑，这说明了什么？",
           "url": "https://www.zhihu.com/question/1999822903160635822",
           "source": "知乎",
@@ -56,18 +69,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "香港生活成本有多高",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E6%9C%89%E5%A4%9A%E9%AB%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 13时42分]"
         },
         {
           "title": "珠海一餐厅销售来源不明的河豚致2人中毒，被追究刑事责任",
@@ -95,8 +96,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 15时35分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
@@ -108,6 +109,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时03分 ~ 12时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "视频和移动通信服务公司Liberty Global：将与谷歌合作，在以人工智能为先的项目中优化云服务，以提升电信系统和网络可扩展性。已达成五年合作伙伴关系，将在整个欧洲业务中部署谷歌的Gemini人工智能模型和云工具。",
+          "url": "https://flash.jin10.com/detail/20260203151504838800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     }
