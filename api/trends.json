@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-02-03T12:04:15.484880+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-02-03T13:42:46.073217+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【金十数据整理：每日科技要闻速递（2月3日）】人工智能： <br/><span class=\"section-news\">1. SpaceX确认与xAI合并。</span><br/><span class=\"section-news\">2. 甲骨文启动美元债发行，拟筹资至多500亿美元扩建云业务。</span><br/><span class=\"section-news\">3. 消息称马斯克推进SpaceX、xAI合并，最快本周达成协议。</span><br/><span class=\"section-news\">4. 千问将豪掷“30亿”激励，加入腾讯打响的AI用户争夺战。</span><br/><span class=\"section-news\">5. 传OpenAI对英伟达芯片在AI聊天时的响应速度不满意，奥尔特曼驳斥。</span><br/>其他：<br/><span class=\"section-news\">1. 英国航天局负责人将于3月底离任。</span><br/><span class=\"section-news\">2. 美国企业批评波兰拟推数字服务税。</span><br/><span class=\"section-news\">3. 台媒：台积电2nm产能已被预订一空。</span><br/><span class=\"section-news\">4. 三星、SK海力士计划扩大尖端NAND产能。</span><br/><span class=\"section-news\">5. Waymo融资160亿美元，投后估值达1260亿美元。</span><br/><span class=\"section-news\">6. 特斯拉1月法国、挪威市场注册量双双崩跌，分别下跌42%和88%。</span><br/><span class=\"section-news\">7. 国家科教基础设施IP-SAFE项目加速器装置主体安装完成。 </span>",
+          "url": "https://flash.jin10.com/detail/20260203082140150800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "OpenAI将重点放在ChatGPT的研发上，而非进行更长期的研究，这导致公司高层人员离职。",
+          "url": "https://flash.jin10.com/detail/20260203130436001800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "OpenAI战略大转舵 全速冲刺ChatGPT商业化",
+          "url": "https://flash.jin10.com/detail/20260203130348456800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        }
+      ]
+    },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 3,
@@ -27,8 +66,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时42分]"
         },
         {
           "title": "珠海一餐厅销售来源不明的河豚致2人中毒，被追究刑事责任",
@@ -45,26 +84,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "【金十数据整理：每日科技要闻速递（2月3日）】人工智能： <br/><span class=\"section-news\">1. SpaceX确认与xAI合并。</span><br/><span class=\"section-news\">2. 甲骨文启动美元债发行，拟筹资至多500亿美元扩建云业务。</span><br/><span class=\"section-news\">3. 消息称马斯克推进SpaceX、xAI合并，最快本周达成协议。</span><br/><span class=\"section-news\">4. 千问将豪掷“30亿”激励，加入腾讯打响的AI用户争夺战。</span><br/><span class=\"section-news\">5. 传OpenAI对英伟达芯片在AI聊天时的响应速度不满意，奥尔特曼驳斥。</span><br/>其他：<br/><span class=\"section-news\">1. 英国航天局负责人将于3月底离任。</span><br/><span class=\"section-news\">2. 美国企业批评波兰拟推数字服务税。</span><br/><span class=\"section-news\">3. 台媒：台积电2nm产能已被预订一空。</span><br/><span class=\"section-news\">4. 三星、SK海力士计划扩大尖端NAND产能。</span><br/><span class=\"section-news\">5. Waymo融资160亿美元，投后估值达1260亿美元。</span><br/><span class=\"section-news\">6. 特斯拉1月法国、挪威市场注册量双双崩跌，分别下跌42%和88%。</span><br/><span class=\"section-news\">7. 国家科教基础设施IP-SAFE项目加速器装置主体安装完成。 </span>",
-          "url": "https://flash.jin10.com/detail/20260203082140150800",
-          "source": "金十数据",
+          "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
+          "url": "https://www.cls.cn/detail/2278518",
+          "source": "财联社热门",
           "ranks": [
-            19
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
+          "time_info": "13时42分"
+        },
         {
           "title": "李大霄解读金价一夜V型反转",
           "url": "https://www.toutiao.com/trending/7602460387761491507/",
