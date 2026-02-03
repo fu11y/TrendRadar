@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T15:35:03.754497+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-02-03T16:24:41.767767+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "ranks": [
             11,
             24,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 15时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 16时24分]"
         },
         {
           "title": "广东 10 岁小学生 28 元自制望远镜能看清月球陨石坑，这说明了什么？",
@@ -96,8 +97,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[13时42分 ~ 16时24分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
@@ -123,7 +124,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         }
