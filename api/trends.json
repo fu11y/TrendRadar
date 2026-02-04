@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T17:32:21.667054+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-02-04T18:27:57.868773+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "香港生活成本有多高",
@@ -16,11 +16,12 @@
             15,
             14,
             27,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 17时32分]"
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 18时27分]"
         },
         {
           "title": "中国香港1月标普全球制造业PMI 52.3，前值51.9。",
@@ -68,13 +69,24 @@
           "time_info": "16时26分"
         },
         {
+          "title": "广东教育厅原厅长罗伟其被查",
+          "url": "https://www.toutiao.com/trending/7602901285436031018/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "财政部将于2月在香港发行140亿元人民币国债",
           "url": "https://wallstreetcn.com/livenews/3049744",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -181,7 +193,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         }
@@ -277,8 +289,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 17时32分]"
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 18时27分]"
         }
       ]
     }
