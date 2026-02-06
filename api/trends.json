@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-06T14:38:46.791742+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-02-06T15:39:12.504319+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "郑泽晖任深圳市副市长",
+          "url": "https://www.douyin.com/hot/2390766",
+          "source": "抖音",
+          "ranks": [
+            20,
+            18,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时57分 ~ 15时39分]"
+        },
         {
           "title": "广东省委书记会见华润集团董事长",
           "url": "https://www.toutiao.com/trending/7603320537117376521/",
@@ -21,19 +35,6 @@
           "time_info": "[11时26分 ~ 14时38分]"
         },
         {
-          "title": "郑泽晖任深圳市副市长",
-          "url": "https://www.douyin.com/hot/2390766",
-          "source": "抖音",
-          "ranks": [
-            20,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 14时38分]"
-        },
-        {
           "title": "1月深圳二手房录得量创近10个月新高，四大核心区是市场回暖主力",
           "url": "https://m.thepaper.cn/newsDetail_forward_32541847",
           "source": "澎湃新闻",
@@ -42,8 +43,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 15时39分]"
         },
         {
           "title": "著名数学家、越南首位菲尔兹奖得主吴宝珠将加盟香港大学",
@@ -54,8 +55,30 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 15时39分]"
+        },
+        {
+          "title": "“粤车南下”或逐步推展至广东省其他城市",
+          "url": "https://wallstreetcn.com/livenews/3051205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "香港特区政府公布《运输策略蓝图》",
+          "url": "https://wallstreetcn.com/livenews/3051185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         }
       ]
     },
@@ -63,6 +86,18 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 15时39分]"
+        },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2282073",
@@ -86,18 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 14时38分]"
         }
       ]
     },
