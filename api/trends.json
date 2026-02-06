@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T11:27:11.448078+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-02-06T13:10:13.312064+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.toutiao.com/trending/7603320537117376521/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时10分]"
         },
         {
           "title": "郑泽晖任深圳市副市长",
           "url": "https://www.douyin.com/hot/2390766",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 11时27分]"
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 13时10分]"
         },
         {
           "title": "1月深圳二手房录得量创近10个月新高，四大核心区是市场回暖主力",
@@ -58,6 +60,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 13时10分]"
+        },
+        {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
@@ -69,27 +84,16 @@
           "time_info": "08时57分"
         },
         {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 11时27分]"
-        },
-        {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3765100",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时10分]"
         }
       ]
     },
@@ -104,7 +108,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -143,7 +147,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
