@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T13:10:13.312064+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-02-06T14:38:46.791742+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 13时10分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时38分]"
         },
         {
           "title": "郑泽晖任深圳市副市长",
@@ -25,33 +26,36 @@
           "source": "抖音",
           "ranks": [
             20,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时10分]"
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 14时38分]"
         },
         {
           "title": "1月深圳二手房录得量创近10个月新高，四大核心区是市场回暖主力",
           "url": "https://m.thepaper.cn/newsDetail_forward_32541847",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时38分]"
         },
         {
           "title": "著名数学家、越南首位菲尔兹奖得主吴宝珠将加盟香港大学",
           "url": "https://m.thepaper.cn/newsDetail_forward_32543568",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时38分]"
         }
       ]
     },
@@ -92,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 13时10分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时38分]"
         }
       ]
     },
