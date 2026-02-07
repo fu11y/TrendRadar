@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T17:19:30.216168+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-02-07T18:14:08.469680+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,27 @@
             13,
             9,
             15,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时56分 ~ 17时19分]"
+          "appearance_count": 13,
+          "time_info": "[08时56分 ~ 18时14分]"
+        },
+        {
+          "title": "三角洲深圳红运市集",
+          "url": "https://www.douyin.com/hot/2392560",
+          "source": "抖音",
+          "ranks": [
+            29,
+            23,
+            25,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时41分 ~ 18时14分]"
         },
         {
           "title": "广东一父亲怀疑女儿用纸巾擦头，疯狂砸门 47 秒后殴打女儿，会给孩子带来怎样的伤害？你有过类似经历吗？",
@@ -31,20 +47,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        },
-        {
-          "title": "三角洲深圳红运市集",
-          "url": "https://www.douyin.com/hot/2392560",
-          "source": "抖音",
-          "ranks": [
-            29,
-            23,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 17时19分]"
         },
         {
           "title": "广东红包金额等级图火了，血亲 100 元旁亲 50 元，怎样看待这一标准？你家过年红包会给多少？",
@@ -113,11 +115,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 17时19分]"
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 18时14分]"
         }
       ]
     },
@@ -137,8 +140,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时56分 ~ 17时19分]"
+          "appearance_count": 13,
+          "time_info": "[08时56分 ~ 18时14分]"
         }
       ]
     }
