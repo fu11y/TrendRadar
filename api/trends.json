@@ -1,230 +1,100 @@
 {
-  "generated_at": "2026-02-06T18:28:25.579717+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-02-07T08:56:41.420984+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "郑泽晖任深圳市副市长",
-          "url": "https://www.douyin.com/hot/2390766",
-          "source": "抖音",
-          "ranks": [
-            20,
-            18,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时57分 ~ 16时28分]"
-        },
-        {
-          "title": "1月深圳二手房录得量创近10个月新高，四大核心区是市场回暖主力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32541847",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时57分 ~ 18时28分]"
-        },
-        {
-          "title": "广东省委书记会见华润集团董事长",
-          "url": "https://www.toutiao.com/trending/7603320537117376521/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 14时38分]"
-        },
-        {
-          "title": "著名数学家、越南首位菲尔兹奖得主吴宝珠将加盟香港大学",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32543568",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 18时28分]"
-        },
-        {
-          "title": "广东发行7年期土储专项地方债，规模144.7100亿元，发行利率1.7700%，边际倍数6.31倍，倍数预期1.74； 广东发行7年期土储专项地方债，规模146.6000亿元，发行利率1.7700%，边际倍数2.74倍，倍数预期1.74； 广东发行10年期一般债地方债，规模132.6000亿元，发行利率1.9700%，边际倍数1.71倍，倍数预期1.97； 广东发行30年期其他专项地方债，规模54.6000亿元，发行利率2.4500%，边际倍数9.40倍，倍数预期2.46； 广东发行30年期其他专项地方债，规模55.0000亿元，发行利率2.4500%，边际倍数7.07倍，倍数预期2.46； 广东发行10年期一般债地方债，规模110.6904亿元，发行利率1.9700%，边际倍数1.83倍，倍数预期1.96； 广东发行15年期普通专项地方债，规模47.7786亿元，发行利率2.2900%，边际倍数1.17倍，倍数预期2.30； 广东发行15年期普通专项地方债，规模122.3618亿元，发行利率2.2900%，边际倍数1.11倍，倍数预期2.30。",
-          "url": "https://wallstreetcn.com/livenews/3051286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时28分]"
-        },
-        {
-          "title": "香港1月底官方外汇储备资产为4356亿美元",
-          "url": "https://wallstreetcn.com/livenews/3051277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时28分]"
-        },
-        {
-          "title": "“粤车南下”或逐步推展至广东省其他城市",
-          "url": "https://wallstreetcn.com/livenews/3051205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "香港特区政府公布《运输策略蓝图》",
-          "url": "https://wallstreetcn.com/livenews/3051185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        }
-      ]
-    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
         {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 18时28分]"
-        },
-        {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时10分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "软银：将在日本的合资企业服务中使用OpenAI的新企业平台。",
-          "url": "https://flash.jin10.com/detail/20260206105733969800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "OpenAI推出全新平台Frontier 强调对软件行业是“利好消息”",
-          "url": "https://www.cls.cn/detail/2282143",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "实测OpenAI和Cluade模型",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BOpenAI%E5%92%8CCluade%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "科技股补仓潮致贵金属高位重置 金价深蹲起跳尽显韧性",
-          "url": "https://flash.jin10.com/detail/20260206103914186800",
-          "source": "金十数据",
+          "title": "景林资产四季度减持英伟达超150万股，进一步增仓拼多多，重仓谷歌A、Meta、拼多多",
+          "url": "https://wallstreetcn.com/livenews/3051649",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "08时56分"
         },
         {
-          "title": "金价巨震一周 黄金主题ETF缩水427亿",
-          "url": "https://www.toutiao.com/trending/7603200053885255723/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "加密货币抛售潮波及贵金属 金价走低",
-          "url": "https://flash.jin10.com/detail/20260206075202611800",
+          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
+          "url": "https://flash.jin10.com/detail/20260207040250896800",
           "source": "金十数据",
           "ranks": [
-            29
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "08时56分"
+        },
+        {
+          "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
+          "url": "https://flash.jin10.com/detail/20260207035802693800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "广东一父亲怀疑女儿用纸巾擦头，疯狂砸门 47 秒后殴打女儿，会给孩子带来怎样的伤害？你有过类似经历吗？",
+          "url": "https://www.zhihu.com/question/2003231038181175784",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "广东红包金额等级图火了，血亲 100 元旁亲 50 元，怎样看待这一标准？你家过年红包会给多少？",
+          "url": "https://www.zhihu.com/question/2002821186288054274",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "高中生挑战无导航骑行到香港",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E6%8C%91%E6%88%98%E6%97%A0%E5%AF%BC%E8%88%AA%E9%AA%91%E8%A1%8C%E5%88%B0%E9%A6%99%E6%B8%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     }
