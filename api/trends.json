@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-02-07T13:01:28.318914+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-02-07T13:41:37.098976+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "高中生挑战无导航骑行到香港",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E6%8C%91%E6%88%98%E6%97%A0%E5%AF%BC%E8%88%AA%E9%AA%91%E8%A1%8C%E5%88%B0%E9%A6%99%E6%B8%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            9,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 13时41分]"
+        },
+        {
+          "title": "广东一父亲怀疑女儿用纸巾擦头，疯狂砸门 47 秒后殴打女儿，会给孩子带来怎样的伤害？你有过类似经历吗？",
+          "url": "https://www.zhihu.com/question/2003231038181175784",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "广东红包金额等级图火了，血亲 100 元旁亲 50 元，怎样看待这一标准？你家过年红包会给多少？",
+          "url": "https://www.zhihu.com/question/2002821186288054274",
+          "source": "知乎",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时17分]"
+        },
+        {
+          "title": "三角洲深圳红运市集",
+          "url": "https://www.douyin.com/hot/2392560",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
@@ -14,11 +68,12 @@
           "ranks": [
             10,
             23,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 13时41分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -45,48 +100,6 @@
       ]
     },
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "广东一父亲怀疑女儿用纸巾擦头，疯狂砸门 47 秒后殴打女儿，会给孩子带来怎样的伤害？你有过类似经历吗？",
-          "url": "https://www.zhihu.com/question/2003231038181175784",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "高中生挑战无导航骑行到香港",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E6%8C%91%E6%88%98%E6%97%A0%E5%AF%BC%E8%88%AA%E9%AA%91%E8%A1%8C%E5%88%B0%E9%A6%99%E6%B8%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 13时01分]"
-        },
-        {
-          "title": "广东红包金额等级图火了，血亲 100 元旁亲 50 元，怎样看待这一标准？你家过年红包会给多少？",
-          "url": "https://www.zhihu.com/question/2002821186288054274",
-          "source": "知乎",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -100,8 +113,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 13时01分]"
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 13时41分]"
         }
       ]
     }
