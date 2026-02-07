@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T08:56:41.420984+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2026-02-07T11:17:03.101389+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3051649",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时17分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -58,26 +59,28 @@
           "time_info": "08时56分"
         },
         {
-          "title": "广东红包金额等级图火了，血亲 100 元旁亲 50 元，怎样看待这一标准？你家过年红包会给多少？",
-          "url": "https://www.zhihu.com/question/2002821186288054274",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
           "title": "高中生挑战无导航骑行到香港",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E6%8C%91%E6%88%98%E6%97%A0%E5%AF%BC%E8%88%AA%E9%AA%91%E8%A1%8C%E5%88%B0%E9%A6%99%E6%B8%AF",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时17分]"
+        },
+        {
+          "title": "广东红包金额等级图火了，血亲 100 元旁亲 50 元，怎样看待这一标准？你家过年红包会给多少？",
+          "url": "https://www.zhihu.com/question/2002821186288054274",
+          "source": "知乎",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时17分]"
         }
       ]
     },
@@ -90,11 +93,12 @@
           "url": "https://wallstreetcn.com/articles/3765171",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时17分]"
         }
       ]
     }
