@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T16:17:04.572944+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-02-07T17:19:30.216168+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时56分 ~ 16时17分]"
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 17时19分]"
         },
         {
           "title": "广东一父亲怀疑女儿用纸巾擦头，疯狂砸门 47 秒后殴打女儿，会给孩子带来怎样的伤害？你有过类似经历吗？",
@@ -39,11 +39,12 @@
           "ranks": [
             29,
             23,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 16时17分]"
+          "appearance_count": 5,
+          "time_info": "[13时41分 ~ 17时19分]"
         },
         {
           "title": "广东红包金额等级图火了，血亲 100 元旁亲 50 元，怎样看待这一标准？你家过年红包会给多少？",
@@ -115,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 16时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 17时19分]"
         }
       ]
     },
@@ -136,8 +137,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时56分 ~ 16时17分]"
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 17时19分]"
         }
       ]
     }
