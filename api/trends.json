@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T13:41:37.098976+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-02-07T14:27:44.390648+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 13时41分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 14时27分]"
         },
         {
           "title": "广东一父亲怀疑女儿用纸巾擦头，疯狂砸门 47 秒后殴打女儿，会给孩子带来怎样的伤害？你有过类似经历吗？",
@@ -51,7 +51,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         }
@@ -100,6 +100,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
+          "url": "https://wallstreetcn.com/articles/3765209",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -113,8 +130,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 13时41分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 14时27分]"
         }
       ]
     }
