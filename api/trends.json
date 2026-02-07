@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T11:17:03.101389+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-02-07T13:01:28.318914+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 11时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 13时01分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -64,11 +65,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时17分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 13时01分]"
         },
         {
           "title": "广东红包金额等级图火了，血亲 100 元旁亲 50 元，怎样看待这一标准？你家过年红包会给多少？",
@@ -94,11 +96,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时17分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 13时01分]"
         }
       ]
     }
