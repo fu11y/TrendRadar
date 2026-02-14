@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T17:20:16.005688+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-02-14T18:14:51.423321+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 18时14分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？最新披露",
@@ -28,11 +28,27 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时30分 ~ 17时20分]"
+          "appearance_count": 7,
+          "time_info": "[14时30分 ~ 18时14分]"
+        },
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%BC%A0%E7%94%9A%E8%87%B3%E5%87%B6%E5%87%B6%E7%9A%84%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            18,
+            16,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时30分 ~ 18时14分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -49,20 +65,6 @@
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%BC%A0%E7%94%9A%E8%87%B3%E5%87%B6%E5%87%B6%E7%9A%84%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            18,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时30分 ~ 17时20分]"
-        },
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
           "url": "https://wallstreetcn.com/articles/3765730",
           "source": "华尔街见闻",
           "ranks": [
@@ -70,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时14分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -109,11 +111,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时03分 ~ 17时20分]"
+          "appearance_count": 9,
+          "time_info": "[13时03分 ~ 18时14分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -121,11 +124,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时14分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -196,11 +200,12 @@
             4,
             5,
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时26分 ~ 17时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时26分 ~ 18时14分]"
         },
         {
           "title": "“功能性灭绝”儒艮尸体现广东湛江海滩？专家：确认为印太江豚",
@@ -214,8 +219,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 18时14分]"
         },
         {
           "title": "香港西九文化区2025年接待逾1700万人次访客",
@@ -223,11 +228,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时14分]"
         },
         {
           "title": "保障大湾区城市群供水安全 珠江“压咸补淡”调度补水近90亿立方米",
@@ -252,11 +258,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时14分]"
         },
         {
           "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
