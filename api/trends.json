@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T14:31:10.377627+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-02-14T15:27:14.203819+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
@@ -18,8 +18,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 14时31分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 15时27分]"
+        },
+        {
+          "title": "DeepSeek春节再扔王炸？最新披露",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时30分 ~ 15时27分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -27,22 +39,35 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            28
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 15时27分]"
+        },
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%BC%A0%E7%94%9A%E8%87%B3%E5%87%B6%E5%87%B6%E7%9A%84%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时03分 ~ 14时31分]"
+          "time_info": "[14时30分 ~ 15时27分]"
         },
         {
-          "title": "DeepSeek春节再扔王炸？最新披露",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
+          "time_info": "[15时26分 ~ 15时27分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -55,17 +80,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时26分 ~ 13时04分]"
-        },
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%BC%A0%E7%94%9A%E8%87%B3%E5%87%B6%E5%87%B6%E7%9A%84%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -90,11 +104,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 15时27分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -156,8 +171,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 14时31分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 15时27分]"
         },
         {
           "title": "“功能性灭绝”儒艮尸体现广东湛江海滩？专家：确认为印太江豚",
@@ -169,8 +184,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 14时31分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 15时27分]"
         },
         {
           "title": "保障大湾区城市群供水安全 珠江“压咸补淡”调度补水近90亿立方米",
