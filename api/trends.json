@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T09:04:44.848009+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2026-02-15T12:11:02.354499+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://www.cls.cn/detail/2290476",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 12时11分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
           "url": "https://wallstreetcn.com/articles/3765736",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 12时11分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
           "url": "https://m.thepaper.cn/newsDetail_forward_32609556",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 12时11分]"
         },
         {
           "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
@@ -54,6 +57,35 @@
       ]
     },
     {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "牛马救星!深圳首创欠薪垫付",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350670&amp;topic_name=%E7%89%9B%E9%A9%AC%E6%95%91%E6%98%9F%21%E6%B7%B1%E5%9C%B3%E9%A6%96%E5%88%9B%E6%AC%A0%E8%96%AA%E5%9E%AB%E4%BB%98",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 12时11分]"
+        },
+        {
+          "title": "深圳18岁CEO爆火后现状",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B318%E5%B2%81CEO%E7%88%86%E7%81%AB%E5%90%8E%E7%8E%B0%E7%8A%B6",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 12时11分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -62,11 +94,12 @@
           "url": "https://wallstreetcn.com/articles/3765730",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 12时11分]"
         }
       ]
     },
@@ -80,23 +113,6 @@
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "牛马救星!深圳首创欠薪垫付",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350670&amp;topic_name=%E7%89%9B%E9%A9%AC%E6%95%91%E6%98%9F%21%E6%B7%B1%E5%9C%B3%E9%A6%96%E5%88%9B%E6%AC%A0%E8%96%AA%E5%9E%AB%E4%BB%98",
-          "source": "贴吧",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
