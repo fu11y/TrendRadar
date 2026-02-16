@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T13:59:30.741067+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-02-16T14:59:37.038325+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 14时59分]"
+        },
+        {
+          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2006637072895738078",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时59分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -29,19 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时59分]"
-        },
-        {
-          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2006637072895738078",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时59分]"
         }
       ]
     },
@@ -55,11 +56,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时59分]"
         },
         {
           "title": "外省游客“打飞的”买黄金 深圳水贝黄金商家忙疯了",
@@ -111,11 +113,12 @@
           "url": "https://www.cls.cn/detail/2290476",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 14时59分]"
         }
       ]
     }
