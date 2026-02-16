@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-16T14:59:37.038325+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-02-16T15:52:24.190091+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时52分]"
+        },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
           "url": "https://wallstreetcn.com/articles/3765755",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时59分 ~ 14时59分]"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时59分]"
         }
       ]
     },
@@ -57,11 +58,12 @@
           "ranks": [
             10,
             17,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时52分]"
         },
         {
           "title": "外省游客“打飞的”买黄金 深圳水贝黄金商家忙疯了",
@@ -117,8 +119,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 14时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 15时52分]"
         }
       ]
     }
