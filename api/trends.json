@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T17:36:47.573280+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-02-17T18:35:08.195090+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -66,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 18时35分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -79,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 18时35分]"
         },
         {
           "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
@@ -107,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 18时35分]"
         },
         {
           "title": "香港金管局通过贴现窗口向银行投放47.3亿港元流动性，创2025年2月份以来新高。",
@@ -148,7 +148,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         }
