@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:43:13.972055+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-02-17T15:42:33.135266+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时42分]"
         },
         {
           "title": "香港金管局通过贴现窗口向银行投放47.3亿港元流动性，创2025年2月份以来新高。",
@@ -97,8 +97,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时42分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -109,8 +109,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时42分]"
         }
       ]
     }
