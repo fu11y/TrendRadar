@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T09:01:24.787141+08:00",
-  "total_titles_processed": 284,
+  "generated_at": "2026-02-17T11:36:49.855137+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -54,30 +54,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时36分]"
         },
         {
           "title": "香港金管局通过贴现窗口向银行投放47.3亿港元流动性，创2025年2月份以来新高。",
           "url": "https://wallstreetcn.com/livenews/3055856",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时36分]"
         },
         {
           "title": "深圳花市蝴蝶兰“反向砍价”火了",
           "url": "https://www.toutiao.com/trending/7607256330654564371/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时36分]"
         }
       ]
     },
@@ -93,8 +95,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时36分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -104,8 +106,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时36分]"
         }
       ]
     }
