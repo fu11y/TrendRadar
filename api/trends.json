@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T14:47:44.799560+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-02-19T15:41:36.339656+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 15时41分]"
         },
         {
           "title": "香港街头粉袍女孩英歌舞C位炸场",
@@ -88,7 +89,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         }
@@ -105,11 +106,12 @@
           "ranks": [
             9,
             14,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 15时41分]"
         },
         {
           "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
