@@ -1,8 +1,104 @@
 {
-  "generated_at": "2026-02-20T14:42:55.415885+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-02-20T15:40:39.128705+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "深圳芯片厂员工领到26亿现金大礼包",
+          "url": "https://www.toutiao.com/trending/7608560233010495514/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时40分]"
+        },
+        {
+          "title": "广东阳江市阳西县发生4.0级地震",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E9%98%B3%E6%B1%9F%E5%B8%82%E9%98%B3%E8%A5%BF%E5%8E%BF%E5%8F%91%E7%94%9F4.0%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "广东阳江市阳西县4.0级地震",
+          "url": "https://www.douyin.com/hot/2406815",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "广东揭阳古城人气满满年味浓",
+          "url": "https://www.toutiao.com/trending/7608414933156249646/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "免签政策带来开门红 经深圳入境的加拿大英国客流持续攀升",
+          "url": "https://flash.jin10.com/detail/20260220105751105800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "香港天文台：地震网络侦测到市民报告的本地有感地震。",
+          "url": "https://flash.jin10.com/detail/20260220144526827800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "中国地震台网正式测定：02月20日14时28分在广东阳江市阳西县（北纬21.75度，东经111.77度）发生4.0级地震，震源深度11千米。",
+          "url": "https://flash.jin10.com/detail/20260220144202402800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "香港黄金交易所展出近1吨金条银条",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%BB%84%E9%87%91%E4%BA%A4%E6%98%93%E6%89%80%E5%B1%95%E5%87%BA%E8%BF%911%E5%90%A8%E9%87%91%E6%9D%A1%E9%93%B6%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 7,
@@ -90,76 +186,8 @@
       ]
     },
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "深圳芯片厂员工领到26亿现金大礼包",
-          "url": "https://www.toutiao.com/trending/7608560233010495514/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时42分]"
-        },
-        {
-          "title": "广东揭阳古城人气满满年味浓",
-          "url": "https://www.toutiao.com/trending/7608414933156249646/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "免签政策带来开门红 经深圳入境的加拿大英国客流持续攀升",
-          "url": "https://flash.jin10.com/detail/20260220105751105800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Google 发布 Gemini3.1Pro 模型，它在技术上有哪些亮点和突破？",
-          "url": "https://www.zhihu.com/question/2007991688078045862",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时42分]"
-        },
-        {
-          "title": "Gemini3.1 Pro上线",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.1%20Pro%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊局势继续升级，特朗普下“最后通牒”，10到15天内是协议最后期限，更有美媒爆料其考虑有限打击以逼伊朗达成协议；今日晚些时候，美国将公布美联储青睐的12月PCE通胀数据，当前，黄金价格在5000美元附近徘徊，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -182,6 +210,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "金价大涨难挡马年“淘金热”",
+          "url": "https://www.toutiao.com/trending/7608808696050617907/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Google 发布 Gemini3.1Pro 模型，它在技术上有哪些亮点和突破？",
+          "url": "https://www.zhihu.com/question/2007991688078045862",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时40分]"
+        },
+        {
+          "title": "Gemini3.1 Pro上线",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.1%20Pro%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         }
       ]
     }
