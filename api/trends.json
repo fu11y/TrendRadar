@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T17:19:22.780087+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-02-22T18:14:29.747111+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 17时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 18时14分]"
         },
         {
           "title": "港珠澳大桥珠海公路口岸单日车流量创历史新高，超2万辆次",
@@ -28,22 +29,12 @@
             4,
             5,
             8,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时11分 ~ 17时19分]"
-        },
-        {
-          "title": "官方辟谣大湾区相关虚假机构",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%9B%B8%E5%85%B3%E8%99%9A%E5%81%87%E6%9C%BA%E6%9E%84",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时37分 ~ 17时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时11分 ~ 18时14分]"
         },
         {
           "title": "官方辟谣大湾区相关虚假机构",
@@ -51,6 +42,17 @@
           "source": "抖音",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时37分 ~ 18时14分]"
+        },
+        {
+          "title": "官方辟谣大湾区相关虚假机构",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%9B%B8%E5%85%B3%E8%99%9A%E5%81%87%E6%9C%BA%E6%9E%84",
+          "source": "百度热搜",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -108,11 +110,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时37分 ~ 17时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时37分 ~ 18时14分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -127,8 +130,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 17时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 18时14分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -156,8 +159,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 17时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 18时14分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 18时14分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -171,19 +188,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时11分 ~ 16时18分]"
-        },
-        {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 17时19分]"
         }
       ]
     },
@@ -202,8 +206,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时37分 ~ 17时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时37分 ~ 18时14分]"
         }
       ]
     }
