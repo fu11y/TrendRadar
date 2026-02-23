@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T17:41:31.096560+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-02-23T18:39:20.005581+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 17时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 18时39分]"
         },
         {
           "title": "微信马年数据报告：广东登顶全国最爱发红包、送蓝包省份",
@@ -96,8 +96,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 17时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 18时39分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -125,8 +125,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 17时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 18时39分]"
         }
       ]
     }
