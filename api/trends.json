@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-23T09:01:44.708841+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2026-02-23T12:11:33.949879+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 3,
       "titles": [
+        {
+          "title": "一民俗活动引发广泛关注，广东湛江发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32643305",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 12时11分]"
+        },
         {
           "title": "香港长江和记最新发声",
           "url": "https://www.cls.cn/detail/2292101",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "一民俗活动引发广泛关注，广东湛江发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32643305",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
         }
       ]
     },
@@ -54,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 12时11分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -82,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 12时11分]"
         }
       ]
     }
