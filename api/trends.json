@@ -1,110 +1,18 @@
 {
-  "generated_at": "2026-02-23T18:39:20.005581+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-02-24T09:01:17.709114+08:00",
+  "total_titles_processed": 284,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "一民俗活动引发广泛关注，广东湛江发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32643305",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 18时39分]"
-        },
-        {
-          "title": "微信马年数据报告：广东登顶全国最爱发红包、送蓝包省份",
-          "url": "https://wallstreetcn.com/livenews/3057365",
+          "title": "中信证券：国内脑机接口行业将迎来DeepSeek时刻",
+          "url": "https://wallstreetcn.com/livenews/3057725",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时46分]"
-        },
-        {
-          "title": "港珠澳大桥珠海公路口岸单日进出境客车数量再创新高",
-          "url": "https://wallstreetcn.com/livenews/3057363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时46分]"
-        },
-        {
-          "title": "问界通报广东惠州车辆起火事件：非车辆自身原因导致",
-          "url": "https://wallstreetcn.com/livenews/3057369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时46分]"
-        },
-        {
-          "title": "香港长江和记最新发声",
-          "url": "https://www.cls.cn/detail/2292101",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "官方辟谣大湾区相关虚假机构",
-          "url": "https://www.toutiao.com/trending/7609212008827338778/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 18时39分]"
-        },
-        {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -117,16 +25,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
-          "url": "https://www.cls.cn/detail/2292521",
-          "source": "财联社热门",
+          "title": "瑞银：美联储降息及地缘政治风险加剧的背景下 金价将升至6200美元",
+          "url": "https://flash.jin10.com/detail/20260224072858580800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 18时39分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "电影夜王香港票房破纪录",
+          "url": "https://www.douyin.com/hot/2409213",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     }
