@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T17:37:16.680369+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-02-26T18:35:01.516501+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             18,
             12,
             22,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 17时37分]"
+          "appearance_count": 8,
+          "time_info": "[11时31分 ~ 18时35分]"
         },
         {
           "title": "香港数字办与广西数据局签署备忘录 促进两地人工智能领域合作",
@@ -77,7 +78,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -176,8 +177,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "游客泰国机场1110元金价买了周大福",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
+        },
         {
           "title": "金十图示：2026年02月26日（周四）上海金早盘价为1143.85元/克，较国际金价(1140.26元/克)，高3.59元/克",
           "url": "https://flash.jin10.com/detail/20260226110401427800",
