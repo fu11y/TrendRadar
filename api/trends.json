@@ -1,12 +1,41 @@
 {
-  "generated_at": "2026-02-27T17:30:17.471764+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-02-27T18:26:01.234203+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 8,
       "titles": [
+        {
+          "title": "香港消防局回应突发百米山火",
+          "url": "https://www.toutiao.com/trending/7610825452970557459/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            20,
+            16,
+            23,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时28分 ~ 18时26分]"
+        },
+        {
+          "title": "广东 1 岁男童春节探亲时走失离世，几个大人都以为对方在照看小孩 ，家长该如何避免此类看护漏洞？",
+          "url": "https://www.zhihu.com/question/2010005559697491051",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时09分 ~ 18时26分]"
+        },
         {
           "title": "二月的广东好舒适",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%8C%E6%9C%88%E7%9A%84%E5%B9%BF%E4%B8%9C%E5%A5%BD%E8%88%92%E9%80%82",
@@ -23,33 +52,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时59分 ~ 17时30分]"
-        },
-        {
-          "title": "香港消防局回应突发百米山火",
-          "url": "https://www.toutiao.com/trending/7610825452970557459/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            20,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 17时30分]"
-        },
-        {
-          "title": "广东 1 岁男童春节探亲时走失离世，几个大人都以为对方在照看小孩 ，家长该如何避免此类看护漏洞？",
-          "url": "https://www.zhihu.com/question/2010005559697491051",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时09分 ~ 17时30分]"
         },
         {
           "title": "广东暴雨来了",
@@ -185,11 +187,12 @@
           "ranks": [
             5,
             26,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时37分 ~ 17时30分]"
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 18时26分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
