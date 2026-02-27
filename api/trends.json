@@ -1,12 +1,58 @@
 {
-  "generated_at": "2026-02-27T08:59:53.329395+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2026-02-27T11:29:05.702438+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "广东暴雨来了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 11时29分]"
+        },
+        {
+          "title": "二月的广东好舒适",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8C%E6%9C%88%E7%9A%84%E5%B9%BF%E4%B8%9C%E5%A5%BD%E8%88%92%E9%80%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 11时29分]"
+        },
+        {
+          "title": "广东 1 岁男童春节探亲时走失，几个大人都以为对方在照看小孩 ，家长该如何避免此类看护漏洞？",
+          "url": "https://www.zhihu.com/question/2010005559697491051",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "香港消防局回应突发百米山火",
+          "url": "https://www.toutiao.com/trending/7610825452970557459/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
+        },
         {
           "title": "KSG战胜深圳DYG",
           "url": "https://search.bilibili.com/all?keyword=KSG%20%E6%B7%B1%E5%9C%B3DYG",
@@ -17,45 +63,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "广东暴雨来了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "二月的广东好舒适",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8C%E6%9C%88%E7%9A%84%E5%B9%BF%E4%B8%9C%E5%A5%BD%E8%88%92%E9%80%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
           "url": "https://www.cls.cn/detail/2296526",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 11时29分]"
+        },
+        {
+          "title": "谷歌深夜发布生图模型Nano Banana 2",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%B7%B1%E5%A4%9C%E5%8F%91%E5%B8%83%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8BNano+Banana+2",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价消息称 DeepSeek V4 打破常规优先适配华为，冷落英伟达 AMD？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2010465986483025153",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
         }
       ]
     },
@@ -73,6 +126,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月27日（周五）上海金早盘价为1146.78元/克，较国际金价(1144.18元/克)，高2.6元/克",
+          "url": "https://flash.jin10.com/detail/20260227102159136800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     }
