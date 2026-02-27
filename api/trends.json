@@ -1,35 +1,49 @@
 {
-  "generated_at": "2026-02-27T11:29:05.702438+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-02-27T13:09:55.457571+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "广东暴雨来了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 11时29分]"
-        },
         {
           "title": "二月的广东好舒适",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%8C%E6%9C%88%E7%9A%84%E5%B9%BF%E4%B8%9C%E5%A5%BD%E8%88%92%E9%80%82",
           "source": "bilibili 热搜",
           "ranks": [
             29,
-            18
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 13时09分]"
+        },
+        {
+          "title": "广东暴雨来了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 13时09分]"
+        },
+        {
+          "title": "香港消防局回应突发百米山火",
+          "url": "https://www.toutiao.com/trending/7610825452970557459/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时59分 ~ 11时29分]"
+          "time_info": "[11时28分 ~ 13时09分]"
         },
         {
           "title": "广东 1 岁男童春节探亲时走失，几个大人都以为对方在照看小孩 ，家长该如何避免此类看护漏洞？",
@@ -43,15 +57,26 @@
           "time_info": "[11时28分 ~ 11时29分]"
         },
         {
-          "title": "香港消防局回应突发百米山火",
-          "url": "https://www.toutiao.com/trending/7610825452970557459/",
-          "source": "今日头条",
+          "title": "懂车帝正考虑在香港IPO。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3059981",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "广东 1 岁男童春节探亲时走失离世，几个大人都以为对方在照看小孩 ，家长该如何避免此类看护漏洞？",
+          "url": "https://www.zhihu.com/question/2010005559697491051",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "KSG战胜深圳DYG",
@@ -68,7 +93,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
@@ -76,11 +101,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 11时29分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 13时09分]"
         },
         {
           "title": "谷歌深夜发布生图模型Nano Banana 2",
@@ -92,6 +118,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2010521633262101357",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         }
       ]
     },
@@ -104,11 +141,12 @@
           "url": "https://www.zhihu.com/question/2010465986483025153",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时09分]"
         }
       ]
     },
@@ -140,7 +178,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
