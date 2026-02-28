@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T17:16:06.211434+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-02-28T18:12:16.007759+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时53分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[08时53分 ~ 18时12分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -45,8 +45,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时21分 ~ 17时16分]"
+          "appearance_count": 8,
+          "time_info": "[14时21分 ~ 18时12分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -183,8 +183,19 @@
     },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "深圳：大力促进重点产业、重点产品、重点集群、重点企业加快乃至超常规发展",
+          "url": "https://wallstreetcn.com/livenews/3060781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
         {
           "title": "深圳：支持汽车置换更新，购买新能源乘用车补贴车价的8%",
           "url": "https://wallstreetcn.com/livenews/3060583",
@@ -220,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "深圳发布2026年重大项目计划清单，总投资3.2万亿元",
+          "url": "https://wallstreetcn.com/livenews/3060763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "深圳：鼓励保险机构在人形机器人、量子科技、商业航天、脑机工程等前沿科技方向开展研究，创新保险产品供给及“首研首用”保障",
@@ -272,6 +294,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时04分 ~ 14时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "专家：金价极端情况下或到7000美元",
+          "url": "https://www.toutiao.com/trending/7611434469627330601/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
         }
       ]
     }
