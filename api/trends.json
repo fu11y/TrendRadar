@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T17:18:33.262940+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-03-01T18:13:43.412730+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 17时18分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 18时13分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -59,11 +59,12 @@
           "ranks": [
             3,
             11,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 18时13分]"
         },
         {
           "title": "澳门2月幸运博彩毛收入206.3亿澳门元，同比增长4.5%，预估为1%。",
