@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T17:36:16.471185+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-03-02T18:34:06.234245+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "ranks": [
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时41分 ~ 17时36分]"
+          "appearance_count": 7,
+          "time_info": "[14时41分 ~ 18时34分]"
         },
         {
           "title": "金十图示：2026年03月02日（周一）上海金早盘价为1178.41元/克，较国际金价(1180.54元/克)低2.13元/克",
