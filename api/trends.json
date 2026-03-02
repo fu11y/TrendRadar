@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T16:31:36.717152+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-03-02T17:36:16.471185+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 17时36分]"
         },
         {
           "title": "20万广东人在委内瑞拉的谋生路",
@@ -64,11 +65,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时41分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时41分 ~ 17时36分]"
         },
         {
           "title": "金十图示：2026年03月02日（周一）上海金早盘价为1178.41元/克，较国际金价(1180.54元/克)低2.13元/克",
@@ -88,7 +90,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
