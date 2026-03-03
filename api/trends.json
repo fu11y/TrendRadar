@@ -1,23 +1,46 @@
 {
-  "generated_at": "2026-03-03T12:04:01.019057+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-03-03T13:40:42.998775+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "A股天然气板块涨势扩大，南京公用、蓝天燃气、皖天然气、深圳燃气、佛燃能源、成都燃气、重庆燃气等多股封涨停板。",
+          "url": "https://wallstreetcn.com/livenews/3062429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
         {
           "title": "香港财政司司长称近期或有「伊朗资金」来港避险，需做好准备、小心处理，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2011798995241047910",
           "source": "知乎",
           "ranks": [
             7,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 13时40分]"
+        },
+        {
+          "title": "天然气板块涨势扩大，南京公用、蓝天燃气、皖天然气、深圳燃气、佛燃能源、成都燃气、重庆燃气等多股封涨停板。",
+          "url": "https://wallstreetcn.com/livenews/3062427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "广东发行10年期一般债地方债，规模47.9200亿元，发行利率1.9500%，边际倍数1.10倍，倍数预期1.93； 广东发行10年期其他专项地方债，规模79.7978亿元，发行利率1.9700%，边际倍数1.88倍，倍数预期1.96； 广东发行15年期其他专项地方债，规模68.9234亿元，发行利率2.3000%，边际倍数2.49倍，倍数预期2.29； 广东发行20年期其他专项地方债，规模159.1164亿元，发行利率2.4600%，边际倍数12.32倍，倍数预期2.45； 广东发行30年期其他专项地方债，规模149.8735亿元，发行利率2.4800%，边际倍数1.87倍，倍数预期2.47； 广东发行30年期其他专项地方债，规模144.4319亿元，发行利率2.4800%，边际倍数1.70倍，倍数预期2.47； 广东发行30年期其他专项地方债，规模41.4000亿元，发行利率2.4800%，边际倍数1.20倍，倍数预期2.47； 广东发行10年期一般债地方债，规模124.9681亿元，发行利率1.9600%，边际倍数3.39倍，倍数预期1.92； 广东发行15年期普通专项地方债，规模103.4028亿元，发行利率2.3000%，边际倍数2.85倍，倍数预期2.28。",
@@ -26,7 +49,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -37,7 +60,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -51,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "深圳租房市场回暖",
+          "url": "https://wallstreetcn.com/livenews/3062405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         }
       ]
     },
@@ -65,7 +99,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
