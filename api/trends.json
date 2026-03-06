@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T16:23:49.512332+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2026-03-06T17:26:59.337262+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 17时26分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
@@ -115,11 +115,12 @@
             4,
             24,
             17,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 17时26分]"
         },
         {
           "title": "霍启刚希望明年春晚有香港分会场",
