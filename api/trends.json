@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-06T14:32:52.280181+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-03-06T15:32:09.247929+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 7,
       "titles": [
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 15时32分]"
+        },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
           "url": "https://flash.jin10.com/detail/20260306122409333800",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
-        },
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 14时32分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -100,11 +100,12 @@
             2,
             14,
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 14时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时05分 ~ 15时32分]"
         },
         {
           "title": "霍启刚：香港将首次制定五年规划",
@@ -112,11 +113,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 14时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 15时32分]"
         },
         {
           "title": "霍启刚希望明年春晚有香港分会场",
