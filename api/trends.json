@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T13:15:36.954405+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-03-09T14:46:04.424607+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 13时15分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 14时46分]"
         },
         {
           "title": "深圳龙岗拟首发“AI龙虾十条”",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 13时15分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 14时46分]"
         },
         {
           "title": "深圳龙岗拟出台措施 支持OpenClaw&OPC发展",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 13时15分]"
+        },
+        {
+          "title": "“龙虾”狂欢③深圳龙岗拟推“龙虾十条”，“一人公司”项目最高1000万元股权投资支持",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32728871",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 14时46分]"
         },
         {
           "title": "KSG战胜深圳DYG",
