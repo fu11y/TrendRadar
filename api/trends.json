@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T15:43:03.666997+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-03-09T16:31:55.908111+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 15时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 16时31分]"
         },
         {
           "title": "深圳龙岗拟首发“AI龙虾十条”",
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 15时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 16时31分]"
         },
         {
           "title": "深圳龙岗拟出台措施 支持OpenClaw&OPC发展",
@@ -53,8 +54,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时45分 ~ 15时43分]"
+          "appearance_count": 5,
+          "time_info": "[14时45分 ~ 16时31分]"
         },
         {
           "title": "KSG战胜深圳DYG",
@@ -78,6 +79,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "霍启刚建议香港发展冰雪经济，为什么没有冰雪也能发展冰雪经济？冰雪产业链在南方城市能怎样布局？",
+          "url": "https://www.zhihu.com/question/2013738636034667774",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "全国政协委员、广东证监局局长杨宗儒：建立和完善专项机制，维护我国企业海外权益",
