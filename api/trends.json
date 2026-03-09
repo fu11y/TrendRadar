@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T11:34:53.291299+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-03-09T13:15:36.954405+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2306525",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时34分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "深圳龙岗拟首发“AI龙虾十条”",
@@ -24,22 +25,24 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时34分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "深圳龙岗拟出台措施 支持OpenClaw&OPC发展",
           "url": "https://www.cls.cn/detail/2306379",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时34分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "KSG战胜深圳DYG",
@@ -88,7 +91,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         }
