@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T16:31:55.908111+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-03-09T17:36:33.786855+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
@@ -30,8 +30,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 16时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 17时36分]"
+        },
+        {
+          "title": "“龙虾”狂欢③深圳龙岗拟推“龙虾十条”，“一人公司”项目最高1000万元股权投资支持",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32728871",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时45分 ~ 17时36分]"
         },
         {
           "title": "深圳龙岗拟出台措施 支持OpenClaw&OPC发展",
@@ -46,16 +59,16 @@
           "time_info": "[09时01分 ~ 13时15分]"
         },
         {
-          "title": "“龙虾”狂欢③深圳龙岗拟推“龙虾十条”，“一人公司”项目最高1000万元股权投资支持",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32728871",
-          "source": "澎湃新闻",
+          "title": "霍启刚建议香港发展冰雪经济，为什么没有冰雪也能发展冰雪经济？冰雪产业链在南方城市能怎样布局？",
+          "url": "https://www.zhihu.com/question/2013738636034667774",
+          "source": "知乎",
           "ranks": [
-            19,
-            16
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时45分 ~ 16时31分]"
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时36分]"
         },
         {
           "title": "KSG战胜深圳DYG",
@@ -81,15 +94,15 @@
           "time_info": "09时01分"
         },
         {
-          "title": "霍启刚建议香港发展冰雪经济，为什么没有冰雪也能发展冰雪经济？冰雪产业链在南方城市能怎样布局？",
-          "url": "https://www.zhihu.com/question/2013738636034667774",
-          "source": "知乎",
+          "title": "花旗：香港地区有望承接中东资本与人才流入",
+          "url": "https://flash.jin10.com/detail/20260309171649547800",
+          "source": "金十数据",
           "ranks": [
-            13
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "17时36分"
         },
         {
           "title": "全国政协委员、广东证监局局长杨宗儒：建立和完善专项机制，维护我国企业海外权益",
