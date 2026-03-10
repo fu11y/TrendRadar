@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-03-10T08:56:07.837950+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2026-03-10T11:20:03.405570+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月10日（周二）上海金早盘价为1148.96元/克，较国际金价(1144.56元/克)，高4.4元/克",
+          "url": "https://flash.jin10.com/detail/20260310110424116800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待天津山姆超越深圳福田成为中国山姆单店营业额第一？全国最热闹的超市为何不在北上广？",
+          "url": "https://www.zhihu.com/question/2014276089237755801",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
