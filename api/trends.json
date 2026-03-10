@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T15:33:37.206823+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-03-10T16:26:52.356810+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待天津山姆超越深圳福田成为中国山姆单店营业额第一？全国最热闹的超市为何不在北上广？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 16时26分]"
         },
         {
           "title": "香港智慧机场内部探秘",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "长盈精密：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3067145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "香港航空提高燃油附加费。",
@@ -48,7 +59,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }
@@ -76,7 +87,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }
