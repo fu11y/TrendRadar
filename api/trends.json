@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T13:06:47.492897+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-03-11T14:37:05.041548+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 13时06分]"
-        },
-        {
-          "title": "“深圳将禁行电动自行车”不实",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B7%B1%E5%9C%B3%E5%B0%86%E7%A6%81%E8%A1%8C%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E2%80%9D%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 13时06分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 14时37分]"
         },
         {
           "title": "香港政府预留 100 亿港元，力邀清华北大落户香港大学城，若成功落户会给香港带来哪些影响？",
@@ -36,7 +26,19 @@
           "source": "知乎",
           "ranks": [
             19,
-            14
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 14时37分]"
+        },
+        {
+          "title": "“深圳将禁行电动自行车”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B7%B1%E5%9C%B3%E5%B0%86%E7%A6%81%E8%A1%8C%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -77,7 +79,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -88,7 +90,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         }
