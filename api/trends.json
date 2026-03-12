@@ -1,126 +1,22 @@
 {
-  "generated_at": "2026-03-11T18:27:53.001032+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-03-12T08:53:54.015236+08:00",
+  "total_titles_processed": 282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "广东清远4名儿童排成一列躺在马路中央，镇政府：已对他们进行安全教育",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32738861",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 14时37分]"
-        },
-        {
-          "title": "香港政府预留 100 亿港元，力邀清华北大落户香港大学城，若成功落户会给香港带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2013191643386380754",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 14时37分]"
-        },
-        {
-          "title": "“深圳将禁行电动自行车”不实",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B7%B1%E5%9C%B3%E5%B0%86%E7%A6%81%E8%A1%8C%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E2%80%9D%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 13时06分]"
-        },
         {
           "title": "“深圳将禁行电动自行车”不实",
           "url": "https://www.douyin.com/hot/2426478",
           "source": "抖音",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "中指研究院：开年法拍房遇冷，深圳清仓率居首，重庆逆势大涨38%",
-          "url": "https://wallstreetcn.com/livenews/3067704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "深圳春招有多热？互联网金融平均月薪2.2万，有行业求职人数上涨182%",
-          "url": "https://wallstreetcn.com/livenews/3067910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据The Information：OpenAI计划在战略调整中将Sora视频AI引入ChatGPT。",
-          "url": "https://flash.jin10.com/detail/20260311115744060800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
-          "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3067769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "机构：中东冲突前景不明，金价走势承压",
-          "url": "https://flash.jin10.com/detail/20260311160836282800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "08时53分"
         }
       ]
     }
