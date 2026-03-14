@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T14:32:02.194401+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-03-14T15:28:04.653118+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 14时32分]"
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 15时28分]"
         },
         {
           "title": "两米二老外深圳就医视频火出圈",
@@ -25,11 +26,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 14时32分]"
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 15时28分]"
         },
         {
           "title": "于和伟现身深圳金树林·绽放之夜",
@@ -66,11 +68,12 @@
           "ranks": [
             11,
             17,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 15时28分]"
         },
         {
           "title": "DeepSeek V4 为什么还不发布？",
