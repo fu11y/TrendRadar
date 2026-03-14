@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-14T15:28:04.653118+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-03-14T16:20:54.664412+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 4,
       "titles": [
+        {
+          "title": "两米二老外深圳就医视频火出圈",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%B1%B3%E4%BA%8C%E8%80%81%E5%A4%96%E6%B7%B1%E5%9C%B3%E5%B0%B1%E5%8C%BB%E8%A7%86%E9%A2%91%E7%81%AB%E5%87%BA%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            16,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 16时20分]"
+        },
         {
           "title": "深圳给70岁以上老人发津贴",
           "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E7%BB%9970%E5%B2%81%E4%BB%A5%E4%B8%8A%E8%80%81%E4%BA%BA%E5%8F%91%E6%B4%A5%E8%B4%B4",
@@ -19,19 +33,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时05分 ~ 15时28分]"
-        },
-        {
-          "title": "两米二老外深圳就医视频火出圈",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%B1%B3%E4%BA%8C%E8%80%81%E5%A4%96%E6%B7%B1%E5%9C%B3%E5%B0%B1%E5%8C%BB%E8%A7%86%E9%A2%91%E7%81%AB%E5%87%BA%E5%9C%88",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时24分 ~ 15时28分]"
         },
         {
           "title": "于和伟现身深圳金树林·绽放之夜",
