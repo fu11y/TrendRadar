@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T17:22:04.673231+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-03-14T18:17:09.685637+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "两米二老外深圳就医视频火出圈",
@@ -18,8 +18,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时24分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时24分 ~ 18时17分]"
         },
         {
           "title": "深圳给70岁以上老人发津贴",
@@ -33,6 +33,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时05分 ~ 15时28分]"
+        },
+        {
+          "title": "孙燕姿香港演唱会",
+          "url": "https://www.douyin.com/hot/2430448",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
+          "title": "坚决反对外部势力干预香港司法",
+          "url": "https://www.toutiao.com/trending/7616642153256714290/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
         },
         {
           "title": "于和伟现身深圳金树林·绽放之夜",
