@@ -1,113 +1,56 @@
 {
-  "generated_at": "2026-03-13T18:23:57.559352+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-03-14T08:59:04.690889+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "香港证监会、廉政公署：2家券商涉嫌受贿超400万、助对冲基金获利3.15亿，8人被捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32753914",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 16时27分]"
-        },
-        {
-          "title": "香港联交所就提升上市机制竞争力的建议咨询市场意见",
-          "url": "https://wallstreetcn.com/livenews/3069361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "人工智能药物研发公司Earendil Labs据悉考虑在香港IPO。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3069358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "今年前两月广东外贸实现“开门红”",
-          "url": "https://wallstreetcn.com/livenews/3069408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "外交部：坚决反对外部势力干预香港司法。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3069522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月13日（周五）上海金早盘价为1138.89元/克，较国际金价(1131.62元/克)，高7.27元/克",
-          "url": "https://flash.jin10.com/detail/20260313110253548800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）上海金午盘价为1131.73元/克，较国际金价(1127.27元/克)，高4.46元/克",
-          "url": "https://flash.jin10.com/detail/20260313150142034800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "软银股价一度下跌5.8%，此前Jefferies因OpenAI投资风险上升而将软银评级从“持有”下调至“弱于大盘”。",
-          "url": "https://wallstreetcn.com/livenews/3069234",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek V4 为什么还不发布？",
+          "url": "https://www.zhihu.com/question/2014783631814580088",
+          "source": "知乎",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：目击者称，卡塔尔当局于周六清晨疏散了多哈的Msheireb部分区域，该区域包括政府办公机构和谷歌办公室。",
+          "url": "https://flash.jin10.com/detail/20260314081810552800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "于和伟现身深圳金树林·绽放之夜",
+          "url": "https://www.toutiao.com/trending/7616290988302237759/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
         }
       ]
     }
