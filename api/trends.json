@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T14:48:30.700359+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-03-17T15:45:30.956314+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
@@ -75,7 +75,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -105,8 +105,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "框架没破，但为何金价走得这么累？",
+          "url": "https://flash.jin10.com/detail/20260317152635367800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
         {
           "title": "机构：油价推升通胀忧虑 央行紧缩预期短期内压制金价",
           "url": "https://flash.jin10.com/detail/20260317074313353800",
