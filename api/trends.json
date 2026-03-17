@@ -1,91 +1,66 @@
 {
-  "generated_at": "2026-03-16T18:43:13.146487+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-03-17T09:02:06.766802+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 7,
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
       "titles": [
         {
-          "title": "广东省烟草专卖局：已查获美宜佳门店非法卷烟139.99万支",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32772790",
-          "source": "澎湃新闻",
+          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
+          "url": "https://wallstreetcn.com/articles/3767569",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时08分 ~ 18时43分]"
-        },
-        {
-          "title": "《深圳市住房公积金管理办法》印发 个人缴存比例可调整",
-          "url": "https://wallstreetcn.com/livenews/3070851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "CBA焦点战辽宁复仇广东",
-          "url": "https://www.douyin.com/hot/2431754",
-          "source": "抖音",
-          "ranks": [
-            14
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时12分 ~ 14时13分]"
+          "time_info": "[09时01分 ~ 09时02分]"
         },
         {
-          "title": "报道：香港计划就内地保险客户的定义展开咨询，允许不是常居内地的人士可不需亲身到港投保",
-          "url": "https://wallstreetcn.com/livenews/3070464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "BioMaP以保密方式提交香港IPO申请。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3070549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "香港要求不要在政府电脑上使用OpenClaw",
-          "url": "https://wallstreetcn.com/livenews/3070589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "南网储能：投资建设广东新丰抽水蓄能电站，动态总投资额约73.79亿元。",
-          "url": "https://wallstreetcn.com/livenews/3070739",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI拟削减副业项目 聚焦编程与企业",
+          "url": "https://flash.jin10.com/detail/20260317075142873800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "09时02分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI预计将在未来几周内通知员工战略调整。",
+          "url": "https://flash.jin10.com/detail/20260317074432798800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI拟缩减副业，全力聚焦核心业务。OpenAI高管正敲定一项重大战略转型计划，拟将公司重心转向编程和企业用户。",
+          "url": "https://flash.jin10.com/detail/20260317074344011800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "OpenAI将缩减非核心项目，计划重新专注于编程和企业用户，将在未来几周内通知员工相关变更。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3071234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         }
       ]
     },
@@ -94,15 +69,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年03月16日（周一）上海金午盘价为1117.17元/克，较国际金价（1109.3元/克），高7.87元/克",
-          "url": "https://flash.jin10.com/detail/20260316154900130800",
+          "title": "机构：油价推升通胀忧虑 央行紧缩预期短期内压制金价",
+          "url": "https://flash.jin10.com/detail/20260317074313353800",
           "source": "金十数据",
           "ranks": [
-            3
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "09时02分"
         }
       ]
     }
