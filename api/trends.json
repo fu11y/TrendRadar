@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T13:56:10.775371+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-03-18T15:02:50.813942+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "深圳2026年建设用地供应计划出炉",
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时04分 ~ 12时12分]"
+        },
+        {
+          "title": "深圳楼市现“小阳春” 二手房签约量创五年新高",
+          "url": "https://wallstreetcn.com/livenews/3072158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "香港财政司司长陈茂波将赴京出席活动",
@@ -67,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 15时02分]"
         },
         {
           "title": "OpenAI官宣推出迄今最强大小型模型",
@@ -88,7 +99,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         }
@@ -103,11 +114,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 15时02分]"
         }
       ]
     }
