@@ -1,156 +1,8 @@
 {
-  "generated_at": "2026-03-18T18:39:35.970284+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-03-19T09:04:12.368318+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "深圳2026年建设用地供应计划出炉",
-          "url": "https://wallstreetcn.com/livenews/3072111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "A股港口航运板块短线拉升，招商轮船涨停，国航远洋、招商南油、中远海特、珠海港、锦江航运跟涨。",
-          "url": "https://flash.jin10.com/detail/20260318134454344800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "香港突然成了中东资金的新落点？确有加大布局动向",
-          "url": "https://www.cls.cn/detail/2315968",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 12时12分]"
-        },
-        {
-          "title": "商务部副部长兼国际贸易谈判副代表凌激在香港主持召开“投资中国”圆桌会并会见香港有关商会负责人",
-          "url": "https://flash.jin10.com/detail/20260318161741145800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "商务部副部长兼国际贸易谈判副代表凌激在香港主持召开“投资中国”圆桌会并会见香港有关商会负责人",
-          "url": "https://wallstreetcn.com/livenews/3072262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "岑浩辉召开澳门特区“三五”规划编制工作会议",
-          "url": "https://wallstreetcn.com/livenews/3072281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "香港恒生指数3月18日（周三）收盘上涨156.88点，涨幅0.61%，报26025.42点；<br/>香港恒生科技指数3月18日（周三）收盘上涨0.66点，涨幅0.01%，报5108.3点；<br/>国企指数3月18日（周三）收盘上涨8.77点，涨幅0.1%，报8835.5点；<br/>红筹指数3月18日（周三）收盘下跌10.14点，跌幅0.24%，报4302.0点。",
-          "url": "https://flash.jin10.com/detail/20260318161132970800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "深圳楼市现“小阳春” 二手房签约量创五年新高",
-          "url": "https://wallstreetcn.com/livenews/3072158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "香港财政司司长陈茂波将赴京出席活动",
-          "url": "https://wallstreetcn.com/livenews/3072074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
-          "url": "https://www.cls.cn/detail/2316213",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时12分 ~ 17时40分]"
-        },
-        {
-          "title": "OpenAI官宣推出迄今最强大小型模型",
-          "url": "https://www.toutiao.com/trending/7618381122107346468/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 09时05分]"
-        },
-        {
-          "title": "微软考虑就亚马逊与OpenAI达成的500亿美元云交易采取法律行动。 (英国金融时报)",
-          "url": "https://wallstreetcn.com/livenews/3072134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -160,15 +12,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
-            3,
-            6,
-            7,
-            9,
-            12
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时12分 ~ 18时39分]"
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
         }
       ]
     },
@@ -177,16 +25,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "黄金价格下跌 普通人能入手吗",
-          "url": "https://www.toutiao.com/trending/7618482201037901355/",
-          "source": "今日头条",
+          "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
+          "url": "https://www.cls.cn/detail/2317196",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            21
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时39分]"
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
         }
       ]
     }
