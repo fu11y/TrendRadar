@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T13:11:48.351063+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-03-20T14:39:32.802998+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "多家香港银行避谈“千亿中东资本涌港”传闻，金融业内：无数据可佐证，但关注度却有明显提升",
@@ -30,6 +30,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "男子称网购保健品涉嫌虚假宣传，“美国进口”水蛭素生产商却是香港企业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796338",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "澳门特区立法会通过《澳门特别行政区维护国家安全委员会》法案",
           "url": "https://m.thepaper.cn/newsDetail_forward_32795653",
           "source": "澎湃新闻",
@@ -52,11 +63,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 13时11分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 14时39分]"
         },
         {
           "title": "金价暴跌 有金店一天狂卖3斤黄金",
@@ -64,11 +76,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 13时11分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 14时39分]"
         }
       ]
     },
