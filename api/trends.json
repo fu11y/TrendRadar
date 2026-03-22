@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T14:36:10.594371+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-03-22T15:32:09.784733+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 15时32分]"
         },
         {
           "title": "香港高薪招医生入门月薪7万港元起",
@@ -35,11 +35,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 15时32分]"
         },
         {
           "title": "靳磊任深圳市委书记",
@@ -50,19 +51,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 15时32分]"
         },
         {
           "title": "靳磊任深圳市委书记",
           "url": "https://www.douyin.com/hot/2439427",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 14时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 15时32分]"
         },
         {
           "title": "陈茂波：深刻感受到中央部委机构对香港的关心与支持",
@@ -70,11 +72,24 @@
           "source": "金十数据",
           "ranks": [
             9,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 15时32分]"
+        },
+        {
+          "title": "香港发生亿元黄金劫案，警方拘5人找回73公斤金条",
+          "url": "https://flash.jin10.com/detail/20260322133335234800",
+          "source": "金十数据",
+          "ranks": [
+            7,
             17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时36分]"
+          "time_info": "[14时36分 ~ 15时32分]"
         },
         {
           "title": "香港警察机动部队结业展示引惊呼",
@@ -110,17 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时08分 ~ 13时44分]"
-        },
-        {
-          "title": "香港发生亿元黄金劫案，警方拘5人找回73公斤金条",
-          "url": "https://flash.jin10.com/detail/20260322133335234800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
         }
       ]
     },
