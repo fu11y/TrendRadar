@@ -1,272 +1,106 @@
 {
-  "generated_at": "2026-03-22T18:16:03.700605+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-03-23T09:05:42.140050+08:00",
+  "total_titles_processed": 284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 14,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "靳磊任深圳市委书记",
-          "url": "https://www.toutiao.com/trending/7619925349463588918/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时44分 ~ 17时21分]"
-        },
         {
           "title": "靳磊任广东省委常委和深圳市委书记",
           "url": "https://m.thepaper.cn/newsDetail_forward_32810177",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            16,
-            15,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时44分 ~ 18时16分]"
-        },
-        {
-          "title": "靳磊任深圳市委书记",
-          "url": "https://www.douyin.com/hot/2439427",
-          "source": "抖音",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时35分 ~ 18时16分]"
-        },
-        {
-          "title": "靳磊任深圳市委书记",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E7%A3%8A%E4%BB%BB%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时44分 ~ 17时21分]"
-        },
-        {
-          "title": "香港高薪招医生入门月薪7万港元起",
-          "url": "https://www.toutiao.com/trending/7619845534748216883/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
-        },
-        {
-          "title": "深圳市领导干部会议召开，宣布中央决定",
-          "url": "https://wallstreetcn.com/livenews/3074525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "09时05分"
         },
         {
-          "title": "广东横琴警方：一男子窜至某小区抢劫两人致一死，已被抓获",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32810483",
-          "source": "澎湃新闻",
+          "title": "香港“黄金大劫案”5人落网",
+          "url": "https://www.douyin.com/hot/2439311",
+          "source": "抖音",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
-          "title": "雪峰科技：控股股东广东宏大拟增持1.5亿-3亿元公司股份",
-          "url": "https://flash.jin10.com/detail/20260322163225455800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时16分]"
-        },
-        {
-          "title": "陈茂波：深刻感受到中央部委机构对香港的关心与支持",
-          "url": "https://flash.jin10.com/detail/20260322122903440800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 15时32分]"
-        },
-        {
-          "title": "香港发生亿元黄金劫案，警方拘5人找回73公斤金条",
-          "url": "https://flash.jin10.com/detail/20260322133335234800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时32分]"
-        },
-        {
-          "title": "香港警察机动部队结业展示引惊呼",
-          "url": "https://www.toutiao.com/trending/7618956194212200498/",
+          "title": "香港再现黄金大劫案 涉73公斤金条",
+          "url": "https://www.toutiao.com/trending/7619474528888012842/",
           "source": "今日头条",
           "ranks": [
-            10
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
-          "title": "中央批准：靳磊任广东省委委员、常委和深圳市委书记",
-          "url": "https://flash.jin10.com/detail/20260322120830415800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时36分]"
-        },
-        {
-          "title": "香港高薪抢医生 入门月薪7万港元起",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%AB%98%E8%96%AA%E6%8A%A2%E5%8C%BB%E7%94%9F+%E5%85%A5%E9%97%A8%E6%9C%88%E8%96%AA7%E4%B8%87%E6%B8%AF%E5%85%83%E8%B5%B7",
+          "title": "“世界上最神秘的鸟”现身广东",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E7%A5%9E%E7%A7%98%E7%9A%84%E9%B8%9F%E2%80%9D%E7%8E%B0%E8%BA%AB%E5%B9%BF%E4%B8%9C",
           "source": "百度热搜",
           "ranks": [
-            18,
-            23
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时44分]"
-        },
-        {
-          "title": "中微半导：为加速存储芯片业务发展 拟1.6亿元增资珠海博雅获20%股权",
-          "url": "https://flash.jin10.com/detail/20260322170608804800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "09时05分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 6,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "国际金价为何八连跌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%85%AB%E8%BF%9E%E8%B7%8C",
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
           "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "金价还能涨回来吗？",
-          "url": "https://flash.jin10.com/detail/20260322163613272800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时16分]"
-        },
-        {
-          "title": "国际金价“八连跌”",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E5%85%AB%E8%BF%9E%E8%B7%8C%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 13时44分]"
-        },
-        {
-          "title": "现货黄金价格跌破4500美元，创43年最大单周跌幅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32805437",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
-        },
-        {
-          "title": "专家：金价有一些回调是正常的",
-          "url": "https://www.toutiao.com/trending/7619248018004836406/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
-          "title": "粤开证券：长期看支撑黄金价格的有利因素仍在",
-          "url": "https://flash.jin10.com/detail/20260322152315932800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "09时05分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3074453",
-          "source": "华尔街见闻-快讯",
+          "title": "据泰晤士报：前谷歌高管马特·布里廷（Matt Brittin）确认出任英国广播公司（BBC）总干事。",
+          "url": "https://flash.jin10.com/detail/20260323081051115800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            30
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时08分]"
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "趁金价回调豪掷182亿元 紫金矿业取得赤峰黄金控制权",
+          "url": "https://flash.jin10.com/detail/20260323082524578800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     }
