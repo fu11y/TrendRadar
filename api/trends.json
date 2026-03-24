@@ -1,248 +1,44 @@
 {
-  "generated_at": "2026-03-23T18:41:59.969069+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-03-24T08:59:03.498602+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 15,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "靳磊任广东省委常委和深圳市委书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32810177",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 12时15分]"
-        },
-        {
-          "title": "“请广东人给我这个武汉人道歉”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%AF%B7%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%BB%99%E6%88%91%E8%BF%99%E4%B8%AA%E6%AD%A6%E6%B1%89%E4%BA%BA%E9%81%93%E6%AD%89%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时03分 ~ 18时41分]"
-        },
-        {
-          "title": "美宜佳回应假烟事件进展，广东是此次假烟问题集中区，不存在自设卷烟厂，承诺假一赔十，还能重获信任吗？",
-          "url": "https://www.zhihu.com/question/2018424597452701724",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 18时41分]"
-        },
-        {
-          "title": "广东横琴警方通报男子窜至某小区抢劫致 1 死，嫌疑人已被抓获，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2019071458769330373",
-          "source": "知乎",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时41分]"
-        },
         {
           "title": "香港发生亿元黄金劫案，5 人在金行抢走 73 公斤金条，嫌疑人均已被拘捕，具体情况如何？",
           "url": "https://www.zhihu.com/question/2019148545123377273",
           "source": "知乎",
           "ranks": [
-            16,
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时41分]"
+          "time_info": "[08时58分 ~ 08时59分]"
         },
         {
-          "title": "香港“黄金大劫案”5人落网",
-          "url": "https://www.douyin.com/hot/2439311",
-          "source": "抖音",
+          "title": "广东一地刚刚官宣：入夏",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%9C%B0%E5%88%9A%E5%88%9A%E5%AE%98%E5%AE%A3%EF%BC%9A%E5%85%A5%E5%A4%8F",
+          "source": "百度热搜",
           "ranks": [
-            9
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
         },
         {
-          "title": "香港：提升伊朗及以色列的外游警示级别至黑色",
-          "url": "https://wallstreetcn.com/livenews/3075063",
+          "title": "香港财经事务及库务局局长许正宇：中东家办对香港的兴趣日益浓厚。",
+          "url": "https://wallstreetcn.com/livenews/3075513",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "深圳今年前两月外贸进出口突破8242亿元 创历史同期新高",
-          "url": "https://wallstreetcn.com/livenews/3075058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "广东：加强对国家重大科技任务和电子信息、人工智能、低空经济等先进制造业集群的增信",
-          "url": "https://wallstreetcn.com/livenews/3074856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "香港发生亿元黄金劫案",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%8F%91%E7%94%9F%E4%BA%BF%E5%85%83%E9%BB%84%E9%87%91%E5%8A%AB%E6%A1%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "广东：到2030年底政府性融资担保机构资本实力明显提升 力争资本规模增长50%",
-          "url": "https://wallstreetcn.com/livenews/3074852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "香港再现黄金大劫案 涉73公斤金条",
-          "url": "https://www.toutiao.com/trending/7619474528888012842/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "“世界上最神秘的鸟”现身广东",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E7%A5%9E%E7%A7%98%E7%9A%84%E9%B8%9F%E2%80%9D%E7%8E%B0%E8%BA%AB%E5%B9%BF%E4%B8%9C",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "香港恒生指数3月23日（周一）收盘下跌894.85点，跌幅3.54%，报24382.47点；<br/>香港恒生科技指数3月23日（周一）收盘下跌159.9点，跌幅3.28%，报4712.48点；<br/>国企指数3月23日（周一）收盘下跌266.25点，跌幅3.11%，报8307.82点；<br/>红筹指数3月23日（周一）收盘下跌106.23点，跌幅2.5%，报4140.1点。",
-          "url": "https://flash.jin10.com/detail/20260323161215270800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "广东：加强对国家重大科技任务和电子信息、人工智能、低空经济等先进制造业集群的增信",
-          "url": "https://flash.jin10.com/detail/20260323132130985800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "国内金价跌破1000元",
-          "url": "https://www.toutiao.com/trending/7620270700237950500/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时14分 ~ 18时41分]"
-        },
-        {
-          "title": "金价下跌 30克金手镯能省约1万元",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+30%E5%85%8B%E9%87%91%E6%89%8B%E9%95%AF%E8%83%BD%E7%9C%81%E7%BA%A61%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 17时51分]"
-        },
-        {
-          "title": "金价九连跌 妈妈花10万给女儿买金饰",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B9%9D%E8%BF%9E%E8%B7%8C+%E5%A6%88%E5%A6%88%E8%8A%B110%E4%B8%87%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E9%87%91%E9%A5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时41分]"
-        },
-        {
-          "title": "金价大跌后还会回升吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E5%9B%9E%E5%8D%87%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "趁金价回调豪掷182亿元 紫金矿业取得赤峰黄金控制权",
-          "url": "https://flash.jin10.com/detail/20260323082524578800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "08时59分"
         }
       ]
     },
@@ -255,33 +51,28 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            6,
-            8,
-            15,
-            14,
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时05分 ~ 18时41分]"
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "据泰晤士报：前谷歌高管马特·布里廷（Matt Brittin）确认出任英国广播公司（BBC）总干事。",
-          "url": "https://flash.jin10.com/detail/20260323081051115800",
-          "source": "金十数据",
+          "title": "金价接连失守4500、4400、4300、4200、4100美元，避险功能为何“失灵”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32814959",
+          "source": "澎湃新闻",
           "ranks": [
-            28
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
         }
       ]
     }
