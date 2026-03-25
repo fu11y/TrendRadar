@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T13:53:49.302454+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-03-25T14:48:21.968701+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时48分]"
         },
         {
           "title": "深圳：支持国产GPU、NPU、CPU、DPU等核心芯片产品加快应用和迭代",
@@ -26,8 +26,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时48分]"
+        },
+        {
+          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
+          "url": "https://www.cls.cn/detail/2323916",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时53分]"
+          "time_info": "[13时53分 ~ 14时48分]"
         },
         {
           "title": "深圳：推动光模块从800G向1.6T/3.2T代际升级 支持800G及以上光模块量产项目落地",
@@ -50,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        },
-        {
-          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
-          "url": "https://www.cls.cn/detail/2323916",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
         },
         {
           "title": "深圳：支持国产GPU、NPU、CPU、DPU等核心芯片产品加快应用和迭代",
@@ -91,7 +92,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         }
@@ -102,28 +103,30 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时53分]"
-        },
-        {
           "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
           "url": "https://www.zhihu.com/question/2020036375211157322",
           "source": "知乎",
           "ranks": [
             14,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时48分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时48分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -134,8 +137,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时48分]"
         }
       ]
     },
