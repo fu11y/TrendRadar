@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T16:36:24.536184+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-03-25T17:42:34.917043+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 17时42分]"
         },
         {
           "title": "老外逛深圳,感叹空气香甜",
@@ -26,11 +27,12 @@
           "ranks": [
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 17时42分]"
         },
         {
           "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
@@ -42,8 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 16时36分]"
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 17时42分]"
         },
         {
           "title": "深圳：推动光模块从800G向1.6T/3.2T代际升级 支持800G及以上光模块量产项目落地",
@@ -107,7 +109,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
@@ -175,11 +177,12 @@
           "ranks": [
             14,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 17时42分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -193,8 +196,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 17时42分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -205,8 +208,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 17时42分]"
         }
       ]
     }
