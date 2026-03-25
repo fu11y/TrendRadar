@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-03-25T15:45:00.248918+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-03-25T16:36:24.536184+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "深圳：支持国产GPU、NPU、CPU、DPU等核心芯片产品加快应用和迭代",
+          "url": "https://www.cls.cn/detail/2323710",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时36分]"
+        },
         {
           "title": "老外逛深圳,感叹空气香甜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352317&amp;topic_name=%E8%80%81%E5%A4%96%E9%80%9B%E6%B7%B1%E5%9C%B3%2C%E6%84%9F%E5%8F%B9%E7%A9%BA%E6%B0%94%E9%A6%99%E7%94%9C",
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时45分]"
-        },
-        {
-          "title": "深圳：支持国产GPU、NPU、CPU、DPU等核心芯片产品加快应用和迭代",
-          "url": "https://www.cls.cn/detail/2323710",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时36分]"
         },
         {
           "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
@@ -36,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 15时45分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 16时36分]"
         },
         {
           "title": "深圳：推动光模块从800G向1.6T/3.2T代际升级 支持800G及以上光模块量产项目落地",
@@ -96,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "香港恒生指数3月25日（周三）收盘上涨272.24点，涨幅1.09%，报25335.95点；<br/>香港恒生科技指数3月25日（周三）收盘上涨92.05点，涨幅1.91%，报4922.94点；<br/>国企指数3月25日（周三）收盘上涨83.21点，涨幅0.98%，报8582.74点；<br/>红筹指数3月25日（周三）收盘上涨1.74点，涨幅0.04%，报4211.82点。",
+          "url": "https://flash.jin10.com/detail/20260325161124638800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
@@ -110,7 +124,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -144,7 +158,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         }
@@ -164,8 +178,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时36分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -175,11 +189,12 @@
             5,
             19,
             22,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时36分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -190,8 +205,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时36分]"
         }
       ]
     }
