@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-26T14:06:12.141776+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-03-26T15:53:14.573789+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 4,
       "titles": [
+        {
+          "title": "老外逛深圳,感叹空气香甜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352317&amp;topic_name=%E8%80%81%E5%A4%96%E9%80%9B%E6%B7%B1%E5%9C%B3%2C%E6%84%9F%E5%8F%B9%E7%A9%BA%E6%B0%94%E9%A6%99%E7%94%9C",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 15时53分]"
+        },
         {
           "title": "香港正考虑为资产管理机构提供重大减税政策，考虑对资产管理机构的税务规则进行全面变革。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3077098",
@@ -19,38 +32,28 @@
           "time_info": "12时22分"
         },
         {
-          "title": "老外逛深圳,感叹空气香甜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352317&amp;topic_name=%E8%80%81%E5%A4%96%E9%80%9B%E6%B7%B1%E5%9C%B3%2C%E6%84%9F%E5%8F%B9%E7%A9%BA%E6%B0%94%E9%A6%99%E7%94%9C",
-          "source": "贴吧",
+          "title": "深圳二手房价重返「6 字头」，单日成交量创近 5 年新高，楼市真的复苏了吗？",
+          "url": "https://www.zhihu.com/question/2020448302089336115",
+          "source": "知乎",
           "ranks": [
-            16,
-            20
+            20,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时08分 ~ 14时06分]"
+          "time_info": "[14时05分 ~ 15时53分]"
         },
         {
           "title": "林志玲阿Sa黄晓明黄宗泽香港湾仔开跑",
           "url": "https://www.toutiao.com/trending/7620792134850789422/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时05分 ~ 14时06分]"
-        },
-        {
-          "title": "深圳二手房价重返「6 字头」，单日成交量创近 5 年新高，楼市真的复苏了吗？",
-          "url": "https://www.zhihu.com/question/2020448302089336115",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时05分 ~ 14时06分]"
+          "appearance_count": 4,
+          "time_info": "[14时05分 ~ 15时53分]"
         }
       ]
     },
@@ -68,8 +71,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 14时06分]"
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 15时53分]"
         },
         {
           "title": "据华尔街日报：OpenAI正投资人工智能初创公司Isara，该公司最近从投资者处筹集了9400万美元，而OpenAI以6.5亿美元的估值投资了该公司。",
@@ -96,25 +99,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
-          "url": "https://wallstreetcn.com/articles/3768419",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时06分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -124,8 +110,37 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 14时06分]"
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 15时53分]"
+        },
+        {
+          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
+          "url": "https://www.cls.cn/detail/2325322",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
+          "url": "https://wallstreetcn.com/articles/3768419",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 15时53分]"
         }
       ]
     },
