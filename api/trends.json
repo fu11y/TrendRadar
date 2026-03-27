@@ -1,81 +1,45 @@
 {
-  "generated_at": "2026-03-27T17:42:29.141956+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-03-27T18:36:53.052318+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 13,
       "titles": [
         {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
+          "title": "广东省市场监管局联合广州市市场监管局召开平台企业座谈会",
+          "url": "https://wallstreetcn.com/livenews/3078167",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            5,
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "广东省政协副主席郭永航被查",
+          "url": "https://www.toutiao.com/trending/7621872925603807295/",
+          "source": "今日头条",
+          "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 17时42分]"
-        },
-        {
-          "title": "内存股大跌与谷歌论文有关吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            12,
-            20,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 17时42分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时51分 ~ 17时42分]"
-        },
-        {
-          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
-          "url": "https://www.cls.cn/detail/2326397",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时42分]"
-        },
-        {
-          "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
-          "url": "https://www.cls.cn/detail/2326356",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
-      "titles": [
+          "time_info": "18时36分"
+        },
+        {
+          "title": "广东省政协副主席郭永航被查",
+          "url": "https://www.douyin.com/hot/2445934",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
         {
           "title": "香港将全面禁止电子烟",
           "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B0%86%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E7%94%B5%E5%AD%90%E7%83%9F",
@@ -101,6 +65,17 @@
           "time_info": "[14时05分 ~ 14时06分]"
         },
         {
+          "title": "广东省市场监管局联合广州市市场监管局召开平台企业座谈会",
+          "url": "https://flash.jin10.com/detail/20260327182046328800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
           "title": "中国香港特首李家超会见新加坡总理黄循财。",
           "url": "https://wallstreetcn.com/livenews/3078036",
           "source": "华尔街见闻-快讯",
@@ -110,6 +85,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "香港居民疯抢国产电动车",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B1%85%E6%B0%91%E7%96%AF%E6%8A%A2%E5%9B%BD%E4%BA%A7%E7%94%B5%E5%8A%A8%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "广东省政协副主席郭永航被查",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%94%BF%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD%E9%83%AD%E6%B0%B8%E8%88%AA%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "广州极飞科技股份有限公司的香港IPO或将筹资至多2亿美元。（IFR国际金融评论）",
+          "url": "https://wallstreetcn.com/livenews/3078134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "香港交易所和马来西亚交易所推出联合冠名指数。",
+          "url": "https://wallstreetcn.com/livenews/3078133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "香港恒生指数03月27日（周五）收盘上涨95.45点，涨幅0.38%，报24951.88点。<br/>香港恒生科技指数03月27日（周五）收盘上涨16.47点，涨幅0.35%，报4778.01点;<br/>国企指数03月27日（周五）收盘上涨63.84点，涨幅0.76%，报8453.77点。<br/>红筹指数03月27日（周五）收盘上涨4.96点，涨幅0.12%，报4164.38点。",
@@ -136,6 +155,79 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5,
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时23分 ~ 18时36分]"
+        },
+        {
+          "title": "内存股大跌与谷歌论文有关吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            12,
+            20,
+            13,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时23分 ~ 18时36分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时51分 ~ 18时36分]"
+        },
+        {
+          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
+          "url": "https://www.cls.cn/detail/2326397",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 18时36分]"
+        },
+        {
+          "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
+          "url": "https://www.cls.cn/detail/2326356",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -147,11 +239,12 @@
             7,
             8,
             12,
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 17时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时23分 ~ 18时36分]"
         },
         {
           "title": "金价银价急跌",
