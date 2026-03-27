@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T12:23:47.120398+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-03-27T14:06:08.760081+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -23,11 +23,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时06分]"
         },
         {
           "title": "国际金价暴跌到4099时，敢闭眼抄底的“人”是谁？",
@@ -36,7 +37,46 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "香港将全面禁止电子烟",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B0%86%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E7%94%B5%E5%AD%90%E7%83%9F",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时06分]"
+        },
+        {
+          "title": "中方：英国没资格就香港事务说三道四",
+          "url": "https://www.toutiao.com/trending/7620798890925244459/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时05分 ~ 14时06分]"
+        },
+        {
+          "title": "张朝阳：香港是理想的运动城市",
+          "url": "https://www.toutiao.com/trending/7620386280241791014/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         }
@@ -51,22 +91,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时06分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时06分]"
         }
       ]
     },
@@ -92,35 +134,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "香港将全面禁止电子烟",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B0%86%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E7%94%B5%E5%AD%90%E7%83%9F",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "张朝阳：香港是理想的运动城市",
-          "url": "https://www.toutiao.com/trending/7620386280241791014/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         }
@@ -136,11 +150,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 14时06分]"
         }
       ]
     }
