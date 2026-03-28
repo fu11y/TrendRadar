@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T13:48:16.143565+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-03-28T14:43:29.778057+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 14时43分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 14时43分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -27,23 +40,12 @@
           "ranks": [
             14,
             20,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 13时48分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 14时43分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -52,11 +54,12 @@
           "ranks": [
             15,
             21,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 14时43分]"
         }
       ]
     },
@@ -73,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 14时43分]"
         },
         {
           "title": "广东省委：坚决拥护党中央决定",
