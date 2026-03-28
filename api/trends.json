@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T12:07:56.171122+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-03-28T13:48:16.143565+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 13时48分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -25,11 +26,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 13时48分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 13时48分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -37,22 +51,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 12时07分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
+            21,
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 13时48分]"
         }
       ]
     },
@@ -69,19 +73,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 13时48分]"
         },
         {
           "title": "广东省委：坚决拥护党中央决定",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%A7%94%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 13时48分]"
         },
         {
           "title": "香港居民疯抢国产电动车",
