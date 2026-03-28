@@ -1,88 +1,11 @@
 {
-  "generated_at": "2026-03-28T17:26:14.311394+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-03-28T18:20:06.065913+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            14,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时02分 ~ 17时26分]"
-        },
-        {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            20,
-            13,
-            18,
-            16,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时02分 ~ 17时26分]"
-        },
-        {
-          "title": "内存股大跌与谷歌论文有关吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            21,
-            18,
-            17,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时02分 ~ 17时26分]"
-        },
-        {
-          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
-          "url": "https://www.cls.cn/detail/2327153",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 14时43分]"
-        },
-        {
-          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
-          "url": "https://www.zhihu.com/question/2020455049218712383",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "广东省政协党组成员、副主席郭永航被查",
@@ -94,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时02分 ~ 17时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时02分 ~ 18时20分]"
         },
         {
           "title": "广东省委：坚决拥护党中央决定",
@@ -108,6 +31,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时02分 ~ 13时48分]"
+        },
+        {
+          "title": "广东省委：坚决拥护党中央对郭永航进行审查调查的决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32844530",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
+          "title": "广东江门累计设立台资企业超1600家 投资超59亿美元",
+          "url": "https://flash.jin10.com/detail/20260328170801299800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "香港居民疯抢国产电动车",
@@ -130,6 +75,84 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            14,
+            11,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时02分 ~ 18时20分]"
+        },
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            20,
+            13,
+            18,
+            16,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时02分 ~ 18时20分]"
+        },
+        {
+          "title": "内存股大跌与谷歌论文有关吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            21,
+            18,
+            17,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时02分 ~ 18时20分]"
+        },
+        {
+          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
+          "url": "https://www.cls.cn/detail/2327153",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 14时43分]"
+        },
+        {
+          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
+          "url": "https://www.zhihu.com/question/2020455049218712383",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 18时20分]"
         }
       ]
     },
