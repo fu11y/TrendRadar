@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T17:25:53.993441+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-03-29T18:21:26.995387+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             9,
             12,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 17时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 18时21分]"
         },
         {
           "title": "澳门世界杯国乒抽签结果出炉",
@@ -28,9 +29,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时21分]"
         },
         {
           "title": "澳门乒乓球世界杯抽签仪式",
@@ -92,6 +93,17 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
+          "title": "孙颖莎展望澳门世界杯：全力以赴",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B1%95%E6%9C%9B%E6%BE%B3%E9%97%A8%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时21分]"
+        },
+        {
           "title": "广东多地冰雹橙色预警信号生效",
           "url": "https://www.toutiao.com/trending/7622531656175321130/",
           "source": "今日头条",
@@ -101,17 +113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
-        },
-        {
-          "title": "孙颖莎展望澳门世界杯：全力以赴",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B1%95%E6%9C%9B%E6%BE%B3%E9%97%A8%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "广东省市场监管局联合广州市市场监管局召开平台企业座谈会",
@@ -139,8 +140,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时05分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[14时05分 ~ 18时21分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -151,11 +152,12 @@
             3,
             15,
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 17时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 18时21分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
