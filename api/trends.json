@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T16:27:38.695419+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-03-29T17:25:53.993441+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "广东省市场监管局联合广州市市场监管局召开平台企业座谈会",
@@ -14,11 +14,23 @@
           "ranks": [
             3,
             9,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 16时27分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 17时25分]"
+        },
+        {
+          "title": "澳门世界杯国乒抽签结果出炉",
+          "url": "https://www.baidu.com/s?wd=%E6%BE%B3%E9%97%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%BD%E4%B9%92%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9E%9C%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "澳门乒乓球世界杯抽签仪式",
@@ -86,9 +98,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "孙颖莎展望澳门世界杯：全力以赴",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B1%95%E6%9C%9B%E6%BE%B3%E9%97%A8%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "广东省市场监管局联合广州市市场监管局召开平台企业座谈会",
@@ -116,8 +139,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时05分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时05分 ~ 17时25分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -127,11 +150,12 @@
             8,
             3,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 16时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时27分 ~ 17时25分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -141,8 +165,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时05分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时05分 ~ 17时25分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
