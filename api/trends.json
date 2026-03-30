@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-30T14:23:36.587788+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-03-30T16:15:02.472240+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 7,
       "titles": [
+        {
+          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 16时15分]"
+        },
         {
           "title": "DeepSeek宕机12小时后恢复服务",
           "url": "https://www.toutiao.com/trending/7622849000173178419/",
@@ -16,19 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 14时23分]"
-        },
-        {
-          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 16时15分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
@@ -36,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 16时15分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
@@ -82,7 +84,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         }
@@ -90,8 +92,57 @@
     },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "中东资金进入香港的真相透视",
+          "url": "https://wallstreetcn.com/articles/3768676",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 16时15分]"
+        },
+        {
+          "title": "sammi 郑秀文作为香港硕果仅存的天后级人物，为何在大陆存在感不强？",
+          "url": "https://www.zhihu.com/question/35248031",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 16时15分]"
+        },
+        {
+          "title": "「广东今年没有回南天」引热议，今年广东回南天为何「缺席」？这是否意味着广东的回南天会越来越少？",
+          "url": "https://www.zhihu.com/question/2017979346778883711",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
+          "title": "香港：计划于11月推出无纸化证券市场制度。",
+          "url": "https://wallstreetcn.com/livenews/3079107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
         {
           "title": "国务院任命香港特别行政区政府政制及内地事务局局长",
           "url": "https://wallstreetcn.com/livenews/3078845",
@@ -104,30 +155,15 @@
           "time_info": "09时12分"
         },
         {
-          "title": "中东资金进入香港的真相透视",
-          "url": "https://wallstreetcn.com/articles/3768676",
-          "source": "华尔街见闻",
+          "title": "广东暴雨冰雹预警超100个",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E5%86%B0%E9%9B%B9%E9%A2%84%E8%AD%A6%E8%B6%85100%E4%B8%AA",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 14时23分]"
-        },
-        {
-          "title": "sammi 郑秀文作为香港硕果仅存的天后级人物，为何在大陆存在感不强？",
-          "url": "https://www.zhihu.com/question/35248031",
-          "source": "知乎",
-          "ranks": [
-            16,
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 14时23分]"
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "CBA常规赛：四川54-102广东",
@@ -153,11 +189,12 @@
           "ranks": [
             14,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 16时15分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -165,11 +202,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 16时15分]"
         }
       ]
     },
