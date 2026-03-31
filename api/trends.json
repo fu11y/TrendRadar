@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T14:10:00.029003+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-03-31T16:01:57.034734+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 14时10分]"
+          "appearance_count": 7,
+          "time_info": "[09时09分 ~ 16时01分]"
         },
         {
           "title": "广东暴雨冰雹预警超100个",
@@ -26,11 +27,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 14时10分]"
+          "appearance_count": 7,
+          "time_info": "[09时09分 ~ 16时01分]"
         },
         {
           "title": "香港演员施明病逝 曾演紫衫龙王",
@@ -38,11 +40,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 16时01分]"
         },
         {
           "title": "香港演员施明去世",
@@ -53,8 +56,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 16时01分]"
+        },
+        {
+          "title": "3月31日投资避雷针：深圳华强北内存条遭抛售 部分型号一周降价近三成",
+          "url": "https://www.cls.cn/detail/2329854",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时25分 ~ 14时10分]"
+          "time_info": "[12时25分 ~ 16时01分]"
         },
         {
           "title": "广东强风让货车“一键卸货”",
@@ -79,24 +94,13 @@
           "time_info": "12时25分"
         },
         {
-          "title": "3月31日投资避雷针：深圳华强北内存条遭抛售 部分型号一周降价近三成",
-          "url": "https://www.cls.cn/detail/2329854",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
           "title": "深圳：分基础级、先进级、卓越级和领航级四个层级开展智能工厂梯度培育",
           "url": "https://flash.jin10.com/detail/20260331132336613800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -107,7 +111,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         }
