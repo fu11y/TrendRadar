@@ -1,8 +1,69 @@
 {
-  "generated_at": "2026-04-01T16:08:07.062364+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-04-01T17:57:14.630807+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中东资金冲进香港，多重资金异动信号显现",
+          "url": "https://www.cls.cn/detail/2330997",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "国家金融监管总局局长李云泽会见澳门金管局行政管理委员会主席黄善文",
+          "url": "https://wallstreetcn.com/livenews/3080803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "广东暴雨冰雹预警超100个",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E5%86%B0%E9%9B%B9%E9%A2%84%E8%AD%A6%E8%B6%85100%E4%B8%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "李云泽会见澳门金管局行政管理委员会主席黄善文",
+          "url": "https://flash.jin10.com/detail/20260401173606619800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "深圳DYG战胜广州TTG",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E5%B7%9ETTG%20%E6%B7%B1%E5%9C%B3DYG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
@@ -57,45 +118,6 @@
       ]
     },
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中东资金冲进香港，多重资金异动信号显现",
-          "url": "https://www.cls.cn/detail/2330997",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "广东暴雨冰雹预警超100个",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E5%86%B0%E9%9B%B9%E9%A2%84%E8%AD%A6%E8%B6%85100%E4%B8%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "深圳DYG战胜广州TTG",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E5%B7%9ETTG%20%E6%B7%B1%E5%9C%B3DYG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -108,8 +130,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 16时08分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 17时57分]"
         },
         {
           "title": "中信证券：DeepSeek下一代新模型有望延续高性价比开源模型路线",
