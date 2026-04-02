@@ -1,189 +1,44 @@
 {
-  "generated_at": "2026-04-01T18:45:47.966400+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-04-02T09:07:05.364273+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
-          "title": "国家金融监管总局局长李云泽会见澳门金管局行政管理委员会主席黄善文",
-          "url": "https://wallstreetcn.com/livenews/3080803",
-          "source": "华尔街见闻-快讯",
+          "title": "2026 澳门世界杯，梁靖崑 2-3 不敌德国老将奥恰洛夫，止步小组赛，如何评价两人比赛的发挥？",
+          "url": "https://www.zhihu.com/question/2022800136879838030",
+          "source": "知乎",
           "ranks": [
-            7,
-            30
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时45分]"
+          "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "中东资金冲进香港，多重资金异动信号显现",
-          "url": "https://www.cls.cn/detail/2330997",
-          "source": "财联社热门",
+          "title": "澳门乒乓球世界杯小组赛收官",
+          "url": "https://www.toutiao.com/trending/7623620795021606931/",
+          "source": "今日头条",
           "ranks": [
-            7
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "珠海中富：公司正在筹划向特定对象发行 A 股股票，该事项可能会导致公司控制权发生变更，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3080833",
+          "title": "具身智能机器人广东省工程研究中心获批组建",
+          "url": "https://wallstreetcn.com/livenews/3081170",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "广东建工：两个光伏发电项目并网运行",
-          "url": "https://flash.jin10.com/detail/20260401182619440800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "广东暴雨冰雹预警超100个",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E5%86%B0%E9%9B%B9%E9%A2%84%E8%AD%A6%E8%B6%85100%E4%B8%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "李云泽会见澳门金管局行政管理委员会主席黄善文",
-          "url": "https://flash.jin10.com/detail/20260401173606619800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "深圳DYG战胜广州TTG",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E5%B7%9ETTG%20%E6%B7%B1%E5%9C%B3DYG",
-          "source": "bilibili 热搜",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 16时08分]"
-        },
-        {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 14时20分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时07分 ~ 18时45分]"
-        },
-        {
-          "title": "OpenAI创下史上最大融资纪录",
-          "url": "https://www.toutiao.com/trending/7623555636134940203/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
-          "url": "https://www.zhihu.com/question/2022371409997947809",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时37分 ~ 18时45分]"
-        },
-        {
-          "title": "中信证券：DeepSeek下一代新模型有望延续高性价比开源模型路线",
-          "url": "https://wallstreetcn.com/livenews/3080475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌正在研发无屏幕版Fitbit手环，并计划于今年晚些时候发布。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3080469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "09时07分"
         }
       ]
     }
