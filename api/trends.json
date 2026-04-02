@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T12:16:51.030369+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-04-02T14:04:46.933478+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "2026 澳门世界杯，梁靖崑 2-3 不敌德国老将奥恰洛夫，止步小组赛，如何评价两人比赛的发挥？",
@@ -19,6 +19,18 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
+          "title": "广东顺德“莫氏鸡煲”意外爆红",
+          "url": "https://www.toutiao.com/trending/7623417217535180806/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 14时04分]"
+        },
+        {
           "title": "澳门乒乓球世界杯小组赛收官",
           "url": "https://www.toutiao.com/trending/7623620795021606931/",
           "source": "今日头条",
@@ -30,15 +42,15 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "广东顺德“莫氏鸡煲”意外爆红",
-          "url": "https://www.toutiao.com/trending/7623417217535180806/",
-          "source": "今日头条",
+          "title": "香港最平价vs最高档餐厅",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E6%9C%80%E5%B9%B3%E4%BB%B7vs%E6%9C%80%E9%AB%98%E6%A1%A3%E9%A4%90%E5%8E%85",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "14时04分"
         },
         {
           "title": "深圳高铁站点全面禁烟 最高罚500元",
@@ -47,7 +59,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -58,7 +70,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -77,7 +89,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普再“变脸”，金价反弹要中道崩阻？",
@@ -86,9 +98,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "黄金被流动性冲击“错杀”？渣打预言：金价将重现升势并再破纪录",
+          "url": "https://flash.jin10.com/detail/20260402133750227800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "特朗普击碎和平指引 金价继续承压",
@@ -97,9 +120,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "图解OpenAI债务危机",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E8%A7%A3OpenAI%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         }
       ]
     }
