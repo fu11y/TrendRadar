@@ -1,262 +1,61 @@
 {
-  "generated_at": "2026-04-02T18:44:52.676860+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-04-03T09:09:11.308299+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 16,
+      "match_count": 3,
       "titles": [
         {
-          "title": "2026 澳门世界杯，梁靖崑 2-3 不敌德国老将奥恰洛夫，止步小组赛，如何评价两人比赛的发挥？",
-          "url": "https://www.zhihu.com/question/2022800136879838030",
-          "source": "知乎",
+          "title": "澳门乒乓球世界杯莫雷加德晋级八强",
+          "url": "https://www.toutiao.com/trending/7623725131832950803/",
+          "source": "今日头条",
           "ranks": [
-            4
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
-          "title": "KSG vs 深圳DYG KPL春季赛",
-          "url": "https://search.bilibili.com/all?keyword=KSG%20%E6%B7%B1%E5%9C%B3DYG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "香港恒生指数4月2日（周四）收盘下跌177.5点，跌幅0.7%，报25116.53点；<br/>香港恒生科技指数4月2日（周四）收盘下跌77.35点，跌幅1.63%，报4679.1点；<br/>国企指数4月2日（周四）收盘下跌47.89点，跌幅0.56%，报8456.92点；<br/>红筹指数4月2日（周四）收盘下跌5.78点，跌幅0.14%，报4170.61点。",
-          "url": "https://flash.jin10.com/detail/20260402161107259800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
           "title": "网友称香港到上海的高铁「蚊虫泛滥，无法忍受提前下车」，这是咋回事？遇到蚊虫袭击，高铁运营应该怎样解决？",
           "url": "https://www.zhihu.com/question/2022375941352035604",
           "source": "知乎",
           "ranks": [
-            10,
-            8,
-            2
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 18时44分]"
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
           "title": "香港最平价vs最高档餐厅",
           "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E6%9C%80%E5%B9%B3%E4%BB%B7vs%E6%9C%80%E9%AB%98%E6%A1%A3%E9%A4%90%E5%8E%85",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            20,
-            10,
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时04分 ~ 18时44分]"
-        },
-        {
-          "title": "梁靖崑止步 2026 年澳门乒乓球世界杯小组赛，作为国乒老将，梁靖崑接下去该何去何从？",
-          "url": "https://www.zhihu.com/question/2022797755727258778",
-          "source": "知乎",
-          "ranks": [
-            8
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时49分 ~ 18时44分]"
-        },
-        {
-          "title": "广东顺德“莫氏鸡煲”意外爆红",
-          "url": "https://www.toutiao.com/trending/7623417217535180806/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 14时04分]"
-        },
-        {
-          "title": "2026 年澳门乒乓球世界杯八分之一决赛，张本智和 4：3 逆转力克邱党晋级男单八强，怎么评价这一场对决？",
-          "url": "https://www.zhihu.com/question/2023022632027603380",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 18时44分]"
-        },
-        {
-          "title": "澳门乒乓球世界杯小组赛收官",
-          "url": "https://www.toutiao.com/trending/7623620795021606931/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
-          "title": "深圳高铁站点全面禁烟 最高罚500元",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E9%AB%98%E9%93%81%E7%AB%99%E7%82%B9%E5%85%A8%E9%9D%A2%E7%A6%81%E7%83%9F+%E6%9C%80%E9%AB%98%E7%BD%9A500%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "2026 年澳门乒乓球世界杯男单小组赛，温瑞博 3：0 力克西蒙高茨晋级，怎么评价国乒小将温瑞博本场表现？",
-          "url": "https://www.zhihu.com/question/2022678377576800835",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "「铜师傅」香港上市大跌，是什么导致了「中年人的潮玩顶流」在资本市场遭遇重挫，散户能从中学到什么？",
-          "url": "https://www.zhihu.com/question/2022781237685757874",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "中国人民银行行长潘功胜会见澳门金融管理局行政管理委员会主席黄善文",
-          "url": "https://wallstreetcn.com/livenews/3081514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "具身智能机器人广东省工程研究中心获批组建",
-          "url": "https://wallstreetcn.com/livenews/3081170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "香港13名家长向幼儿园职员行贿获刑",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF13%E5%90%8D%E5%AE%B6%E9%95%BF%E5%90%91%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%81%8C%E5%91%98%E8%A1%8C%E8%B4%BF%E8%8E%B7%E5%88%91",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "香港跃升至全球第五大商品贸易经济体",
-          "url": "https://wallstreetcn.com/livenews/3081394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
+          "time_info": "[09时08分 ~ 09时09分]"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特朗普再“变脸”，金价反弹要中道崩阻？",
-          "url": "https://flash.jin10.com/detail/20260402120943938800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "技术面风险不断积聚，金价或下探至3800美元？分析师这么解释……",
-          "url": "https://www.cls.cn/detail/2332913",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
-          "title": "黄金被流动性冲击“错杀”？渣打预言：金价将重现升势并再破纪录",
-          "url": "https://flash.jin10.com/detail/20260402133750227800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "特朗普击碎和平指引 金价继续承压",
-          "url": "https://flash.jin10.com/detail/20260402115832115800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "图解OpenAI债务危机",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E8%A7%A3OpenAI%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA",
+          "title": "谷歌最新模型Gemma4发布",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时04分"
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         }
       ]
     }
