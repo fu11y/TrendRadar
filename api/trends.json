@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T17:42:35.478946+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-04-03T18:33:03.734315+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://www.toutiao.com/trending/7623452380285206571/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时42分]"
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 18时33分]"
+        },
+        {
+          "title": "广西、广东、海南「华南 F3」对清明拜山祭祖的执念有多深？",
+          "url": "https://www.zhihu.com/question/2022395531025019970",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时17分 ~ 18时33分]"
         },
         {
           "title": "官方回应珠海一大厦有人名下163套房",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时17分 ~ 16时40分]"
-        },
-        {
-          "title": "广西、广东、海南「华南 F3」对清明拜山祭祖的执念有多深？",
-          "url": "https://www.zhihu.com/question/2022395531025019970",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时17分 ~ 17时42分]"
         },
         {
           "title": "兵乓球澳门世界杯 16 强，温瑞博 VS 林昀儒，有何期待？",
@@ -78,6 +79,18 @@
           "time_info": "[09时08分 ~ 09时09分]"
         },
         {
+          "title": "深圳发行5年期棚改专项地方债，规模0.4500亿元，发行利率1.5600%，边际倍数1.56倍，倍数预期1.57； 深圳发行10年期轨交专项地方债，规模38.0000亿元，发行利率1.9200%，边际倍数1.66倍，倍数预期1.93； 深圳发行15年期其他专项地方债，规模1.5300亿元，发行利率2.2900%，边际倍数1.63倍，倍数预期2.27； 深圳发行20年期轨交专项地方债，规模23.8000亿元，发行利率2.4700%，边际倍数2.40倍，倍数预期2.43。",
+          "url": "https://wallstreetcn.com/livenews/3082103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时33分]"
+        },
+        {
           "title": "香港最平价vs最高档餐厅",
           "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E6%9C%80%E5%B9%B3%E4%BB%B7vs%E6%9C%80%E9%AB%98%E6%A1%A3%E9%A4%90%E5%8E%85",
           "source": "bilibili 热搜",
@@ -100,17 +113,6 @@
           "time_info": "14时05分"
         },
         {
-          "title": "深圳发行5年期棚改专项地方债，规模0.4500亿元，发行利率1.5600%，边际倍数1.56倍，倍数预期1.57； 深圳发行10年期轨交专项地方债，规模38.0000亿元，发行利率1.9200%，边际倍数1.66倍，倍数预期1.93； 深圳发行15年期其他专项地方债，规模1.5300亿元，发行利率2.2900%，边际倍数1.63倍，倍数预期2.27； 深圳发行20年期轨交专项地方债，规模23.8000亿元，发行利率2.4700%，边际倍数2.40倍，倍数预期2.43。",
-          "url": "https://wallstreetcn.com/livenews/3082103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
           "title": "工业和信息化部批复设立深圳国家级互联网骨干直联点",
           "url": "https://flash.jin10.com/detail/20260403152413756800",
           "source": "金十数据",
@@ -128,6 +130,21 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            13,
+            20,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时53分 ~ 18时33分]"
+        },
+        {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
           "url": "https://www.zhihu.com/question/2023204569811828949",
           "source": "知乎",
@@ -138,20 +155,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时17分 ~ 15时54分]"
-        },
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            13,
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时53分 ~ 17时42分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
