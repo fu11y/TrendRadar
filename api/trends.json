@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T14:05:36.181990+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-04-03T15:54:11.992264+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "官方回应珠海一大厦有人名下163套房",
@@ -13,11 +13,24 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 14时05分]"
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 15时54分]"
+        },
+        {
+          "title": "广西、广东、海南「华南 F3」对清明拜山祭祖的执念有多深？",
+          "url": "https://www.zhihu.com/question/2022395531025019970",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 15时54分]"
         },
         {
           "title": "澳门乒乓球世界杯莫雷加德晋级八强",
@@ -31,6 +44,17 @@
           "time_info": "[09时08分 ~ 09时09分]"
         },
         {
+          "title": "兵乓球澳门世界杯 16 强，温瑞博 VS 林昀儒，有何期待？",
+          "url": "https://www.zhihu.com/question/2023073631794656745",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
+        {
           "title": "网友称香港到上海的高铁「蚊虫泛滥，无法忍受提前下车」，这是咋回事？遇到蚊虫袭击，高铁运营应该怎样解决？",
           "url": "https://www.zhihu.com/question/2022375941352035604",
           "source": "知乎",
@@ -40,18 +64,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 09时09分]"
-        },
-        {
-          "title": "广西、广东、海南「华南 F3」对清明拜山祭祖的执念有多深？",
-          "url": "https://www.zhihu.com/question/2022395531025019970",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 14时05分]"
         },
         {
           "title": "香港最平价vs最高档餐厅",
@@ -71,26 +83,38 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
+        },
+        {
+          "title": "工业和信息化部批复设立深圳国家级互联网骨干直联点",
+          "url": "https://flash.jin10.com/detail/20260403152413756800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
           "url": "https://www.zhihu.com/question/2023204569811828949",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 14时05分]"
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 15时54分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -103,6 +127,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时08分 ~ 12时17分]"
+        },
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
         }
       ]
     },
