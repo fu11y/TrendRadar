@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-04-04T09:03:41.306034+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2026-04-04T12:05:51.275018+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "深圳市暴雨黄色预警信号扩展至全市",
+          "url": "https://wallstreetcn.com/livenews/3082379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3082376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "港片常拍真实案件，1998 年索罗斯做空香港这么有名，怎么从来没拍成电影？",
+          "url": "https://www.zhihu.com/question/2022998996315022600",
+          "source": "知乎",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 12时05分]"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -12,28 +52,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港片常拍真实案件，1998 年索罗斯做空香港这么有名，怎么从来没拍成电影？",
-          "url": "https://www.zhihu.com/question/2022998996315022600",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 12时05分]"
         }
       ]
     }
