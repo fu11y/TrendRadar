@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T15:40:56.799534+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-04-04T16:27:37.592087+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "深圳“细胞十条”发布 推动细胞与基因产业提速发展",
@@ -14,11 +14,25 @@
           "ranks": [
             1,
             4,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 15时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 16时27分]"
+        },
+        {
+          "title": "港片常拍真实案件，1998 年索罗斯做空香港这么有名，怎么从来没拍成电影？",
+          "url": "https://www.zhihu.com/question/2022998996315022600",
+          "source": "知乎",
+          "ranks": [
+            10,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时03分 ~ 16时27分]"
         },
         {
           "title": "深圳市暴雨黄色预警信号扩展至全市",
@@ -28,11 +42,24 @@
             2,
             11,
             14,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 15时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 16时27分]"
+        },
+        {
+          "title": "到了广东先吃鸡煲",
+          "url": "https://www.douyin.com/hot/2454011",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 16时27分]"
         },
         {
           "title": "香港天文台发布黄色暴雨警告。",
@@ -49,40 +76,29 @@
           "time_info": "[12时05分 ~ 15时40分]"
         },
         {
-          "title": "港片常拍真实案件，1998 年索罗斯做空香港这么有名，怎么从来没拍成电影？",
-          "url": "https://www.zhihu.com/question/2022998996315022600",
-          "source": "知乎",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 14时44分]"
-        },
-        {
           "title": "一季度深圳机场口岸免签入境外国人增逾六成",
           "url": "https://flash.jin10.com/detail/20260404142139989800",
           "source": "金十数据",
           "ranks": [
             1,
-            17
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 16时27分]"
+        },
+        {
+          "title": "2026 澳门世界杯女单 1/4 决赛，孙颖莎 4-3 险胜高达，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2023761963512063663",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时44分 ~ 15时40分]"
-        },
-        {
-          "title": "到了广东先吃鸡煲",
-          "url": "https://www.douyin.com/hot/2454011",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 15时40分]"
+          "time_info": "[15时40分 ~ 16时27分]"
         },
         {
           "title": "2026 年澳门乒乓球世界杯，王艺迪 0：4 负于萨宾温特止步女单八强，怎么评价老将王艺迪这一场的脆败？",
@@ -110,15 +126,15 @@
           "time_info": "[13时48分 ~ 14时44分]"
         },
         {
-          "title": "2026 澳门世界杯女单 1/4 决赛，孙颖莎 4-3 险胜高达，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2023761963512063663",
-          "source": "知乎",
+          "title": "广东清明大塞车",
+          "url": "https://www.douyin.com/hot/2454908",
+          "source": "抖音",
           "ranks": [
-            7
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时40分"
+          "time_info": "16时27分"
         }
       ]
     },
@@ -134,11 +150,12 @@
             15,
             13,
             17,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时03分 ~ 15时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 16时27分]"
         }
       ]
     }
