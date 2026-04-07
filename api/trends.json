@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T17:56:47.913315+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-04-07T18:46:01.108208+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352843&amp;topic_name=%E6%B7%B1%E5%9C%B3%E9%80%9F%E5%BA%A6%2110%E4%B8%87%E7%94%B5%E9%B8%A1%E4%B8%80%E5%A4%9C%E6%B8%85%E9%9B%B6",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 17时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 18时46分]"
         },
         {
           "title": "香港一季度新房成交量创13年新高，连现大手笔买家一次扫货9套房",
@@ -49,9 +50,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 18时46分]"
         },
         {
           "title": "清明假期广东高速公路车流量、港珠澳大桥车流量均创历史新高",
@@ -119,6 +120,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         }
       ]
     }
