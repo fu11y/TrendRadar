@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T17:57:11.436129+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-04-08T18:54:56.220252+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "深圳速度!10万电鸡一夜清零",
@@ -16,11 +16,23 @@
             13,
             15,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时28分 ~ 17时57分]"
+          "appearance_count": 9,
+          "time_info": "[09时28分 ~ 18时54分]"
+        },
+        {
+          "title": "小商品城：拟公开发行H股并在香港联交所主板上市",
+          "url": "https://flash.jin10.com/detail/20260408184244967800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "上金所：吸收香港上海汇丰银行有限公司等三家机构入会，同意两家公司退会",
@@ -38,11 +50,12 @@
           "url": "https://www.zhihu.com/question/2025193360156112248",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时05分 ~ 17时57分]"
+          "appearance_count": 5,
+          "time_info": "[16时05分 ~ 18时54分]"
         },
         {
           "title": "香港家长为子女「插队」入读幼儿园，行贿 110 万港元被判刑，为了孩子不输在起跑线，家长这么做值吗？",
@@ -104,8 +117,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 18时54分]"
         },
         {
           "title": "报复性反弹！美伊“停火两周”，全球股市急涨，金价重上4830关口，油价创近六年最大跌幅",
@@ -179,8 +192,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时25分 ~ 17时57分]"
+          "appearance_count": 8,
+          "time_info": "[12时25分 ~ 18时54分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -232,8 +245,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时28分 ~ 17时57分]"
+          "appearance_count": 9,
+          "time_info": "[09时28分 ~ 18时54分]"
         }
       ]
     }
