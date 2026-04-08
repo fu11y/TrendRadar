@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T16:06:11.345895+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-04-08T17:57:11.436129+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             13,
             15,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 16时06分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 17时57分]"
         },
         {
           "title": "上金所：吸收香港上海汇丰银行有限公司等三家机构入会，同意两家公司退会",
@@ -33,6 +34,17 @@
           "time_info": "14时21分"
         },
         {
+          "title": "全红婵等运动员遭受网暴，体育总局已与广东省体育局联合核查，全红婵所在训练中心已报警，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025193360156112248",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时05分 ~ 17时57分]"
+        },
+        {
           "title": "香港家长为子女「插队」入读幼儿园，行贿 110 万港元被判刑，为了孩子不输在起跑线，家长这么做值吗？",
           "url": "https://www.zhihu.com/question/2022613456596079784",
           "source": "知乎",
@@ -44,17 +56,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时28分 ~ 14时21分]"
-        },
-        {
-          "title": "全红婵等运动员遭受网暴，体育总局已与广东省体育局联合核查，全红婵所在训练中心已报警，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025193360156112248",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
           "title": "全红婵涉嫌遭受网暴，国家体育总局已与广东省体育局联合核查，全红婵所在训练中心已报警，哪些信息值得关注？",
@@ -93,8 +94,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，金价重上4830关口，油价创近六年最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 17时57分]"
+        },
         {
           "title": "报复性反弹！美伊“停火两周”，全球股市急涨，金价重上4830关口，油价创近六年最大跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
@@ -167,8 +179,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 16时06分]"
+          "appearance_count": 7,
+          "time_info": "[12时25分 ~ 17时57分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -216,11 +228,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            27
+            27,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 16时06分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 17时57分]"
         }
       ]
     }
