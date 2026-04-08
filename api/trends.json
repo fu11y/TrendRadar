@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-08T09:28:37.507377+08:00",
-  "total_titles_processed": 282,
+  "generated_at": "2026-04-08T12:26:13.365554+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek更新专家模式",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
+          "url": "https://www.zhihu.com/question/2024876426596291384",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "DeepSeek迎来大更新 V4不远了？业内人士：这一更新或是官方应对现实成本的必然选择",
+          "url": "https://flash.jin10.com/detail/20260408114506709800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 3,
@@ -12,22 +51,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352843&amp;topic_name=%E6%B7%B1%E5%9C%B3%E9%80%9F%E5%BA%A6%2110%E4%B8%87%E7%94%B5%E9%B8%A1%E4%B8%80%E5%A4%9C%E6%B8%85%E9%9B%B6",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时26分]"
         },
         {
           "title": "香港家长为子女「插队」入读幼儿园，行贿 110 万港元被判刑，为了孩子不输在起跑线，家长这么做值吗？",
           "url": "https://www.zhihu.com/question/2022613456596079784",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时26分]"
         },
         {
           "title": "珠海公交雨天车内喷水 回应：正排查",
@@ -43,6 +84,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报复性反弹！美伊“停火两周”，日股暴涨5%，韩股期货熔断，金价重上4800关口，油价重挫15%",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "两周停火打开金价修复口，这波是反弹还是反转？",
+          "url": "https://flash.jin10.com/detail/20260408114638603800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -54,8 +123,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时26分]"
         }
       ]
     }
