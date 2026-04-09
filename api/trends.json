@@ -1,233 +1,55 @@
 {
-  "generated_at": "2026-04-08T18:54:56.220252+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-04-09T09:01:53.346426+08:00",
+  "total_titles_processed": 284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "深圳速度!10万电鸡一夜清零",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352843&amp;topic_name=%E6%B7%B1%E5%9C%B3%E9%80%9F%E5%BA%A6%2110%E4%B8%87%E7%94%B5%E9%B8%A1%E4%B8%80%E5%A4%9C%E6%B8%85%E9%9B%B6",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            13,
-            15,
-            17,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 18时54分]"
-        },
-        {
-          "title": "小商品城：拟公开发行H股并在香港联交所主板上市",
-          "url": "https://flash.jin10.com/detail/20260408184244967800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "上金所：吸收香港上海汇丰银行有限公司等三家机构入会，同意两家公司退会",
-          "url": "https://wallstreetcn.com/livenews/3084054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
         {
           "title": "全红婵等运动员遭受网暴，体育总局已与广东省体育局联合核查，全红婵所在训练中心已报警，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2025193360156112248",
           "source": "知乎",
           "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时05分 ~ 18时54分]"
-        },
-        {
-          "title": "香港家长为子女「插队」入读幼儿园，行贿 110 万港元被判刑，为了孩子不输在起跑线，家长这么做值吗？",
-          "url": "https://www.zhihu.com/question/2022613456596079784",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 14时21分]"
-        },
-        {
-          "title": "全红婵涉嫌遭受网暴，国家体育总局已与广东省体育局联合核查，全红婵所在训练中心已报警，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025193360156112248",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "珠海公交雨天车内喷水 回应：正排查",
-          "url": "https://www.baidu.com/s?wd=%E7%8F%A0%E6%B5%B7%E5%85%AC%E4%BA%A4%E9%9B%A8%E5%A4%A9%E8%BD%A6%E5%86%85%E5%96%B7%E6%B0%B4+%E5%9B%9E%E5%BA%94%EF%BC%9A%E6%AD%A3%E6%8E%92%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "德勤：一季度香港新股集资1099亿港元，全球居首",
-          "url": "https://wallstreetcn.com/livenews/3084020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，金价重上4830关口，油价创近六年最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 18时54分]"
-        },
-        {
-          "title": "报复性反弹！美伊“停火两周”，全球股市急涨，金价重上4830关口，油价创近六年最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "报复性反弹！美伊“停火两周”，日股暴涨5%，韩股期货熔断，金价重上4800关口，油价重挫15%",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 14时21分]"
-        },
-        {
-          "title": "黄金股集体走强，多家公司回应金价影响",
-          "url": "https://flash.jin10.com/detail/20260408140720382800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "黄金股集体走强，多家公司回应金价影响",
-          "url": "https://wallstreetcn.com/livenews/3084049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "09时01分"
         },
         {
-          "title": "两周停火打开金价修复口，这波是反弹还是反转？",
-          "url": "https://flash.jin10.com/detail/20260408114638603800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
-          "url": "https://www.zhihu.com/question/2024876426596291384",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 18时54分]"
-        },
-        {
-          "title": "DeepSeek更新专家模式",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 16时06分]"
-        },
-        {
-          "title": "DeepSeek迎来大更新 V4不远了？业内人士：这一更新或是官方应对现实成本的必然选择",
-          "url": "https://flash.jin10.com/detail/20260408114506709800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "DeepSeek重要更新：上线专家模式",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0%EF%BC%9A%E4%B8%8A%E7%BA%BF%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
+          "title": "深圳超大医院8万床位空置系谣言",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E8%B6%85%E5%A4%A7%E5%8C%BB%E9%99%A28%E4%B8%87%E5%BA%8A%E4%BD%8D%E7%A9%BA%E7%BD%AE%E7%B3%BB%E8%B0%A3%E8%A8%80",
           "source": "百度热搜",
           "ranks": [
-            27
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "09时01分"
+        },
+        {
+          "title": "“深圳超大医院8万张床位空置”不实",
+          "url": "https://www.toutiao.com/trending/7625413402383106075/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "深圳速度!10万电鸡一夜清零",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352843&amp;topic_name=%E6%B7%B1%E5%9C%B3%E9%80%9F%E5%BA%A6%2110%E4%B8%87%E7%94%B5%E9%B8%A1%E4%B8%80%E5%A4%9C%E6%B8%85%E9%9B%B6",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
@@ -240,13 +62,11 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            18,
-            27,
-            16
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 18时54分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     }
