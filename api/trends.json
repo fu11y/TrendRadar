@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T11:48:36.035690+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-04-09T13:44:57.744272+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "深圳速度!10万电鸡一夜清零",
@@ -13,11 +13,48 @@
           "source": "贴吧",
           "ranks": [
             26,
-            29
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时44分]"
+        },
+        {
+          "title": "救护车“截单”延误抢救致患者死亡？深圳通报涉事医院受罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32930765",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时48分]"
+          "time_info": "[11时48分 ~ 13时44分]"
+        },
+        {
+          "title": "知名香港艺人萧键铿离世",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BA%E8%90%A7%E9%94%AE%E9%93%BF%E7%A6%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 13时44分]"
+        },
+        {
+          "title": "救护车截单延误抢救致死 深圳通报",
+          "url": "https://www.baidu.com/s?wd=%E6%95%91%E6%8A%A4%E8%BD%A6%E6%88%AA%E5%8D%95%E5%BB%B6%E8%AF%AF%E6%8A%A2%E6%95%91%E8%87%B4%E6%AD%BB+%E6%B7%B1%E5%9C%B3%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 13时44分]"
         },
         {
           "title": "全红婵等运动员遭受网暴，体育总局已与广东省体育局联合核查，全红婵所在训练中心已报警，哪些信息值得关注？",
@@ -29,6 +66,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "知名香港艺人萧键铿离世",
+          "url": "https://www.toutiao.com/trending/7626406476806668331/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "深圳超大医院8万床位空置系谣言",
@@ -53,46 +101,13 @@
           "time_info": "09时01分"
         },
         {
-          "title": "知名香港艺人萧键铿离世",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BA%E8%90%A7%E9%94%AE%E9%93%BF%E7%A6%BB%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "救护车“截单”延误抢救致患者死亡？深圳通报涉事医院受罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32930765",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
           "title": "深圳通报患者被拉至民营医院后死亡",
           "url": "https://www.toutiao.com/trending/7625905342224072745/",
           "source": "今日头条",
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "救护车截单延误抢救致死 深圳通报",
-          "url": "https://www.baidu.com/s?wd=%E6%95%91%E6%8A%A4%E8%BD%A6%E6%88%AA%E5%8D%95%E5%BB%B6%E8%AF%AF%E6%8A%A2%E6%95%91%E8%87%B4%E6%AD%BB+%E6%B7%B1%E5%9C%B3%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -103,7 +118,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         }
@@ -137,7 +152,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         }
