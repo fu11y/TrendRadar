@@ -1,214 +1,61 @@
 {
-  "generated_at": "2026-04-10T18:45:31.242612+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-04-11T09:08:14.845657+08:00",
+  "total_titles_processed": 288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 15,
+      "match_count": 3,
       "titles": [
         {
-          "title": "广东人说他们吃猪肉都是吃新鲜的，怎么个新鲜法？",
-          "url": "https://www.zhihu.com/question/2002692698067456853",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 18时45分]"
-        },
-        {
-          "title": "云锋基金、高瓴资本等据悉计划以基石投资者参与胜宏科技的香港上市。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3085779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.55%，恒生科技指数收涨0.8%。有报道称香港首批稳定币牌照今天下午公布，受此影响，国泰君安国际涨超27%，申万宏源香港涨超18%，中信证券涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/3085710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "汇丰银行和渣打银行获得香港稳定币牌照，汇丰计划2026年下半年推出港币稳定币",
+          "title": "汇丰、渣打获得香港首批稳定币牌照，汇丰计划2026年下半年推出港币稳定币",
           "url": "https://wallstreetcn.com/articles/3769682",
           "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "香港首批稳定币牌照公布",
-          "url": "https://www.douyin.com/hot/2461749",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "香港首批稳定币牌照将公布",
-          "url": "https://www.douyin.com/hot/2461749",
-          "source": "抖音",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 17时58分]"
-        },
-        {
-          "title": "深圳一医院救护车违令“截单”：120的指令，救护车可以不听吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32938818",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 18时45分]"
-        },
-        {
-          "title": "汇丰、渣打银行在香港获得稳定币牌照",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%87%E4%B8%B0%E3%80%81%E6%B8%A3%E6%89%93%E9%93%B6%E8%A1%8C%E5%9C%A8%E9%A6%99%E6%B8%AF%E8%8E%B7%E5%BE%97%E7%A8%B3%E5%AE%9A%E5%B8%81%E7%89%8C%E7%85%A7",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 18时45分]"
-        },
-        {
-          "title": "汇丰：欢迎香港金融管理局颁发稳定币发行牌照。 计划2026年下半年推出港币计价稳定币。",
-          "url": "https://wallstreetcn.com/livenews/3085765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "汇丰银行、渣打银行在香港获得稳定币牌照",
-          "url": "https://wallstreetcn.com/livenews/3085755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "深圳救护车截单延误抢救致死，官方通报已处罚，暴露了急救体系的什么漏洞？普通患者遇到这种情况该怎么办？",
-          "url": "https://www.zhihu.com/question/2025507998328514557",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "深圳马可波罗11连胜创队史",
-          "url": "https://www.toutiao.com/trending/7625856015028600874/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "香港首批稳定币牌照今天公布，稳定币概念股异动拉升",
-          "url": "https://wallstreetcn.com/livenews/3085596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "香港首批稳定币牌照今天下午公布",
-          "url": "https://wallstreetcn.com/livenews/3085589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "香港财库局副局长：让投资者统一以人民币进行人民币交易结算及缴付印花税",
-          "url": "https://flash.jin10.com/detail/20260410181540067800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【报道：梁文锋内部发声，DeepSeek V4将于4月下旬发布】据多位知情人士向媒体透露，DeepSeek创始人梁文锋近日在内部沟通中透露，DeepSeek新一代旗舰大模型DeepSeek V4将于4月下旬正式发布。（新浪科技）",
-          "url": "https://wallstreetcn.com/livenews/3085537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价从抢修复到验成色，今晚CPI会否再补一刀？",
-          "url": "https://flash.jin10.com/detail/20260410122730427800",
-          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 09时08分]"
+        },
+        {
+          "title": "CBA广东117:84大胜吉林",
+          "url": "https://www.douyin.com/hot/2462346",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 09时08分]"
+        },
+        {
+          "title": "深圳一老旧小区外墙修缮后现色差",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E8%80%81%E6%97%A7%E5%B0%8F%E5%8C%BA%E5%A4%96%E5%A2%99%E4%BF%AE%E7%BC%AE%E5%90%8E%E7%8E%B0%E8%89%B2%E5%B7%AE",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     }
