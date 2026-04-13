@@ -1,63 +1,22 @@
 {
-  "generated_at": "2026-04-12T18:27:23.954037+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-04-13T09:17:36.901580+08:00",
+  "total_titles_processed": 284,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时15分 ~ 18时27分]"
-        },
-        {
-          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
-          "url": "https://wallstreetcn.com/articles/3769740",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "OpenAI CEO住所遭袭",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 16时36分]"
-        }
-      ]
-    },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 1,
       "titles": [
         {
-          "title": "广东夜生活震惊东北网友",
-          "url": "https://www.toutiao.com/trending/7627157205606744100/",
+          "title": "深圳整治电鸡乱象查处85人行拘62人",
+          "url": "https://www.toutiao.com/trending/7627412328102789174/",
           "source": "今日头条",
           "ranks": [
-            26
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时56分"
+          "time_info": "09时17分"
         }
       ]
     }
