@@ -1,134 +1,39 @@
 {
-  "generated_at": "2026-04-16T18:05:50.364396+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-04-17T09:16:52.425634+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 9,
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
       "titles": [
         {
-          "title": "1.65亿人为何选择广东",
-          "url": "https://www.toutiao.com/trending/7628214816087326762/",
-          "source": "今日头条",
+          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
+          "url": "https://www.cls.cn/detail/2346818",
+          "source": "财联社热门",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
-        },
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "先正达寻求最早6月在香港以保密方式提交IPO申请。（IFR）",
-          "url": "https://wallstreetcn.com/livenews/3089140",
-          "source": "华尔街见闻-快讯",
+          "title": "富国银行：金价或飙至8000美元，货币贬值周期尚未过半",
+          "url": "https://flash.jin10.com/detail/20260417084337043800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "戴建业被免去澳门经济财政司司长职务",
-          "url": "https://www.toutiao.com/trending/7629171290347651108/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时35分]"
-        },
-        {
-          "title": "深圳一楼盘从 6.5 万降到 4.5 万，引发通宵排队、保安喷辣椒水，开发商让利，是救市还是闹市？",
-          "url": "https://www.zhihu.com/question/2027324136003748817",
-          "source": "知乎",
-          "ranks": [
-            19,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 18时05分]"
-        },
-        {
-          "title": "广东男子上厕所被浪掀海里漂流1小时",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%94%B7%E5%AD%90%E4%B8%8A%E5%8E%95%E6%89%80%E8%A2%AB%E6%B5%AA%E6%8E%80%E6%B5%B7%E9%87%8C%E6%BC%82%E6%B5%811%E5%B0%8F%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
-        },
-        {
-          "title": "澳门行政长官岑浩辉将率团访问葡萄牙、西班牙、瑞士及比利时",
-          "url": "https://wallstreetcn.com/livenews/3089002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "网红博主澳门老炮喊话B太",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%8D%9A%E4%B8%BB%E6%BE%B3%E9%97%A8%E8%80%81%E7%82%AE%E5%96%8A%E8%AF%9DB%E5%A4%AA",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "首场创业板改革政策宣介会在深圳举办",
-          "url": "https://flash.jin10.com/detail/20260416084453429800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "广东发行5年期其他专项地方债，规模114.7973亿元，发行利率1.5500%，边际倍数3.40倍，倍数预期1.55； 广东发行10年期其他专项地方债，规模30.9936亿元，发行利率1.9000%，边际倍数12.10倍，倍数预期1.90。",
-          "url": "https://wallstreetcn.com/livenews/3089115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek招人去内蒙草原“守机房”",
-          "url": "https://www.toutiao.com/trending/7628152198593691675/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            26,
-            27,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 18时05分]"
+          "time_info": "09时16分"
         }
       ]
     }
