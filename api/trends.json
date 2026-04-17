@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T16:19:53.978516+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-04-17T18:03:16.864354+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "一季度深圳民企进出口规模创新高",
@@ -19,26 +19,37 @@
           "time_info": "14时28分"
         },
         {
-          "title": "香港天文台：预计本港在未来一两小时可能受冰雹影响。预计高达每小时90公里或以上的猛烈阵风吹袭香港。",
-          "url": "https://flash.jin10.com/detail/20260417155403037800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
           "title": "香港演员潘宏彬已离世",
           "url": "https://www.douyin.com/hot/2469042",
           "source": "抖音",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 18时03分]"
+        },
+        {
+          "title": "香港天文台：预计本港在未来一两小时可能受冰雹影响。预计高达每小时90公里或以上的猛烈阵风吹袭香港。",
+          "url": "https://flash.jin10.com/detail/20260417155403037800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "张凌赫空降深圳 现场全部围满",
+          "url": "https://www.toutiao.com/trending/7628601824061128746/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "盛美上海：筹划发行H股股票并在香港联合交易所有限公司上市。",
@@ -47,9 +58,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "张凌赫现身深圳",
+          "url": "https://www.douyin.com/hot/2469501",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     },
