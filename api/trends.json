@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T15:09:10.004477+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-04-20T17:31:52.161962+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "梁家辉五封影帝，马来西亚籍廖子妤打败章子怡夺影后，如何评价第 44 届香港电影金像奖获奖名单？",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 17时31分]"
         },
         {
           "title": "香港金像奖致敬已故影人",
@@ -58,7 +58,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -102,9 +102,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "从《垂帘听政》到《捕风追影》，梁家辉五封香港金像奖影帝",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33006669",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "今年一季度大湾区内地九市进出口2.45万亿元 创历史同期新高",
@@ -113,7 +124,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -124,7 +135,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         }
@@ -132,7 +143,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek V4 即将发布并提出「去 CUDA 化」？",
@@ -155,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "DeepSeek 被曝融资 20 亿，真实性如何？若属实，估值合理吗？一直说不融资的它，怎么突然松口了？",
+          "url": "https://www.zhihu.com/question/2029232145541980805",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "DeepSeek被曝融资20亿",
