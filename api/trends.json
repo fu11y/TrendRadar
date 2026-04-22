@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-04-22T14:28:16.427346+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-04-22T16:24:11.237434+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "茶颜悦色落地深圳 黄牛每杯卖88元",
           "url": "https://www.baidu.com/s?wd=%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E8%90%BD%E5%9C%B0%E6%B7%B1%E5%9C%B3+%E9%BB%84%E7%89%9B%E6%AF%8F%E6%9D%AF%E5%8D%9688%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 16时24分]"
+        },
+        {
+          "title": "香港恒生指数4月22日（周三）收盘下跌324.24点，跌幅1.22%，报26163.24点；<br/>香港恒生科技指数4月22日（周三）收盘下跌97.56点，跌幅1.93%，报4963.94点；<br/>国企指数4月22日（周三）收盘下跌141.76点，跌幅1.59%，报8801.78点；<br/>红筹指数4月22日（周三）收盘下跌7.0点，跌幅0.16%，报4367.48点。",
+          "url": "https://flash.jin10.com/detail/20260422161239161800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "16时24分"
         },
         {
           "title": "财政部在香港成功发行2026年第二期155亿元人民币国债",
@@ -104,7 +116,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         }
