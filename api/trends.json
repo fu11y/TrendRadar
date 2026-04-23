@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T12:41:17.291645+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-04-23T14:32:12.953452+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         }
@@ -66,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 12时41分]"
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 14时32分]"
         },
         {
           "title": "停火延长只换来一天喘息，金价找平衡还要持续多久？",
@@ -76,7 +76,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         }
@@ -112,8 +112,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 12时41分]"
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 14时32分]"
         }
       ]
     }
