@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T15:58:39.917503+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-04-25T16:44:38.707850+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "DeepSeekV4更新了啥",
@@ -17,8 +17,36 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 16时44分]"
+        },
+        {
+          "title": "Deepseek V4第一波测评来了！",
+          "url": "https://wallstreetcn.com/articles/3770812",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 16时44分]"
+        },
+        {
+          "title": "实测DeepSeek V4",
+          "url": "https://www.douyin.com/hot/2477701",
+          "source": "抖音",
+          "ranks": [
+            11,
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 16时44分]"
         },
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -32,42 +60,17 @@
           "time_info": "[09时12分 ~ 12时26分]"
         },
         {
-          "title": "Deepseek V4第一波测评来了！",
-          "url": "https://wallstreetcn.com/articles/3770812",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 15时58分]"
-        },
-        {
-          "title": "实测DeepSeek V4",
-          "url": "https://www.douyin.com/hot/2477701",
-          "source": "抖音",
-          "ranks": [
-            11,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 15时58分]"
-        },
-        {
           "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
           "url": "https://www.zhihu.com/question/2031152992817243775",
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[14时14分 ~ 16时44分]"
         },
         {
           "title": "DeepSeek如何适配国产芯片",
@@ -77,11 +80,24 @@
             4,
             6,
             7,
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 16时44分]"
+        },
+        {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时12分 ~ 15时58分]"
+          "time_info": "[12时25分 ~ 16时44分]"
         },
         {
           "title": "DeepSeek V4初体验——读《三体》三部曲烧了54万token",
@@ -95,18 +111,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时12分 ~ 14时14分]"
-        },
-        {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 15时58分]"
         },
         {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
@@ -143,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "百度智能云上线DeepSeek-V4",
+          "url": "https://flash.jin10.com/detail/20260425155339949800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -236,8 +251,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
+          "url": "https://flash.jin10.com/detail/20260425162059332800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A6%81%E6%B1%82%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%94%A8OpenAI",
@@ -284,11 +310,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[14时14分 ~ 16时44分]"
         }
       ]
     },
@@ -305,8 +332,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[14时14分 ~ 16时44分]"
         }
       ]
     },
