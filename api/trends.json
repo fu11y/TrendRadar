@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T13:19:38.165596+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-04-28T16:02:22.792836+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "男子从内地偷运 51 公斤盒饭回澳门，被海关查获，为啥要专门偷运盒饭？未经检疫的熟食入境会有什么风险？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 16时02分]"
         },
         {
           "title": "现在几乎国内的大城市每个城市都至少有一个 CBD，但是为什么好多人还是说香港中环 CBD 是唯一顶级的?",
@@ -37,9 +37,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
+          "url": "https://www.cls.cn/detail/2357658",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 16时02分]"
         },
         {
           "title": "恒指低开0.43%，恒生科技指数低开0.33%。曦智科技在香港上市首日飙升380%。",
@@ -64,21 +76,21 @@
           "time_info": "[09时28分 ~ 09时29分]"
         },
         {
-          "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
-          "url": "https://www.cls.cn/detail/2357658",
-          "source": "财联社热门",
+          "title": "CBA季后赛广东vs广州前瞻",
+          "url": "https://www.douyin.com/hot/2482111",
+          "source": "抖音",
           "ranks": [
-            7
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek注册资本提高50%",
@@ -90,6 +102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
         },
         {
           "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
@@ -109,7 +132,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -137,7 +160,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -148,7 +171,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -159,7 +182,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
