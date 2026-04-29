@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T15:55:24.056615+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-04-29T17:55:44.747157+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "香港恒生指数高开0.63%，报25842.63点；恒生科技指数涨1.07%。蔚来、京东健康涨超4%。比亚迪电子跌超6%，此前发布财报；华虹半导体跌超3%。",
@@ -32,6 +32,17 @@
           "time_info": "[09时31分 ~ 15时55分]"
         },
         {
+          "title": "深圳灵活就业人员停保？人社局辟谣",
+          "url": "https://www.toutiao.com/trending/7633618537932062762/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 17时55分]"
+        },
+        {
           "title": "香港交易所(00388.HK)午后涨超2%，公司第一季度股东应占溢利为51.88亿港元，同比上升27%。",
           "url": "https://flash.jin10.com/detail/20260429130048795800",
           "source": "金十数据",
@@ -54,6 +65,28 @@
           "time_info": "13时16分"
         },
         {
+          "title": "据港交所文件：深圳云天励飞技术股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260429173802077800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "据港交所文件，4月29日，深圳云天励飞技术股份有限公司向港交所提交上市申请书，联席保荐人为华泰国际、中信证券和招银国际。",
+          "url": "https://wallstreetcn.com/livenews/3096480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "香港特区立法会今日（29日）举行会议，三读通过《2026年拨款条例草案》。",
           "url": "https://flash.jin10.com/detail/20260429125455703800",
           "source": "金十数据",
@@ -63,17 +96,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
-        },
-        {
-          "title": "深圳灵活就业人员停保？人社局辟谣",
-          "url": "https://www.toutiao.com/trending/7633618537932062762/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时55分"
         },
         {
           "title": "寒战1994首映礼集齐香港老牌法拉利",
@@ -123,7 +145,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -133,8 +155,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 15时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 17时55分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -157,8 +179,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 15时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 17时55分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 17时55分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -183,15 +217,15 @@
           "time_info": "09时31分"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
+          "title": "马斯克称奥尔特曼是“小偷”，OpenAI反驳",
+          "url": "https://news.ifeng.com/c/8sifWoWmOAa",
+          "source": "凤凰网",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时55分"
+          "time_info": "17时55分"
         },
         {
           "title": "OpenAI：当我们发现有人试图使用我们的工具潜在地策划或实施暴力时，我们会采取行动，包括撤销访问权限。",
@@ -227,22 +261,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 15时55分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 17时55分]"
         },
         {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
           "url": "https://www.cls.cn/detail/2359433",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 17时55分]"
         }
       ]
     },
@@ -269,7 +305,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         }
