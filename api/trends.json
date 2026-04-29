@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-29T17:55:44.747157+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-04-29T19:23:10.442562+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "香港推出措施应对燃料价格问题。 香港将推出柴油补贴计划。 香港将推出液化石油气燃料补贴措施。",
+          "url": "https://wallstreetcn.com/livenews/3096587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
         {
           "title": "香港恒生指数高开0.63%，报25842.63点；恒生科技指数涨1.07%。蔚来、京东健康涨超4%。比亚迪电子跌超6%，此前发布财报；华虹半导体跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3096097",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "深圳灵活就业人员停保？人社局辟谣",
+          "url": "https://www.toutiao.com/trending/7633618537932062762/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 19时23分]"
         },
         {
           "title": "CBA季后赛广东首场爆冷负广州",
@@ -32,15 +54,26 @@
           "time_info": "[09时31分 ~ 15时55分]"
         },
         {
-          "title": "深圳灵活就业人员停保？人社局辟谣",
-          "url": "https://www.toutiao.com/trending/7633618537932062762/",
-          "source": "今日头条",
+          "title": "“深圳灵活就业社保被停保”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B7%B1%E5%9C%B3%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E7%A4%BE%E4%BF%9D%E8%A2%AB%E5%81%9C%E4%BF%9D%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时55分 ~ 17时55分]"
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
+          "title": "深圳进一步优化调整房地产相关政策",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%BC%98%E5%8C%96%E8%B0%83%E6%95%B4%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
           "title": "香港交易所(00388.HK)午后涨超2%，公司第一季度股东应占溢利为51.88亿港元，同比上升27%。",
@@ -71,7 +104,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -82,7 +115,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -140,12 +173,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "香港交易所：一季度股东应占溢利51.88亿港元，同比上升27%",
+          "url": "https://wallstreetcn.com/livenews/3096543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -155,8 +199,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 19时23分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 19时23分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -170,19 +227,6 @@
           "time_info": "[09时31分 ~ 13时16分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 17时55分]"
-        },
-        {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
           "url": "https://wallstreetcn.com/articles/3771182",
           "source": "华尔街见闻",
@@ -191,8 +235,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 19时23分]"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时55分 ~ 17时55分]"
+          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -223,7 +278,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -242,8 +297,22 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            1,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 19时23分]"
+        },
         {
           "title": "DeepSeekV4Pro优惠延期",
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4Pro%E4%BC%98%E6%83%A0%E5%BB%B6%E6%9C%9F",
@@ -256,29 +325,28 @@
           "time_info": "09时31分"
         },
         {
-          "title": "从硅谷视角看DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 17时55分]"
-        },
-        {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
           "url": "https://www.cls.cn/detail/2359433",
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 19时23分]"
+        },
+        {
+          "title": "DeepSeek上线识图模式",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时55分 ~ 17时55分]"
+          "time_info": "[19时22分 ~ 19时23分]"
         }
       ]
     },
@@ -295,8 +363,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 15时55分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 19时23分]"
         },
         {
           "title": "全球央行在一季度金价大幅波动期间“大量购入”黄金",
