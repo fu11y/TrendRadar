@@ -1,8 +1,114 @@
 {
-  "generated_at": "2026-04-29T09:31:59.911284+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2026-04-29T13:16:20.852927+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "香港恒生指数高开0.63%，报25842.63点；恒生科技指数涨1.07%。蔚来、京东健康涨超4%。比亚迪电子跌超6%，此前发布财报；华虹半导体跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3096097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "CBA季后赛广东首场爆冷负广州",
+          "url": "https://www.douyin.com/hot/2482561",
+          "source": "抖音",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时16分]"
+        },
+        {
+          "title": "香港交易所(00388.HK)午后涨超2%，公司第一季度股东应占溢利为51.88亿港元，同比上升27%。",
+          "url": "https://flash.jin10.com/detail/20260429130048795800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "香港特区立法会今日（29日）举行会议，三读通过《2026年拨款条例草案》。（大湾区之声）",
+          "url": "https://wallstreetcn.com/livenews/3096226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "香港特区立法会今日（29日）举行会议，三读通过《2026年拨款条例草案》。",
+          "url": "https://flash.jin10.com/detail/20260429125455703800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "寒战1994首映礼集齐香港老牌法拉利",
+          "url": "https://www.toutiao.com/trending/7632957244317827108/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "香港交易所第一季度净利润51.9亿港元，市场预估46亿港元。 第一季度收入及其他收益82.0亿港元，市场预估76亿港元。 第一季度息税折旧及摊销前利润65.9亿港元，市场预估58亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3096208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "徐工汽车考虑最快今年在香港IPO，筹资不超过5亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3096207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "涉嫌两罪广东“坟爷”再上法庭",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%AB%8C%E4%B8%A4%E7%BD%AA%E5%B9%BF%E4%B8%9C%E2%80%9C%E5%9D%9F%E7%88%B7%E2%80%9D%E5%86%8D%E4%B8%8A%E6%B3%95%E5%BA%AD",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
@@ -15,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时16分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -26,8 +132,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时16分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时16分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -52,17 +170,6 @@
           "time_info": "09时31分"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
           "title": "OpenAI：当我们发现有人试图使用我们的工具潜在地策划或实施暴力时，我们会采取行动，包括撤销访问权限。",
           "url": "https://flash.jin10.com/detail/20260429085748656800",
           "source": "金十数据",
@@ -76,47 +183,8 @@
       ]
     },
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "香港恒生指数高开0.63%，报25842.63点；恒生科技指数涨1.07%。蔚来、京东健康涨超4%。比亚迪电子跌超6%，此前发布财报；华虹半导体跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3096097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "CBA季后赛广东首场爆冷负广州",
-          "url": "https://www.douyin.com/hot/2482561",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "寒战1994首映礼集齐香港老牌法拉利",
-          "url": "https://www.toutiao.com/trending/7632957244317827108/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeekV4Pro优惠延期",
@@ -128,6 +196,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "影响金价的关键因素是什么",
+          "url": "https://www.douyin.com/hot/2482875",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         }
       ]
     }
