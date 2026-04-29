@@ -1,293 +1,133 @@
 {
-  "generated_at": "2026-04-28T18:13:29.524028+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-04-29T09:31:59.911284+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "男子从内地偷运 51 公斤盒饭回澳门，被海关查获，为啥要专门偷运盒饭？未经检疫的熟食入境会有什么风险？",
-          "url": "https://www.zhihu.com/question/2032065068477715780",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 18时13分]"
-        },
-        {
-          "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
-          "url": "https://www.cls.cn/detail/2357658",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 18时13分]"
-        },
-        {
-          "title": "现在几乎国内的大城市每个城市都至少有一个 CBD，但是为什么好多人还是说香港中环 CBD 是唯一顶级的?",
-          "url": "https://www.zhihu.com/question/1949654647376688229",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "玉渊谭天：美国等40国团组密集来深圳参访",
-          "url": "https://flash.jin10.com/detail/20260428131101106800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "恒指低开0.43%，恒生科技指数低开0.33%。曦智科技在香港上市首日飙升380%。",
-          "url": "https://wallstreetcn.com/livenews/3095332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "CBA季后赛广东vs广州前瞻",
-          "url": "https://www.douyin.com/hot/2482111",
-          "source": "抖音",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时01分 ~ 18时13分]"
-        },
-        {
-          "title": "香港控烟条例再升级",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E6%8E%A7%E7%83%9F%E6%9D%A1%E4%BE%8B%E5%86%8D%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "金十图示：2018年9月至2026年3月中国香港对内地黄金净出口量一览",
-          "url": "https://flash.jin10.com/detail/20260428175841897800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "香港特区政府：3月向中国内地净出口黄金量为47.866吨，此前为46.249吨。",
-          "url": "https://flash.jin10.com/detail/20260428174914500800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "香港特区政府：3月向中国内地总出口黄金量为79.576吨，此前为63.818吨。",
-          "url": "https://flash.jin10.com/detail/20260428174834196800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
         {
-          "title": "DeepSeek注册资本提高50%",
-          "url": "https://flash.jin10.com/detail/20260428090321726800",
-          "source": "金十数据",
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "09时31分"
         },
         {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时01分 ~ 18时13分]"
-        },
-        {
-          "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
-          "url": "https://www.zhihu.com/question/2030445160417510538",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "DeepSeek注册资本提高50%",
-          "url": "https://wallstreetcn.com/livenews/3095322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "DeepSeekV4百万上下文有多强",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87%E6%9C%89%E5%A4%9A%E5%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌与五角大楼签署机密AI协议。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3095442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "据The Information：谷歌与美国国防部签署的协议允许国防部将谷歌的人工智能用于“任何合法的政府目的”。",
-          "url": "https://flash.jin10.com/detail/20260428130020965800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "据The Information：谷歌与美国国防部签署机密人工智能协议，员工反对声音不断。",
-          "url": "https://flash.jin10.com/detail/20260428125811784800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2357129",
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
           "source": "财联社热门",
           "ranks": [
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
           "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "09时31分"
         },
         {
-          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3095321",
+          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2358592",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "OpenAI：当我们发现有人试图使用我们的工具潜在地策划或实施暴力时，我们会采取行动，包括撤销访问权限。",
+          "url": "https://flash.jin10.com/detail/20260429085748656800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "香港恒生指数高开0.63%，报25842.63点；恒生科技指数涨1.07%。蔚来、京东健康涨超4%。比亚迪电子跌超6%，此前发布财报；华虹半导体跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3096097",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "CBA季后赛广东首场爆冷负广州",
+          "url": "https://www.douyin.com/hot/2482561",
+          "source": "抖音",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "09时31分"
+        },
+        {
+          "title": "寒战1994首映礼集齐香港老牌法拉利",
+          "url": "https://www.toutiao.com/trending/7632957244317827108/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "8000美元金价？德银给出五年目标价，底气来自哪里？",
-          "url": "https://flash.jin10.com/detail/20260428084330549800",
-          "source": "金十数据",
+          "title": "DeepSeekV4Pro优惠延期",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4Pro%E4%BC%98%E6%83%A0%E5%BB%B6%E6%9C%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            19
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "09时31分"
         }
       ]
     }
