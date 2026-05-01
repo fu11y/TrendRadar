@@ -1,11 +1,84 @@
 {
-  "generated_at": "2026-05-01T09:46:12.147937+08:00",
-  "total_titles_processed": 284,
+  "generated_at": "2026-05-01T13:32:19.385731+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "广东耀明糖厂收购滞销果蔗吸引数百货车排队，此举对企业和农户意味着什么？",
+          "url": "https://www.zhihu.com/question/2030923456963981754",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时32分]"
+        },
+        {
+          "title": "澳门4月幸运博彩毛收入198.9亿澳门元，同比增长5.5%，预估为增长6.5%。 澳门1-4月份幸运博彩毛收入857.7亿澳门元，同比增长12.1%。",
+          "url": "https://wallstreetcn.com/livenews/3097796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "为什么苏超举办的这么成功，广东的粤超反应却这么平平的？",
+          "url": "https://www.zhihu.com/question/2029867135153988560",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "多地响应稳楼市部署，深圳、广州、天津集中出台房地产新政",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085825",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "深圳地铁去年亏超371亿元",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%8E%BB%E5%B9%B4%E4%BA%8F%E8%B6%85371%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "深圳广州天津集中出台房地产新政",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%BF%E5%B7%9E%E5%A4%A9%E6%B4%A5%E9%9B%86%E4%B8%AD%E5%87%BA%E5%8F%B0%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -15,19 +88,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时32分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
           "url": "https://www.cls.cn/detail/2361634",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时32分]"
+        },
+        {
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
@@ -55,18 +140,30 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时32分]"
+        },
+        {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "全面测评DeepSeek V4",
@@ -85,23 +182,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "广东耀明糖厂收购滞销果蔗吸引数百货车排队，此举对企业和农户意味着什么？",
-          "url": "https://www.zhihu.com/question/2030923456963981754",
-          "source": "知乎",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
