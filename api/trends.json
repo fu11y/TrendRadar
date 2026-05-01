@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T15:57:37.757666+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-05-01T17:25:49.721321+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "广东耀明糖厂收购滞销果蔗吸引数百货车排队，此举对企业和农户意味着什么？",
@@ -16,19 +16,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 15时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 17时25分]"
         },
         {
-          "title": "CBA季后赛广州vs广东前瞻",
-          "url": "https://www.douyin.com/hot/2485466",
-          "source": "抖音",
+          "title": "为什么苏超举办的这么成功，广东的粤超反应却这么平平的？",
+          "url": "https://www.zhihu.com/question/2029867135153988560",
+          "source": "知乎",
           "ranks": [
-            5
+            8,
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 17时25分]"
         },
         {
           "title": "澳门4月幸运博彩毛收入198.9亿澳门元，同比增长5.5%，预估为增长6.5%。 澳门1-4月份幸运博彩毛收入857.7亿澳门元，同比增长12.1%。",
@@ -43,16 +45,16 @@
           "time_info": "[13时32分 ~ 15时57分]"
         },
         {
-          "title": "为什么苏超举办的这么成功，广东的粤超反应却这么平平的？",
-          "url": "https://www.zhihu.com/question/2029867135153988560",
-          "source": "知乎",
+          "title": "CBA季后赛广州vs广东前瞻",
+          "url": "https://www.douyin.com/hot/2485466",
+          "source": "抖音",
           "ranks": [
-            8,
-            4
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时32分 ~ 15时57分]"
+          "time_info": "[15时57分 ~ 17时25分]"
         },
         {
           "title": "多地响应稳楼市部署，深圳、广州、天津集中出台房地产新政",
@@ -60,11 +62,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 15时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 17时25分]"
         },
         {
           "title": "深圳地铁去年亏超371亿元",
@@ -88,12 +91,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时32分 ~ 15时57分]"
+        },
+        {
+          "title": "深圳楼市新政发布 中介电话被打爆",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%A5%BC%E5%B8%82%E6%96%B0%E6%94%BF%E5%8F%91%E5%B8%83+%E4%B8%AD%E4%BB%8B%E7%94%B5%E8%AF%9D%E8%A2%AB%E6%89%93%E7%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -103,8 +117,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 15时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 17时25分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -115,8 +129,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 15时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 17时25分]"
         },
         {
           "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
@@ -151,6 +165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
@@ -165,11 +190,12 @@
           "ranks": [
             2,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 15时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 17时25分]"
         },
         {
           "title": "DeepSeek多模态正式发布",
@@ -177,11 +203,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 15时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 17时25分]"
         },
         {
           "title": "全面测评DeepSeek V4",
