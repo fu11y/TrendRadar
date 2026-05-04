@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T13:22:17.420159+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-05-04T16:11:57.801969+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 16时11分]"
         },
         {
           "title": "香港金管局总裁余伟文表示，中东冲突风险可控。",
@@ -75,11 +75,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 16时11分]"
         }
       ]
     }
