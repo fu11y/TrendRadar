@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-04T09:26:59.585763+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2026-05-04T13:22:17.420159+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
       "match_count": 5,
       "titles": [
+        {
+          "title": "深圳、广州、天津、武汉、苏州，接连发布楼市新政",
+          "url": "https://www.cls.cn/detail/2362120",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 13时22分]"
+        },
         {
           "title": "香港金管局总裁余伟文表示，中东冲突风险可控。",
           "url": "https://wallstreetcn.com/livenews/3098353",
@@ -19,15 +30,16 @@
           "time_info": "09时26分"
         },
         {
-          "title": "深圳、广州、天津、武汉、苏州，接连发布楼市新政",
-          "url": "https://www.cls.cn/detail/2362120",
-          "source": "财联社热门",
+          "title": "CBA季后赛广东力克广州",
+          "url": "https://www.douyin.com/hot/2487812",
+          "source": "抖音",
           "ranks": [
-            2
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 13时22分]"
         },
         {
           "title": "寒战2背后的香港故事",
@@ -50,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "CBA季后赛广东力克广州",
-          "url": "https://www.douyin.com/hot/2487812",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
         }
       ]
     },
@@ -73,11 +74,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 13时22分]"
         }
       ]
     }
