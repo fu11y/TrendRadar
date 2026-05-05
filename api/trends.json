@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T17:50:03.303664+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2026-05-05T19:08:51.491576+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 17时50分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 19时08分]"
         },
         {
           "title": "如何评价中山大学 2025 年录取了 3652 名广东籍考生，是第二名河南 263 名的 14 倍？",
@@ -36,11 +37,24 @@
           "url": "https://wallstreetcn.com/livenews/3098749",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时50分 ~ 19时08分]"
+        },
+        {
+          "title": "中国香港第一季度GDP同比初值 5.9%，预期3.5%，前值3.80%。 中国香港第一季度GDP环比初值 2.9%，预期0.9%，前值1.00%。",
+          "url": "https://wallstreetcn.com/livenews/3098744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时50分 ~ 19时08分]"
         },
         {
           "title": "华恒生物：4月30日向香港联交所更新递交本次H股发行并上市的申请",
@@ -49,18 +63,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时50分"
-        },
-        {
-          "title": "中国香港第一季度GDP同比初值 5.9%，预期3.5%，前值3.80%。 中国香港第一季度GDP环比初值 2.9%，预期0.9%，前值1.00%。",
-          "url": "https://wallstreetcn.com/livenews/3098744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -93,6 +96,18 @@
           "time_info": "09时26分"
         },
         {
+          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
+          "url": "https://wallstreetcn.com/livenews/3098735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时50分 ~ 19时08分]"
+        },
+        {
           "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
           "url": "https://wallstreetcn.com/articles/3771533",
           "source": "华尔街见闻",
@@ -102,17 +117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
-        },
-        {
-          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
-          "url": "https://wallstreetcn.com/livenews/3098735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时50分"
         }
       ]
     },
@@ -125,11 +129,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 17时50分]"
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 19时08分]"
         }
       ]
     },
