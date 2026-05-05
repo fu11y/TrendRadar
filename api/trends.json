@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T12:51:28.805695+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-05-05T15:10:29.337117+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "广东中山市：房企收购的二手住房可进行二次销售，商业用房贷款首付最低三成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33097534",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 15时10分]"
+        },
+        {
           "title": "如何评价中山大学 2025 年录取了 3652 名广东籍考生，是第二名河南 263 名的 14 倍？",
           "url": "https://www.zhihu.com/question/2034361733985388323",
           "source": "知乎",
           "ranks": [
             7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 12时51分]"
-        },
-        {
-          "title": "广东中山市：房企收购的二手住房可进行二次销售，商业用房贷款首付最低三成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33097534",
-          "source": "澎湃新闻",
-          "ranks": [
             18
           ],
           "is_new": false,
@@ -65,7 +66,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
@@ -82,7 +83,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
