@@ -1,85 +1,40 @@
 {
-  "generated_at": "2026-05-04T18:53:27.516860+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-05-05T09:26:37.048779+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
-          "title": "深圳、广州、天津、武汉、苏州，接连发布楼市新政",
-          "url": "https://www.cls.cn/detail/2362120",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 18时53分]"
-        },
-        {
-          "title": "香港金管局总裁余伟文表示，中东冲突风险可控。",
-          "url": "https://wallstreetcn.com/livenews/3098353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "CBA季后赛广东力克广州",
-          "url": "https://www.douyin.com/hot/2487812",
-          "source": "抖音",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 13时22分]"
-        },
-        {
-          "title": "香港一酒店女子坠亡砸中路人",
-          "url": "https://www.toutiao.com/trending/7635059486969282601/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "深圳地铁 2025 年亏损超 371 亿元，为何深圳地铁会从全国利润一哥变成亏损大户？",
-          "url": "https://www.zhihu.com/question/2033508730633811823",
+          "title": "如何评价中山大学 2025 年录取了 3652 名广东籍考生，是第二名河南 263 名的 14 倍？",
+          "url": "https://www.zhihu.com/question/2034361733985388323",
           "source": "知乎",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "寒战2背后的香港故事",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AF%92%E6%88%982%E8%83%8C%E5%90%8E%E7%9A%84%E9%A6%99%E6%B8%AF%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
         {
-          "title": "深圳楼市新政落地：有中介门店二手房签约量翻倍，外地客群开始入场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093534",
+          "title": "广东中山市：房企收购的二手住房可进行二次销售，商业用房贷款首付最低三成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33097534",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "游客发视频点赞广东一镇政府",
+          "url": "https://www.toutiao.com/trending/7635917451793367076/",
+          "source": "今日头条",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -88,38 +43,19 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek员工为何不加班",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
-          "source": "bilibili 热搜",
+          "title": "据华尔街日报：OpenAI首席执行官Sam Altman去年年底曾讨论将公司机器人及消费硬件部门分拆出去。将OpenAI机器人及消费硬件部门分拆出去的计划被否决。",
+          "url": "https://flash.jin10.com/detail/20260505090141713800",
+          "source": "金十数据",
           "ranks": [
-            27,
-            13,
-            14
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 16时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
-          "url": "https://wallstreetcn.com/articles/3771528",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时53分"
+          "time_info": "09时26分"
         }
       ]
     }
