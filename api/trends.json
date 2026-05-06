@@ -1,122 +1,44 @@
 {
-  "generated_at": "2026-05-05T19:08:51.491576+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-05-06T09:24:41.969520+08:00",
+  "total_titles_processed": 283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "广东中山市：房企收购的二手住房可进行二次销售，商业用房贷款首付最低三成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33097534",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 19时08分]"
-        },
-        {
-          "title": "如何评价中山大学 2025 年录取了 3652 名广东籍考生，是第二名河南 263 名的 14 倍？",
-          "url": "https://www.zhihu.com/question/2034361733985388323",
-          "source": "知乎",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 12时51分]"
-        },
-        {
-          "title": "香港今年首季度GDP较上年同期实质上升5.9%",
-          "url": "https://wallstreetcn.com/livenews/3098749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 19时08分]"
-        },
-        {
-          "title": "中国香港第一季度GDP同比初值 5.9%，预期3.5%，前值3.80%。 中国香港第一季度GDP环比初值 2.9%，预期0.9%，前值1.00%。",
-          "url": "https://wallstreetcn.com/livenews/3098744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 19时08分]"
-        },
-        {
-          "title": "华恒生物：4月30日向香港联交所更新递交本次H股发行并上市的申请",
-          "url": "https://flash.jin10.com/detail/20260505172154413800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时50分"
-        },
-        {
-          "title": "游客发视频点赞广东一镇政府",
-          "url": "https://www.toutiao.com/trending/7635917451793367076/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
         {
-          "title": "据华尔街日报：OpenAI首席执行官Sam Altman去年年底曾讨论将公司机器人及消费硬件部门分拆出去。将OpenAI机器人及消费硬件部门分拆出去的计划被否决。",
-          "url": "https://flash.jin10.com/detail/20260505090141713800",
+          "title": "香港恒生指数5月6日（周三）开盘上涨131.04点，涨幅0.51%，报26029.65点；<br/>香港恒生科技指数5月6日（周三）开盘上涨42.01点，涨幅0.85%，报4971.69点；<br/>国企指数5月6日（周三）开盘上涨55.51点，涨幅0.64%，报8786.0点；<br/>红筹指数5月6日（周三）开盘上涨4.95点，涨幅0.11%，报4411.37点。",
+          "url": "https://flash.jin10.com/detail/20260506092109846800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "09时24分"
         },
         {
-          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
-          "url": "https://wallstreetcn.com/livenews/3098735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 19时08分]"
-        },
-        {
-          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771533",
-          "source": "华尔街见闻",
+          "title": "深圳“五一”接待游客733.36万人次",
+          "url": "https://flash.jin10.com/detail/20260506091335854800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "09时24分"
+        },
+        {
+          "title": "先正达考虑2026年下半年在香港IPO，估值可能达到500亿美元。（德国商报）",
+          "url": "https://wallstreetcn.com/livenews/3098990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
@@ -129,29 +51,28 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            9
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 19时08分]"
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
-          "url": "https://wallstreetcn.com/articles/3771528",
-          "source": "华尔街见闻",
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
           "ranks": [
-            9
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "09时24分"
         }
       ]
     }
