@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-05-07T16:09:40.820166+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-05-07T18:58:19.336536+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "深圳禁烟整活,谐音梗玩明白了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354043&amp;topic_name=%E6%B7%B1%E5%9C%B3%E7%A6%81%E7%83%9F%E6%95%B4%E6%B4%BB%2C%E8%B0%90%E9%9F%B3%E6%A2%97%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            10,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 18时58分]"
+        },
+        {
+          "title": "深圳女子受精卵钻入腹膜后的空间，为什么会出现这种情况？医生是怎么成功找到的？这种宫外孕有什么症状？",
+          "url": "https://www.zhihu.com/question/2035422936853476654",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时09分 ~ 18时58分]"
+        },
+        {
+          "title": "CBA北京102:94战胜广东",
+          "url": "https://www.douyin.com/hot/2490603",
+          "source": "抖音",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 13时20分]"
+        },
+        {
+          "title": "深圳铁路“五一”假期累计到发旅客674.11万人次 同比增9.8%",
+          "url": "https://flash.jin10.com/detail/20260507124938901800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "香港金管局推出Cargo项目先导计划 提高香港中小企获取贸易融资的机会",
+          "url": "https://flash.jin10.com/detail/20260507182026618800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
@@ -13,11 +79,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 16时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 18时58分]"
         },
         {
           "title": "博主：允许梁文锋再“伟大一次”",
@@ -51,59 +118,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "深圳禁烟整活,谐音梗玩明白了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354043&amp;topic_name=%E6%B7%B1%E5%9C%B3%E7%A6%81%E7%83%9F%E6%95%B4%E6%B4%BB%2C%E8%B0%90%E9%9F%B3%E6%A2%97%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 16时09分]"
-        },
-        {
-          "title": "CBA北京102:94战胜广东",
-          "url": "https://www.douyin.com/hot/2490603",
-          "source": "抖音",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 13时20分]"
-        },
-        {
-          "title": "深圳铁路“五一”假期累计到发旅客674.11万人次 同比增9.8%",
-          "url": "https://flash.jin10.com/detail/20260507124938901800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "深圳女子受精卵钻入腹膜后的空间，为什么会出现这种情况？医生是怎么成功找到的？这种宫外孕有什么症状？",
-          "url": "https://www.zhihu.com/question/2035422936853476654",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
         }
       ]
     },
