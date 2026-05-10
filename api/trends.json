@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T15:52:35.692055+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-05-10T17:19:27.051727+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 17时19分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -36,11 +37,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 15时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 17时19分]"
         }
       ]
     },
@@ -65,11 +67,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 15时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 17时19分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -94,11 +97,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            1
+            1,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 17时19分]"
         },
         {
           "title": "香港针织大王孙女绑架案细节披露",
