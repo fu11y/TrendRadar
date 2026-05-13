@@ -1,83 +1,111 @@
 {
-  "generated_at": "2026-05-12T19:09:38.928385+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2026-05-13T09:50:47.859460+08:00",
+  "total_titles_processed": 282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
-          "title": "香港恒生指数5月12日（周二）收盘下跌58.93点，跌幅0.22%，报26347.91点；<br/>香港恒生科技指数5月12日（周二）收盘下跌35.79点，跌幅0.7%，报5070.61点；<br/>国企指数5月12日（周二）收盘下跌1.83点，跌幅0.02%，报8882.37点；<br/>红筹指数5月12日（周二）收盘上涨5.32点，涨幅0.12%，报4629.15点。",
-          "url": "https://flash.jin10.com/detail/20260512161230693800",
-          "source": "金十数据",
+          "title": "深圳一对夫妻靠囤芯片，5 个月身价暴涨 320 亿元，存储涨价周期能维持多久？普通人能参与进来吗？",
+          "url": "https://www.zhihu.com/question/2037578815958947124",
+          "source": "知乎",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "09时50分"
         },
         {
-          "title": "*ST闻泰：珠海融林及格力电器减持计划未实施",
-          "url": "https://flash.jin10.com/detail/20260512184844084800",
-          "source": "金十数据",
+          "title": "CBA北京淘汰广东挺进4强",
+          "url": "https://www.douyin.com/hot/2496802",
+          "source": "抖音",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        },
-        {
-          "title": "深圳莲花山公园莲雾“捡都捡不完”",
-          "url": "https://www.toutiao.com/trending/7638631532042698803/",
-          "source": "今日头条",
-          "ranks": [
-            14
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "09时50分"
         },
         {
           "title": "多地组织集中观看《给阿嬷的情书》，广东省文联解析出圈密码",
           "url": "https://m.thepaper.cn/newsDetail_forward_33161654",
           "source": "澎湃新闻",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        },
-        {
-          "title": "外交部：香港事务属于中国内政 中国中央政府坚定支持香港司法机关依法履职尽责",
-          "url": "https://wallstreetcn.com/livenews/3102120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "09时50分"
+        },
+        {
+          "title": "剂泰科技香港上市首日飙涨173%，此前通过IPO筹资2.7亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3102606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33162926",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "香港恒生指数5月13日（周三）开盘上涨22.08点，涨幅0.08%，报26369.99点；<br/>香港恒生科技指数5月13日（周三）开盘下跌15.2点，跌幅0.3%，报5055.41点；<br/>国企指数5月13日（周三）开盘下跌4.76点，跌幅0.05%，报8877.61点；<br/>红筹指数5月13日（周三）开盘上涨10.25点，涨幅0.22%，报4639.4点。",
+          "url": "https://flash.jin10.com/detail/20260513092311982800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "瑞银仍预计金价年底达到每盎司5600美元 银价料达到100美元",
-          "url": "https://wallstreetcn.com/livenews/3102015",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek-TUI 霸榜 GitHub，小白不到 10 元开发应用，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2036544679387341657",
+          "source": "知乎",
           "ranks": [
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科技巨头竞逐太空算力新赛道！谷歌据悉接洽SpaceX发射轨道数据中心",
+          "url": "https://www.cls.cn/detail/2369554",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     }
