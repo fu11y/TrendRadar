@@ -1,50 +1,100 @@
 {
-  "generated_at": "2026-05-15T13:44:28.717161+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-05-15T16:36:57.945319+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "机构：金价多方承压，正成为本轮降息质疑的不幸牺牲品",
-          "url": "https://flash.jin10.com/detail/20260515133408250800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "金十整理：中东阴影迟迟未退，金价震荡反复，投行怎么看？",
-          "url": "https://flash.jin10.com/detail/20260515132244131800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 2,
+      "match_count": 9,
       "titles": [
         {
           "title": "杨威一家六口挤香港40多平出租屋",
           "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E5%A8%81%E4%B8%80%E5%AE%B6%E5%85%AD%E5%8F%A3%E6%8C%A4%E9%A6%99%E6%B8%AF40%E5%A4%9A%E5%B9%B3%E5%87%BA%E7%A7%9F%E5%B1%8B",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 16时36分]"
+        },
+        {
+          "title": "中国香港第一季度GDP年率终值 5.9%，预期5.90%，前值5.90%。",
+          "url": "https://flash.jin10.com/detail/20260515163017913800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时44分"
+          "time_info": "16时36分"
+        },
+        {
+          "title": "澳门：一季度GDP修订数值为1075.6亿澳门元，按年实质增长7.1%",
+          "url": "https://wallstreetcn.com/livenews/3104268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "中国香港第一季度GDP季率终值 2.9%，前值2.90%。",
+          "url": "https://flash.jin10.com/detail/20260515163017907800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "广东：鼓励上市企业开展产业链上下游关键环节并购重组 打造大市值上市企业",
+          "url": "https://wallstreetcn.com/livenews/3104254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "广东：到2030年建成全国领先、具有全球竞争力的重点企业梯度培育体系",
+          "url": "https://wallstreetcn.com/livenews/3104251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "广东暴雨还会下吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E8%BF%98%E4%BC%9A%E4%B8%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "香港恒生指数5月15日（周五）收盘下跌426.31点，跌幅1.62%，报25962.73点；<br/>香港恒生科技指数5月15日（周五）收盘下跌135.06点，跌幅2.66%，报4941.14点；<br/>国企指数5月15日（周五）收盘下跌167.6点，跌幅1.89%，报8691.03点；<br/>红筹指数5月15日（周五）收盘下跌38.81点，跌幅0.85%，报4535.22点。",
+          "url": "https://flash.jin10.com/detail/20260515161139123800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "香港恒生指数5月15日（周五）开盘上涨1.98点，涨幅0.01%，报26391.02点；<br/>香港恒生科技指数5月15日（周五）开盘下跌6.74点，跌幅0.13%，报5069.46点；<br/>国企指数5月15日（周五）开盘下跌23.17点，跌幅0.26%，报8835.46点；<br/>红筹指数5月15日（周五）开盘下跌3.37点，跌幅0.07%，报4570.66点。",
@@ -60,6 +110,62 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Codex登陆ChatGPT手机App",
+          "url": "https://search.bilibili.com/all?keyword=Codex%E7%99%BB%E9%99%86ChatGPT%E6%89%8B%E6%9C%BAApp",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "OpenAI首席财务官：或将筹集更多资金，未来可能考虑通过公开市场融资",
+          "url": "https://wallstreetcn.com/livenews/3104253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机构：金价多方承压，正成为本轮降息质疑的不幸牺牲品",
+          "url": "https://flash.jin10.com/detail/20260515133408250800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "金十整理：中东阴影迟迟未退，金价震荡反复，投行怎么看？",
+          "url": "https://flash.jin10.com/detail/20260515132244131800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -69,23 +175,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Codex登陆ChatGPT手机App",
-          "url": "https://search.bilibili.com/all?keyword=Codex%E7%99%BB%E9%99%86ChatGPT%E6%89%8B%E6%9C%BAApp",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
