@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-05-17T13:38:01.568563+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-05-17T16:05:38.997347+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "万亿城市佛山成唯一负增长，失去「广东第三城」地位，这背后反映了什么？",
           "url": "https://www.zhihu.com/question/2037941242487691201",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 13时38分]"
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 16时05分]"
         },
         {
           "title": "广东暴雨天蟑螂成群出动",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E5%A4%A9%E8%9F%91%E8%9E%82%E6%88%90%E7%BE%A4%E5%87%BA%E5%8A%A8",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 13时38分]"
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 16时05分]"
         },
         {
           "title": "广东暴雨天蟑螂成群出动",
@@ -52,6 +54,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "超310家企业落户香港或在港扩充业务",
+          "url": "https://flash.jin10.com/detail/20260517144615588800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
           "title": "细数深圳男篮的防守隐患",
           "url": "https://www.douyin.com/hot/2501595",
           "source": "抖音",
@@ -72,6 +85,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "深圳发布2026年住房发展计划 将筹建3万套、供应4万套保障房",
+          "url": "https://flash.jin10.com/detail/20260517132509601800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "香港特区政府财政司司长陈茂波将启程前往欧洲三地访问",
+          "url": "https://flash.jin10.com/detail/20260517131804322800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         }
       ]
     },
