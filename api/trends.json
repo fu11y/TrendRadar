@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T13:58:49.395764+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-05-19T17:31:41.837556+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "香港特区行政长官李家超将出访中亚",
@@ -19,6 +19,19 @@
           "time_info": "09时57分"
         },
         {
+          "title": "没考上大专，18 岁在深圳做流水线工人，真的很迷茫，有没有过来人的真心建议？",
+          "url": "https://www.zhihu.com/question/2029672850043286403",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 17时31分]"
+        },
+        {
           "title": "A股燃气板块短线走强，贵州燃气2连板，佛燃能源、大众公用、胜通能源、皖天然气、深圳燃气跟涨。",
           "url": "https://flash.jin10.com/detail/20260519094936083800",
           "source": "金十数据",
@@ -30,16 +43,15 @@
           "time_info": "09时57分"
         },
         {
-          "title": "没考上大专，18 岁在深圳做流水线工人，真的很迷茫，有没有过来人的真心建议？",
-          "url": "https://www.zhihu.com/question/2029672850043286403",
-          "source": "知乎",
+          "title": "中国财政部：财政部将于2026年5月25日当周在香港特别行政区发行人民币绿色主权债券，规模不超过60亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3105937",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            8
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 13时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "香港特区行政长官李家超将出访中亚",
@@ -81,9 +93,37 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克起诉OpenAI为何败诉",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B5%B7%E8%AF%89OpenAI%E4%B8%BA%E4%BD%95%E8%B4%A5%E8%AF%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时30分 ~ 17时31分]"
+        },
+        {
+          "title": "软银推出400亿美元的银团贷款计划，所得款项将用于支持软银对美国人工智能巨头OpenAI的投资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3105924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },
@@ -91,6 +131,19 @@
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
+        {
+          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 17时31分]"
+        },
         {
           "title": "金价跳水 黑金首饰受追捧",
           "url": "https://www.toutiao.com/trending/7640315819964645412/",
@@ -101,18 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
-        },
-        {
-          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 13时58分]"
         }
       ]
     },
@@ -142,11 +183,12 @@
           "url": "https://www.cls.cn/detail/2374982",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 17时31分]"
         }
       ]
     }
