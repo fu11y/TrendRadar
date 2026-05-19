@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T09:57:26.402459+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2026-05-19T13:58:49.395764+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "香港特区行政长官李家超将出访中亚",
@@ -30,6 +30,18 @@
           "time_info": "09时57分"
         },
         {
+          "title": "没考上大专，18 岁在深圳做流水线工人，真的很迷茫，有没有过来人的真心建议？",
+          "url": "https://www.zhihu.com/question/2029672850043286403",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 13时58分]"
+        },
+        {
           "title": "香港特区行政长官李家超将出访中亚",
           "url": "https://flash.jin10.com/detail/20260519094721332800",
           "source": "金十数据",
@@ -52,17 +64,6 @@
           "time_info": "09时57分"
         },
         {
-          "title": "没考上大专，18 岁在深圳做流水线工人，真的很迷茫，有没有过来人的真心建议？",
-          "url": "https://www.zhihu.com/question/2029672850043286403",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
           "title": "CBA半决赛广厦胜深圳夺赛点",
           "url": "https://www.douyin.com/hot/2503652",
           "source": "抖音",
@@ -72,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3105794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     },
@@ -95,11 +107,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 13时58分]"
         }
       ]
     },
@@ -117,6 +130,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
+          "url": "https://www.cls.cn/detail/2374982",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     }
