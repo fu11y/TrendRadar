@@ -1,94 +1,105 @@
 {
-  "generated_at": "2026-05-18T18:53:16.792195+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-05-19T09:57:26.402459+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
-          "title": "国家统计局：深圳4月二手住宅价格环比+0.3%（前值+0.4%），同比-6.5%（前值-7.0%）。",
-          "url": "https://flash.jin10.com/detail/20260518093343406800",
-          "source": "金十数据",
+          "title": "香港特区行政长官李家超将出访中亚",
+          "url": "https://wallstreetcn.com/livenews/3105722",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
         {
-          "title": "国家统计局：深圳4月新建商品住宅价格环比+0.1%（前值+0.2%），同比-5.3%（前值-5.5%）。",
-          "url": "https://flash.jin10.com/detail/20260518093336840800",
+          "title": "A股燃气板块短线走强，贵州燃气2连板，佛燃能源、大众公用、胜通能源、皖天然气、深圳燃气跟涨。",
+          "url": "https://flash.jin10.com/detail/20260519094936083800",
           "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "香港特区行政长官李家超将出访中亚",
+          "url": "https://flash.jin10.com/detail/20260519094721332800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "香港恒生指数高开0.07%，报25693.37点；恒生科技指数跌0.14%。腾讯音乐涨3.3%，网易、哔哩哔哩涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3105700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "没考上大专，18 岁在深圳做流水线工人，真的很迷茫，有没有过来人的真心建议？",
+          "url": "https://www.zhihu.com/question/2029672850043286403",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "CBA半决赛广厦胜深圳夺赛点",
+          "url": "https://www.douyin.com/hot/2503652",
+          "source": "抖音",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "香港恒生指数开盘下跌0.48%，报25838.96点；恒生科技指数跌0.88%。理想汽车跌超4%，零跑汽车跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3104992",
-          "source": "华尔街见闻-快讯",
+          "title": "金价跳水 黑金首饰受追捧",
+          "url": "https://www.toutiao.com/trending/7640315819964645412/",
+          "source": "今日头条",
           "ranks": [
-            19
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
         {
-          "title": "澳门关闸口岸今年累计通关客流突破五千万 同比增长8.9%",
-          "url": "https://flash.jin10.com/detail/20260518132807758800",
-          "source": "金十数据",
+          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
+          "source": "澎湃新闻",
           "ranks": [
-            27
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "高盛称各国央行料将加大力度购买黄金 预估金价年底可达5400美元",
-          "url": "https://wallstreetcn.com/livenews/3105111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "高盛：央行要“加码”买黄金了，金价年底看5400",
-          "url": "https://flash.jin10.com/detail/20260518133210893800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "摩根大通：将2026年平均金价预测从5708美元/盎司下调至5243美元/盎司。 随着下半年需求重新加速，基准预测下仍看好年底金价冲向6000美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3105091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时04分"
+          "time_info": "09时57分"
         }
       ]
     },
@@ -97,32 +108,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "GPT-5.5 涨价，而 DeepSeek 再次降价？为什么会同时出现「涨价」和「降价」共存的情况？",
-          "url": "https://www.zhihu.com/question/2037925163765691524",
-          "source": "知乎",
+          "title": "腾讯云：智能体开发平台中提供的 Hy3 preview、DeepSeek-V4-Pro 模型，将于北京时间2026年5月27日10:00起结束限时免费公测，转为正式商用服务，根据模型调用按量计费。",
+          "url": "https://flash.jin10.com/detail/20260519094946718800",
+          "source": "金十数据",
           "ranks": [
-            17
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
-          "url": "https://wallstreetcn.com/articles/3772335",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 18时53分]"
         }
       ]
     }
