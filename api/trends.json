@@ -1,187 +1,97 @@
 {
-  "generated_at": "2026-05-19T20:32:34.290391+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-05-20T09:57:05.500202+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 8,
       "titles": [
         {
-          "title": "没考上大专，18 岁在深圳做流水线工人，真的很迷茫，有没有过来人的真心建议？",
-          "url": "https://www.zhihu.com/question/2029672850043286403",
-          "source": "知乎",
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            8,
-            3,
-            13
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 20时32分]"
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
         },
         {
-          "title": "香港特区行政长官李家超将出访中亚",
-          "url": "https://wallstreetcn.com/livenews/3105722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "A股燃气板块短线走强，贵州燃气2连板，佛燃能源、大众公用、胜通能源、皖天然气、深圳燃气跟涨。",
-          "url": "https://flash.jin10.com/detail/20260519094936083800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "中国财政部：财政部将于2026年5月25日当周在香港特别行政区发行人民币绿色主权债券，规模不超过60亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3105937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "香港特区行政长官李家超将出访中亚",
-          "url": "https://flash.jin10.com/detail/20260519094721332800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "香港恒生指数高开0.07%，报25693.37点；恒生科技指数跌0.14%。腾讯音乐涨3.3%，网易、哔哩哔哩涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3105700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "CBA半决赛广厦胜深圳夺赛点",
-          "url": "https://www.douyin.com/hot/2503652",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "香港天文台发布黄色暴雨警告。",
-          "url": "https://wallstreetcn.com/livenews/3105794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
-          "url": "https://www.cls.cn/detail/2374982",
+          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
+          "url": "https://www.cls.cn/detail/2376057",
           "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 17时31分]"
-        },
-        {
-          "title": "Google I/O大会开幕在即：谷歌会一次性发布多少AI新东西？",
-          "url": "https://flash.jin10.com/detail/20260519201453946800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克起诉OpenAI为何败诉",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B5%B7%E8%AF%89OpenAI%E4%B8%BA%E4%BD%95%E8%B4%A5%E8%AF%89",
-          "source": "bilibili 热搜",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
+          "time_info": "[09时56分 ~ 09时57分]"
         },
         {
-          "title": "软银推出400亿美元的银团贷款计划，所得款项将用于支持软银对美国人工智能巨头OpenAI的投资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3105924",
-          "source": "华尔街见闻-快讯",
+          "title": "Gemini Omni实测效果速览",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%20Omni%E5%AE%9E%E6%B5%8B%E6%95%88%E6%9E%9C%E9%80%9F%E8%A7%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            15
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 20时32分]"
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
         },
         {
-          "title": "金价跳水 黑金首饰受追捧",
-          "url": "https://www.toutiao.com/trending/7640315819964645412/",
-          "source": "今日头条",
+          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
+          "url": "https://wallstreetcn.com/articles/3772609",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2376118",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "谷歌I/O大会全复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CI%2FO%E5%A4%A7%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：通过与新加坡政府建立新的国家人工智能合作伙伴关系，加大在新加坡的人工智能投资。",
+          "url": "https://flash.jin10.com/detail/20260520093335274800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时57分"
         }
@@ -192,15 +102,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "腾讯云：智能体开发平台中提供的 Hy3 preview、DeepSeek-V4-Pro 模型，将于北京时间2026年5月27日10:00起结束限时免费公测，转为正式商用服务，根据模型调用按量计费。",
-          "url": "https://flash.jin10.com/detail/20260519094946718800",
-          "source": "金十数据",
+          "title": "DeepSeek回应“乱回”漏洞",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%B1%E5%9B%9E%E2%80%9D%E6%BC%8F%E6%B4%9E",
+          "source": "百度热搜",
           "ranks": [
-            3
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛：金价回调不改长期涨势",
+          "url": "https://www.douyin.com/hot/2504515",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "广东2条蛇在市区绿化带“跳舞”",
+          "url": "https://www.toutiao.com/trending/7640862649014222874/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
         }
       ]
     }
