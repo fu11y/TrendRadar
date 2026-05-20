@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T16:51:49.914874+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-05-20T19:40:55.072961+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 16时51分]"
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 19时40分]"
         },
         {
           "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
@@ -37,7 +37,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -168,6 +168,58 @@
       ]
     },
     {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "深圳两公司强制加班被罚14w",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354435&amp;topic_name=%E6%B7%B1%E5%9C%B3%E4%B8%A4%E5%85%AC%E5%8F%B8%E5%BC%BA%E5%88%B6%E5%8A%A0%E7%8F%AD%E8%A2%AB%E7%BD%9A14w",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 19时40分]"
+        },
+        {
+          "title": "广东2条蛇在市区绿化带“跳舞”",
+          "url": "https://www.toutiao.com/trending/7640862649014222874/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "普京确认：我本人11月将赴深圳",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A1%AE%E8%AE%A4%EF%BC%9A%E6%88%91%E6%9C%AC%E4%BA%BA11%E6%9C%88%E5%B0%86%E8%B5%B4%E6%B7%B1%E5%9C%B3",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "广东出现极端强降雨 启动水利防汛Ⅳ级应急响应",
+          "url": "https://flash.jin10.com/detail/20260520192109983800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -189,38 +241,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "深圳两公司强制加班被罚14w",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354435&amp;topic_name=%E6%B7%B1%E5%9C%B3%E4%B8%A4%E5%85%AC%E5%8F%B8%E5%BC%BA%E5%88%B6%E5%8A%A0%E7%8F%AD%E8%A2%AB%E7%BD%9A14w",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 16时51分]"
-        },
-        {
-          "title": "广东2条蛇在市区绿化带“跳舞”",
-          "url": "https://www.toutiao.com/trending/7640862649014222874/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 09时57分]"
         }
       ]
     },
@@ -252,7 +275,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
