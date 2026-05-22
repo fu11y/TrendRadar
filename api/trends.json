@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T09:58:06.498912+08:00",
-  "total_titles_processed": 284,
+  "generated_at": "2026-05-22T13:58:11.833451+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 13时58分]"
         },
         {
           "title": "中国人民银行5月27日将通过香港金融管理局债务工具中央结算系统（CMU）债券投标平台，招标发行2026年第四期和第五期中央银行票据，期限分别为3个月（91天）、1年，发行量均为人民币150亿元。",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -39,6 +39,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 09时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价又“坐过山车”",
+          "url": "https://www.douyin.com/hot/2507965",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 13时58分]"
         }
       ]
     }
