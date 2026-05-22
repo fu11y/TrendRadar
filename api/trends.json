@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T13:58:11.833451+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-05-22T16:50:41.166917+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "2026文化强国建设高峰论坛在深圳开幕",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时57分 ~ 13时58分]"
+        },
+        {
+          "title": "【老虎回应遭证监会立案：将严格按照监管要求积极配合相关工作，目前公司各项业务运营正常】今日，证监会宣布，对Tiger Brokers (NZ) Limited、富途证券国际（香港）有限公司、长桥证券（香港）有限公司境内外相关主体在境内非法经营证券业务等行为立案调查并作出行政处罚事先告知。老虎方面回应称，“公司已注意到相关通知，将严格按照监管要求积极配合相关工作，目前公司各项业务运营正常。老虎始终将合规置于首位，并持续与监管机构保持密切沟通。”（蓝鲸新闻）",
+          "url": "https://wallstreetcn.com/livenews/3107932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "中国人民银行5月27日将通过香港金融管理局债务工具中央结算系统（CMU）债券投标平台，招标发行2026年第四期和第五期中央银行票据，期限分别为3个月（91天）、1年，发行量均为人民币150亿元。",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "79岁香港导演黄百鸣被判有罪",
+          "url": "https://www.toutiao.com/trending/7642408982270820358/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     },
@@ -54,8 +76,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时50分]"
         }
       ]
     }
