@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T19:37:13.372130+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-05-23T09:48:47.163256+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
@@ -8,128 +8,154 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "2026文化强国建设高峰论坛在深圳开幕",
-          "url": "https://www.baidu.com/s?wd=2026%E6%96%87%E5%8C%96%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E9%AB%98%E5%B3%B0%E8%AE%BA%E5%9D%9B%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%BC%80%E5%B9%95",
+          "title": "中国香港航天员首上太空",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E8%88%AA%E5%A4%A9%E5%91%98%E9%A6%96%E4%B8%8A%E5%A4%AA%E7%A9%BA",
           "source": "百度热搜",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 13时58分]"
-        },
-        {
-          "title": "深交所将于5月28日至29日在深圳举办2026全球投资者大会",
-          "url": "https://flash.jin10.com/detail/20260522191844925800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "【老虎回应遭证监会立案：将严格按照监管要求积极配合相关工作，目前公司各项业务运营正常】今日，证监会宣布，对Tiger Brokers (NZ) Limited、富途证券国际（香港）有限公司、长桥证券（香港）有限公司境内外相关主体在境内非法经营证券业务等行为立案调查并作出行政处罚事先告知。老虎方面回应称，“公司已注意到相关通知，将严格按照监管要求积极配合相关工作，目前公司各项业务运营正常。老虎始终将合规置于首位，并持续与监管机构保持密切沟通。”（蓝鲸新闻）",
-          "url": "https://wallstreetcn.com/livenews/3107932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时50分"
+          "time_info": "09时48分"
         },
         {
-          "title": "中国人民银行5月27日将通过香港金融管理局债务工具中央结算系统（CMU）债券投标平台，招标发行2026年第四期和第五期中央银行票据，期限分别为3个月（91天）、1年，发行量均为人民币150亿元。",
-          "url": "https://wallstreetcn.com/livenews/3107706",
+          "title": "神二十三乘组确定：朱杨柱、张志远、黎家盈（香港籍）",
+          "url": "https://wallstreetcn.com/livenews/3108293",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "09时48分"
         },
         {
-          "title": "79岁香港导演黄百鸣被判有罪",
-          "url": "https://www.toutiao.com/trending/7642408982270820358/",
+          "title": "神23乘组公布 香港航天员首次入选",
+          "url": "https://www.toutiao.com/trending/7642524650089529363/",
           "source": "今日头条",
           "ranks": [
-            12,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 19时37分]"
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
-          "title": "香港艺人黄百鸣涉内幕交易罪名成立",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BA%E9%BB%84%E7%99%BE%E9%B8%A3%E6%B6%89%E5%86%85%E5%B9%95%E4%BA%A4%E6%98%93%E7%BD%AA%E5%90%8D%E6%88%90%E7%AB%8B",
+          "title": "香港艺人黄百鸣涉嫌内幕交易罪名成立，此前套现4.86亿港元离场",
+          "url": "https://www.cls.cn/detail/2379296",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "神二十三乘组确定：朱杨柱、张志远和首位香港籍航天员黎家盈将执行神舟二十三号载人飞行任务，朱杨柱担任指令长。",
+          "url": "https://flash.jin10.com/detail/20260523090555415800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "深圳龙岗发洪水系谣言",
+          "url": "https://www.douyin.com/hot/2508823",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "黎家盈曾在香港特区政府警务处工作",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%8E%E5%AE%B6%E7%9B%88%E6%9B%BE%E5%9C%A8%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E8%AD%A6%E5%8A%A1%E5%A4%84%E5%B7%A5%E4%BD%9C",
           "source": "百度热搜",
           "ranks": [
-            9
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 19时37分]"
-        },
-        {
-          "title": "深圳男篮力克广厦大比分1:2",
-          "url": "https://www.douyin.com/hot/2506846",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价又“坐过山车”",
-          "url": "https://www.douyin.com/hot/2507965",
-          "source": "抖音",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 19时37分]"
-        },
-        {
-          "title": "金价跌破千元 有人关店有人卖成了LV",
-          "url": "https://www.toutiao.com/trending/7642643067039649321/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 19时37分]"
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苹果谷歌英伟达，集体松了口气",
           "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
           "source": "凤凰网",
           "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "周五（5月22日），美股超大规模云服务商（Hyperscalers）指数收跌0.34%，报101.35点，本周累计下跌1.18%，整体呈现出平坦的V形走势。 日线图上，指数在3月27日跌至78.05点，随后持续反弹，5月份迄今持续测试100点整数位心理关口。 成分股中，谷歌A收跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，甲骨文涨1.22%。",
+          "url": "https://wallstreetcn.com/livenews/3108281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260523091339971800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 19时37分]"
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
+          "url": "https://www.zhihu.com/question/2041260640740927118",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     }
