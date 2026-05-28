@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T13:58:16.567009+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-05-28T17:50:05.881238+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "香港金管局要求银行倒查内地个人投资者在港投资账户，新开账户将实施更严格的核查",
+          "url": "https://wallstreetcn.com/articles/3773258",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 17时50分]"
+        },
+        {
           "title": "香港金管局就内地投资账户新增监管措施，开户倒查至 2023 年、新增投资资金不得来自内地，如何解读？",
           "url": "https://www.zhihu.com/question/2043072357921546874",
           "source": "知乎",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 13时58分]"
-        },
-        {
-          "title": "香港金管局要求银行倒查内地个人投资者在港投资账户，新开账户将实施更严格的核查",
-          "url": "https://wallstreetcn.com/articles/3773258",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -69,7 +70,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
@@ -77,8 +78,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
+        },
         {
           "title": "DeepSeek网页及API服务中断 现已恢复",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BD%91%E9%A1%B5%E5%8F%8AAPI%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD+%E7%8E%B0%E5%B7%B2%E6%81%A2%E5%A4%8D",
@@ -86,7 +98,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -97,9 +109,27 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
         }
       ]
     }
