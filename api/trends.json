@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T09:45:05.911752+08:00",
-  "total_titles_processed": 283,
+  "generated_at": "2026-05-28T13:58:16.567009+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "香港金管局就内地投资账户新增监管措施，开户倒查至 2023 年、新增投资资金不得来自内地，如何解读？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时58分]"
         },
         {
           "title": "香港金管局要求银行倒查内地个人投资者在港投资账户，新开账户将实施更严格的核查",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时58分]"
         },
         {
           "title": "香港女星称在中山买房不到200万港币",
@@ -61,6 +61,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "深圳一企业称股权价值被严重低估续：重估高出近23倍，当事人认为仍未反映市场价值",
+          "url": "https://wallstreetcn.com/livenews/3110465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek网页及API服务中断 现已恢复",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BD%91%E9%A1%B5%E5%8F%8AAPI%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD+%E7%8E%B0%E5%B7%B2%E6%81%A2%E5%A4%8D",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "报道：国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/livenews/3110453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     }
