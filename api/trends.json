@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T14:44:54.755630+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-05-31T17:39:55.454747+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "深圳网约车市场已饱和，官方发布风险提示",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 14时44分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 17时39分]"
         },
         {
           "title": "深圳网约车市场已饱和，官方发布风险提示",
@@ -26,9 +27,20 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 17时39分]"
+        },
+        {
+          "title": "陈茂波：海内外资金投信任票，香港资管业务成长可观",
+          "url": "https://wallstreetcn.com/livenews/3111887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时44分"
+          "time_info": "17时39分"
         },
         {
           "title": "深圳发布网约车市场饱和风险提示",
@@ -37,9 +49,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "陈茂波：海内外资金投信任票 香港资管业务成长可观",
+          "url": "https://flash.jin10.com/detail/20260531154317305800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
+          "url": "https://www.zhihu.com/question/2043802300246915002",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         }
       ]
     }
