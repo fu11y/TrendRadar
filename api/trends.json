@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-06-01T10:10:57.471175+08:00",
-  "total_titles_processed": 280,
+  "generated_at": "2026-06-01T16:17:26.251428+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "香港恒生指数6月1日（周一）收盘上涨215.79点，涨幅0.86%，报25398.18点；<br/>香港恒生科技指数6月1日（周一）收盘上涨80.69点，涨幅1.65%，报4964.92点；<br/>国企指数6月1日（周一）收盘上涨82.05点，涨幅0.97%，报8507.87点；<br/>红筹指数6月1日（周一）收盘上涨43.66点，涨幅1.0%，报4427.42点。",
+          "url": "https://flash.jin10.com/detail/20260601161108286800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "刘松林任香港中联办秘书长",
+          "url": "https://www.toutiao.com/trending/7646280194491777075/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
