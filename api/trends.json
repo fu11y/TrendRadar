@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T14:24:53.221458+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-06-05T18:39:19.625704+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "深圳国产芯片成功训练万亿级AI大模型",
@@ -19,6 +19,28 @@
           "time_info": "10时04分"
         },
         {
+          "title": "中国银行深圳市分行原行长王少俊接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3115026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "香港金管局：5月底官方外汇储备资产为4465亿美元",
+          "url": "https://wallstreetcn.com/livenews/3115022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "广东面向港澳主体颁发首张数据知识产权证书",
           "url": "https://flash.jin10.com/detail/20260605095132100800",
           "source": "金十数据",
@@ -28,6 +50,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "溢价150%！保利置业57.72亿元竞得深圳南山宅地，成为深圳新单价地王",
+          "url": "https://wallstreetcn.com/livenews/3115019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "香港证监会：扩大上市结构性基金的范围",
+          "url": "https://wallstreetcn.com/livenews/3115018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "京东MALL香港首店落地，将于6月18日开业",
+          "url": "https://wallstreetcn.com/livenews/3115004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "中国银行深圳市分行原党委书记、行长王少俊接受审查调查。",
+          "url": "https://flash.jin10.com/detail/20260605180136860800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "香港证监会将上市基金范围扩展至以香港上市个股作为标的之杠杆及反向产品 并加强保障措施",
+          "url": "https://flash.jin10.com/detail/20260605175626888800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "北京上海深圳楼市有新变化",
@@ -47,7 +124,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -58,9 +135,54 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         }
       ]
     }
