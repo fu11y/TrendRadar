@@ -1,149 +1,67 @@
 {
-  "generated_at": "2026-06-05T18:39:19.625704+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2026-06-06T09:53:11.354496+08:00",
+  "total_titles_processed": 285,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 12,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "深圳国产芯片成功训练万亿级AI大模型",
-          "url": "https://flash.jin10.com/detail/20260605095434070800",
-          "source": "金十数据",
+          "title": "谷歌关联的预付能源债券引发市政债券交易员抢购潮",
+          "url": "https://wallstreetcn.com/livenews/3115375",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "周五（6月5日），美股超大规模云服务商（Hyperscalers）收跌3.91%，报99.37点，本周累计下跌6.08%。 成分股全线溃败，甲骨文收跌9.59%，Meta跌5.51%，亚马逊跌3.06%，微软跌2.66%，谷歌A跌0.98%。",
+          "url": "https://wallstreetcn.com/livenews/3115384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "广东化州多校有空调却不开，校方称去年被举报收费，今年决定不开也不收钱，学校开空调为啥这么难？",
+          "url": "https://www.zhihu.com/question/2043719425409470743",
+          "source": "知乎",
+          "ranks": [
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "中国银行深圳市分行原行长王少俊接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3115026",
-          "source": "华尔街见闻-快讯",
+          "title": "单价高达10.87万元/平 深圳楼面价“天花板”被捅破",
+          "url": "https://www.cls.cn/detail/2392339",
+          "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "香港金管局：5月底官方外汇储备资产为4465亿美元",
-          "url": "https://wallstreetcn.com/livenews/3115022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "广东面向港澳主体颁发首张数据知识产权证书",
-          "url": "https://flash.jin10.com/detail/20260605095132100800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "溢价150%！保利置业57.72亿元竞得深圳南山宅地，成为深圳新单价地王",
-          "url": "https://wallstreetcn.com/livenews/3115019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "香港证监会：扩大上市结构性基金的范围",
-          "url": "https://wallstreetcn.com/livenews/3115018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "京东MALL香港首店落地，将于6月18日开业",
-          "url": "https://wallstreetcn.com/livenews/3115004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "中国银行深圳市分行原党委书记、行长王少俊接受审查调查。",
-          "url": "https://flash.jin10.com/detail/20260605180136860800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "香港证监会将上市基金范围扩展至以香港上市个股作为标的之杠杆及反向产品 并加强保障措施",
-          "url": "https://flash.jin10.com/detail/20260605175626888800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "北京上海深圳楼市有新变化",
-          "url": "https://www.toutiao.com/trending/7647065401033228331/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "领益智造计划下周启动香港上市推介，筹资规模约10亿美元。（IFR国际金融评论）",
-          "url": "https://wallstreetcn.com/livenews/3114807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "深圳一菜市场招牌被孩子画成了诗",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E8%8F%9C%E5%B8%82%E5%9C%BA%E6%8B%9B%E7%89%8C%E8%A2%AB%E5%AD%A9%E5%AD%90%E7%94%BB%E6%88%90%E4%BA%86%E8%AF%97",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
@@ -152,37 +70,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
-          "url": "https://wallstreetcn.com/articles/3773884",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
-          "url": "https://www.zhihu.com/question/2045932866278895886",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         }
       ]
     }
