@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T13:57:55.533582+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-06-09T17:02:21.154844+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "2026中国（深圳）集成电路峰会将于6月26日召开",
@@ -23,11 +23,23 @@
           "url": "https://www.cls.cn/detail/2394464",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 17时02分]"
+        },
+        {
+          "title": "香港电影人黄百鸣被判入狱5个月",
+          "url": "https://www.douyin.com/hot/2528378",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "A股MLCC板块午后冲高，三环集团涨超16%，利和兴涨超15%，双星新材、博迁新材、东材科技等多股涨停，洁美科技、斯迪克、力源信息、深圳华强等个股跟涨。",
@@ -36,9 +48,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "香港证监会：电影制作人黄栢鸣在内幕交易检控中被判处监禁及罚款",
+          "url": "https://wallstreetcn.com/livenews/3116676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "中国财政部将于6月在香港发行150亿元人民币国债。",
@@ -52,6 +75,17 @@
           "time_info": "09时49分"
         },
         {
+          "title": "香港金管局总裁余伟文：跨境理财通3.0暂无落地时间表",
+          "url": "https://flash.jin10.com/detail/20260609161458868800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "A股MLCC概念大涨，康达新材涨停，东材科技涨超8%，商络电子、力源信息、国瓷材料、皖维高新等个股跟涨。消息面上，深圳华强表示，存储、电源管理芯片、模拟芯片和MLCC在内的众多元器件出现缺货涨价情况。",
           "url": "https://flash.jin10.com/detail/20260609092824892800",
           "source": "金十数据",
@@ -63,6 +97,39 @@
           "time_info": "09时49分"
         },
         {
+          "title": "香港恒生指数6月9日（周二）收盘下跌91.16点，跌幅0.37%，报24565.9点；<br/>香港恒生科技指数6月9日（周二）收盘上涨13.7点，涨幅0.29%，报4769.61点；<br/>国企指数6月9日（周二）收盘下跌16.77点，跌幅0.2%，报8324.59点；<br/>红筹指数6月9日（周二）收盘上涨3.66点，涨幅0.08%，报4339.05点。",
+          "url": "https://flash.jin10.com/detail/20260609161430235800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "香港金管局总裁余伟文：跨境理财通3.0暂无落地时间表 额度、产品等多维度拓展空间可期",
+          "url": "https://wallstreetcn.com/livenews/3116664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "三环集团：H股发行申请获香港联交所更新受理。",
+          "url": "https://wallstreetcn.com/livenews/3116663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "香港恒生指数6月9日（周二）开盘下跌105.13点，跌幅0.43%，报24551.93点；<br/>香港恒生科技指数6月9日（周二）开盘下跌12.39点，跌幅0.26%，报4743.52点；<br/>国企指数6月9日（周二）开盘下跌27.8点，跌幅0.33%，报8313.56点；<br/>红筹指数6月9日（周二）开盘下跌21.48点，跌幅0.5%，报4313.91点。",
           "url": "https://flash.jin10.com/detail/20260609092224644800",
           "source": "金十数据",
@@ -72,6 +139,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 17时02分]"
+        },
+        {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时57分]"
+        },
+        {
+          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2394236",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时57分]"
+        },
+        {
+          "title": "美大学生因ChatGPT与母亲争吵后死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0ChatGPT%E4%B8%8E%E6%AF%8D%E4%BA%B2%E4%BA%89%E5%90%B5%E5%90%8E%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         }
       ]
     },
@@ -100,8 +219,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 17时02分]"
         },
         {
           "title": "日立与谷歌云扩大战略联盟，旨在通过FDE与先进网络安全解决方案，加速物理人工智能（Physical AI）在现实世界中的部署。",
@@ -117,48 +236,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 13时57分]"
-        },
-        {
-          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2394236",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 13时57分]"
-        },
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "回到2025年底！国际金价跌破4300美元，短期偏弱格局还将持续多久？",
@@ -171,6 +250,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 13时57分]"
+        },
+        {
+          "title": "消费者盼金价降至500元每克",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E7%9B%BC%E9%87%91%E4%BB%B7%E9%99%8D%E8%87%B3500%E5%85%83%E6%AF%8F%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "金价大跌 郑州金店被挤爆",
