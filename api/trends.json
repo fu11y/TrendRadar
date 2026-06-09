@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-06-09T17:02:21.154844+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-06-09T20:05:35.959069+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "香港开户行不通，又转向新加坡美国？实情调查",
+          "url": "https://www.cls.cn/detail/2394464",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 20时05分]"
+        },
+        {
+          "title": "麦格米特：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3116816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
         {
           "title": "2026中国（深圳）集成电路峰会将于6月26日召开",
           "url": "https://flash.jin10.com/detail/20260609093643400800",
@@ -19,16 +43,26 @@
           "time_info": "09时49分"
         },
         {
-          "title": "香港开户行不通，又转向新加坡美国？实情调查",
-          "url": "https://www.cls.cn/detail/2394464",
-          "source": "财联社热门",
+          "title": "广东：严控新车以二手车名义出口",
+          "url": "https://flash.jin10.com/detail/20260609194253495800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 17时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "广东：将二手车出口企业备案审核时间由15个工作日缩短为5个工作日",
+          "url": "https://wallstreetcn.com/livenews/3116812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "香港电影人黄百鸣被判入狱5个月",
@@ -38,8 +72,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 20时05分]"
         },
         {
           "title": "A股MLCC板块午后冲高，三环集团涨超16%，利和兴涨超15%，双星新材、博迁新材、东材科技等多股涨停，洁美科技、斯迪克、力源信息、深圳华强等个股跟涨。",
@@ -59,7 +93,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -75,13 +109,24 @@
           "time_info": "09时49分"
         },
         {
+          "title": "李家超：6月15日起将展开香港五年规划公众咨询",
+          "url": "https://wallstreetcn.com/livenews/3116795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "香港金管局总裁余伟文：跨境理财通3.0暂无落地时间表",
           "url": "https://flash.jin10.com/detail/20260609161458868800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -103,9 +148,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "李家超：6月15日起将展开香港五年规划公众咨询",
+          "url": "https://flash.jin10.com/detail/20260609192348704800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "香港金管局总裁余伟文：跨境理财通3.0暂无落地时间表 额度、产品等多维度拓展空间可期",
@@ -114,7 +170,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -125,7 +181,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -155,8 +211,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 20时05分]"
         },
         {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
@@ -219,8 +275,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 20时05分]"
         },
         {
           "title": "日立与谷歌云扩大战略联盟，旨在通过FDE与先进网络安全解决方案，加速物理人工智能（Physical AI）在现实世界中的部署。",
