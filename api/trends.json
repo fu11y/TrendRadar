@@ -1,273 +1,100 @@
 {
-  "generated_at": "2026-06-12T19:32:56.456237+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-06-13T10:02:12.465747+08:00",
+  "total_titles_processed": 283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 15,
+      "match_count": 4,
       "titles": [
         {
-          "title": "沐曦股份：筹划发行H股股票并在香港联合交易所有限公司上市。",
-          "url": "https://flash.jin10.com/detail/20260612190628081800",
-          "source": "金十数据",
+          "title": "刘德华助阵《给阿嬷的情书》香港首映",
+          "url": "https://www.toutiao.com/trending/7650473383943454763/",
+          "source": "今日头条",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "粤港澳大湾区数据特区“来数加工”启用",
-          "url": "https://wallstreetcn.com/livenews/3118854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "广州：拟支持香港赛马会从化马场、广州国际赛马发展中心建设，支持开展常规赛事计划",
-          "url": "https://wallstreetcn.com/livenews/3118516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "广东发行5年期普通专项地方债，规模38.1900亿元，发行利率1.5034%，边际倍数54.03倍，倍数预期1.96； 广东发行10年期一般债地方债，规模47.7400亿元，发行利率1.7924%，边际倍数2.66倍，倍数预期2.03。",
-          "url": "https://wallstreetcn.com/livenews/3118655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "广东女子欲离婚遭丈夫杀害案二审开庭：是否患精神病成辩论焦点，将择期宣判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33358561",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 15时09分]"
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "香港太古城两女子接连坠楼身亡",
-          "url": "https://www.toutiao.com/trending/7649937640267907115/",
-          "source": "今日头条",
+          "title": "广东一高考生称骑车路上遭雷击",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%AB%98%E8%80%83%E7%94%9F%E7%A7%B0%E9%AA%91%E8%BD%A6%E8%B7%AF%E4%B8%8A%E9%81%AD%E9%9B%B7%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "给阿嬷的情书香港首映礼",
+          "url": "https://www.douyin.com/hot/2532582",
+          "source": "抖音",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "一口罚1000?香港地铁禁喝水",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355049&amp;topic_name=%E4%B8%80%E5%8F%A3%E7%BD%9A1000%3F%E9%A6%99%E6%B8%AF%E5%9C%B0%E9%93%81%E7%A6%81%E5%96%9D%E6%B0%B4",
-          "source": "贴吧",
+          "title": "香港演员陈敏儿去世",
+          "url": "https://www.douyin.com/hot/2532181",
+          "source": "抖音",
           "ranks": [
-            23
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "沐曦股份：筹划发行H股股票并在香港联合交易所有限公司上市。",
-          "url": "https://wallstreetcn.com/livenews/3118847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "广东发行7年期其他专项地方债，规模182.3833亿元，发行利率1.6300%，边际倍数9.06倍，倍数预期1.58； 广东发行10年期其他专项地方债，规模143.3059亿元，发行利率1.7900%，边际倍数2.46倍，倍数预期1.75； 广东发行10年期其他专项地方债，规模170.7317亿元，发行利率1.7900%，边际倍数2.33倍，倍数预期1.74； 广东发行20年期其他专项地方债，规模82.1811亿元，发行利率2.3600%，边际倍数1.10倍，倍数预期2.31； 广东发行30年期其他专项地方债，规模128.9000亿元，发行利率2.4400%，边际倍数19.18倍，倍数预期2.39。",
-          "url": "https://wallstreetcn.com/livenews/3118651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "李家超：香港首份五年规划有望于第三季度末出炉",
-          "url": "https://wallstreetcn.com/livenews/3118500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "广东板块局部异动，珠江钢琴短线拉升涨超7%，珠江股份涨超3%；《广州市商务发展“十五五”规划（公开征求意见稿）》公开征求意见，拟支持香港赛马会从化马场、广州国际赛马发展中心建设，支持开展常规赛事计划。",
-          "url": "https://flash.jin10.com/detail/20260612095514493800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "广州：拟支持香港赛马会从化马场、广州国际赛马发展中心建设，支持开展常规赛事计划",
-          "url": "https://flash.jin10.com/detail/20260612095258287800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "陈伟霆连抛香港两套房套现近3000万",
-          "url": "https://www.toutiao.com/trending/7650118518754820123/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "陈伟霆连抛香港两套房套现近3000万",
-          "url": "https://www.baidu.com/s?wd=%E9%99%88%E4%BC%9F%E9%9C%86%E8%BF%9E%E6%8A%9B%E9%A6%99%E6%B8%AF%E4%B8%A4%E5%A5%97%E6%88%BF%E5%A5%97%E7%8E%B0%E8%BF%913000%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "第十二届中拉基础设施合作论坛在澳门举行",
-          "url": "https://wallstreetcn.com/livenews/3118624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
+          "time_info": "[10时01分 ~ 10时02分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
-          "url": "https://wallstreetcn.com/articles/3774400",
-          "source": "华尔街见闻",
+          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119103",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 15时09分]"
-        },
-        {
-          "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2048342346048213458",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "瞄准AI代理赛道 OpenAI收购云端平台强化Codex竞争力",
-          "url": "https://www.cls.cn/detail/2397742",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时09分"
+          "time_info": "10时02分"
+        },
+        {
+          "title": "美多州总检察长联合调查OpenAI",
+          "url": "https://flash.jin10.com/detail/20260613080751669800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "瑞银：仍对未来12个月金价持看涨观点，理由是未来降息预期、美元走弱以及各国央行持续购金。",
-          "url": "https://flash.jin10.com/detail/20260612185837613800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "瑞银：在收益率上升和美元走强的压力下，近期金价可能跌至3850至4000美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260612185814413800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
         {
           "title": "金价回落女子一口气买入90克金手镯",
           "url": "https://www.toutiao.com/trending/7649567619948822578/",
           "source": "今日头条",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "我们真的需要又一个 DeepSeek V5 吗？",
-          "url": "https://www.zhihu.com/question/2031303606524186735",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时09分 ~ 19时32分]"
+          "time_info": "[10时01分 ~ 10时02分]"
         }
       ]
     }
