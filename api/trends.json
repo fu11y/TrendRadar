@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-16T10:29:48.651832+08:00",
-  "total_titles_processed": 279,
+  "generated_at": "2026-06-16T16:37:38.119770+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "深圳停课",
+          "url": "https://www.douyin.com/hot/2536392",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
         {
           "title": "财政部今天在香港发行150亿元人民币国债",
           "url": "https://wallstreetcn.com/livenews/3119975",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "深圳分区暴雨红色预警 全市停课",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%88%86%E5%8C%BA%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6+%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "香港恒生指数日内跌幅扩大至1%。中国宏桥、中国铝业跌超4%。",
@@ -41,6 +63,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "香港恒生指数6月16日（周二）收盘下跌348.72点，跌幅1.4%，报24493.95点；<br/>香港恒生科技指数6月16日（周二）收盘下跌106.93点，跌幅2.24%，报4658.65点；<br/>国企指数6月16日（周二）收盘下跌135.69点，跌幅1.62%，报8240.05点；<br/>红筹指数6月16日（周二）收盘下跌70.78点，跌幅1.64%，报4250.15点。",
+          "url": "https://flash.jin10.com/detail/20260616161149520800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "广东汕尾暴雨有民房被淹水深近3米",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%B0%BE%E6%9A%B4%E9%9B%A8%E6%9C%89%E6%B0%91%E6%88%BF%E8%A2%AB%E6%B7%B9%E6%B0%B4%E6%B7%B1%E8%BF%913%E7%B1%B3",
           "source": "百度热搜",
@@ -50,6 +83,74 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek完成超500亿元融资",
+          "url": "https://www.toutiao.com/trending/7651870742430092836/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：谷歌已收到印度政府的命令，要求将Telegram应用从其Play商店下架，原因是对医疗考试欺诈的担忧。",
+          "url": "https://flash.jin10.com/detail/20260616162104927800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：OpenAI去年支出超340亿美元，净亏损激增八倍",
+          "url": "https://wallstreetcn.com/livenews/3120179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年06月16日（周二）上海金午盘价为940.34元/克，较国际金价(942.58元/克)，低2.24元/克",
+          "url": "https://flash.jin10.com/detail/20260616161344439800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     }
