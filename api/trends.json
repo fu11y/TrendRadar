@@ -1,78 +1,55 @@
 {
-  "generated_at": "2026-06-15T22:53:16.230083+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2026-06-16T10:29:48.651832+08:00",
+  "total_titles_processed": 279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "香港恒生指数6月15日（周一）收盘上涨124.57点，涨幅0.5%，报24842.67点；<br/>香港恒生科技指数6月15日（周一）收盘上涨60.38点，涨幅1.28%，报4765.58点；<br/>国企指数6月15日（周一）收盘上涨1.31点，涨幅0.02%，报8375.74点；<br/>红筹指数6月15日（周一）收盘上涨5.12点，涨幅0.12%，报4320.93点。",
-          "url": "https://flash.jin10.com/detail/20260615161138052800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "香港5月访港旅客人数达446万人次，同比增长9%。 香港1月至5月访港旅客2300万人次，同比增长14%。",
-          "url": "https://wallstreetcn.com/livenews/3119542",
+          "title": "财政部今天在香港发行150亿元人民币国债",
+          "url": "https://wallstreetcn.com/livenews/3119975",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "10时29分"
         },
         {
-          "title": "广东惠来暴雨多人凌晨在国道抓鱼",
-          "url": "https://www.toutiao.com/trending/7650648001567997998/",
+          "title": "香港恒生指数日内跌幅扩大至1%。中国宏桥、中国铝业跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3119972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "澳门水舞间缩骨功表演太绝了",
+          "url": "https://www.toutiao.com/trending/7651455325854236722/",
           "source": "今日头条",
           "ranks": [
-            28
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
+          "time_info": "10时29分"
+        },
         {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
+          "title": "广东汕尾暴雨有民房被淹水深近3米",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%B0%BE%E6%9A%B4%E9%9B%A8%E6%9C%89%E6%B0%91%E6%88%BF%E8%A2%AB%E6%B7%B9%E6%B0%B4%E6%B7%B1%E8%BF%913%E7%B1%B3",
+          "source": "百度热搜",
           "ranks": [
-            3
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "机构：美伊达成协议利好金价涨超2%",
-          "url": "https://flash.jin10.com/detail/20260615160833173800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "10时29分"
         }
       ]
     }
