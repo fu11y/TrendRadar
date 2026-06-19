@@ -1,175 +1,78 @@
 {
-  "generated_at": "2026-06-18T19:42:13.301913+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-06-19T10:39:47.636435+08:00",
+  "total_titles_processed": 279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
-          "title": "香港天文台发布红色暴雨警告。",
-          "url": "https://wallstreetcn.com/livenews/3121493",
-          "source": "华尔街见闻-快讯",
+          "title": "广东近300艘龙舟集结场面震撼",
+          "url": "https://www.toutiao.com/trending/7651795508151156790/",
+          "source": "今日头条",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "10时39分"
         },
         {
-          "title": "香港机场突发劫案 700万港元金条被抢",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%9C%BA%E5%9C%BA%E7%AA%81%E5%8F%91%E5%8A%AB%E6%A1%88+700%E4%B8%87%E6%B8%AF%E5%85%83%E9%87%91%E6%9D%A1%E8%A2%AB%E6%8A%A2",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
-        },
-        {
-          "title": "世界女排联赛澳门总决赛将拉开战幕",
-          "url": "https://www.toutiao.com/trending/7652651422030856246/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
-        },
-        {
-          "title": "“深圳暴雨致街道被淹”不实",
-          "url": "https://www.toutiao.com/trending/7651523037293461545/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "广东一小区蟑螂集体出没 多到用桶装",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%B0%8F%E5%8C%BA%E8%9F%91%E8%9E%82%E9%9B%86%E4%BD%93%E5%87%BA%E6%B2%A1+%E5%A4%9A%E5%88%B0%E7%94%A8%E6%A1%B6%E8%A3%85",
+          "title": "2026香港小姐12强出炉 硕士生超半数",
+          "url": "https://www.baidu.com/s?wd=2026%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%9012%E5%BC%BA%E5%87%BA%E7%82%89+%E7%A1%95%E5%A3%AB%E7%94%9F%E8%B6%85%E5%8D%8A%E6%95%B0",
           "source": "百度热搜",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "10时39分"
         },
         {
-          "title": "曹操出行启动香港网约车和Robotaxi业务",
-          "url": "https://wallstreetcn.com/livenews/3121462",
-          "source": "华尔街见闻-快讯",
+          "title": "《给阿嬷的情书》香港上映掀情感浪潮",
+          "url": "https://www.toutiao.com/trending/7652645485791756329/",
+          "source": "今日头条",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "10时39分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
-          "url": "https://www.zhihu.com/question/2050272536898835791",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 19时42分]"
-        },
-        {
-          "title": "DeepSeek获510亿融资 投资方公布",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%8E%B7510%E4%BA%BF%E8%9E%8D%E8%B5%84+%E6%8A%95%E8%B5%84%E6%96%B9%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
           "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
-          "url": "https://wallstreetcn.com/livenews/3121655",
-          "source": "华尔街见闻-快讯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
+          "source": "澎湃新闻",
           "ranks": [
-            22
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "10时39分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "Faker拍谷歌广告血赚7个亿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 19时42分]"
-        },
-        {
-          "title": "谷歌：我们认为欧盟的《云与人工智能发展法案》的某些条款应进行修改，以避免造成非预期的市场隔离。",
-          "url": "https://flash.jin10.com/detail/20260618150632520800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "谷歌：将与欧盟机构合作，提供最佳知识，以在实际层面实现这些既定目标。",
-          "url": "https://flash.jin10.com/detail/20260618150611855800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年06月18日（周四）上海金午盘价为935.58元/克，较国际金价(935.25元/克)，高0.33元/克",
-          "url": "https://flash.jin10.com/detail/20260618150629020800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "10时39分"
         }
       ]
     }
