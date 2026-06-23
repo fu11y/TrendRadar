@@ -1,8 +1,113 @@
 {
-  "generated_at": "2026-06-23T16:57:00.705302+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-06-23T19:51:16.982755+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "广东 U16 代表队遭湖南张家界足球队殴打致多人受伤，警方已介入，具体情况如何？打人者应承担哪些责任？",
+          "url": "https://www.zhihu.com/question/2052336625666020748",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "“年内十倍基”横空出世，是谁打造？1300亿规模同步登顶香港最大ETP",
+          "url": "https://www.cls.cn/detail/2405834",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "香港恒生指数开盘涨0.13%，恒生科技指数涨0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3123099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "香港对冲基金OVATA将关闭，其团队加入ExodusPoint 。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3123419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "蜜雪冰城被香港租金干趴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355310&amp;topic_name=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E9%A6%99%E6%B8%AF%E7%A7%9F%E9%87%91%E5%B9%B2%E8%B6%B4",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "香港恒生指数6月23日（周二）开盘上涨31.5点，涨幅0.13%，报23800.02点；<br/>香港恒生科技指数6月23日（周二）开盘上涨2.04点，涨幅0.04%，报4551.45点；<br/>国企指数6月23日（周二）开盘上涨0.57点，涨幅0.01%，报7915.31点；<br/>红筹指数6月23日（周二）开盘下跌0.72点，跌幅0.02%，报3958.84点。",
+          "url": "https://flash.jin10.com/detail/20260623092055870800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "兴森科技：拟定增募资不超过39亿元，用于珠海兴森半导体有限公司高阶mSAP基板智能制造及产业化项目（一期）、珠海兴科半导体有限公司集成电路封装基板项目（三期）、补充流动资金及偿还银行贷款。",
+          "url": "https://wallstreetcn.com/livenews/3123397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "立讯精密：香港联交所上市委员会已审阅公司上市申请",
+          "url": "https://wallstreetcn.com/livenews/3123395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "深圳：要突出系统布局、灵活供给建设好算力网 加强算力产能供给",
+          "url": "https://wallstreetcn.com/livenews/3123283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        }
+      ]
+    },
     {
       "keyword_group": "金价",
       "match_count": 6,
@@ -47,7 +152,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -72,78 +177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "广东 U16 代表队遭湖南张家界足球队殴打致多人受伤，警方已介入，具体情况如何？打人者应承担哪些责任？",
-          "url": "https://www.zhihu.com/question/2052336625666020748",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "“年内十倍基”横空出世，是谁打造？1300亿规模同步登顶香港最大ETP",
-          "url": "https://www.cls.cn/detail/2405834",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "香港恒生指数开盘涨0.13%，恒生科技指数涨0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3123099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "蜜雪冰城被香港租金干趴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355310&amp;topic_name=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E9%A6%99%E6%B8%AF%E7%A7%9F%E9%87%91%E5%B9%B2%E8%B6%B4",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "香港恒生指数6月23日（周二）开盘上涨31.5点，涨幅0.13%，报23800.02点；<br/>香港恒生科技指数6月23日（周二）开盘上涨2.04点，涨幅0.04%，报4551.45点；<br/>国企指数6月23日（周二）开盘上涨0.57点，涨幅0.01%，报7915.31点；<br/>红筹指数6月23日（周二）开盘下跌0.72点，跌幅0.02%，报3958.84点。",
-          "url": "https://flash.jin10.com/detail/20260623092055870800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "深圳：要突出系统布局、灵活供给建设好算力网 加强算力产能供给",
-          "url": "https://wallstreetcn.com/livenews/3123283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
         }
       ]
     },
@@ -185,11 +218,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 16时57分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 19时51分]"
         }
       ]
     }
