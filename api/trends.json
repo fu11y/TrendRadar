@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-24T13:57:01.429465+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-06-24T16:49:38.458162+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "【A股今年打新有多赚钱？安永：首日平均回报率233%，为近五年最高】安永发布的《中国内地和香港IPO市场报告》显示，2026年上半年，A股经历了一轮显著的估值修复，宏观环境改善、投资者信心提升，市盈率较去年有所上升。A股IPO市场未出现破发，平均首日回报率为233%，位居近五年榜首。（中新经纬）",
+          "url": "https://wallstreetcn.com/livenews/3123915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
         {
           "title": "香港恒生指数开盘涨0.36%，恒生科技指数涨0.48%。",
           "url": "https://wallstreetcn.com/livenews/3123722",
@@ -24,22 +35,24 @@
           "source": "贴吧",
           "ranks": [
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 16时49分]"
         },
         {
           "title": "广东高考分数线公布",
           "url": "https://www.toutiao.com/trending/7654185909750923300/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 16时49分]"
         },
         {
           "title": "“香港第二台湾第四”说明了什么",
@@ -86,6 +99,39 @@
           "time_info": "[13时56分 ~ 13时57分]"
         },
         {
+          "title": "广东江门一考生高考694分目标清华",
+          "url": "https://www.toutiao.com/trending/7654842740186972179/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "孩子王：向香港联交所更新递交H股发行上市申请",
+          "url": "https://flash.jin10.com/detail/20260624161320772800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "香港恒生指数6月24日（周三）收盘上涨75.9点，涨幅0.33%，报23412.18点；<br/>香港恒生科技指数6月24日（周三）收盘上涨79.8点，涨幅1.81%，报4479.02点；<br/>国企指数6月24日（周三）收盘上涨5.61点，涨幅0.07%，报7764.97点；<br/>红筹指数6月24日（周三）收盘下跌30.52点，跌幅0.78%，报3858.16点。",
+          "url": "https://flash.jin10.com/detail/20260624161126137800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "第十三届APEC旅游部长会议今起在澳门举行",
           "url": "https://flash.jin10.com/detail/20260624093640157800",
           "source": "金十数据",
@@ -106,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "广东高考放榜 大学助学金怎么申请",
+          "url": "https://www.toutiao.com/trending/7654402558677893139/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     },
@@ -120,7 +177,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
