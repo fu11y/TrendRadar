@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-06-26T10:00:34.951057+08:00",
-  "total_titles_processed": 285,
+  "generated_at": "2026-06-26T14:08:56.546256+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "香港资深演员苗金凤离世",
+          "url": "https://www.douyin.com/hot/2547833",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 14时08分]"
+        },
+        {
+          "title": "两男女要求转账500亿在香港银行被抓",
+          "url": "https://www.toutiao.com/trending/7654941125547933723/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 14时08分]"
+        },
         {
           "title": "深圳土地市场再现“百亿地王” 未来售价有望达15万-20万/平",
           "url": "https://www.cls.cn/detail/2409493",
@@ -31,27 +56,15 @@
           "time_info": "[09时59分 ~ 10时00分]"
         },
         {
-          "title": "香港资深演员苗金凤离世",
-          "url": "https://www.douyin.com/hot/2547833",
-          "source": "抖音",
+          "title": "香港天文台发布红色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3125051",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            10
+            16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
-        },
-        {
-          "title": "两男女要求转账500亿在香港银行被抓",
-          "url": "https://www.toutiao.com/trending/7654941125547933723/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "香港恒生指数6月26日（周五）开盘下跌124.82点，跌幅0.54%，报22952.09点；<br/>香港恒生科技指数6月26日（周五）开盘下跌34.38点，跌幅0.78%，报4371.54点；<br/>国企指数6月26日（周五）开盘下跌33.2点，跌幅0.44%，报7575.18点；<br/>红筹指数6月26日（周五）开盘下跌2.96点，跌幅0.08%，报3794.07点。",
@@ -60,54 +73,90 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
+        },
+        {
+          "title": "香港演员苗金凤离世",
+          "url": "https://www.toutiao.com/trending/7655297126033489947/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3125037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价跌回3字头半年回撤30%",
           "url": "https://www.toutiao.com/trending/7655352007544278564/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 14时08分]"
         },
         {
           "title": "金价跌回3字头 半年回撤30%",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 14时08分]"
         },
         {
           "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
           "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 14时08分]"
+        },
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2547979",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
@@ -117,8 +166,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 14时08分]"
         },
         {
           "title": "DeepSeek大规模招聘：至少扩大一倍",
@@ -130,6 +179,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时59分 ~ 10时00分]"
+        },
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         }
       ]
     },
@@ -142,11 +202,12 @@
           "url": "https://www.zhihu.com/question/2052444159282082405",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 14时08分]"
         }
       ]
     }
