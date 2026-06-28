@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T14:50:49.766020+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-06-28T17:51:00.841090+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 14时50分]"
+        },
+        {
+          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
+          "url": "https://www.cls.cn/detail/2411046",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时50分 ~ 17时51分]"
         },
         {
           "title": "DeepSeek开源DSpark框架",
@@ -75,9 +86,49 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "14岁小球员遭张家界足球队殴打，广东足协、湖南足协：多人被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33466457",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "深圳华强北，杀出3000亿面板巨头",
+          "url": "https://news.ifeng.com/c/8uKBIGmJ0FL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时50分 ~ 17时51分]"
+        },
+        {
+          "title": "亚太经合组织第十三届旅游部长会议在澳门举行",
+          "url": "https://wallstreetcn.com/livenews/3125604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 14时50分]"
         }
       ]
     },
@@ -92,7 +143,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -103,38 +154,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "14岁小球员遭张家界足球队殴打，广东足协、湖南足协：多人被处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33466457",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "亚太经合组织第十三届旅游部长会议在澳门举行",
-          "url": "https://wallstreetcn.com/livenews/3125604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 14时50分]"
         }
       ]
     }
