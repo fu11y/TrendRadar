@@ -1,29 +1,63 @@
 {
-  "generated_at": "2026-06-29T10:04:25.333335+08:00",
-  "total_titles_processed": 281,
+  "generated_at": "2026-06-29T15:19:06.455613+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
-          "title": "深圳一无人驾驶汽车压实线加塞变道",
-          "url": "https://www.toutiao.com/trending/7656441616464445490/",
-          "source": "今日头条",
+          "title": "香港贸发局：上调2026年香港出口增长预测 预计至少增长20%",
+          "url": "https://flash.jin10.com/detail/20260629150642972800",
+          "source": "金十数据",
           "ranks": [
-            13
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "15时19分"
         },
         {
           "title": "任素汐深圳首场演唱会",
           "url": "https://www.douyin.com/hot/2551064",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 15时19分]"
+        },
+        {
+          "title": "为什么香港的冲厕水是咸的？",
+          "url": "https://www.zhihu.com/question/2051413400576693156",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时19分]"
+        },
+        {
+          "title": "小S在香港被偶遇",
+          "url": "https://www.toutiao.com/trending/7656092063277039654/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时19分]"
+        },
+        {
+          "title": "深圳一无人驾驶汽车压实线加塞变道",
+          "url": "https://www.toutiao.com/trending/7656441616464445490/",
+          "source": "今日头条",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -57,11 +91,29 @@
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 15时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年06月29日（周一）上海金午盘价为886.87元/克，较国际金价(887.17元/克)，低0.3元/克",
+          "url": "https://flash.jin10.com/detail/20260629150424049800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "15时19分"
         }
       ]
     }
