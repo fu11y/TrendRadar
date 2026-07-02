@@ -1,22 +1,68 @@
 {
-  "generated_at": "2026-07-02T13:51:36.881524+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-07-02T16:38:08.877972+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "南宁舰衡阳舰首次抵达香港",
           "url": "https://www.douyin.com/hot/2554965",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 16时38分]"
+        },
+        {
+          "title": "据港交所文件披露，礼鼎半导体科技（深圳）股份有限公司向港交所提交上市申请书，中信证券为独家保荐人。",
+          "url": "https://wallstreetcn.com/livenews/3127916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "16时38分"
+        },
+        {
+          "title": "广东陆丰13名村民阻拦开采山体涉寻衅滋事：4人被判刑，9人获得国赔",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33492010",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 16时38分]"
+        },
+        {
+          "title": "香港演员梁珊离世",
+          "url": "https://www.toutiao.com/trending/7657212808497545252/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "深圳画了个千亿圈",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E7%94%BB%E4%BA%86%E4%B8%AA%E5%8D%83%E4%BA%BF%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
         },
         {
           "title": "重温香港回归的珍贵画面",
@@ -30,6 +76,17 @@
           "time_info": "09时58分"
         },
         {
+          "title": "香港恒生指数7月2日（周四）收盘上涨174.01点，涨幅0.76%，报23055.03点；<br/>香港恒生科技指数7月2日（周四）收盘下跌17.95点，跌幅0.4%，报4454.28点；<br/>国企指数7月2日（周四）收盘上涨54.18点，涨幅0.72%，报7612.48点；<br/>红筹指数7月2日（周四）收盘上涨66.18点，涨幅1.8%，报3735.6点。",
+          "url": "https://flash.jin10.com/detail/20260702161429242800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "广东的父母真的都不希望孩子出省读书吗？",
           "url": "https://www.zhihu.com/question/657600114",
           "source": "知乎",
@@ -41,17 +98,6 @@
           "time_info": "09时58分"
         },
         {
-          "title": "广东陆丰13名村民阻拦开采山体涉寻衅滋事：4人被判刑，9人获得国赔",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33492010",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
           "title": "香港回归29周年 无人机表演点亮维港",
           "url": "https://www.toutiao.com/trending/7656592348398321690/",
           "source": "今日头条",
@@ -61,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "抖音旗下深圳星罗拾光科技增资至283.8亿",
+          "url": "https://wallstreetcn.com/livenews/3127899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "香港艺人七一共唱《我爱我香港》",
@@ -80,7 +137,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -91,7 +148,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -109,37 +166,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
-          "url": "https://wallstreetcn.com/articles/3775976",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 13时51分]"
-        },
-        {
-          "title": "报道：OpenAI提议让美国政府持有公司5%股份",
-          "url": "https://wallstreetcn.com/livenews/3127802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
@@ -152,6 +180,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 13时51分]"
+        },
+        {
+          "title": "谷歌在欧盟就41亿欧元安卓反垄断罚款案中败诉。",
+          "url": "https://wallstreetcn.com/livenews/3127902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
+          "url": "https://wallstreetcn.com/articles/3775976",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 16时38分]"
+        },
+        {
+          "title": "报道：OpenAI提议让美国政府持有公司5%股份",
+          "url": "https://wallstreetcn.com/livenews/3127802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         }
       ]
     },
@@ -166,7 +234,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         }
