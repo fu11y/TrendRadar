@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T13:40:00.284957+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-07-03T16:43:21.164234+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "广东陆丰13名村民阻拦开采山体涉寻衅滋事：4人被判刑，9人获得国赔",
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "香港恒生指数7月3日（周五）收盘上涨295.0点，涨幅1.28%，报23350.03点；<br/>香港恒生科技指数7月3日（周五）收盘上涨44.72点，涨幅1.0%，报4499.0点；<br/>国企指数7月3日（周五）收盘上涨87.28点，涨幅1.15%，报7699.76点；<br/>红筹指数7月3日（周五）收盘上涨71.82点，涨幅1.92%，报3807.42点。",
+          "url": "https://flash.jin10.com/detail/20260703161145844800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         }
       ]
     },
