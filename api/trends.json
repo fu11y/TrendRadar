@@ -1,33 +1,44 @@
 {
-  "generated_at": "2026-07-04T18:47:53.757469+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-07-05T09:43:29.117962+08:00",
+  "total_titles_processed": 283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "香港天文台发布黄色暴雨警告。",
-          "url": "https://wallstreetcn.com/livenews/3128901",
-          "source": "华尔街见闻-快讯",
+          "title": "广东一国企北上淄博建“烧烤园区”遇阻：拿了土地证，地上20间房屋遭法拍易主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518253",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "09时43分"
         },
         {
-          "title": "粤港澳大湾区首个“华龙一号”项目太平岭核电2号机组首次并网发电",
-          "url": "https://wallstreetcn.com/livenews/3128870",
-          "source": "华尔街见闻-快讯",
+          "title": "香港演员钟景辉葬礼在港举行",
+          "url": "https://www.douyin.com/hot/2558631",
+          "source": "抖音",
           "ranks": [
-            23
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "09时43分"
+        },
+        {
+          "title": "香港青少年登上军舰说祖国好伟大",
+          "url": "https://www.toutiao.com/trending/7657750565431787556/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         }
       ]
     },
@@ -36,33 +47,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
+          "title": "为什么现在 DeepSeek 快速模式豆包化？",
+          "url": "https://www.zhihu.com/question/2050992107284964141",
+          "source": "知乎",
           "ranks": [
-            7,
-            6
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 18时47分]"
+          "appearance_count": 1,
+          "time_info": "09时43分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "宇树高管谈具身智能ChatGPT时刻",
-          "url": "https://flash.jin10.com/detail/20260704110855518800",
-          "source": "金十数据",
+          "title": "金价结束四周连跌",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%BB%93%E6%9D%9F%E5%9B%9B%E5%91%A8%E8%BF%9E%E8%B7%8C",
+          "source": "百度热搜",
           "ranks": [
-            14
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "09时43分"
         }
       ]
     }
