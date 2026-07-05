@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-07-05T09:43:29.117962+08:00",
-  "total_titles_processed": 283,
+  "generated_at": "2026-07-05T13:51:30.199654+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "广东一国企北上淄博建“烧烤园区”遇阻：拿了土地证，地上20间房屋遭法拍易主",
           "url": "https://m.thepaper.cn/newsDetail_forward_33518253",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 13时51分]"
         },
         {
           "title": "香港演员钟景辉葬礼在港举行",
           "url": "https://www.douyin.com/hot/2558631",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 13时51分]"
+        },
+        {
+          "title": "“AI+”OPC供需生态对接会在珠海举行",
+          "url": "https://flash.jin10.com/detail/20260705103842899800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时43分"
+          "time_info": "13时51分"
         },
         {
           "title": "香港青少年登上军舰说祖国好伟大",
