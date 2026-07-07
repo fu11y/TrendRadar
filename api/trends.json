@@ -1,79 +1,99 @@
 {
-  "generated_at": "2026-07-06T19:20:13.913458+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-07-07T09:46:26.838212+08:00",
+  "total_titles_processed": 281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
-          "title": "A股存储芯片板块集体高开，江波龙涨超10%，中电港、华大九天、深圳华强、佰维存储、朗科科技等纷纷高开，消息上，江波龙预计上半年净利润92亿元-110亿元，同比增长62204%-74394%。",
-          "url": "https://wallstreetcn.com/livenews/3129078",
+          "title": "潘功胜：香港可以抓住有利时机，吸引更多的主权财富和国际企业到香港发债融资",
+          "url": "https://wallstreetcn.com/livenews/3129667",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "09时46分"
         },
         {
-          "title": "成都AG超玩会战胜深圳DYG KPL",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%90%E9%83%BDAG%E8%B6%85%E7%8E%A9%E4%BC%9A%20%E6%B7%B1%E5%9C%B3DYG",
-          "source": "bilibili 热搜",
+          "title": "香港黑帮头目垄断工地盒饭年入1200万",
+          "url": "https://www.toutiao.com/trending/7659370624041713690/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "互联网巨头开始“买房收租”？京东7.5亿港元买下香港酒店将改学生宿舍",
+          "url": "https://www.cls.cn/detail/2418465",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "香港黑帮头目垄断工地盒饭年入1200万",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%BB%91%E5%B8%AE%E5%A4%B4%E7%9B%AE%E5%9E%84%E6%96%AD%E5%B7%A5%E5%9C%B0%E7%9B%92%E9%A5%AD%E5%B9%B4%E5%85%A51200%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "潘功胜：香港可以抓住有利时机，吸引更多的主权财富和国际企业到香港发债融资",
+          "url": "https://flash.jin10.com/detail/20260707093647308800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "李家超：香港交易所与中国央行将签署跨境人民币支付清算谅解备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3129646",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "09时46分"
         },
         {
-          "title": "京东出手香港房产：7.5亿港元收购油麻地学生宿舍物业",
-          "url": "https://wallstreetcn.com/livenews/3129152",
+          "title": "广东陆丰村民阻拦开采山体涉寻衅滋事案续：9人已收到国赔",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33526287",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "香港特首李家超：香港黄金中央清算系统今日开始试运行，考虑开发新的人民币黄金期货合约，考虑为机构投资者提供黄金交易税收优惠。",
+          "url": "https://wallstreetcn.com/livenews/3129643",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 14时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "无惧短期回调？汇丰：金价年底前将进一步上涨，有“三大支撑”！",
-          "url": "https://www.cls.cn/detail/2417366",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
+          "time_info": "09时46分"
         }
       ]
     }
