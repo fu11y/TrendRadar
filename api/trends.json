@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T09:20:09.279697+08:00",
-  "total_titles_processed": 282,
+  "generated_at": "2026-07-12T13:12:39.095996+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 13时12分]"
         },
         {
           "title": "赵露思澳门演唱会再唱星河叹",
           "url": "https://www.douyin.com/hot/2567668",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 13时12分]"
         }
       ]
     },
@@ -45,6 +46,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时19分 ~ 09时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     }
