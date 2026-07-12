@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-07-12T17:41:32.921263+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-07-12T19:05:53.592950+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "广东普宁村民杀害村支书案二审宣判：维持死刑判决",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565241",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 13时12分]"
+        },
+        {
+          "title": "赵露思澳门演唱会再唱星河叹",
+          "url": "https://www.douyin.com/hot/2567668",
+          "source": "抖音",
+          "ranks": [
+            11,
+            20,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 19时05分]"
+        },
+        {
+          "title": "香港展开亚太经合组织财政部长会议宣传工作",
+          "url": "https://flash.jin10.com/detail/20260712180046903800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
@@ -40,11 +82,12 @@
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 19时05分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
@@ -56,37 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "广东普宁村民杀害村支书案二审宣判：维持死刑判决",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565241",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 13时12分]"
-        },
-        {
-          "title": "赵露思澳门演唱会再唱星河叹",
-          "url": "https://www.douyin.com/hot/2567668",
-          "source": "抖音",
-          "ranks": [
-            11,
-            20,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 17时41分]"
         }
       ]
     }
