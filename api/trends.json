@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-07-14T09:10:56.514818+08:00",
-  "total_titles_processed": 279,
+  "generated_at": "2026-07-14T12:37:45.539727+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "纪念施南生｜香港电影真正的大女主，定义了制片人最体面最专业的模样",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33579426",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "香港资深电影制作人施南生离世，享年75岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33578881",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 12时37分]"
+        },
         {
           "title": "香港资深电影人、徐克前妻施南生去世，享年 75 岁，如何评价她对华语电影的贡献？",
           "url": "https://www.zhihu.com/question/2060144428191371946",
@@ -19,15 +42,26 @@
           "time_info": "09时10分"
         },
         {
-          "title": "香港资深电影制作人施南生离世，享年75岁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33578881",
-          "source": "澎湃新闻",
+          "title": "施南生：香港电影真正的大女主",
+          "url": "https://www.toutiao.com/trending/7662190601920135178/",
+          "source": "今日头条",
           "ranks": [
-            12
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时10分"
+          "time_info": "12时37分"
+        },
+        {
+          "title": "香港资深电影人施南生去世，享年 75 岁，作为港片黄金时代的重要推手，该如何评价她对华语电影的贡献？",
+          "url": "https://www.zhihu.com/question/2060144428191371946",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "WST战胜深圳DYG KPL",
@@ -43,8 +77,36 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
+          "url": "https://flash.jin10.com/detail/20260714122538668800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
@@ -54,8 +116,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 12时37分]"
+        },
+        {
+          "title": "金价反弹全抹，CPI+沃什会不会再补一刀？",
+          "url": "https://flash.jin10.com/detail/20260714121200284800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时10分"
+          "time_info": "12时37分"
         }
       ]
     }
