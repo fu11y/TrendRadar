@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T09:16:56.205149+08:00",
-  "total_titles_processed": 282,
+  "generated_at": "2026-07-16T12:47:42.267776+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "地铁站广告被吐槽 “太密集”“辣眼睛”，深圳地铁回应：马上改",
@@ -19,11 +19,94 @@
           "time_info": "09时16分"
         },
         {
+          "title": "据报道，先正达据悉面临推迟50亿美元香港IPO，先正达在2027年上市的可能性更大。",
+          "url": "https://wallstreetcn.com/livenews/3134795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "香港恒生指数日内涨幅扩大至2%。泡泡玛特、小米涨超6%，美团涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3134783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "广东发行10年期一般债地方债，规模86.3000亿元，发行利率1.7900%，边际倍数4.22倍，倍数预期1.78； 广东发行20年期普通专项地方债，规模152.4000亿元，发行利率2.3300%，边际倍数9.86倍，倍数预期2.33。",
+          "url": "https://wallstreetcn.com/livenews/3134782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "周星驰张艺兴现身深圳",
+          "url": "https://www.toutiao.com/trending/7661916319638421510/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "飞了40多年 深圳这座机场要搬了",
           "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E4%BA%8640%E5%A4%9A%E5%B9%B4+%E6%B7%B1%E5%9C%B3%E8%BF%99%E5%BA%A7%E6%9C%BA%E5%9C%BA%E8%A6%81%E6%90%AC%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
+          "url": "https://wallstreetcn.com/livenews/3134804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
+          "url": "https://www.cls.cn/detail/2427717",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -40,28 +123,29 @@
           "url": "https://www.zhihu.com/question/2060769193977280048",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时47分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
-          "url": "https://www.cls.cn/detail/2427717",
-          "source": "财联社热门",
+          "title": "OpenAI Codex工程师Tibo：今天早些时候，我们的活跃用户数就已经突破了900万。",
+          "url": "https://flash.jin10.com/detail/20260716121739470800",
+          "source": "金十数据",
           "ranks": [
-            12
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "12时47分"
         }
       ]
     }
