@@ -1,235 +1,78 @@
 {
-  "generated_at": "2026-07-16T19:24:55.919772+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-07-17T09:20:39.155628+08:00",
+  "total_titles_processed": 279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 12,
+      "match_count": 3,
       "titles": [
         {
-          "title": "武汉eStarPro vs 深圳DYG KPL",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A6%E6%B1%89eStarPro%20%E6%B7%B1%E5%9C%B3DYG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时24分]"
-        },
-        {
-          "title": "江西铜业：拟分拆子公司江铜铜箔至香港联交所主板上市",
-          "url": "https://wallstreetcn.com/livenews/3134987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 19时24分]"
-        },
-        {
-          "title": "地铁站广告被吐槽 “太密集”“辣眼睛”，深圳地铁回应：马上改",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33588479",
-          "source": "澎湃新闻",
+          "title": "广东女子用「臭屁醋」煲汤，邻居误以为尸臭直接报警，「臭屁醋」是什么？它的气味「杀伤力」有多大？",
+          "url": "https://www.zhihu.com/question/2060807383539097822",
+          "source": "知乎",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "09时20分"
         },
         {
-          "title": "兴业银锡：兴业黄金（香港）以每股0.053澳元的价格分两批认购TAT在澳大利亚证券交易所定向增发的普通股，认购股份总数占认购完成日其已发行股份的20%，合计交易金额约518.27万澳元。",
-          "url": "https://wallstreetcn.com/livenews/3135031",
-          "source": "华尔街见闻-快讯",
+          "title": "百度申请香港、纳斯达克双重主要上市，有望赶上9月港股通调整窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598176",
+          "source": "澎湃新闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "据报道，先正达据悉面临推迟50亿美元香港IPO，先正达在2027年上市的可能性更大。",
-          "url": "https://wallstreetcn.com/livenews/3134795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "09时20分"
         },
         {
-          "title": "广东发行15年期普通专项地方债，规模42.3000亿元，发行利率2.1400%，边际倍数2.27倍，倍数预期2.14。",
-          "url": "https://wallstreetcn.com/livenews/3134972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "香港恒生指数日内涨幅扩大至2%。泡泡玛特、小米涨超6%，美团涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3134783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "广东发行10年期一般债地方债，规模86.3000亿元，发行利率1.7900%，边际倍数4.22倍，倍数预期1.78； 广东发行20年期普通专项地方债，规模152.4000亿元，发行利率2.3300%，边际倍数9.86倍，倍数预期2.33。",
-          "url": "https://wallstreetcn.com/livenews/3134782",
-          "source": "华尔街见闻-快讯",
+          "title": "武汉eStarPro战胜深圳DYG",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A6%E6%B1%89eStarPro%20%E6%B7%B1%E5%9C%B3DYG",
+          "source": "bilibili 热搜",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "周星驰张艺兴现身深圳",
-          "url": "https://www.toutiao.com/trending/7661916319638421510/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "香港交易所发言人表示，香港交易所营运主管徐亮上个月离职。",
-          "url": "https://wallstreetcn.com/livenews/3134861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "百度申请香港、纳斯达克双重主要上市，或赶上9月港股通窗口",
-          "url": "https://wallstreetcn.com/livenews/3134961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "飞了40多年 深圳这座机场要搬了",
-          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E4%BA%8640%E5%A4%9A%E5%B9%B4+%E6%B7%B1%E5%9C%B3%E8%BF%99%E5%BA%A7%E6%9C%BA%E5%9C%BA%E8%A6%81%E6%90%AC%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 19时24分]"
-        },
-        {
-          "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
-          "url": "https://wallstreetcn.com/livenews/3134804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
-          "url": "https://www.cls.cn/detail/2427717",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 15时12分]"
+          "time_info": "09时20分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
-          "url": "https://www.zhihu.com/question/2060769193977280048",
-          "source": "知乎",
+          "title": "梁文锋重仓打新，万亿长鑫被抢疯了",
+          "url": "https://wallstreetcn.com/articles/3777116",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 15时12分]"
-        },
-        {
-          "title": "梁文锋打新长鑫科技",
-          "url": "https://www.toutiao.com/trending/7663049647610400299/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时24分"
+          "time_info": "09时20分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI Codex工程师Tibo：今天早些时候，我们的活跃用户数就已经突破了900万。",
-          "url": "https://flash.jin10.com/detail/20260716121739470800",
-          "source": "金十数据",
+          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
+          "url": "https://www.cls.cn/detail/2428944",
+          "source": "财联社热门",
           "ranks": [
-            15
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "09时20分"
         }
       ]
     },
@@ -238,15 +81,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年07月16日（周四）上海金午盘价为878.07元/克，较国际金价（约为876.59元/克），高1.48元/克。",
-          "url": "https://flash.jin10.com/detail/20260716150205331800",
-          "source": "金十数据",
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
           "ranks": [
-            22
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "09时20分"
         }
       ]
     }
