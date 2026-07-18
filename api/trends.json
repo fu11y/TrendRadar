@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T16:30:26.874373+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-07-18T18:06:56.636895+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 16时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 18时06分]"
+        },
+        {
+          "title": "DeepSeek最新估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "DeepSeek准确估值意外曝光",
@@ -34,8 +45,19 @@
     },
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "上海RNG.M vs 深圳DYG KPL",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E6%B5%B7RNG.M%20%E6%B7%B1%E5%9C%B3DYG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
         {
           "title": "《食神·百厨大战》开播，广东选手做了一盘没带酱料的白切鸡被评委淘汰，淘汰得对吗？",
           "url": "https://www.zhihu.com/question/2060129175554594141",
@@ -72,11 +94,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 16时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 18时06分]"
         }
       ]
     }
