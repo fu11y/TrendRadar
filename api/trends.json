@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-20T16:33:07.087684+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-07-20T19:32:54.935885+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "香港演员、谢霆锋父亲谢贤去世，他在影坛留下了哪些经典作品？你对他有哪些记忆？",
           "url": "https://www.zhihu.com/question/2062563035739156529",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 19时32分]"
         },
         {
           "title": "香港恒生指数7月20日（周一）收盘上涨580.81点，涨幅2.36%，报25143.05点；<br/>香港恒生科技指数7月20日（周一）收盘上涨128.98点，涨幅2.79%，报4752.15点；<br/>国企指数7月20日（周一）收盘上涨245.17点，涨幅3.01%，报8381.9点；<br/>红筹指数7月20日（周一）收盘上涨109.76点，涨幅2.77%，报4073.3点。",
@@ -25,9 +26,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "第二期南方财秩·买方投顾菁英训练营启动招募！落地深圳资本市场学院",
+          "url": "https://www.cls.cn/detail/2431322",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "香港金管局通过贴现窗口向银行投放4.17亿港元流动性。",
+          "url": "https://wallstreetcn.com/livenews/3136839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "AI大模型公司零一万物计划2027年在香港上市。（彭博）",
@@ -44,7 +67,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -56,6 +79,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
+          "url": "https://www.zhihu.com/question/2059057378591613636",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     },
