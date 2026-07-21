@@ -1,113 +1,89 @@
 {
-  "generated_at": "2026-07-20T19:32:54.935885+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-07-21T09:18:30.151831+08:00",
+  "total_titles_processed": 283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "香港演员、谢霆锋父亲谢贤去世，他在影坛留下了哪些经典作品？你对他有哪些记忆？",
-          "url": "https://www.zhihu.com/question/2062563035739156529",
-          "source": "知乎",
+          "title": "谢贤被曝因肺炎离世 20日在香港火葬",
+          "url": "https://www.toutiao.com/trending/7664756860343291434/",
+          "source": "今日头条",
           "ranks": [
-            3,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 19时32分]"
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
-          "title": "香港恒生指数7月20日（周一）收盘上涨580.81点，涨幅2.36%，报25143.05点；<br/>香港恒生科技指数7月20日（周一）收盘上涨128.98点，涨幅2.79%，报4752.15点；<br/>国企指数7月20日（周一）收盘上涨245.17点，涨幅3.01%，报8381.9点；<br/>红筹指数7月20日（周一）收盘上涨109.76点，涨幅2.77%，报4073.3点。",
-          "url": "https://flash.jin10.com/detail/20260720161233446800",
+          "title": "89岁“四哥”谢贤离世，香港影视黄金时代再别一位见证者",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33620641",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "随着香港市场回暖，李嘉诚旗下一栋写字楼的出租率显著提升",
+          "url": "https://flash.jin10.com/detail/20260721081622633800",
           "source": "金十数据",
           "ranks": [
-            6
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "第二期南方财秩·买方投顾菁英训练营启动招募！落地深圳资本市场学院",
-          "url": "https://www.cls.cn/detail/2431322",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "香港金管局通过贴现窗口向银行投放4.17亿港元流动性。",
-          "url": "https://wallstreetcn.com/livenews/3136839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "AI大模型公司零一万物计划2027年在香港上市。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3136548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
-          "url": "https://www.zhihu.com/question/2059057378591613636",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "09时18分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
           "ranks": [
-            5,
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 16时33分]"
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
@@ -116,32 +92,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
-          "url": "https://www.zhihu.com/question/2062166923002090163",
+          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+          "url": "https://www.zhihu.com/question/2062575282591209175",
           "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "油价重上90美元，金价为何仍困在4000关口？｜黄金头条",
-          "url": "https://flash.jin10.com/detail/20260720125136414800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "09时18分"
         }
       ]
     }
