@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T15:28:17.675792+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-07-22T18:11:48.273871+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "香港高院再次驳回宗馥莉上诉许可申请，维持18亿美元资产冻结令",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 18时11分]"
         },
         {
           "title": "俄美元首今年或在深圳会晤",
@@ -59,22 +59,47 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33629335",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 18时11分]"
         },
         {
           "title": "如何看待香港知名歌手张伟文惨遭养老院苛待，一年半不给洗澡，褥疮恶化，失能老人养老院照护谁来监督？",
           "url": "https://www.zhihu.com/question/2062878068759160084",
           "source": "知乎",
           "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 18时11分]"
+        },
+        {
+          "title": "央媒评“深圳地铁安检全覆盖后排队数百米”：公共服务当有充分科学预判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33634584",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
             15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 18时11分]"
+        },
+        {
+          "title": "偏航的救护车：深圳广生医院违反调度将患者送自家医院，并篡改病历被罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33634022",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时28分"
+          "time_info": "18时11分"
         },
         {
           "title": "深圳地铁安检升级“人包同检”：部分站点不严格，有乘客起争执",
@@ -83,18 +108,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "央媒评“深圳地铁安检全覆盖后排队数百米”：公共服务当有充分科学预判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33634584",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -108,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "广东一景区泳池惊现游蛇 景区回应",
+          "url": "https://www.toutiao.com/trending/7665257574001819691/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "深圳地铁安检员被撞倒 派出所回应",
@@ -124,7 +149,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
@@ -135,8 +160,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 15时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 18时11分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -156,11 +181,23 @@
           "url": "https://www.cls.cn/detail/2433554",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 18时11分]"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时28分"
+          "time_info": "18时11分"
         }
       ]
     },
@@ -198,7 +235,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
@@ -206,7 +243,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
@@ -218,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         }
       ]
     },
