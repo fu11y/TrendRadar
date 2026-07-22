@@ -1,33 +1,57 @@
 {
-  "generated_at": "2026-07-22T09:16:33.707882+08:00",
-  "total_titles_processed": 282,
+  "generated_at": "2026-07-22T12:55:02.630484+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "俄美元首今年或在深圳会晤",
+          "url": "https://www.toutiao.com/trending/7664957796340727827/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
         {
           "title": "香港高院再次驳回宗馥莉上诉许可申请，维持18亿美元资产冻结令",
           "url": "https://m.thepaper.cn/newsDetail_forward_33630534",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时55分]"
         },
         {
           "title": "下周或有台风登陆广东",
           "url": "https://www.douyin.com/hot/2579502",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时55分]"
+        },
+        {
+          "title": "香港影坛“四大传奇”只剩胡枫一人",
+          "url": "https://www.toutiao.com/trending/7665050468384571446/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
         },
         {
           "title": "香港高院驳回宗馥莉上诉许可申请，判决维持 18 亿美元资产冻结令，宗馥莉须支付 25 万港元讼费，如何解读？",
@@ -50,6 +74,63 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价银价油价集体上涨",
+          "url": "https://www.douyin.com/hot/2580433",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "金价银价油价集体上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
         }
       ]
     },
@@ -79,28 +160,12 @@
           "url": "https://wallstreetcn.com/articles/3777555",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时55分]"
         }
       ]
     }
