@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-22T12:55:02.630484+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-07-22T15:28:17.675792+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "香港高院再次驳回宗馥莉上诉许可申请，维持18亿美元资产冻结令",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33630534",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 15时28分]"
+        },
         {
           "title": "俄美元首今年或在深圳会晤",
           "url": "https://www.toutiao.com/trending/7664957796340727827/",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时54分 ~ 12时55分]"
-        },
-        {
-          "title": "香港高院再次驳回宗馥莉上诉许可申请，维持18亿美元资产冻结令",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33630534",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时55分]"
         },
         {
           "title": "下周或有台风登陆广东",
@@ -50,8 +51,52 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 15时28分]"
+        },
+        {
+          "title": "广东潮州一家四口玩“漂流鸭”翻船，19个月大的幼童不幸溺亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33629335",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "如何看待香港知名歌手张伟文惨遭养老院苛待，一年半不给洗澡，褥疮恶化，失能老人养老院照护谁来监督？",
+          "url": "https://www.zhihu.com/question/2062878068759160084",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "深圳地铁安检升级“人包同检”：部分站点不严格，有乘客起争执",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33627293",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "央媒评“深圳地铁安检全覆盖后排队数百米”：公共服务当有充分科学预判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33634584",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "香港高院驳回宗馥莉上诉许可申请，判决维持 18 亿美元资产冻结令，宗馥莉须支付 25 万港元讼费，如何解读？",
@@ -79,18 +124,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
           "url": "https://www.zhihu.com/question/2062943431668789795",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 15时28分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -98,28 +144,41 @@
           "source": "贴吧",
           "ranks": [
             24,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 15时28分]"
+        },
+        {
+          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
+          "url": "https://www.cls.cn/detail/2433554",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价银价油价集体上涨",
           "url": "https://www.douyin.com/hot/2580433",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 15时28分]"
         },
         {
           "title": "金价银价油价集体上涨",
@@ -131,6 +190,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "金十图示：2026年07月22日（周三）上海金午盘价为897.76元/克，较国际金价(896.17元/克)，高1.59元/克",
+          "url": "https://flash.jin10.com/detail/20260722150924505800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
@@ -164,8 +234,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 15时28分]"
         }
       ]
     }
