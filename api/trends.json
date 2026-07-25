@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T15:08:25.443568+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-07-25T17:24:42.295465+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "武汉高官之子香港洗钱被判入狱6年多",
@@ -19,15 +19,38 @@
           "time_info": "[12时53分 ~ 15时08分]"
         },
         {
-          "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
-          "url": "https://wallstreetcn.com/livenews/3139727",
+          "title": "台风“红霞”将以台风级或强台风级登陆香港至陆丰沿海。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3139733",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时08分"
+          "time_info": "17时24分"
+        },
+        {
+          "title": "台风逼近 广东进入临战状态",
+          "url": "https://www.toutiao.com/trending/7666361002476195369/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
+          "url": "https://wallstreetcn.com/livenews/3139727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 17时24分]"
         },
         {
           "title": "台风红霞将快速登陆广东",
@@ -41,6 +64,18 @@
           "time_info": "[09时20分 ~ 09时21分]"
         },
         {
+          "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
+          "url": "https://flash.jin10.com/detail/20260725140739337800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 17时24分]"
+        },
+        {
           "title": "台风红霞或以巅峰强度登陆广东",
           "url": "https://www.toutiao.com/trending/7665298362807697450/",
           "source": "今日头条",
@@ -52,6 +87,18 @@
           "time_info": "[09时20分 ~ 09时21分]"
         },
         {
+          "title": "广东东莞全市“四停”",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%9C%E8%8E%9E%E5%85%A8%E5%B8%82%E2%80%9C%E5%9B%9B%E5%81%9C%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 17时24分]"
+        },
+        {
           "title": "广东多地宣布：停止一切线下培训",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%81%9C%E6%AD%A2%E4%B8%80%E5%88%87%E7%BA%BF%E4%B8%8B%E5%9F%B9%E8%AE%AD",
           "source": "百度热搜",
@@ -61,6 +108,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "台风“红霞”将在广东沿海登陆，26日省内铁路全线停运",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33651780",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 17时24分]"
         },
         {
           "title": "深圳、佛山、东莞、惠州、肇庆五市今起开放“粤车南下”",
@@ -97,15 +156,15 @@
           "time_info": "[09时20分 ~ 09时21分]"
         },
         {
-          "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
-          "url": "https://flash.jin10.com/detail/20260725140739337800",
+          "title": "国家防总对广东启动防汛防台风三级应急响应",
+          "url": "https://flash.jin10.com/detail/20260725161232077800",
           "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时08分"
+          "time_info": "17时24分"
         },
         {
           "title": "广东防风水文测报应急响应提升至Ⅱ级",
@@ -125,7 +184,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -136,9 +195,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "广东：全省有关部门迅速进入临战状态",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%EF%BC%9A%E5%85%A8%E7%9C%81%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E8%BF%85%E9%80%9F%E8%BF%9B%E5%85%A5%E4%B8%B4%E6%88%98%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "香港天文台：预计本港未来一两小时可能受冰雹影响。",
+          "url": "https://flash.jin10.com/detail/20260725145847720800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "广东惠州实施“五停”措施",
@@ -150,28 +231,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
-        },
-        {
-          "title": "台风“红霞”将在广东沿海登陆，26日省内铁路全线停运",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33651780",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "广东东莞全市“四停”",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%9C%E8%8E%9E%E5%85%A8%E5%B8%82%E2%80%9C%E5%9B%9B%E5%81%9C%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时08分"
         }
       ]
     },
