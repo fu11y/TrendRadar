@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T12:53:34.396100+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-07-25T15:08:25.443568+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "武汉高官之子香港洗钱被判入狱6年多",
@@ -14,9 +14,20 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 15时08分]"
+        },
+        {
+          "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
+          "url": "https://wallstreetcn.com/livenews/3139727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时53分"
+          "time_info": "15时08分"
         },
         {
           "title": "台风红霞将快速登陆广东",
@@ -52,6 +63,18 @@
           "time_info": "[09时20分 ~ 09时21分]"
         },
         {
+          "title": "深圳、佛山、东莞、惠州、肇庆五市今起开放“粤车南下”",
+          "url": "https://wallstreetcn.com/livenews/3139697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 15时08分]"
+        },
+        {
           "title": "广东多地宣布停止一切线下培训",
           "url": "https://www.toutiao.com/trending/7666090049737330219/",
           "source": "今日头条",
@@ -74,15 +97,48 @@
           "time_info": "[09时20分 ~ 09时21分]"
         },
         {
+          "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
+          "url": "https://flash.jin10.com/detail/20260725140739337800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "广东防风水文测报应急响应提升至Ⅱ级",
           "url": "https://flash.jin10.com/detail/20260725115439015800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "台风红霞直逼广东",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E7%9B%B4%E9%80%BC%E5%B9%BF%E4%B8%9C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "据香港经济日报：香港天文台改发三号强风信号，今晚9时至午夜12时可能发布更高级别风力信号。",
+          "url": "https://flash.jin10.com/detail/20260725133145715800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "广东惠州实施“五停”措施",
@@ -91,20 +147,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
         {
-          "title": "深圳、佛山、东莞、惠州、肇庆五市今起开放“粤车南下”",
-          "url": "https://wallstreetcn.com/livenews/3139697",
-          "source": "华尔街见闻-快讯",
+          "title": "台风“红霞”将在广东沿海登陆，26日省内铁路全线停运",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33651780",
+          "source": "澎湃新闻",
           "ranks": [
-            19
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时53分"
+          "time_info": "15时08分"
+        },
+        {
+          "title": "广东东莞全市“四停”",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%9C%E8%8E%9E%E5%85%A8%E5%B8%82%E2%80%9C%E5%9B%9B%E5%81%9C%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     },
