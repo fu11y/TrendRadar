@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-26T16:02:28.301045+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-07-26T18:26:49.782850+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "台风「红霞」在广东惠州登陆，超越美莎克、巴威，成今年以来登陆我国的最强台风，影响多大？你那里情况如何？",
-          "url": "https://www.zhihu.com/question/2062972309652992711",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 16时02分]"
-        },
         {
           "title": "台风红霞登陆广东",
           "url": "https://www.douyin.com/hot/2585337",
@@ -27,8 +16,33 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 18时26分]"
+        },
+        {
+          "title": "台风「红霞」在广东惠州登陆，超越美莎克、巴威，成今年以来登陆我国的最强台风，影响多大？你那里情况如何？",
+          "url": "https://www.zhihu.com/question/2062972309652992711",
+          "source": "知乎",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 18时26分]"
+        },
+        {
+          "title": "深圳的风有多大",
+          "url": "https://www.douyin.com/hot/2585370",
+          "source": "抖音",
+          "ranks": [
+            8,
+            2,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时23分 ~ 16时02分]"
+          "time_info": "[13时17分 ~ 18时26分]"
         },
         {
           "title": "台风红霞在广东惠州登陆",
@@ -51,18 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        },
-        {
-          "title": "深圳的风有多大",
-          "url": "https://www.douyin.com/hot/2585370",
-          "source": "抖音",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 16时02分]"
         },
         {
           "title": "台风红霞登陆广东",
@@ -98,16 +100,15 @@
           "time_info": "13时18分"
         },
         {
-          "title": "香港天文台：发出三号强风信号 ，取代八号信号。",
-          "url": "https://flash.jin10.com/detail/20260726124730059800",
-          "source": "金十数据",
+          "title": "如果没有出现四大天王，香港乐坛能否敌得过台湾乐坛？",
+          "url": "https://www.zhihu.com/question/1995555700441634403",
+          "source": "知乎",
           "ranks": [
-            1,
-            28
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 16时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 18时26分]"
         },
         {
           "title": "香港天文台：发出三号强风信号 ，取代八号信号。",
@@ -115,7 +116,20 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 18时26分]"
+        },
+        {
+          "title": "香港天文台：发出三号强风信号 ，取代八号信号。",
+          "url": "https://flash.jin10.com/detail/20260726124730059800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -134,26 +148,16 @@
           "time_info": "[13时18分 ~ 16时02分]"
         },
         {
-          "title": "如果没有出现四大天王，香港乐坛能否敌得过台湾乐坛？",
-          "url": "https://www.zhihu.com/question/1995555700441634403",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 16时02分]"
-        },
-        {
           "title": "台风红霞登陆,深夜横扫广东",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356509&amp;topic_name=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E7%99%BB%E9%99%86%2C%E6%B7%B1%E5%A4%9C%E6%A8%AA%E6%89%AB%E5%B9%BF%E4%B8%9C",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 18时26分]"
         },
         {
           "title": "台风“红霞”在广东惠州登陆，中心附近最大风力14级",
@@ -166,6 +170,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时17分 ~ 16时02分]"
+        },
+        {
+          "title": "广东惠来发布龙卷风警报",
+          "url": "https://www.douyin.com/hot/2585710",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 18时26分]"
+        },
+        {
+          "title": "国家防减救灾委对广东启动国家四级救灾应急响应",
+          "url": "https://wallstreetcn.com/livenews/3139810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 18时26分]"
         },
         {
           "title": "广东省减灾委员会启动Ⅳ级救灾应急响应",
@@ -203,28 +230,6 @@
           "time_info": "[13时17分 ~ 13时18分]"
         },
         {
-          "title": "广东惠来发布龙卷风警报",
-          "url": "https://www.douyin.com/hot/2585710",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "国家防减救灾委对广东启动国家四级救灾应急响应",
-          "url": "https://wallstreetcn.com/livenews/3139810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "大湾区湖南人在看台打出回家横幅",
           "url": "https://www.toutiao.com/trending/7666462129168433194/",
           "source": "今日头条",
@@ -234,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "深圳DYG vs 西安WE KPL",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3DYG%20%E8%A5%BF%E5%AE%89WE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "广东将防风应急响应调整为二级",
@@ -278,6 +294,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://flash.jin10.com/detail/20260726155109865800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658424",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063587044526404438",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "英伟达“开放权重模型”公开信联署方翻倍至50个 谷歌等加入",
+          "url": "https://flash.jin10.com/detail/20260726111836175800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     },
@@ -303,7 +369,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -319,28 +385,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 16时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达“开放权重模型”公开信联署方翻倍至50个 谷歌等加入",
-          "url": "https://flash.jin10.com/detail/20260726111836175800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 18时26分]"
         }
       ]
     }
