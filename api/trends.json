@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T12:44:08.889582+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-07-30T15:25:10.673788+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时25分]"
         },
         {
           "title": "广东人饭前烫碗的含金量还在上升",
@@ -47,7 +47,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
@@ -55,7 +55,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
@@ -66,19 +66,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 15时25分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
           "url": "https://www.zhihu.com/question/2065729146383071132",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时25分]"
+        },
+        {
+          "title": "如何评价翁荔因病离职后火速入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/2066073475731690339",
+          "source": "知乎",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         }
       ]
     },
@@ -93,7 +105,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
