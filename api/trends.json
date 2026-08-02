@@ -1,250 +1,50 @@
 {
-  "generated_at": "2026-08-01T19:08:58.160967+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-08-02T09:23:12.875160+08:00",
+  "total_titles_processed": 282,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2066223484309434997",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时56分 ~ 19时08分]"
-        },
-        {
-          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
-          "url": "https://www.zhihu.com/question/2066599476764964006",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时14分 ~ 19时08分]"
-        },
-        {
-          "title": "实测DeepSeek V4 Flash",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 17时49分]"
-        },
-        {
-          "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
-          "url": "https://www.zhihu.com/question/2066223484309434997",
-          "source": "知乎",
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 09时23分]"
         },
         {
-          "title": "DeepSeek V4 Flash模型权重发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash",
-          "source": "bilibili 热搜",
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
-        },
-        {
-          "title": "超聚变AI Lab平台上线DeepSeek-V4-Flash正式版",
-          "url": "https://flash.jin10.com/detail/20260801151758117800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
+          "time_info": "[09时22分 ~ 09时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
           "url": "https://www.zhihu.com/question/2066595452238160814",
           "source": "知乎",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "DeepSeek V4 Flash正式版强在哪",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "澳门7月幸运博彩毛收入202.6亿亿澳门元，同比下降8.4%，预估为下降6.2%。 澳门1-7月份幸运博彩毛收入1,471.6亿澳门元，同比增长4.4%。",
-          "url": "https://wallstreetcn.com/livenews/3143559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 17时49分]"
-        },
-        {
-          "title": "深圳住宅7月网签8324套，同比增长13.8%",
-          "url": "https://wallstreetcn.com/livenews/3143566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时57分 ~ 17时49分]"
-        },
-        {
-          "title": "广东省副省长、佛山市委书记唐屹峰任广东省委常委",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33691605",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 19时08分]"
-        },
-        {
-          "title": "32岁男子在香港一酒吧被围殴身亡",
-          "url": "https://www.toutiao.com/trending/7668556316494872585/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 13时14分]"
-        },
-        {
-          "title": "深圳住宅7月网签8324套 同比增长13.8%",
-          "url": "https://flash.jin10.com/detail/20260801142443772800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 19时08分]"
-        },
-        {
-          "title": "美媒：OpenAI面临投资者担忧与竞争压力，IPO或推迟至明年",
-          "url": "https://flash.jin10.com/detail/20260801091854018800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
-          "url": "https://flash.jin10.com/detail/20260801052034583800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "报道：OpenAI本周预览了AI模型Astra",
-          "url": "https://wallstreetcn.com/livenews/3143500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "因担忧虚假图像，谷歌撤回地球AI工具",
-          "url": "https://wallstreetcn.com/livenews/3143502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
-          "url": "https://flash.jin10.com/detail/20260801052517590800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "[09时22分 ~ 09时23分]"
         }
       ]
     }
