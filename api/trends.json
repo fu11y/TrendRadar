@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T17:52:09.780868+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-08-02T19:09:52.410733+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 17时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 19时09分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -27,11 +27,12 @@
             4,
             9,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 17时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 19时09分]"
         },
         {
           "title": "OpenAI的10项数学突破含金量多高",
@@ -95,11 +96,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 19时09分]"
         },
         {
           "title": "深圳铁路7月份到发旅客超1700万人次",
