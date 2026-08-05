@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-05T12:51:55.110806+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-08-05T15:31:03.789162+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "广东一事业单位笔试第一考生被第二名花钱劝弃考，教育局已开展核查，反映了哪些教育管理问题？",
           "url": "https://www.zhihu.com/question/2068177634983515593",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时31分]"
         },
         {
           "title": "广东一四岁男童无人照顾夜宿路边，镇政府称目前男童母亲离家，父亲无业怠于抚养，该如何避免监护缺失的问题？",
@@ -27,8 +28,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 15时31分]"
+        },
+        {
+          "title": "广东人看一饭封神2Reaction",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9C%8B%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E2Reaction",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时16分 ~ 12时51分]"
+          "time_info": "[15时29分 ~ 15时31分]"
         },
         {
           "title": "中国香港7月标普全球制造业PMI 51，前值52。",
@@ -48,7 +60,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
@@ -65,9 +77,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时31分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -93,7 +105,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
