@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T15:31:03.789162+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-08-05T18:21:57.856619+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "广东一事业单位笔试第一考生被第二名花钱劝弃考，教育局已开展核查，反映了哪些教育管理问题？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 18时21分]"
         },
         {
           "title": "广东一四岁男童无人照顾夜宿路边，镇政府称目前男童母亲离家，父亲无业怠于抚养，该如何避免监护缺失的问题？",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时29分 ~ 15时31分]"
+        },
+        {
+          "title": "深圳男子随手拍死飞虫 被迫摘除眼球",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E7%94%B7%E5%AD%90%E9%9A%8F%E6%89%8B%E6%8B%8D%E6%AD%BB%E9%A3%9E%E8%99%AB+%E8%A2%AB%E8%BF%AB%E6%91%98%E9%99%A4%E7%9C%BC%E7%90%83",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "中国香港7月标普全球制造业PMI 51，前值52。",
@@ -67,6 +78,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "DeepSeek重启融资 投前估值5000亿元",
+          "url": "https://www.toutiao.com/trending/7670354038151450166/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -78,8 +117,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 18时21分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -91,23 +130,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek重启融资 投前估值5000亿元",
-          "url": "https://www.toutiao.com/trending/7670354038151450166/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
         }
       ]
     }
