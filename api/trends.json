@@ -1,78 +1,23 @@
 {
-  "generated_at": "2026-08-08T17:25:39.409561+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-08-08T18:19:25.843769+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时48分 ~ 17时25分]"
-        },
-        {
-          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时39分 ~ 17时25分]"
-        },
-        {
-          "title": "梁文锋为什么投王兴兴",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%95%E7%8E%8B%E5%85%B4%E5%85%B4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 14时31分]"
-        },
-        {
-          "title": "如何评价网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
-        },
-        {
-          "title": "梁文锋 只想用座机",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "香港 澳门 深圳 大湾区 珠海 广东",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "广东又要“下开水”了",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%8F%88%E8%A6%81%E2%80%9C%E4%B8%8B%E5%BC%80%E6%B0%B4%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
         {
           "title": "优化口岸营商环境，深圳推出19条硬举措",
           "url": "https://wallstreetcn.com/livenews/3146958",
@@ -135,6 +80,84 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "香港正式允许“拒绝抢救”",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%AD%A3%E5%BC%8F%E5%85%81%E8%AE%B8%E2%80%9C%E6%8B%92%E7%BB%9D%E6%8A%A2%E6%95%91%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时48分 ~ 18时19分]"
+        },
+        {
+          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时39分 ~ 18时19分]"
+        },
+        {
+          "title": "梁文锋为什么投王兴兴",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%95%E7%8E%8B%E5%85%B4%E5%85%B4",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 14时31分]"
+        },
+        {
+          "title": "如何评价网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "梁文锋 只想用座机",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
         }
       ]
     },
@@ -183,8 +206,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时39分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[08时39分 ~ 18时19分]"
         }
       ]
     },
