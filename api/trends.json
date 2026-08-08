@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:31:28.060911+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-08-08T16:25:50.339619+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 14时31分]"
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 16时25分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -30,8 +31,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时39分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[08时39分 ~ 16时25分]"
         },
         {
           "title": "梁文锋为什么投王兴兴",
@@ -92,11 +93,12 @@
           "ranks": [
             5,
             9,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 16时25分]"
         },
         {
           "title": "游客在香港偶遇演员拍戏",
@@ -176,11 +178,12 @@
           "ranks": [
             17,
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时39分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[08时39分 ~ 16时25分]"
         }
       ]
     },
